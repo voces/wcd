@@ -1,3 +1,6 @@
+remote_theme: pmarsceill/just-the-docs	# Footer "Edit this page on GitHub" link text
+logo: "https://bnetcmsus-a.akamaihd.net/cms/template_resource/D0IR2SQIBONO1541005862105.png"
+
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
