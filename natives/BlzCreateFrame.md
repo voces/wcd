@@ -2,9 +2,11 @@
 layout: default
 ---
 
+# `BlzCreateFrame`
+
 The `BlzCreateFrame` native is used to create main frames defined in an FDF that has to be loaded into the game with TOC.
 
-# Native
+## Declaration
 
 ```
 native BlzCreateFrame takes string name, framehandle owner, integer priority, integer createContext returns framehandle
