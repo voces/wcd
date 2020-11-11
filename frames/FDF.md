@@ -36,7 +36,8 @@ StringList {
 ```
 
 #### Examaple:
-```StringList {
+```
+StringList {
     minimap_signal_title "Minimap Signal",
     minimap_signal_description "This option will allow you to send a minimap signal notification to all your allies.
 
