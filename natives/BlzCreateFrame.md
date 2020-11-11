@@ -1,6 +1,10 @@
 ---
 layout: default
 parent: Natives
+types:
+  - string
+  - framehandle
+  - integer
 ---
 
 # `BlzCreateFrame`
