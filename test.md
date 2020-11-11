@@ -1,8 +1,9 @@
 ---
+layout: default
 ---
-Hello, World!
 
 # Primary
+Hello, World!
 
 ## Secondary
 
