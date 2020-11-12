@@ -74,4 +74,4 @@ Frame "FRAME" "MyButtonF" {
 }
 ```
 
-Frames can be deeply nested, but only the root frame can be created by natives.
+Frames can be deeply nested, but only the main frame can be created by natives.

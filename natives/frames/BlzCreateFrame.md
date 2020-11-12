@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Natives
+parent: Frame natives
 types:
   - string
   - framehandle
@@ -9,7 +9,7 @@ types:
 
 # `BlzCreateFrame`
 
-The `BlzCreateFrame` native is used to create main frames defined in an FDF that has to be loaded into the game with TOC.
+The `BlzCreateFrame` native is used to create main frames defined in an [FDF](../../frames/FDF) that has to be loaded into the game with [TOC](../../frames/TOC). Subframes are accessible by using `BlzGetFrameByName` or [`BlzFrameGetChild`](BlzFrameGetChild).
 
 ## Declaration
 
@@ -17,7 +17,7 @@ The `BlzCreateFrame` native is used to create main frames defined in an FDF that
 native BlzCreateFrame takes string name, framehandle owner, integer priority, integer createContext returns framehandle
 ```
 
-## Paramaters
+## Parameters
 <dl>
   <dt><code>name</code></dt>
   <dd>The name of the frame defined in an FDF.</dd>
