@@ -75,4 +75,7 @@ Frame "FRAME" "MyButtonF" {
 }
 ```
 
-Frames can be deeply nested, but only the main frame can be created by natives.
+Frames can be deeply nested, but only the main frame can be created by natives:
+```
+call BlzCreateFrame("MyButtonF", BlzGetOriginFrame(ORIGIN_FRAME_GAME_UI, 0), 0, 0)
+```
