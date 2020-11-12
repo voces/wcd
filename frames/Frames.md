@@ -2,6 +2,7 @@
 layout: default
 title: Frames
 has_children: true
+permalink: /frames
 ---
 
 # Frames

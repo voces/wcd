@@ -6,9 +6,10 @@ types:
   - string
   - framehandle
   - integer
+permalink: /natives/frames/BlzCreateFrame
 ---
 
-# `BlzCreateFrame`
+# BlzCreateFrame
 
 The `BlzCreateFrame` native is used to create main frames defined in an [FDF](../../frames/FDF) that has to be loaded into the game with [TOC](../../frames/TOC). Subframes are accessible by using `BlzGetFrameByName` or [`BlzFrameGetChild`](BlzFrameGetChild).
 

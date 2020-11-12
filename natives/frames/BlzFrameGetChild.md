@@ -6,9 +6,10 @@ types:
   - string
   - framehandle
   - integer
+permalink: /natives/frames/BlzFrameGetChild
 ---
 
-# `BlzFrameGetChild`
+# BlzFrameGetChild
 
 The `BlzFrameGetChild` native grabs the nth child of the passed frame. The total number of children can be retrieve using `BlzFrameGetChildrenCount`.
 

@@ -3,6 +3,7 @@ layout: default
 title: Frame natives
 parent: Natives
 has_children: true
+permalink: /natives/frames
 ---
 
 # Frames

@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Frames
+permalink: /frames/FDF
 ---
 
 # FDF
@@ -23,7 +24,7 @@ IncludeFile "<path_to_file">,
 IncludeFile "UI\FrameDef\UI\EscMenuTemplates.fdf",
 ```
 
-Paths are not case senstive.
+Paths are not case sensitive.
 
 ### StringList
 
@@ -35,7 +36,7 @@ StringList {
 }
 ```
 
-#### Examaple:
+#### Example:
 ```
 StringList {
     minimap_signal_title "Minimap Signal",
@@ -49,7 +50,7 @@ Alternatively, you can hold down Alt and left-click on the minimap or game world
 
 ### Frame
 
-#### Syntax
+#### Syntax:
 ```
 Frame "<type>" "<name>" [INHERITS [WITHCHILDREN] "<base_name>"] {
   <action1>, <arg1>,
@@ -59,7 +60,7 @@ Frame "<type>" "<name>" [INHERITS [WITHCHILDREN] "<base_name>"] {
 }
 ```
 
-#### Example
+#### Example:
 ```
 Frame "FRAME" "MyButtonF" {
     Width 0.1,
