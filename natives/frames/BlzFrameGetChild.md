@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Frame natives
-grandparent: Natives
+grand_parent: Natives
 types:
   - string
   - framehandle
