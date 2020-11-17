@@ -1,0 +1,34 @@
+{
+  "name": "wcd",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-natives-debug": "node --inspect-brk --loader ts-node/esm scripts/buildNatives.ts",
+    "build-natives": "node --loader ts-node/esm scripts/buildNatives.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:voces/wcd.git"
+  },
+  "author": "Robert Coe",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-typescript": "^7.12.1",
+    "@microsoft/tsdoc": "^0.12.21",
+    "@types/fs-extra": "^9.0.4",
+    "@types/jest": "^26.0.15",
+    "@typescript-eslint/eslint-plugin": "^4.8.1",
+    "eslint": "^7.13.0",
+    "eslint-config-verit": "^3.3.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "fs-extra": "^9.0.1",
+    "jest": "^26.6.3",
+    "prettier": "^2.1.2",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}
