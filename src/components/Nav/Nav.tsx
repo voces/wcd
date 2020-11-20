@@ -21,7 +21,7 @@ const Node = ({
 
 			return (
 				<li key={key}>
-					<a href={`wcd/${fullpath}.htm`}>{value.title ?? key}</a>
+					<a href={`/wcd/${fullpath}`}>{value.title ?? key}</a>
 					{value.children && route.startsWith(fullpath) && (
 						<Node node={value} path={fullpath} route={route} />
 					)}
