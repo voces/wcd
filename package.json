@@ -8,7 +8,7 @@
     "build-natives": "node --loader ts-node/esm scripts/buildNatives.ts",
     "build-search": "node --loader ts-node/esm scripts/buildSearch.ts",
     "build-toc": "node --loader ts-node/esm scripts/buildTOC.ts",
-    "build": "tsc --project tsconfig.build.json",
+    "build": "rollup -c --environment NODE_ENV:production",
     "dev": "rollup -c -w"
   },
   "repository": {

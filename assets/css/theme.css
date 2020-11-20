@@ -75,6 +75,10 @@
   .search-results .path {
     opacity: 0.75; }
 
+.edit-on-github {
+  font-size: 12px;
+  border-bottom: 1px solid #eeebee; }
+
 .nav ul, .nav {
   padding-left: 8px; }
 
@@ -86,7 +90,3 @@
   display: block;
   padding: 2px 0;
   word-break: break-all; }
-
-.edit-on-github {
-  font-size: 12px;
-  border-bottom: 1px solid #eeebee; }
