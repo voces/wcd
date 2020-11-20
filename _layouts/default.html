@@ -11,8 +11,11 @@
         {%- endif -%}
     </head>
     <body>
+        <div>
+            {% page.url %}
+        </div>
         <div class="markdown">
-            {{ page.markdown }}
+            {% include page.url %}
         </div>
         <script src="/wcd/assets/js/theme.js"></script>
     </body>
