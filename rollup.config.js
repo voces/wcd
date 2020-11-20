@@ -71,7 +71,8 @@ export default {
 			serve({
 				host: "localhost",
 				port: 3000,
-				historyApiFallback: "/index.html",
+				historyApiFallback: "/wcd/index.html",
+				contentBase: [".."],
 			}),
 		!isProd && livereload(),
 	],
