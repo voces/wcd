@@ -32,5 +32,6 @@ const Node = ({
 
 export const Nav = (): JSX.Element => {
 	const route = location.pathname.slice(4).replace(/(index)?\.\w+$/, "");
+	console.log(route);
 	return <Node node={toc} path="" route={route} />;
 };
