@@ -3,15 +3,18 @@
 		"declaration": false,
 		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true,
-		// "lib": ["ESNext"],
+		"lib": ["ESNext", "dom"],
+		"jsx": "preserve",
+		"jsxFactory": "React.createElement",
 		"module": "ESNext",
 		"moduleResolution": "node",
 		"noEmit": true,
 		"skipLibCheck": true,
+		"resolveJsonModule": true,
 		"strict": true,
 		"target": "ESNext",
 		"types": [ "@types/jest", "@types/node" ]
 	},
-	"include": ["scripts"],
+	"include": ["scripts", "src"],
 	"exclude": ["node_modules"]
 }

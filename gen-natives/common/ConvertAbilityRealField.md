@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: ConvertAbilityRealField
 types:
   - abilityrealfield
   - integer

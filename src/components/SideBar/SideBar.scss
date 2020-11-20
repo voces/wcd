@@ -1,0 +1,16 @@
+.side-bar {
+    padding: 0 16px;
+    margin-left: auto;
+
+    header {
+        margin-left: auto;
+        padding: 16px 0;
+        display: flex;
+        align-items: center;
+        border-bottom: 1px solid #eeebee;
+    }
+
+    & > ul {
+        padding: 12px 0;
+    }
+}

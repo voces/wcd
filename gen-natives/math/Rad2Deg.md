@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: Rad2Deg
 types:
   - real
 pure: true

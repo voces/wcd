@@ -183,9 +183,7 @@ const parseBlock = (block: string) => {
 	return {
 		native: native.name,
 		content: `---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: ${native.name}
 types:
 ${Array.from(types)
 	.sort()

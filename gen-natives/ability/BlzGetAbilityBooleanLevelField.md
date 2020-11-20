@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzGetAbilityBooleanLevelField
 types:
   - ability
   - abilitybooleanlevelfield

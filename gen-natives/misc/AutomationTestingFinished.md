@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: AutomationTestingFinished
 types:
 
 patch: 1.30

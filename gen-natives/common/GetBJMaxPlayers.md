@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: GetBJMaxPlayers
 types:
   - integer
 patch: 1.29

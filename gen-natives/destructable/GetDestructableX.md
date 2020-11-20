@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: GetDestructableX
 types:
   - destructable
   - real

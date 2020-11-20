@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzGetTriggerSyncData
 types:
   - string
 patch: 1.31

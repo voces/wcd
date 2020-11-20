@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: GetCameraTargetPositionY
 types:
   - real
 async: true

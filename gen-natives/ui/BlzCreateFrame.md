@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzCreateFrame
 types:
   - framehandle
   - integer

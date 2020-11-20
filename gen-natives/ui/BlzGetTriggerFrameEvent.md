@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzGetTriggerFrameEvent
 types:
   - frameeventtype
 patch: 1.31

@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzGetEventAttackType
 types:
   - attacktype
 patch: 1.31

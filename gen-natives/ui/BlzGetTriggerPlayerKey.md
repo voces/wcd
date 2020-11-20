@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzGetTriggerPlayerKey
 types:
   - oskeytype
 patch: 1.31

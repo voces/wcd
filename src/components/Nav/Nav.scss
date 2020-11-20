@@ -1,0 +1,16 @@
+.nav {
+    ul, & {
+        padding-left: 8px;
+    }
+
+    li {
+        list-style: none;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    a {
+        display: block;
+        padding: 2px 0;
+        word-break: break-all;
+    }
+}

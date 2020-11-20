@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzCameraSetupGetLabel
 types:
   - camerasetup
   - string

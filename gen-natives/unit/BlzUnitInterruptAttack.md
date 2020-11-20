@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzUnitInterruptAttack
 types:
   - unit
 patch: 1.29

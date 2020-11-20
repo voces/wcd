@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: GetSpellTargetX
 types:
   - real
 patch: 1.24b

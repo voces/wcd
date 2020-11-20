@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzDestroyFrame
 types:
   - framehandle
 patch: 1.31

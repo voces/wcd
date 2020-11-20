@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: BlzResetSpecialEffectMatrix
 types:
   - effect
 patch: 1.31

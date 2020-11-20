@@ -1,7 +1,5 @@
 ---
-layout: default
-parent: Unit
-grand_parent: Natives
+title: DestroyMinimapIcon
 types:
   - minimapicon
 patch: 1.32
