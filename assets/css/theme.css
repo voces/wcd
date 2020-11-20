@@ -1,0 +1,92 @@
+.main {
+  width: 75%; }
+
+.flex {
+  display: flex; }
+
+.container-lg {
+  margin-left: 0; }
+
+.a {
+  color: #3d7e9a; }
+
+.markdown-body {
+  margin: 0 !important; }
+  .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {
+    font-weight: 500;
+    color: #27262b; }
+  .markdown-body h1 {
+    font-size: 42px;
+    font-weight: 300;
+    border-bottom: none; }
+    .markdown-body h1:first-child {
+      display: none; }
+
+.side-bar {
+  padding: 0 16px;
+  margin-left: auto; }
+  .side-bar header {
+    margin-left: auto;
+    padding: 16px 0;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eeebee; }
+  .side-bar > ul {
+    padding: 12px 0; }
+
+.search-bar {
+  border-bottom: 1px solid #eeebee;
+  display: flex;
+  align-items: center; }
+  .search-bar label {
+    padding: 21px 0 21px 16px;
+    position: absolute;
+    vertical-align: middle; }
+  .search-bar input {
+    border: none;
+    padding: 16px 0 16px 40px;
+    font-size: 100%;
+    outline: none;
+    line-height: 28px;
+    flex-grow: 1; }
+  .search-bar a {
+    padding: 16px; }
+
+.search-results {
+  position: absolute;
+  max-height: calc(90vh - 61px);
+  overflow-y: scroll;
+  width: 600px;
+  top: 61px;
+  background-color: white;
+  box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.3), 5px 5px 5px rgba(0, 0, 0, 0.3);
+  padding: 0px 8px; }
+  .search-results a {
+    display: block;
+    padding: 3px 0;
+    color: inherit; }
+    .search-results a.first {
+      padding-top: 6px; }
+    .search-results a.last {
+      padding-bottom: 6px; }
+  .search-results .title {
+    font-size: 20px;
+    line-height: 20px; }
+  .search-results .path {
+    opacity: 0.75; }
+
+.nav ul, .nav {
+  padding-left: 8px; }
+
+.nav li {
+  list-style: none;
+  font-family: 'Courier New', Courier, monospace; }
+
+.nav a {
+  display: block;
+  padding: 2px 0;
+  word-break: break-all; }
+
+.edit-on-github {
+  font-size: 12px;
+  border-bottom: 1px solid #eeebee; }
