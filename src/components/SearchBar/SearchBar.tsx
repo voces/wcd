@@ -11,7 +11,7 @@ const SearchResults = ({ items }: { items: SearchResult[] }) => (
 		{items.slice(0, 100).map((item, idx, arr) => (
 			<li key={item.path} className="result">
 				<a
-					href={item.path}
+					href={`wcd/${item.path}`}
 					className={
 						idx === 0
 							? "first"

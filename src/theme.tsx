@@ -15,7 +15,7 @@ const Content = ({ children }: { children: React.ReactNode }): JSX.Element => (
 
 const App = () => (
 	<div className="flex">
-		<link rel="stylesheet" href="/assets/css/theme.css" />
+		<link rel="stylesheet" href="/wcd/assets/css/theme.css" />
 		<SideBar />
 		<div className="main">
 			<SearchBar />

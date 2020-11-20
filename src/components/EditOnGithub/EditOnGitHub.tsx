@@ -3,7 +3,7 @@ import "./EditOnGitHub.scss";
 import React from "react";
 
 export const EditOnGitHub = (): JSX.Element => {
-	const file = location.pathname.replace(/\.html?$/, "");
+	const file = location.pathname.slice(4).replace(/\.html?$/, "");
 
 	return (
 		<a
