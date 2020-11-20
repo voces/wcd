@@ -7,7 +7,7 @@ import { EditOnGitHub } from "./components/EditOnGithub/EditOnGitHub";
 import { SearchBar } from "./components/SearchBar/SearchBar";
 import { SideBar } from "./components/SideBar/SideBar";
 
-const markdownBody = document.querySelector("div.markdown-body")!;
+const markdownBody = document.querySelector("div.markdown")!;
 
 const Content = ({ children }: { children: React.ReactNode }): JSX.Element => (
 	<div>{children}</div>
