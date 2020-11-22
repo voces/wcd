@@ -29,12 +29,13 @@ const App = () => {
 	const [markdownContents, setMarkdownContents] = useState(
 		initialMarkdownContents,
 	);
+	const pathname = location.pathname;
 	return (
 		<div className="flex">
 			<link rel="stylesheet" href="/wcd/assets/css/theme.css" />
 			<SideBar setMarkdownContents={setMarkdownContents} />
 			<div className="main">
-				<SearchBar />
+				<SearchBar setMarkdownContents={setMarkdownContents} />
 				<Content>
 					<div className="markdown">
 						<ReactMarkdown
@@ -50,7 +51,7 @@ const App = () => {
 						</ReactMarkdown>
 					</div>
 				</Content>
-				<EditOnGitHub />
+				<EditOnGitHub pathname={pathname} />
 			</div>
 		</div>
 	);

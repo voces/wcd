@@ -1,36 +1,61 @@
 import "./SearchBar.scss";
 
-import React, { useState } from "react";
+import React, { useCallback, useState } from "react";
 
+import { partialReload } from "../../util/partialReload";
 import { search, SearchResult } from "../../util/search";
 import { TocNode } from "../../util/toc";
 import { SearchIcon } from "../Icons/SearchIcon";
 
-const SearchResults = ({ items }: { items: SearchResult[] }) => (
-	<ul className="search-results">
-		{items.slice(0, 100).map((item, idx, arr) => (
-			<li key={item.path} className="result">
-				<a
-					href={`/wcd/${item.path}`}
-					className={
-						idx === 0
-							? "first"
-							: idx === arr.length - 1
-							? "last"
-							: ""
-					}
-				>
-					<div className="title">{item.title}</div>
-					<div className="path">
-						{item.path.split("/").join(" > ")}
-					</div>
-				</a>
-			</li>
-		))}
-	</ul>
-);
+const SearchResults = ({
+	items,
+	setMarkdownContents,
+	clearResults,
+}: {
+	items: SearchResult[];
+	setMarkdownContents: (markdown: string) => void;
+	clearResults: () => void;
+}) => {
+	const onClick = useCallback(
+		(e: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
+			e.preventDefault();
+			partialReload(e.currentTarget.href, setMarkdownContents);
+			clearResults();
+		},
+		[],
+	);
 
-export const SearchBar = (): JSX.Element => {
+	return (
+		<ul className="search-results">
+			{items.slice(0, 100).map((item, idx, arr) => (
+				<li key={item.path} className="result">
+					<a
+						href={`/wcd/${item.path}`}
+						className={
+							idx === 0
+								? "first"
+								: idx === arr.length - 1
+								? "last"
+								: ""
+						}
+						onClick={onClick}
+					>
+						<div className="title">{item.title}</div>
+						<div className="path">
+							{item.path.split("/").join(" > ")}
+						</div>
+					</a>
+				</li>
+			))}
+		</ul>
+	);
+};
+
+export const SearchBar = ({
+	setMarkdownContents,
+}: {
+	setMarkdownContents: (markdown: string) => void;
+}): JSX.Element => {
 	const [searchResults, setSearchResults] = useState<TocNode[]>([]);
 	return (
 		<div className="search-bar">
@@ -50,7 +75,13 @@ export const SearchBar = (): JSX.Element => {
 				}}
 			/>
 			<a href="https://github.com/voces/wcd">wcd on GitHub</a>
-			<SearchResults items={searchResults} />
+			<SearchResults
+				items={searchResults}
+				setMarkdownContents={setMarkdownContents}
+				clearResults={() => {
+					setSearchResults([]);
+				}}
+			/>
 		</div>
 	);
 };

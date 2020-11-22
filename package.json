@@ -11,7 +11,7 @@
     "build": "rollup -c --environment NODE_ENV:production",
     "dev-server": "node --loader ts-node/esm dev/server.ts",
     "dev-build": "rollup -c -w",
-    "dev": "dev-server & dev-build"
+    "dev": "npm run dev-server & npm run dev-build"
   },
   "repository": {
     "type": "git",

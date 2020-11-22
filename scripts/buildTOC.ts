@@ -81,7 +81,7 @@ interface Node {
 }
 
 readDirectory(".").then((files) => {
-	const index: Node = { title: "root" };
+	const index: Node = {};
 
 	files
 		.map(processDoc)
