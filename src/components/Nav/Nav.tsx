@@ -60,7 +60,7 @@ export const Nav = ({
 	const route = location.pathname.slice(4).replace(/(index)?\.\w+$/, "");
 
 	const onNavChange = useCallback(async (href: string) => {
-		partialReload(href, setMarkdownContents);
+		await partialReload(href, setMarkdownContents);
 		forceUpdate();
 	}, []);
 

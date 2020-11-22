@@ -17,9 +17,9 @@ const SearchResults = ({
 	clearResults: () => void;
 }) => {
 	const onClick = useCallback(
-		(e: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
+		async (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
 			e.preventDefault();
-			partialReload(e.currentTarget.href, setMarkdownContents);
+			await partialReload(e.currentTarget.href, setMarkdownContents);
 			clearResults();
 		},
 		[],
