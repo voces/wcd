@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemDropID takes item whichItem, integer unitId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>unitId `integer`</dt>
-  <dd></dd>
-</dl>
+unitId `integer`
+: 

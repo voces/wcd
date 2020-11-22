@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetTournamentFinishSoonTimeRemaining takes nothing returns real
 ```

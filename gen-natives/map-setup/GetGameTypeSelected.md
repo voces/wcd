@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetGameTypeSelected takes nothing returns gametype
 ```

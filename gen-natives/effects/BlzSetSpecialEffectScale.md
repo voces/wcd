@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetSpecialEffectScale takes effect whichEffect, real scale returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>scale `real`</dt>
-  <dd></dd>
-</dl>
+scale `real`
+: 

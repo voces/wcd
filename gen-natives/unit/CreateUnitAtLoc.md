@@ -12,21 +12,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateUnitAtLoc takes player id, integer unitid, location whichLocation, real face returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>id `player`</dt>
-  <dd>The owner of the unit.</dd>
+id `player`
+: The owner of the unit.
 
-  <dt>unitid `integer`</dt>
-  <dd>The rawcode of the unit.</dd>
+unitid `integer`
+: The rawcode of the unit.
 
-  <dt>whichLocation `location`</dt>
-  <dd>The position of the unit.</dd>
+whichLocation `location`
+: The position of the unit.
 
-  <dt>face `real`</dt>
-  <dd>Unit facing in degrees.</dd>
-</dl>
+face `real`
+: Unit facing in degrees.

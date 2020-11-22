@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitRealField takes unit whichUnit, unitrealfield whichField returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichField `unitrealfield`</dt>
-  <dd></dd>
-</dl>
+whichField `unitrealfield`
+: 

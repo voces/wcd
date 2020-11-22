@@ -12,21 +12,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitWeaponBooleanField takes unit whichUnit, unitweaponbooleanfield whichField, integer index returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichField `unitweaponbooleanfield`</dt>
-  <dd></dd>
+whichField `unitweaponbooleanfield`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 
 
 ## Bugs 
 Might crash the game when called on a unit with no attack.

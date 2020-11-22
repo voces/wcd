@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetLevel takes framehandle frame, integer level returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
-</dl>
+level `integer`
+: 

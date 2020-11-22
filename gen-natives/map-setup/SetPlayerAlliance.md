@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerAlliance takes player sourcePlayer, player otherPlayer, alliancetype whichAllianceSetting, boolean value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>sourcePlayer `player`</dt>
-  <dd></dd>
+sourcePlayer `player`
+: 
 
-  <dt>otherPlayer `player`</dt>
-  <dd></dd>
+otherPlayer `player`
+: 
 
-  <dt>whichAllianceSetting `alliancetype`</dt>
-  <dd></dd>
+whichAllianceSetting `alliancetype`
+: 
 
-  <dt>value `boolean`</dt>
-  <dd></dd>
-</dl>
+value `boolean`
+: 

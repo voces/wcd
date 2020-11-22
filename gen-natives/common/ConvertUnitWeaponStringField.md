@@ -11,12 +11,10 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native ConvertUnitWeaponStringField takes integer i returns unitweaponstringfield
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd></dd>
-</dl>
+i `integer`
+: 

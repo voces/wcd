@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native SetPlayerHandicapXP takes player whichPlayer, real handicap returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>handicap `real`</dt>
-  <dd></dd>
-</dl>
+handicap `real`
+: 

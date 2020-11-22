@@ -10,15 +10,13 @@ Since`SetImageRender`is non-functional, this should be used toenable/disable ren
 
 ## Declaration
 
-```
+```jass
 native SetImageRenderAlways takes image whichImage, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichImage `image`</dt>
-  <dd></dd>
+whichImage `image`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

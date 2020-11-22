@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetCameraOrientController takes unit whichUnit, real xoffset, real yoffset returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>xoffset `real`</dt>
-  <dd></dd>
+xoffset `real`
+: 
 
-  <dt>yoffset `real`</dt>
-  <dd></dd>
-</dl>
+yoffset `real`
+: 

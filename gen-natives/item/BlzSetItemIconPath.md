@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetItemIconPath takes item whichItem, string iconPath returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>iconPath `string`</dt>
-  <dd></dd>
-</dl>
+iconPath `string`
+: 

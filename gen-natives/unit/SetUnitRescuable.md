@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitRescuable takes unit whichUnit, player byWhichPlayer, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>byWhichPlayer `player`</dt>
-  <dd></dd>
+byWhichPlayer `player`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

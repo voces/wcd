@@ -10,15 +10,13 @@ Marks the given trigger to wait/no longer wait for`TriggerSleepAction`s in sub t
 
 ## Declaration
 
-```
+```jass
 native TriggerWaitOnSleeps takes trigger whichTrigger, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

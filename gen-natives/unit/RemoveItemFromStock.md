@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native RemoveItemFromStock takes unit whichUnit, integer itemId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>itemId `integer`</dt>
-  <dd></dd>
-</dl>
+itemId `integer`
+: 

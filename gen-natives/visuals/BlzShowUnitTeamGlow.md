@@ -10,15 +10,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzShowUnitTeamGlow takes unit whichUnit, boolean show returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>show `boolean`</dt>
-  <dd></dd>
-</dl>
+show `boolean`
+: 

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetDestructableMaxLife takes destructable d, real max returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
+d `destructable`
+: 
 
-  <dt>max `real`</dt>
-  <dd></dd>
-</dl>
+max `real`
+: 

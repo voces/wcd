@@ -12,21 +12,19 @@ patch: 1.24
 
 ## Declaration
 
-```
+```jass
 native SaveDialogHandle takes hashtable table, integer parentKey, integer childKey, dialog whichDialog returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>table `hashtable`</dt>
-  <dd></dd>
+table `hashtable`
+: 
 
-  <dt>parentKey `integer`</dt>
-  <dd></dd>
+parentKey `integer`
+: 
 
-  <dt>childKey `integer`</dt>
-  <dd></dd>
+childKey `integer`
+: 
 
-  <dt>whichDialog `dialog`</dt>
-  <dd></dd>
-</dl>
+whichDialog `dialog`
+: 

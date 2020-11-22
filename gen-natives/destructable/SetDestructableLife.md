@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetDestructableLife takes destructable d, real life returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
+d `destructable`
+: 
 
-  <dt>life `real`</dt>
-  <dd></dd>
-</dl>
+life `real`
+: 

@@ -10,15 +10,13 @@ Decreases the level of a unit's ability by 1. The level will not go below 1.Retu
 
 ## Declaration
 
-```
+```jass
 native DecUnitAbilityLevel takes unit whichUnit, integer abilcode returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd>The unit with the ability.</dd>
+whichUnit `unit`
+: The unit with the ability.
 
-  <dt>abilcode `integer`</dt>
-  <dd>The four digit rawcode representation of the ability.</dd>
-</dl>
+abilcode `integer`
+: The four digit rawcode representation of the ability.

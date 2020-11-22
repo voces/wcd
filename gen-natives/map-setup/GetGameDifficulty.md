@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetGameDifficulty takes nothing returns gamedifficulty
 ```

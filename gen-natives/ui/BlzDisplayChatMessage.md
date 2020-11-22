@@ -11,18 +11,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzDisplayChatMessage takes player whichPlayer, integer recipient, string message returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>recipient `integer`</dt>
-  <dd></dd>
+recipient `integer`
+: 
 
-  <dt>message `string`</dt>
-  <dd></dd>
-</dl>
+message `string`
+: 

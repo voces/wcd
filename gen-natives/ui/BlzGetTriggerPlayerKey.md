@@ -9,6 +9,6 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetTriggerPlayerKey takes nothing returns oskeytype
 ```

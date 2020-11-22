@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerTechMaxAllowed takes player whichPlayer, integer techid returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>techid `integer`</dt>
-  <dd></dd>
-</dl>
+techid `integer`
+: 

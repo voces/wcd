@@ -8,7 +8,7 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetExpiredTimer takes nothing returns timer
 ```
 

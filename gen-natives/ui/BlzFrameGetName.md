@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameGetName takes framehandle frame returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
-</dl>
+frame `framehandle`
+: 

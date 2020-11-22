@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardGetPlayerIndex takes leaderboard lb, player p returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>p `player`</dt>
-  <dd></dd>
-</dl>
+p `player`
+: 

@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SaveGameExists takes string saveName returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>saveName `string`</dt>
-  <dd></dd>
-</dl>
+saveName `string`
+: 

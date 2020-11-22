@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SkinManagerGetLocalPath takes string key returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>key `string`</dt>
-  <dd></dd>
-</dl>
+key `string`
+: 

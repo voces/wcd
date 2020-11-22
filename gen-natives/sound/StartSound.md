@@ -9,15 +9,13 @@ Starts the sound.
 
 ## Declaration
 
-```
+```jass
 native StartSound takes sound soundHandle returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
-</dl>
+soundHandle `sound`
+: 
 
 ## Notes 
 You can only play the same sound handle once.

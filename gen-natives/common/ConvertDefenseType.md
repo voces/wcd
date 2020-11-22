@@ -11,12 +11,10 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native ConvertDefenseType takes integer i returns defensetype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd></dd>
-</dl>
+i `integer`
+: 

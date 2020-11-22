@@ -10,18 +10,16 @@ Tones the pitch of the sound, default value is 1. Increasing it you get the chip
 
 ## Declaration
 
-```
+```jass
 native SetSoundPitch takes sound soundHandle, real pitch returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>pitch `real`</dt>
-  <dd></dd>
-</dl>
+pitch `real`
+: 
 
 ## Bugs 
 This native has very weird behaviour.See [this](http://www.hiveworkshop.com/threads/setsoundpitch-weirdness.215743/#post-2145419) for an explenationand [this](http://www.hiveworkshop.com/threads/snippet-rapidsound.258991/#post-2611724) for a non-bugged implementation.

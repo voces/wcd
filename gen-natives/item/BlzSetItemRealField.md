@@ -12,18 +12,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetItemRealField takes item whichItem, itemrealfield whichField, real value returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>whichField `itemrealfield`</dt>
-  <dd></dd>
+whichField `itemrealfield`
+: 
 
-  <dt>value `real`</dt>
-  <dd></dd>
-</dl>
+value `real`
+: 

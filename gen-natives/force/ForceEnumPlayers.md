@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForceEnumPlayers takes force whichForce, boolexpr filter returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichForce `force`</dt>
-  <dd></dd>
+whichForce `force`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
-</dl>
+filter `boolexpr`
+: 

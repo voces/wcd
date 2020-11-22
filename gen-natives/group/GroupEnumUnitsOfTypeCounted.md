@@ -11,24 +11,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupEnumUnitsOfTypeCounted takes group whichGroup, string unitname, boolexpr filter, integer countLimit returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>unitname `string`</dt>
-  <dd></dd>
+unitname `string`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
+filter `boolexpr`
+: 
 
-  <dt>countLimit `integer`</dt>
-  <dd></dd>
-</dl>
+countLimit `integer`
+: 
 
 ## Bugs 
 Causes irregular behavior when used with large numbers

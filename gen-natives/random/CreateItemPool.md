@@ -9,6 +9,6 @@ Creates an empty itempool handle.Item pools are initially empty, but can have it
 
 ## Declaration
 
-```
+```jass
 native CreateItemPool takes nothing returns itempool
 ```

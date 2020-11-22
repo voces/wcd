@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetEventTargetUnit takes nothing returns unit
 ```

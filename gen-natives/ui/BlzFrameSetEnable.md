@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetEnable takes framehandle frame, boolean enabled returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>enabled `boolean`</dt>
-  <dd></dd>
-</dl>
+enabled `boolean`
+: 

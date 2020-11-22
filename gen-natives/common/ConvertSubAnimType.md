@@ -12,12 +12,10 @@ Returns the subanimtype that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertSubAnimType takes integer i returns subanimtype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the subanimtype</dd>
-</dl>
+i `integer`
+: The integer representation of the subanimtype

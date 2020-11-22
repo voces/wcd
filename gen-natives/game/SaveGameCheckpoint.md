@@ -10,15 +10,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SaveGameCheckpoint takes string saveFileName, boolean showWindow returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>saveFileName `string`</dt>
-  <dd></dd>
+saveFileName `string`
+: 
 
-  <dt>showWindow `boolean`</dt>
-  <dd></dd>
-</dl>
+showWindow `boolean`
+: 

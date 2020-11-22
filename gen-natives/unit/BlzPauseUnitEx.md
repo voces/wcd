@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzPauseUnitEx takes unit whichUnit, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

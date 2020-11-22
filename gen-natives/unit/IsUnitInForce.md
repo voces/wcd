@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsUnitInForce takes unit whichUnit, force whichForce returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichForce `force`</dt>
-  <dd></dd>
-</dl>
+whichForce `force`
+: 

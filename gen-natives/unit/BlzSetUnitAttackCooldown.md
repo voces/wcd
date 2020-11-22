@@ -11,18 +11,16 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitAttackCooldown takes unit whichUnit, real cooldown, integer weaponIndex returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>cooldown `real`</dt>
-  <dd></dd>
+cooldown `real`
+: 
 
-  <dt>weaponIndex `integer`</dt>
-  <dd></dd>
-</dl>
+weaponIndex `integer`
+: 

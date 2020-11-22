@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerHandicap takes player whichPlayer returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

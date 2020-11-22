@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsPointBlighted takes real x, real y returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

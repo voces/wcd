@@ -11,30 +11,28 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzCreateDestructableWithSkin takes integer objectid, real x, real y, real face, real scale, integer variation, integer skinId returns destructable
 ```
 
 ## Parameters
-<dl>
-  <dt>objectid `integer`</dt>
-  <dd></dd>
+objectid `integer`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>face `real`</dt>
-  <dd></dd>
+face `real`
+: 
 
-  <dt>scale `real`</dt>
-  <dd></dd>
+scale `real`
+: 
 
-  <dt>variation `integer`</dt>
-  <dd></dd>
+variation `integer`
+: 
 
-  <dt>skinId `integer`</dt>
-  <dd></dd>
-</dl>
+skinId `integer`
+: 

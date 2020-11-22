@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CopySaveGame takes string sourceSaveName, string destSaveName returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>sourceSaveName `string`</dt>
-  <dd></dd>
+sourceSaveName `string`
+: 
 
-  <dt>destSaveName `string`</dt>
-  <dd></dd>
-</dl>
+destSaveName `string`
+: 

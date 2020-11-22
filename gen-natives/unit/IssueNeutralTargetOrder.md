@@ -13,24 +13,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IssueNeutralTargetOrder takes player forWhichPlayer,unit neutralStructure, string unitToBuild, widget target returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>forWhichPlayerunit `player`</dt>
-  <dd></dd>
+forWhichPlayerunit `player`
+: 
 
-  <dt>string `neutralStructure`</dt>
-  <dd></dd>
+string `neutralStructure`
+: 
 
-  <dt>widget `unitToBuild`</dt>
-  <dd></dd>
+widget `unitToBuild`
+: 
 
-  <dt>returns `target`</dt>
-  <dd></dd>
+returns `target`
+: 
 
-  <dt>undefined `boolean`</dt>
-  <dd></dd>
-</dl>
+undefined `boolean`
+: 

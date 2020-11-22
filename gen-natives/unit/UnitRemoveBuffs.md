@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitRemoveBuffs takes unit whichUnit, boolean removePositive, boolean removeNegative returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>removePositive `boolean`</dt>
-  <dd></dd>
+removePositive `boolean`
+: 
 
-  <dt>removeNegative `boolean`</dt>
-  <dd></dd>
-</dl>
+removeNegative `boolean`
+: 

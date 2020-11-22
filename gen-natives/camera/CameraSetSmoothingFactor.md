@@ -9,12 +9,10 @@ Sets the game camera's smoothing factor for scrolling with the mouse/keyboard. T
 
 ## Declaration
 
-```
+```jass
 native CameraSetSmoothingFactor takes real factor returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>factor `real`</dt>
-  <dd>The smoothing factor. It is 0 by default.</dd>
-</dl>
+factor `real`
+: The smoothing factor. It is 0 by default.

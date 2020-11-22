@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetUnitRallyPoint takes unit whichUnit returns location
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

@@ -9,7 +9,7 @@ Returns the string that you registered for
 
 ## Declaration
 
-```
+```jass
 constant native GetEventPlayerChatStringMatched takes nothing returns string
 ```
 

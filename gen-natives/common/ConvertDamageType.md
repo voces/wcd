@@ -11,12 +11,10 @@ Returns the damagetype that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertDamageType takes integer i returns damagetype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the damagetype</dd>
-</dl>
+i `integer`
+: The integer representation of the damagetype

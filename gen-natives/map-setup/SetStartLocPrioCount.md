@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetStartLocPrioCount takes integer whichStartLoc, integer prioSlotCount returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichStartLoc `integer`</dt>
-  <dd></dd>
+whichStartLoc `integer`
+: 
 
-  <dt>prioSlotCount `integer`</dt>
-  <dd></dd>
-</dl>
+prioSlotCount `integer`
+: 

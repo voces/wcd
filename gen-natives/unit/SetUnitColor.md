@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitColor takes unit whichUnit, playercolor whichColor returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichColor `playercolor`</dt>
-  <dd></dd>
-</dl>
+whichColor `playercolor`
+: 

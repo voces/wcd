@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetMapMusic takes string musicName, boolean random, integer index returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>musicName `string`</dt>
-  <dd></dd>
+musicName `string`
+: 
 
-  <dt>random `boolean`</dt>
-  <dd></dd>
+random `boolean`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 
 
 ## Notes 
 If music is disabled, these calls do nothing

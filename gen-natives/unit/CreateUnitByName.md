@@ -11,24 +11,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateUnitByName takes player whichPlayer, string unitname, real x, real y, real face returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>unitname `string`</dt>
-  <dd></dd>
+unitname `string`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>face `real`</dt>
-  <dd>Unit facing in degrees</dd>
-</dl>
+face `real`
+: Unit facing in degrees

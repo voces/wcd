@@ -10,15 +10,13 @@ Sets a unit's propulsion window to the specified angle (in radians).The propulsi
 
 ## Declaration
 
-```
+```jass
 native SetUnitPropWindow takes unit whichUnit, real newPropWindowAngle returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd>The function will modify this unit's propulsion window.</dd>
+whichUnit `unit`
+: The function will modify this unit's propulsion window.
 
-  <dt>newPropWindowAngle `real`</dt>
-  <dd>The propulsion window angle to assign. Should be in radians.</dd>
-</dl>
+newPropWindowAngle `real`
+: The propulsion window angle to assign. Should be in radians.

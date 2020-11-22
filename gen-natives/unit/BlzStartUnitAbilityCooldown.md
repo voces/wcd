@@ -11,18 +11,16 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzStartUnitAbilityCooldown takes unit whichUnit, integer abilCode, real cooldown returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>abilCode `integer`</dt>
-  <dd></dd>
+abilCode `integer`
+: 
 
-  <dt>cooldown `real`</dt>
-  <dd></dd>
-</dl>
+cooldown `real`
+: 

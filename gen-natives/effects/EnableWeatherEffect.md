@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native EnableWeatherEffect takes weathereffect whichEffect, boolean enable returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `weathereffect`</dt>
-  <dd></dd>
+whichEffect `weathereffect`
+: 
 
-  <dt>enable `boolean`</dt>
-  <dd></dd>
-</dl>
+enable `boolean`
+: 

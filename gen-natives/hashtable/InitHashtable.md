@@ -9,7 +9,7 @@ patch: 1.24
 
 ## Declaration
 
-```
+```jass
 native InitHashtable takes nothing returns hashtable
 ```
 

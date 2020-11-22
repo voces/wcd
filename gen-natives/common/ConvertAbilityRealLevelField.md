@@ -11,12 +11,10 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native ConvertAbilityRealLevelField takes integer i returns abilityreallevelfield
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd></dd>
-</dl>
+i `integer`
+: 

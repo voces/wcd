@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native QuestSetFailed takes quest whichQuest, boolean failed returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichQuest `quest`</dt>
-  <dd></dd>
+whichQuest `quest`
+: 
 
-  <dt>failed `boolean`</dt>
-  <dd></dd>
-</dl>
+failed `boolean`
+: 

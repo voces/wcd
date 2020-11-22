@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetFocus takes framehandle frame, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

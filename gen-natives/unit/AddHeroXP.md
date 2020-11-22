@@ -11,21 +11,19 @@ Adds the input value of experience to the hero unit specified.If the experience 
 
 ## Declaration
 
-```
+```jass
 native AddHeroXP takes unit whichHero, integer xpToAdd, boolean showEyeCandy returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd>The hero unit to add experience to.</dd>
+whichHero `unit`
+: The hero unit to add experience to.
 
-  <dt>xpToAdd `integer`</dt>
-  <dd>The amount of experience to add to the hero unit.</dd>
+xpToAdd `integer`
+: The amount of experience to add to the hero unit.
 
-  <dt>showEyeCandy `boolean`</dt>
-  <dd>If the boolean input is true, then the hero-level-gaineffect will be shown if the hero gains a level from the added experience.</dd>
-</dl>
+showEyeCandy `boolean`
+: If the boolean input is true, then the hero-level-gaineffect will be shown if the hero gains a level from the added experience.
 
 ## Bugs 
 Adding negative value to experience will decrease itby the stated value, but won't lower the level even if the experience valueafter deduction is lower than the lower bound of the experience required to getthe stated level.

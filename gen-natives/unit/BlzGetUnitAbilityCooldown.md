@@ -11,18 +11,16 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitAbilityCooldown takes unit whichUnit, integer abilId, integer level returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>abilId `integer`</dt>
-  <dd></dd>
+abilId `integer`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
-</dl>
+level `integer`
+: 

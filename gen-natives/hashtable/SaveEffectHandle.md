@@ -12,21 +12,19 @@ patch: 1.24
 
 ## Declaration
 
-```
+```jass
 native SaveEffectHandle takes hashtable table, integer parentKey, integer childKey, effect whichEffect returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>table `hashtable`</dt>
-  <dd></dd>
+table `hashtable`
+: 
 
-  <dt>parentKey `integer`</dt>
-  <dd></dd>
+parentKey `integer`
+: 
 
-  <dt>childKey `integer`</dt>
-  <dd></dd>
+childKey `integer`
+: 
 
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
-</dl>
+whichEffect `effect`
+: 

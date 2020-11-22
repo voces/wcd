@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsDestructableInvulnerable takes destructable d returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
-</dl>
+d `destructable`
+: 

@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SyncStoredBoolean takes gamecache cache, string missionKey, string key returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>cache `gamecache`</dt>
-  <dd></dd>
+cache `gamecache`
+: 
 
-  <dt>missionKey `string`</dt>
-  <dd></dd>
+missionKey `string`
+: 
 
-  <dt>key `string`</dt>
-  <dd></dd>
-</dl>
+key `string`
+: 

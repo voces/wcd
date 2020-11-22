@@ -11,30 +11,28 @@ Locks a unit's bone to face the target until ResetUnitLookAt is called.The offse
 
 ## Declaration
 
-```
+```jass
 native SetUnitLookAt takes unit whichUnit, string whichBone, unit lookAtTarget, real offsetX, real offsetY, real offsetZ returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd>The unit that will have its bone locked to face the target.</dd>
+whichUnit `unit`
+: The unit that will have its bone locked to face the target.
 
-  <dt>whichBone `string`</dt>
-  <dd>The bone to lock onto the target. The engine only supportslocking the head and the chest. To lock the head, you can put in any inputexcept a null string. To lock the chest, the string must start with`"bone_chest"`.All leading spaces are ignored, it is case insensitive, and anything after thefirst non-leading space will be ignored.</dd>
+whichBone `string`
+: The bone to lock onto the target. The engine only supportslocking the head and the chest. To lock the head, you can put in any inputexcept a null string. To lock the chest, the string must start with`"bone_chest"`.All leading spaces are ignored, it is case insensitive, and anything after thefirst non-leading space will be ignored.
 
-  <dt>lookAtTarget `unit`</dt>
-  <dd>The bone will be locked to face this unit.</dd>
+lookAtTarget `unit`
+: The bone will be locked to face this unit.
 
-  <dt>offsetX `real`</dt>
-  <dd>The x-offset from lookAtTarget's origin point.</dd>
+offsetX `real`
+: The x-offset from lookAtTarget's origin point.
 
-  <dt>offsetY `real`</dt>
-  <dd>The y-offset from lookAtTarget's origin point.</dd>
+offsetY `real`
+: The y-offset from lookAtTarget's origin point.
 
-  <dt>offsetZ `real`</dt>
-  <dd>The z-offset from lookAtTarget's origin point (this already factors in the terrain Z).</dd>
-</dl>
+offsetZ `real`
+: The z-offset from lookAtTarget's origin point (this already factors in the terrain Z).
 
 ## Notes 
 The parameter`whichBone`can only move the head bones and the chest bones.All other input will default to the head bone. However, the function only looksfor the helper named`"Bone_Head"`(or`"Bone_Chest"`) in the MDL, so you can justrename a helper so that it will move that set of bones instead.

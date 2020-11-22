@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetSpecialEffectAlpha takes effect whichEffect, integer alpha returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>alpha `integer`</dt>
-  <dd></dd>
-</dl>
+alpha `integer`
+: 

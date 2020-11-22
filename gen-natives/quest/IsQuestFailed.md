@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsQuestFailed takes quest whichQuest returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichQuest `quest`</dt>
-  <dd></dd>
-</dl>
+whichQuest `quest`
+: 

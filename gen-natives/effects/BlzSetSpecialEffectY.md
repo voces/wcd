@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetSpecialEffectY takes effect whichEffect, real y returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

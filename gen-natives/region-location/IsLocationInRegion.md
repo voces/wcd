@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsLocationInRegion takes region whichRegion, location whichLocation returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichRegion `region`</dt>
-  <dd></dd>
+whichRegion `region`
+: 
 
-  <dt>whichLocation `location`</dt>
-  <dd></dd>
-</dl>
+whichLocation `location`
+: 

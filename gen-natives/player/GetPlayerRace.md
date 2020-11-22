@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerRace takes player whichPlayer returns race
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

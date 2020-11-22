@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityCooldown takes integer abilId, integer level returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>abilId `integer`</dt>
-  <dd></dd>
+abilId `integer`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
-</dl>
+level `integer`
+: 

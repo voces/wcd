@@ -11,18 +11,16 @@ Adds an item-id to the itempool.
 
 ## Declaration
 
-```
+```jass
 native ItemPoolAddItemType takes itempool whichItemPool, integer itemId, real weight returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItemPool `itempool`</dt>
-  <dd>The itempool to add the item to</dd>
+whichItemPool `itempool`
+: The itempool to add the item to
 
-  <dt>itemId `integer`</dt>
-  <dd>The rawcode of the item</dd>
+itemId `integer`
+: The rawcode of the item
 
-  <dt>weight `real`</dt>
-  <dd>The weight of the itemThe weight determines how likely it is for the item to be chose by`PlaceRandomItem`.</dd>
-</dl>
+weight `real`
+: The weight of the itemThe weight determines how likely it is for the item to be chose by`PlaceRandomItem`.

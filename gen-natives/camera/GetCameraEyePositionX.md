@@ -10,6 +10,6 @@ Return-value for the local players camera only.
 
 ## Declaration
 
-```
+```jass
 constant native GetCameraEyePositionX takes nothing returns real
 ```

@@ -10,6 +10,6 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native BlzGetLocale takes nothing returns string
 ```

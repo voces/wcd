@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetIntegerGameState takes igamestate whichIntegerGameState, integer value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichIntegerGameState `igamestate`</dt>
-  <dd></dd>
+whichIntegerGameState `igamestate`
+: 
 
-  <dt>value `integer`</dt>
-  <dd></dd>
-</dl>
+value `integer`
+: 

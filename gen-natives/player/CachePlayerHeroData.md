@@ -9,12 +9,10 @@ Used to store hero level data for the scorescreen, before units are movedto neut
 
 ## Declaration
 
-```
+```jass
 native CachePlayerHeroData takes player whichPlayer returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd>The player to store hero data for.</dd>
-</dl>
+whichPlayer `player`
+: The player to store hero data for.

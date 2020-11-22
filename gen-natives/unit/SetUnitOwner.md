@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitOwner takes unit whichUnit, player whichPlayer, boolean changeColor returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>changeColor `boolean`</dt>
-  <dd></dd>
-</dl>
+changeColor `boolean`
+: 

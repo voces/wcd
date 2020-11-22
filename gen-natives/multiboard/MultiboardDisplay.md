@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardDisplay takes multiboard lb, boolean show returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>show `boolean`</dt>
-  <dd></dd>
-</dl>
+show `boolean`
+: 
 
 ## Notes 
 Multiboars can not be shown at map-init. Use a wait or a zero-timer todisplay as soon as possible.

@@ -12,21 +12,19 @@ patch: 1.24b
 
 ## Declaration
 
-```
+```jass
 native SaveAgentHandle takes hashtable table, integer parentKey, integer childKey, agent whichAgent returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>table `hashtable`</dt>
-  <dd></dd>
+table `hashtable`
+: 
 
-  <dt>parentKey `integer`</dt>
-  <dd></dd>
+parentKey `integer`
+: 
 
-  <dt>childKey `integer`</dt>
-  <dd></dd>
+childKey `integer`
+: 
 
-  <dt>whichAgent `agent`</dt>
-  <dd></dd>
-</dl>
+whichAgent `agent`
+: 

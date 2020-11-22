@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemIcon takes multiboarditem mbi, string iconFileName returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>mbi `multiboarditem`</dt>
-  <dd></dd>
+mbi `multiboarditem`
+: 
 
-  <dt>iconFileName `string`</dt>
-  <dd></dd>
-</dl>
+iconFileName `string`
+: 

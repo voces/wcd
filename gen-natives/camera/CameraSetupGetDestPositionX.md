@@ -10,12 +10,10 @@ Returns the target x-coordinate of a camerasetup.
 
 ## Declaration
 
-```
+```jass
 native CameraSetupGetDestPositionX takes camerasetup whichSetup returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSetup `camerasetup`</dt>
-  <dd>The camera setup.</dd>
-</dl>
+whichSetup `camerasetup`
+: The camera setup.

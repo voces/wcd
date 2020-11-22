@@ -11,15 +11,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetSoundFacialAnimationSetFilepath takes sound soundHandle, string animationSetFilepath returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>animationSetFilepath `string`</dt>
-  <dd></dd>
-</dl>
+animationSetFilepath `string`
+: 

@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsUnitIdType takes integer unitId, unittype whichUnitType returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>unitId `integer`</dt>
-  <dd></dd>
+unitId `integer`
+: 
 
-  <dt>whichUnitType `unittype`</dt>
-  <dd></dd>
-</dl>
+whichUnitType `unittype`
+: 

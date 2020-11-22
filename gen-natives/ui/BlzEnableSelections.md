@@ -9,15 +9,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzEnableSelections takes boolean enableSelection, boolean enableSelectionCircle returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>enableSelection `boolean`</dt>
-  <dd></dd>
+enableSelection `boolean`
+: 
 
-  <dt>enableSelectionCircle `boolean`</dt>
-  <dd></dd>
-</dl>
+enableSelectionCircle `boolean`
+: 

@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetSpellAbilityId takes nothing returns integer
 ```

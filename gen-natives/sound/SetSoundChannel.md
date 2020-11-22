@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetSoundChannel takes sound soundHandle, integer channel returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>channel `integer`</dt>
-  <dd></dd>
-</dl>
+channel `integer`
+: 

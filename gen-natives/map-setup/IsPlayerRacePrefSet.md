@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsPlayerRacePrefSet takes player whichPlayer, racepreference pref returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>pref `racepreference`</dt>
-  <dd></dd>
-</dl>
+pref `racepreference`
+: 

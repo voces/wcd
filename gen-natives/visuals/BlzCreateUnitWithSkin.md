@@ -12,27 +12,25 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzCreateUnitWithSkin takes player id, integer unitid, real x, real y, real face, integer skinId returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>id `player`</dt>
-  <dd></dd>
+id `player`
+: 
 
-  <dt>unitid `integer`</dt>
-  <dd></dd>
+unitid `integer`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>face `real`</dt>
-  <dd></dd>
+face `real`
+: 
 
-  <dt>skinId `integer`</dt>
-  <dd></dd>
-</dl>
+skinId `integer`
+: 

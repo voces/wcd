@@ -9,15 +9,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetTooltip takes framehandle frame, framehandle tooltip returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>tooltip `framehandle`</dt>
-  <dd></dd>
-</dl>
+tooltip `framehandle`
+: 

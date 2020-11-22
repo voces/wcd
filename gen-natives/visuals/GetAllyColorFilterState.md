@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetAllyColorFilterState takes nothing returns integer
 ```

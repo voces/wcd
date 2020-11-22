@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetSpecialEffectHeight takes effect whichEffect, real height returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>height `real`</dt>
-  <dd></dd>
-</dl>
+height `real`
+: 

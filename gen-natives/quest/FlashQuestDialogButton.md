@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native FlashQuestDialogButton takes nothing returns nothing
 ```

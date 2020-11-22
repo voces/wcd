@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native UnitId takes string unitIdString returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>unitIdString `string`</dt>
-  <dd></dd>
-</dl>
+unitIdString `string`
+: 

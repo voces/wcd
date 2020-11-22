@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DestroyTextTag takes texttag t returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>t `texttag`</dt>
-  <dd></dd>
-</dl>
+t `texttag`
+: 

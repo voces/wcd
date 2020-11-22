@@ -10,33 +10,31 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MoveLightningEx takes lightning whichBolt, boolean checkVisibility, real x1, real y1, real z1, real x2, real y2, real z2 returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichBolt `lightning`</dt>
-  <dd></dd>
+whichBolt `lightning`
+: 
 
-  <dt>checkVisibility `boolean`</dt>
-  <dd></dd>
+checkVisibility `boolean`
+: 
 
-  <dt>x1 `real`</dt>
-  <dd></dd>
+x1 `real`
+: 
 
-  <dt>y1 `real`</dt>
-  <dd></dd>
+y1 `real`
+: 
 
-  <dt>z1 `real`</dt>
-  <dd></dd>
+z1 `real`
+: 
 
-  <dt>x2 `real`</dt>
-  <dd></dd>
+x2 `real`
+: 
 
-  <dt>y2 `real`</dt>
-  <dd></dd>
+y2 `real`
+: 
 
-  <dt>z2 `real`</dt>
-  <dd></dd>
-</dl>
+z2 `real`
+: 

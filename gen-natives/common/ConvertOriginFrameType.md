@@ -11,12 +11,10 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native ConvertOriginFrameType takes integer i returns originframetype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd></dd>
-</dl>
+i `integer`
+: 

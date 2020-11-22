@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardClear takes leaderboard lb returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
-</dl>
+lb `leaderboard`
+: 

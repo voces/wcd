@@ -10,18 +10,16 @@ Causes the camera's target to sway, just like CameraSetTargetNoise. (the camera'
 
 ## Declaration
 
-```
+```jass
 native CameraSetTargetNoiseEx takes real mag, real velocity, boolean vertOnly returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>mag `real`</dt>
-  <dd>The magnitude of the swaying.</dd>
+mag `real`
+: The magnitude of the swaying.
 
-  <dt>velocity `real`</dt>
-  <dd>The speed of the swaying.</dd>
+velocity `real`
+: The speed of the swaying.
 
-  <dt>vertOnly `boolean`</dt>
-  <dd>Stands for "vertical only". If set to true, then the swaying will only modify target distance and z-offset.</dd>
-</dl>
+vertOnly `boolean`
+: Stands for "vertical only". If set to true, then the swaying will only modify target distance and z-offset.

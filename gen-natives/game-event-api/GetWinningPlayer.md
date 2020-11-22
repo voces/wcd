@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetWinningPlayer takes nothing returns player
 ```

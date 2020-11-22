@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DestroyDefeatCondition takes defeatcondition whichCondition returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichCondition `defeatcondition`</dt>
-  <dd></dd>
-</dl>
+whichCondition `defeatcondition`
+: 

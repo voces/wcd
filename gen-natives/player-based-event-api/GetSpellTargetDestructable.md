@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetSpellTargetDestructable takes nothing returns destructable
 ```

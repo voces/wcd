@@ -11,18 +11,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitBooleanField takes unit whichUnit, unitbooleanfield whichField, boolean value returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichField `unitbooleanfield`</dt>
-  <dd></dd>
+whichField `unitbooleanfield`
+: 
 
-  <dt>value `boolean`</dt>
-  <dd></dd>
-</dl>
+value `boolean`
+: 

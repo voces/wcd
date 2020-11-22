@@ -11,18 +11,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IssueNeutralImmediateOrder takes player forWhichPlayer, unit neutralStructure, string unitToBuild returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>forWhichPlayer `player`</dt>
-  <dd></dd>
+forWhichPlayer `player`
+: 
 
-  <dt>neutralStructure `unit`</dt>
-  <dd></dd>
+neutralStructure `unit`
+: 
 
-  <dt>unitToBuild `string`</dt>
-  <dd></dd>
-</dl>
+unitToBuild `string`
+: 

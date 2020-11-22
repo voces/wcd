@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native RenameSaveDirectory takes string sourceDirName, string destDirName returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>sourceDirName `string`</dt>
-  <dd></dd>
+sourceDirName `string`
+: 
 
-  <dt>destDirName `string`</dt>
-  <dd></dd>
-</dl>
+destDirName `string`
+: 

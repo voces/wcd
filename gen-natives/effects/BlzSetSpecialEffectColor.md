@@ -10,21 +10,19 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetSpecialEffectColor takes effect whichEffect, integer r, integer g, integer b returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>r `integer`</dt>
-  <dd></dd>
+r `integer`
+: 
 
-  <dt>g `integer`</dt>
-  <dd></dd>
+g `integer`
+: 
 
-  <dt>b `integer`</dt>
-  <dd></dd>
-</dl>
+b `integer`
+: 

@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetPlayerController takes player whichPlayer returns mapcontrol
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

@@ -11,21 +11,19 @@ Returns if a specific pathingtype is set at the location.
 
 ## Declaration
 
-```
+```jass
 native IsTerrainPathable takes real x, real y, pathingtype t returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>t `pathingtype`</dt>
-  <dd></dd>
-</dl>
+t `pathingtype`
+: 
 
 ## Notes 
 Returns true if the pathingtype is *not* set, false if it *is* set.

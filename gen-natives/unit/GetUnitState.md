@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetUnitState takes unit whichUnit, unitstate whichUnitState returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichUnitState `unitstate`</dt>
-  <dd></dd>
-</dl>
+whichUnitState `unitstate`
+: 

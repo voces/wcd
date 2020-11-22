@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetAlpha takes framehandle frame, integer alpha returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>alpha `integer`</dt>
-  <dd></dd>
-</dl>
+alpha `integer`
+: 

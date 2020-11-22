@@ -11,15 +11,13 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 native GetAbilitySoundById takes integer abilityId, soundtype t returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
+abilityId `integer`
+: 
 
-  <dt>t `soundtype`</dt>
-  <dd></dd>
-</dl>
+t `soundtype`
+: 

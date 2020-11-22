@@ -11,21 +11,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native StoreUnit takes gamecache cache, string missionKey, string key, unit whichUnit returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>cache `gamecache`</dt>
-  <dd></dd>
+cache `gamecache`
+: 
 
-  <dt>missionKey `string`</dt>
-  <dd></dd>
+missionKey `string`
+: 
 
-  <dt>key `string`</dt>
-  <dd></dd>
+key `string`
+: 
 
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

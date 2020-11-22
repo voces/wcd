@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSendSyncData takes string prefix, string data returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>prefix `string`</dt>
-  <dd></dd>
+prefix `string`
+: 
 
-  <dt>data `string`</dt>
-  <dd></dd>
-</dl>
+data `string`
+: 

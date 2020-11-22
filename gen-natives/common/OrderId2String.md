@@ -10,15 +10,13 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native OrderId2String takes integer orderId returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>orderId `integer`</dt>
-  <dd></dd>
-</dl>
+orderId `integer`
+: 
 
 ## Bugs 
 Do not use this in a global initialisation as it returns null there.

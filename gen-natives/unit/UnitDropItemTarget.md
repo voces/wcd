@@ -11,18 +11,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitDropItemTarget takes unit whichUnit, item whichItem, widget target returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>target `widget`</dt>
-  <dd></dd>
-</dl>
+target `widget`
+: 

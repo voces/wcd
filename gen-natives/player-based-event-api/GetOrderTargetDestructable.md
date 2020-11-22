@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetOrderTargetDestructable takes nothing returns destructable
 ```

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemWidth takes multiboarditem mbi, real width returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>mbi `multiboarditem`</dt>
-  <dd></dd>
+mbi `multiboarditem`
+: 
 
-  <dt>width `real`</dt>
-  <dd></dd>
-</dl>
+width `real`
+: 

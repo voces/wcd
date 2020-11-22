@@ -11,18 +11,16 @@ Returns false if the specified value's data is not found in the cache.
 
 ## Declaration
 
-```
+```jass
 native GetStoredBoolean takes gamecache cache, string missionKey, string key returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>cache `gamecache`</dt>
-  <dd></dd>
+cache `gamecache`
+: 
 
-  <dt>missionKey `string`</dt>
-  <dd></dd>
+missionKey `string`
+: 
 
-  <dt>key `string`</dt>
-  <dd></dd>
-</dl>
+key `string`
+: 

@@ -9,6 +9,6 @@ patch: 1.32.3
 
 ## Declaration
 
-```
+```jass
 constant native BlzGetStackingItemTargetPreviousCharges takes nothing returns integer
 ```

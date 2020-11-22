@@ -11,24 +11,22 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzCreateFrameByType takes string typeName, string name, framehandle owner, string inherits, integer createContext returns framehandle
 ```
 
 ## Parameters
-<dl>
-  <dt>typeName `string`</dt>
-  <dd></dd>
+typeName `string`
+: 
 
-  <dt>name `string`</dt>
-  <dd></dd>
+name `string`
+: 
 
-  <dt>owner `framehandle`</dt>
-  <dd></dd>
+owner `framehandle`
+: 
 
-  <dt>inherits `string`</dt>
-  <dd></dd>
+inherits `string`
+: 
 
-  <dt>createContext `integer`</dt>
-  <dd></dd>
-</dl>
+createContext `integer`
+: 

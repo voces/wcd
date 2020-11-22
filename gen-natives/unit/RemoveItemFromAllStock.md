@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native RemoveItemFromAllStock takes integer itemId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>itemId `integer`</dt>
-  <dd></dd>
-</dl>
+itemId `integer`
+: 

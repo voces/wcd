@@ -9,6 +9,6 @@ async: true
 
 ## Declaration
 
-```
+```jass
 constant native GetLocalPlayer takes nothing returns player
 ```

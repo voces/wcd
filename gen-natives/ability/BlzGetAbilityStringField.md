@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityStringField takes ability whichAbility, abilitystringfield whichField returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAbility `ability`</dt>
-  <dd></dd>
+whichAbility `ability`
+: 
 
-  <dt>whichField `abilitystringfield`</dt>
-  <dd></dd>
-</dl>
+whichField `abilitystringfield`
+: 

@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitAbilityByIndex takes unit whichUnit, integer index returns ability
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 

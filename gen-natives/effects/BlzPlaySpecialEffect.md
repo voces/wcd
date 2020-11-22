@@ -10,15 +10,13 @@ patch: 1.30
 
 ## Declaration
 
-```
+```jass
 native BlzPlaySpecialEffect takes effect whichEffect, animtype whichAnim returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>whichAnim `animtype`</dt>
-  <dd></dd>
-</dl>
+whichAnim `animtype`
+: 

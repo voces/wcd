@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitPositionLoc takes unit whichUnit, location whichLocation returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichLocation `location`</dt>
-  <dd></dd>
-</dl>
+whichLocation `location`
+: 

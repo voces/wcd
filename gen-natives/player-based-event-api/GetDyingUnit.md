@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetDyingUnit takes nothing returns unit
 ```

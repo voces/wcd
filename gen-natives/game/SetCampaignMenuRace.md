@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetCampaignMenuRace takes race r returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>r `race`</dt>
-  <dd></dd>
-</dl>
+r `race`
+: 
 
 ## Notes 
 Deprecated. Use SetCampaignMenuRaceEx instead.

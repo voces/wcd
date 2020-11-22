@@ -10,24 +10,22 @@ Valid values for all channels range from 0 to 255.
 
 ## Declaration
 
-```
+```jass
 native SetImageColor takes image whichImage, integer red, integer green, integer blue, integer alpha returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichImage `image`</dt>
-  <dd></dd>
+whichImage `image`
+: 
 
-  <dt>red `integer`</dt>
-  <dd></dd>
+red `integer`
+: 
 
-  <dt>green `integer`</dt>
-  <dd></dd>
+green `integer`
+: 
 
-  <dt>blue `integer`</dt>
-  <dd></dd>
+blue `integer`
+: 
 
-  <dt>alpha `integer`</dt>
-  <dd></dd>
-</dl>
+alpha `integer`
+: 

@@ -9,7 +9,7 @@ Clears all widget selections for all players.
 
 ## Declaration
 
-```
+```jass
 native ClearSelection takes nothing returns nothing
 ```
 

@@ -11,12 +11,10 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native BlzGetLocalSpecialEffectZ takes effect whichEffect returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
-</dl>
+whichEffect `effect`
+: 

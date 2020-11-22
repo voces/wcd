@@ -11,27 +11,25 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateSoundFromLabel takes string soundLabel, boolean looping, boolean is3D, boolean stopwhenoutofrange, integer fadeInRate, integer fadeOutRate returns sound
 ```
 
 ## Parameters
-<dl>
-  <dt>soundLabel `string`</dt>
-  <dd></dd>
+soundLabel `string`
+: 
 
-  <dt>looping `boolean`</dt>
-  <dd></dd>
+looping `boolean`
+: 
 
-  <dt>is3D `boolean`</dt>
-  <dd></dd>
+is3D `boolean`
+: 
 
-  <dt>stopwhenoutofrange `boolean`</dt>
-  <dd></dd>
+stopwhenoutofrange `boolean`
+: 
 
-  <dt>fadeInRate `integer`</dt>
-  <dd></dd>
+fadeInRate `integer`
+: 
 
-  <dt>fadeOutRate `integer`</dt>
-  <dd></dd>
-</dl>
+fadeOutRate `integer`
+: 

@@ -9,12 +9,10 @@ Destroys the handle when the sound has finished playing.
 
 ## Declaration
 
-```
+```jass
 native KillSoundWhenDone takes sound soundHandle returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
-</dl>
+soundHandle `sound`
+: 

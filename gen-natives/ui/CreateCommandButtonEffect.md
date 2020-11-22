@@ -11,15 +11,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native CreateCommandButtonEffect takes integer abilityId, string order returns commandbuttoneffect
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
+abilityId `integer`
+: 
 
-  <dt>order `string`</dt>
-  <dd></dd>
-</dl>
+order `string`
+: 

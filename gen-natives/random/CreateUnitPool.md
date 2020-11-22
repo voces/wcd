@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateUnitPool takes nothing returns unitpool
 ```

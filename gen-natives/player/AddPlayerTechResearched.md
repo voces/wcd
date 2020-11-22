@@ -10,18 +10,16 @@ In upgrades that have multiple levels, it will research the upgrade by thenumber
 
 ## Declaration
 
-```
+```jass
 constant native AddPlayerTechResearched takes player whichPlayer, integer techid, integer levels returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd>The player who the upgrade will be researched for.</dd>
+whichPlayer `player`
+: The player who the upgrade will be researched for.
 
-  <dt>techid `integer`</dt>
-  <dd>The four digit rawcode ID of the upgrade.</dd>
+techid `integer`
+: The four digit rawcode ID of the upgrade.
 
-  <dt>levels `integer`</dt>
-  <dd>The number of levels to add to the current research level of the upgrade.</dd>
-</dl>
+levels `integer`
+: The number of levels to add to the current research level of the upgrade.

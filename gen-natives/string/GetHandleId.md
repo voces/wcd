@@ -10,12 +10,10 @@ patch: 1.24b
 
 ## Declaration
 
-```
+```jass
 native GetHandleId takes handle h returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>h `handle`</dt>
-  <dd></dd>
-</dl>
+h `handle`
+: 

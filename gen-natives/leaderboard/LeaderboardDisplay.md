@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardDisplay takes leaderboard lb, boolean show returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>show `boolean`</dt>
-  <dd></dd>
-</dl>
+show `boolean`
+: 

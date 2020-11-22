@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TerrainDeformStop takes terraindeformation deformation, integer duration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>deformation `terraindeformation`</dt>
-  <dd></dd>
+deformation `terraindeformation`
+: 
 
-  <dt>duration `integer`</dt>
-  <dd></dd>
-</dl>
+duration `integer`
+: 

@@ -13,30 +13,28 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native CreateMinimapIcon takes real x, real y, integer red, integer green, integer blue, string pingPath, fogstate fogVisibility returns minimapicon
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>red `integer`</dt>
-  <dd></dd>
+red `integer`
+: 
 
-  <dt>green `integer`</dt>
-  <dd></dd>
+green `integer`
+: 
 
-  <dt>blue `integer`</dt>
-  <dd></dd>
+blue `integer`
+: 
 
-  <dt>pingPath `string`</dt>
-  <dd></dd>
+pingPath `string`
+: 
 
-  <dt>fogVisibility `fogstate`</dt>
-  <dd></dd>
-</dl>
+fogVisibility `fogstate`
+: 

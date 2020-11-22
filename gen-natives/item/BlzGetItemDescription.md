@@ -11,12 +11,10 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native BlzGetItemDescription takes item whichItem returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
-</dl>
+whichItem `item`
+: 

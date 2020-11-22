@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameIsVisible takes framehandle frame returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
-</dl>
+frame `framehandle`
+: 

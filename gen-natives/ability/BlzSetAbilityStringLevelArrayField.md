@@ -13,24 +13,22 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetAbilityStringLevelArrayField takes ability whichAbility, abilitystringlevelarrayfield whichField, integer level, integer index, string value returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAbility `ability`</dt>
-  <dd></dd>
+whichAbility `ability`
+: 
 
-  <dt>whichField `abilitystringlevelarrayfield`</dt>
-  <dd></dd>
+whichField `abilitystringlevelarrayfield`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
+level `integer`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
+index `integer`
+: 
 
-  <dt>value `string`</dt>
-  <dd></dd>
-</dl>
+value `string`
+: 

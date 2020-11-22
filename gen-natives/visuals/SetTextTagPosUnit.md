@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTextTagPosUnit takes texttag t, unit whichUnit, real heightOffset returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>t `texttag`</dt>
-  <dd></dd>
+t `texttag`
+: 
 
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>heightOffset `real`</dt>
-  <dd></dd>
-</dl>
+heightOffset `real`
+: 

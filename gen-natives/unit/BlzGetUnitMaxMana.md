@@ -10,12 +10,10 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitMaxMana takes unit whichUnit returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

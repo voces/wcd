@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SyncSelections takes nothing returns nothing
 ```

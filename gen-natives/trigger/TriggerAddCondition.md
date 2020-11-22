@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerAddCondition takes trigger whichTrigger, boolexpr condition returns triggercondition
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>condition `boolexpr`</dt>
-  <dd></dd>
-</dl>
+condition `boolexpr`
+: 

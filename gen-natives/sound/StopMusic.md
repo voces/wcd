@@ -9,12 +9,10 @@ Stops the current music.
 
 ## Declaration
 
-```
+```jass
 native StopMusic takes boolean fadeOut returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>fadeOut `boolean`</dt>
-  <dd></dd>
-</dl>
+fadeOut `boolean`
+: 

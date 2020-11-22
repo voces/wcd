@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetSoundDuration takes sound soundHandle, integer duration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>duration `integer`</dt>
-  <dd></dd>
-</dl>
+duration `integer`
+: 

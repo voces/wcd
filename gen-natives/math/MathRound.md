@@ -11,12 +11,10 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native MathRound takes real r returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>r `real`</dt>
-  <dd></dd>
-</dl>
+r `real`
+: 

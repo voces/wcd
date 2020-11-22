@@ -15,36 +15,34 @@ Deals damage to target widget from a source unit.
 
 ## Declaration
 
-```
+```jass
 native UnitDamageTarget takes unit whichUnit, widget target, real amount, boolean attack, boolean ranged, attacktype attackType, damagetype damageType, weapontype weaponType returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd>The source of the damage. To actual deal damage it should benot`null`.</dd>
+whichUnit `unit`
+: The source of the damage. To actual deal damage it should benot`null`.
 
-  <dt>target `widget`</dt>
-  <dd>The target being damaged.</dd>
+target `widget`
+: The target being damaged.
 
-  <dt>amount `real`</dt>
-  <dd>How much damage is being dealt.</dd>
+amount `real`
+: How much damage is being dealt.
 
-  <dt>attack `boolean`</dt>
-  <dd>Consider the damage dealt as being an attack.</dd>
+attack `boolean`
+: Consider the damage dealt as being an attack.
 
-  <dt>ranged `boolean`</dt>
-  <dd>Consider the damage dealt as being from a ranged source.</dd>
+ranged `boolean`
+: Consider the damage dealt as being from a ranged source.
 
-  <dt>attackType `attacktype`</dt>
-  <dd></dd>
+attackType `attacktype`
+: 
 
-  <dt>damageType `damagetype`</dt>
-  <dd></dd>
+damageType `damagetype`
+: 
 
-  <dt>weaponType `weapontype`</dt>
-  <dd></dd>
-</dl>
+weaponType `weapontype`
+: 
 
 ## Notes 
 For some insight about the different configurations of the differenttypes see [this post](http://www.wc3c.net/showpost.php?p=1030046&postcount=19).

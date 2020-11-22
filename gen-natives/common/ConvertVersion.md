@@ -11,12 +11,10 @@ Returns the version that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertVersion takes integer i returns version
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the version</dd>
-</dl>
+i `integer`
+: The integer representation of the version

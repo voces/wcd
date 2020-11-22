@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DialogDisplay takes player whichPlayer, dialog whichDialog, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>whichDialog `dialog`</dt>
-  <dd></dd>
+whichDialog `dialog`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 
 
 ## Notes 
 Dialogs can not be shown at map-init. Use a wait or a zero-timer todisplay as soon as possible.

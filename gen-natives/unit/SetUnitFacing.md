@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitFacing takes unit whichUnit, real facingAngle returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>facingAngle `real`</dt>
-  <dd></dd>
-</dl>
+facingAngle `real`
+: 

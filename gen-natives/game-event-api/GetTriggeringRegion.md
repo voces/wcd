@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetTriggeringRegion takes nothing returns region
 ```

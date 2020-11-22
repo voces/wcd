@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetAllItemTypeSlots takes integer slots returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>slots `integer`</dt>
-  <dd></dd>
-</dl>
+slots `integer`
+: 

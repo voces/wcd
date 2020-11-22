@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerTaxRate takes player sourcePlayer, player otherPlayer, playerstate whichResource, integer rate returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>sourcePlayer `player`</dt>
-  <dd></dd>
+sourcePlayer `player`
+: 
 
-  <dt>otherPlayer `player`</dt>
-  <dd></dd>
+otherPlayer `player`
+: 
 
-  <dt>whichResource `playerstate`</dt>
-  <dd></dd>
+whichResource `playerstate`
+: 
 
-  <dt>rate `integer`</dt>
-  <dd></dd>
-</dl>
+rate `integer`
+: 

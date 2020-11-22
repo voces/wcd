@@ -11,24 +11,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateUnit takes player id, integer unitid, real x, real y, real face returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>id `player`</dt>
-  <dd>The owner of the unit.</dd>
+id `player`
+: The owner of the unit.
 
-  <dt>unitid `integer`</dt>
-  <dd>The rawcode of the unit.</dd>
+unitid `integer`
+: The rawcode of the unit.
 
-  <dt>x `real`</dt>
-  <dd>The x-coordinate of the unit.</dd>
+x `real`
+: The x-coordinate of the unit.
 
-  <dt>y `real`</dt>
-  <dd>The y-coordinate of the unit.</dd>
+y `real`
+: The y-coordinate of the unit.
 
-  <dt>face `real`</dt>
-  <dd>Unit facing in degrees.</dd>
-</dl>
+face `real`
+: Unit facing in degrees.

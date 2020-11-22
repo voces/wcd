@@ -10,15 +10,13 @@ Evaluates all functions that were added to the trigger via`TriggerAddCondition`.
 
 ## Declaration
 
-```
+```jass
 native TriggerEvaluate takes trigger whichTrigger returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
-</dl>
+whichTrigger `trigger`
+: 
 
 ## Notes 
 If a condition-function crashes the thread or does not return any value`TriggerEvaluate`will return false.

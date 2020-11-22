@@ -11,27 +11,25 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetPoint takes framehandle frame, framepointtype point, framehandle relative, framepointtype relativePoint, real x, real y returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>point `framepointtype`</dt>
-  <dd></dd>
+point `framepointtype`
+: 
 
-  <dt>relative `framehandle`</dt>
-  <dd></dd>
+relative `framehandle`
+: 
 
-  <dt>relativePoint `framepointtype`</dt>
-  <dd></dd>
+relativePoint `framepointtype`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

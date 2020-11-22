@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native EnableDragSelect takes boolean state, boolean ui returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>state `boolean`</dt>
-  <dd></dd>
+state `boolean`
+: 
 
-  <dt>ui `boolean`</dt>
-  <dd></dd>
-</dl>
+ui `boolean`
+: 

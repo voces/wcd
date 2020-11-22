@@ -9,15 +9,13 @@ Causes the camera's source to sway (the camera's perspective, not the camera's t
 
 ## Declaration
 
-```
+```jass
 native CameraSetSourceNoise takes real mag, real velocity returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>mag `real`</dt>
-  <dd>The magnitude of the swaying.</dd>
+mag `real`
+: The magnitude of the swaying.
 
-  <dt>velocity `real`</dt>
-  <dd>The speed of the swaying.</dd>
-</dl>
+velocity `real`
+: The speed of the swaying.

@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetItemTypeId takes item i returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>i `item`</dt>
-  <dd></dd>
-</dl>
+i `item`
+: 

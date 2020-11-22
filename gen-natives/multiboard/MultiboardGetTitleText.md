@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardGetTitleText takes multiboard lb returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
-</dl>
+lb `multiboard`
+: 

@@ -10,15 +10,13 @@ Pauses a unit. A paused unit has the following properties:Buffs/effects are susp
 
 ## Declaration
 
-```
+```jass
 native PauseUnit takes unit whichUnit, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

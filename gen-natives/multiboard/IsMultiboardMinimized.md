@@ -10,12 +10,10 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native IsMultiboardMinimized takes multiboard lb returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
-</dl>
+lb `multiboard`
+: 

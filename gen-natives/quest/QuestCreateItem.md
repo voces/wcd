@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native QuestCreateItem takes quest whichQuest returns questitem
 ```
 
 ## Parameters
-<dl>
-  <dt>whichQuest `quest`</dt>
-  <dd></dd>
-</dl>
+whichQuest `quest`
+: 

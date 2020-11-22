@@ -11,24 +11,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native PlaceRandomUnit takes unitpool whichPool, player forWhichPlayer, real x, real y, real facing returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPool `unitpool`</dt>
-  <dd></dd>
+whichPool `unitpool`
+: 
 
-  <dt>forWhichPlayer `player`</dt>
-  <dd></dd>
+forWhichPlayer `player`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>facing `real`</dt>
-  <dd></dd>
-</dl>
+facing `real`
+: 

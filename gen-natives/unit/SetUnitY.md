@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitY takes unit whichUnit, real newY returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>newY `real`</dt>
-  <dd></dd>
-</dl>
+newY `real`
+: 
 
 ## Notes 
 If the unit has movementspeed of zero the unit will be moved but the modelof the unit will not move.

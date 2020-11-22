@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsItemIdPawnable takes integer itemId returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>itemId `integer`</dt>
-  <dd></dd>
-</dl>
+itemId `integer`
+: 

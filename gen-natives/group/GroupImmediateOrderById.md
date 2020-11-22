@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupImmediateOrderById takes group whichGroup, integer order returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>order `integer`</dt>
-  <dd></dd>
-</dl>
+order `integer`
+: 

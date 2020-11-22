@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitSuspendDecay takes unit whichUnit, boolean suspend returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>suspend `boolean`</dt>
-  <dd></dd>
-</dl>
+suspend `boolean`
+: 

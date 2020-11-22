@@ -11,18 +11,16 @@ Draws a random itemid from the itempool and creates the item.
 
 ## Declaration
 
-```
+```jass
 native PlaceRandomItem takes itempool whichItemPool, real x, real y returns item
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItemPool `itempool`</dt>
-  <dd>The itempool to draw from</dd>
+whichItemPool `itempool`
+: The itempool to draw from
 
-  <dt>x `real`</dt>
-  <dd>The x-coordinate of the item</dd>
+x `real`
+: The x-coordinate of the item
 
-  <dt>y `real`</dt>
-  <dd>The y-coordinate of the item</dd>
-</dl>
+y `real`
+: The y-coordinate of the item

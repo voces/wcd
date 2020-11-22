@@ -11,21 +11,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IssuePointOrderById takes unit whichUnit, integer order, real x, real y returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>order `integer`</dt>
-  <dd></dd>
+order `integer`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

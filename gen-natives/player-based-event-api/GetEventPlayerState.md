@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetEventPlayerState takes nothing returns playerstate
 ```

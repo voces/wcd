@@ -12,15 +12,13 @@ Case and slash insensitive hash function.`StringHash("\\") == StringHash("/")``S
 
 ## Declaration
 
-```
+```jass
 native StringHash takes string s returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>s `string`</dt>
-  <dd></dd>
-</dl>
+s `string`
+: 
 
 ## Notes 
 See<http://www.hiveworkshop.com/forums/w-277/b-213272/>for the source-code of StringHash.

@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsUnitInGroup takes unit whichUnit, group whichGroup returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
-</dl>
+whichGroup `group`
+: 

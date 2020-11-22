@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TimerGetTimeout takes timer whichTimer returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTimer `timer`</dt>
-  <dd></dd>
-</dl>
+whichTimer `timer`
+: 

@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native EnableMinimapFilterButtons takes boolean enableAlly, boolean enableCreep returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>enableAlly `boolean`</dt>
-  <dd></dd>
+enableAlly `boolean`
+: 
 
-  <dt>enableCreep `boolean`</dt>
-  <dd></dd>
-</dl>
+enableCreep `boolean`
+: 

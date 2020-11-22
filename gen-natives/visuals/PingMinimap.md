@@ -8,18 +8,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native PingMinimap takes real x, real y, real duration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>duration `real`</dt>
-  <dd></dd>
-</dl>
+duration `real`
+: 

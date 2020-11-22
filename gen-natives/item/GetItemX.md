@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetItemX takes item i returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>i `item`</dt>
-  <dd></dd>
-</dl>
+i `item`
+: 

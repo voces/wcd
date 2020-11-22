@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitMaxHP takes unit whichUnit, integer hp returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>hp `integer`</dt>
-  <dd></dd>
-</dl>
+hp `integer`
+: 

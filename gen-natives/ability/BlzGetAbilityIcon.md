@@ -10,12 +10,10 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityIcon takes integer abilCode returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>abilCode `integer`</dt>
-  <dd></dd>
-</dl>
+abilCode `integer`
+: 

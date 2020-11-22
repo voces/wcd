@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetOrderPointLoc takes nothing returns location
 ```

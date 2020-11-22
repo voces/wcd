@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetLightningColorG takes lightning whichBolt returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichBolt `lightning`</dt>
-  <dd></dd>
-</dl>
+whichBolt `lightning`
+: 

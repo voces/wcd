@@ -9,12 +9,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzEnableTargetIndicator takes boolean enable returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>enable `boolean`</dt>
-  <dd></dd>
-</dl>
+enable `boolean`
+: 

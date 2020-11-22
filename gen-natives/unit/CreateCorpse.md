@@ -12,24 +12,22 @@ Creates the corpse of a specific unit for a player at the coordinates ( x , y ).
 
 ## Declaration
 
-```
+```jass
 native CreateCorpse takes player whichPlayer, integer unitid, real x, real y, real face returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd>The owner of the corpse.</dd>
+whichPlayer `player`
+: The owner of the corpse.
 
-  <dt>unitid `integer`</dt>
-  <dd>The rawcode of the unit for the corpse.</dd>
+unitid `integer`
+: The rawcode of the unit for the corpse.
 
-  <dt>x `real`</dt>
-  <dd>The x-coordinate of the corpse.</dd>
+x `real`
+: The x-coordinate of the corpse.
 
-  <dt>y `real`</dt>
-  <dd>The y-coordinate of the corpse.</dd>
+y `real`
+: The y-coordinate of the corpse.
 
-  <dt>face `real`</dt>
-  <dd>Unit facing in degrees.</dd>
-</dl>
+face `real`
+: Unit facing in degrees.

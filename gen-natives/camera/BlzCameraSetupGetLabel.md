@@ -10,12 +10,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzCameraSetupGetLabel takes camerasetup whichSetup returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSetup `camerasetup`</dt>
-  <dd></dd>
-</dl>
+whichSetup `camerasetup`
+: 

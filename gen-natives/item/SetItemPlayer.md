@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemPlayer takes item whichItem, player whichPlayer, boolean changeColor returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>changeColor `boolean`</dt>
-  <dd></dd>
-</dl>
+changeColor `boolean`
+: 

@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitAnimationWithRarity takes unit whichUnit, string whichAnimation, raritycontrol rarity returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichAnimation `string`</dt>
-  <dd></dd>
+whichAnimation `string`
+: 
 
-  <dt>rarity `raritycontrol`</dt>
-  <dd></dd>
-</dl>
+rarity `raritycontrol`
+: 

@@ -9,6 +9,6 @@ Creates a new camerasetup object with the following default values.|            
 
 ## Declaration
 
-```
+```jass
 native CreateCameraSetup takes nothing returns camerasetup
 ```

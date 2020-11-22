@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetUnitRallyDestructable takes unit whichUnit returns destructable
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

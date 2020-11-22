@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsNoVictoryCheat takes nothing returns boolean
 ```

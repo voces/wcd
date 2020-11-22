@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetUnitPointValueByType takes integer unitType returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>unitType `integer`</dt>
-  <dd></dd>
-</dl>
+unitType `integer`
+: 

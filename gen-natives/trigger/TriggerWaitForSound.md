@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerWaitForSound takes sound s, real offset returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>s `sound`</dt>
-  <dd></dd>
+s `sound`
+: 
 
-  <dt>offset `real`</dt>
-  <dd></dd>
-</dl>
+offset `real`
+: 

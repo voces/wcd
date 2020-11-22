@@ -9,12 +9,10 @@ Calls the actions of a trigger in a new execution context. Control will return t
 
 ## Declaration
 
-```
+```jass
 native TriggerExecute takes trigger whichTrigger returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
-</dl>
+whichTrigger `trigger`
+: 

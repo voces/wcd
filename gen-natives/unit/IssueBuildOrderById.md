@@ -11,21 +11,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IssueBuildOrderById takes unit whichPeon, integer unitId, real x, real y returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPeon `unit`</dt>
-  <dd></dd>
+whichPeon `unit`
+: 
 
-  <dt>unitId `integer`</dt>
-  <dd></dd>
+unitId `integer`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

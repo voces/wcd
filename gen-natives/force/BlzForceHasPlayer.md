@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzForceHasPlayer takes force whichForce, player whichPlayer returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichForce `force`</dt>
-  <dd></dd>
+whichForce `force`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

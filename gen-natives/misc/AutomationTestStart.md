@@ -9,12 +9,10 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native AutomationTestStart takes string testName returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>testName `string`</dt>
-  <dd></dd>
-</dl>
+testName `string`
+: 

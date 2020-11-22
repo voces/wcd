@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetItemStringField takes item whichItem, itemstringfield whichField returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>whichField `itemstringfield`</dt>
-  <dd></dd>
-</dl>
+whichField `itemstringfield`
+: 

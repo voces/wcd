@@ -10,15 +10,13 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 native BlzBitOr takes integer x, integer y returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>x `integer`</dt>
-  <dd></dd>
+x `integer`
+: 
 
-  <dt>y `integer`</dt>
-  <dd></dd>
-</dl>
+y `integer`
+: 

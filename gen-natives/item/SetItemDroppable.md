@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemDroppable takes item i, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>i `item`</dt>
-  <dd></dd>
+i `item`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

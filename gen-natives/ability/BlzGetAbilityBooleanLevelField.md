@@ -12,18 +12,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityBooleanLevelField takes ability whichAbility, abilitybooleanlevelfield whichField, integer level returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAbility `ability`</dt>
-  <dd></dd>
+whichAbility `ability`
+: 
 
-  <dt>whichField `abilitybooleanlevelfield`</dt>
-  <dd></dd>
+whichField `abilitybooleanlevelfield`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
-</dl>
+level `integer`
+: 

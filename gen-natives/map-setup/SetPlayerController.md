@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerController takes player whichPlayer, mapcontrol controlType returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>controlType `mapcontrol`</dt>
-  <dd></dd>
-</dl>
+controlType `mapcontrol`
+: 

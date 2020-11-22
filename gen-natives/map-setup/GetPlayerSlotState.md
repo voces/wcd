@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetPlayerSlotState takes player whichPlayer returns playerslotstate
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetRandomReal takes real lowBound, real highBound returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>lowBound `real`</dt>
-  <dd></dd>
+lowBound `real`
+: 
 
-  <dt>highBound `real`</dt>
-  <dd></dd>
-</dl>
+highBound `real`
+: 

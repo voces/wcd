@@ -10,6 +10,6 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native BlzIsLocalClientActive takes nothing returns boolean
 ```

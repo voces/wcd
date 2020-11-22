@@ -10,15 +10,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzSetItemSkin takes item whichItem, integer skinId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>skinId `integer`</dt>
-  <dd></dd>
-</dl>
+skinId `integer`
+: 

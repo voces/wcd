@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsUnitInRangeXY takes unit whichUnit, real x, real y, real distance returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>distance `real`</dt>
-  <dd></dd>
-</dl>
+distance `real`
+: 

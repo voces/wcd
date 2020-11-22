@@ -13,24 +13,22 @@ Creates the special effect in location where with Z = 0 using the model filefrom
 
 ## Declaration
 
-```
+```jass
 native AddSpellEffectByIdLoc takes integer abilityId, effecttype t,location where returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
+abilityId `integer`
+: 
 
-  <dt>tlocation `effecttype`</dt>
-  <dd></dd>
+tlocation `effecttype`
+: 
 
-  <dt>returns `where`</dt>
-  <dd></dd>
+returns `where`
+: 
 
-  <dt>undefined `effect`</dt>
-  <dd></dd>
-</dl>
+undefined `effect`
+: 
 
 ## Notes 
 To create an effect with a z-position not zero see<http://www.hiveworkshop.com/forums/1561722-post10.html>.

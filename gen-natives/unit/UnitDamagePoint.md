@@ -13,45 +13,43 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitDamagePoint takes unit whichUnit, real delay, real radius, real x, real y, real amount, boolean attack, boolean ranged, attacktype attackType, damagetype damageType, weapontype weaponType returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>delay `real`</dt>
-  <dd></dd>
+delay `real`
+: 
 
-  <dt>radius `real`</dt>
-  <dd></dd>
+radius `real`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>amount `real`</dt>
-  <dd></dd>
+amount `real`
+: 
 
-  <dt>attack `boolean`</dt>
-  <dd></dd>
+attack `boolean`
+: 
 
-  <dt>ranged `boolean`</dt>
-  <dd></dd>
+ranged `boolean`
+: 
 
-  <dt>attackType `attacktype`</dt>
-  <dd></dd>
+attackType `attacktype`
+: 
 
-  <dt>damageType `damagetype`</dt>
-  <dd></dd>
+damageType `damagetype`
+: 
 
-  <dt>weaponType `weapontype`</dt>
-  <dd></dd>
-</dl>
+weaponType `weapontype`
+: 
 
 ## Bugs 
 Has been known to cause crashes in battle.net

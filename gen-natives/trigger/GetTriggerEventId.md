@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetTriggerEventId takes nothing returns eventid
 ```

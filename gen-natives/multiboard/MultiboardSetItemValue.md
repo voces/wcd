@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemValue takes multiboarditem mbi, string val returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>mbi `multiboarditem`</dt>
-  <dd></dd>
+mbi `multiboarditem`
+: 
 
-  <dt>val `string`</dt>
-  <dd></dd>
-</dl>
+val `string`
+: 

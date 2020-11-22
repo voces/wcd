@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTextTagVelocity takes texttag t, real xvel, real yvel returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>t `texttag`</dt>
-  <dd></dd>
+t `texttag`
+: 
 
-  <dt>xvel `real`</dt>
-  <dd></dd>
+xvel `real`
+: 
 
-  <dt>yvel `real`</dt>
-  <dd></dd>
-</dl>
+yvel `real`
+: 

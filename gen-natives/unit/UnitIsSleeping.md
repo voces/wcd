@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitIsSleeping takes unit whichUnit returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

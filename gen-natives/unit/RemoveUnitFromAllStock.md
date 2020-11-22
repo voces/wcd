@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native RemoveUnitFromAllStock takes integer unitId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>unitId `integer`</dt>
-  <dd></dd>
-</dl>
+unitId `integer`
+: 

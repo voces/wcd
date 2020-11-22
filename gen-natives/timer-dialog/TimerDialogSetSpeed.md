@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TimerDialogSetSpeed takes timerdialog whichDialog, real speedMultFactor returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichDialog `timerdialog`</dt>
-  <dd></dd>
+whichDialog `timerdialog`
+: 
 
-  <dt>speedMultFactor `real`</dt>
-  <dd></dd>
-</dl>
+speedMultFactor `real`
+: 

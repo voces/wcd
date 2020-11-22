@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateMIDISound takes string soundLabel, integer fadeInRate, integer fadeOutRate returns sound
 ```
 
 ## Parameters
-<dl>
-  <dt>soundLabel `string`</dt>
-  <dd></dd>
+soundLabel `string`
+: 
 
-  <dt>fadeInRate `integer`</dt>
-  <dd></dd>
+fadeInRate `integer`
+: 
 
-  <dt>fadeOutRate `integer`</dt>
-  <dd></dd>
-</dl>
+fadeOutRate `integer`
+: 

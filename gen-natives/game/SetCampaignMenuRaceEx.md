@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetCampaignMenuRaceEx takes integer campaignIndex returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>campaignIndex `integer`</dt>
-  <dd></dd>
-</dl>
+campaignIndex `integer`
+: 

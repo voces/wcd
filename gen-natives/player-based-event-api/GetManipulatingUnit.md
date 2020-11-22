@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetManipulatingUnit takes nothing returns unit
 ```

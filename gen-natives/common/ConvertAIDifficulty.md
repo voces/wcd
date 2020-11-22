@@ -11,12 +11,10 @@ Returns the aidifficulty that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertAIDifficulty takes integer i returns aidifficulty
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the aidifficulty</dd>
-</dl>
+i `integer`
+: The integer representation of the aidifficulty

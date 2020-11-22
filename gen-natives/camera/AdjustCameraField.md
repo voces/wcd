@@ -10,18 +10,16 @@ Changes one of the game camera's options whichField by offset over duration seco
 
 ## Declaration
 
-```
+```jass
 native AdjustCameraField takes camerafield whichField, real offset, real duration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichField `camerafield`</dt>
-  <dd></dd>
+whichField `camerafield`
+: 
 
-  <dt>offset `real`</dt>
-  <dd></dd>
+offset `real`
+: 
 
-  <dt>duration `real`</dt>
-  <dd></dd>
-</dl>
+duration `real`
+: 

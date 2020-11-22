@@ -11,12 +11,10 @@ Return-value for the local players camera only.
 
 ## Declaration
 
-```
+```jass
 constant native GetCameraField takes camerafield whichField returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichField `camerafield`</dt>
-  <dd></dd>
-</dl>
+whichField `camerafield`
+: 

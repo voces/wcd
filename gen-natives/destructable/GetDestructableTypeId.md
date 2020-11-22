@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetDestructableTypeId takes destructable d returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
-</dl>
+d `destructable`
+: 

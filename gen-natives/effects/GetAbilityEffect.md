@@ -11,21 +11,19 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 native GetAbilityEffect takes string abilityString, effecttype t, integer index returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityString `string`</dt>
-  <dd></dd>
+abilityString `string`
+: 
 
-  <dt>t `effecttype`</dt>
-  <dd></dd>
+t `effecttype`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 
 
 ## Notes 
 No one knows what abilityString is supposed to be.

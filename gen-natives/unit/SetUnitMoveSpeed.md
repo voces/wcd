@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitMoveSpeed takes unit whichUnit, real newSpeed returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>newSpeed `real`</dt>
-  <dd></dd>
-</dl>
+newSpeed `real`
+: 

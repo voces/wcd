@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTextTagFadepoint takes texttag t, real fadepoint returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>t `texttag`</dt>
-  <dd></dd>
+t `texttag`
+: 
 
-  <dt>fadepoint `real`</dt>
-  <dd></dd>
-</dl>
+fadepoint `real`
+: 

@@ -11,18 +11,16 @@ Adds the amount to the units available skill points. Calling with a negativenumb
 
 ## Declaration
 
-```
+```jass
 native UnitModifySkillPoints takes unit whichHero, integer skillPointDelta returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>skillPointDelta `integer`</dt>
-  <dd></dd>
-</dl>
+skillPointDelta `integer`
+: 
 
 ## Notes 
 If`skillPointDelta`is greater than the amount of skillpoints the heroactually can spend (like 9 for three 3-level abilities) only that amount willbe added. Negative`skillPointDelta`works as expected.

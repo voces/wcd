@@ -10,18 +10,16 @@ Applies the camerasetup with a custom z-offset, altering the current camera'sfie
 
 ## Declaration
 
-```
+```jass
 native CameraSetupApplyWithZ takes camerasetup whichSetup, real zDestOffset returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSetup `camerasetup`</dt>
-  <dd>The camerasetup to apply.</dd>
+whichSetup `camerasetup`
+: The camerasetup to apply.
 
-  <dt>zDestOffset `real`</dt>
-  <dd>The camera's z-offset will gradually change to this value over the specified duration.</dd>
-</dl>
+zDestOffset `real`
+: The camera's z-offset will gradually change to this value over the specified duration.
 
 ## Bugs 
 If a player pauses the game after the camerasetup has been applied, thez-offset of the game camera will change to the z-offset of the camerasetup for that player.

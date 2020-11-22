@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetUnitFoodUsed takes unit whichUnit returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

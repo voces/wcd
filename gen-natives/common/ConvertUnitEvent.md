@@ -11,12 +11,10 @@ Returns the unitevent that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertUnitEvent takes integer i returns unitevent
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the unitevent</dd>
-</dl>
+i `integer`
+: The integer representation of the unitevent

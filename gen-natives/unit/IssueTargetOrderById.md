@@ -11,18 +11,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IssueTargetOrderById takes unit whichUnit, integer order, widget targetWidget returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>order `integer`</dt>
-  <dd></dd>
+order `integer`
+: 
 
-  <dt>targetWidget `widget`</dt>
-  <dd></dd>
-</dl>
+targetWidget `widget`
+: 

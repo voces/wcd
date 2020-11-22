@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitPoolAddUnitType takes unitpool whichPool, integer unitId, real weight returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPool `unitpool`</dt>
-  <dd></dd>
+whichPool `unitpool`
+: 
 
-  <dt>unitId `integer`</dt>
-  <dd></dd>
+unitId `integer`
+: 
 
-  <dt>weight `real`</dt>
-  <dd></dd>
-</dl>
+weight `real`
+: 

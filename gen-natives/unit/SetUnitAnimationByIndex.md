@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitAnimationByIndex takes unit whichUnit, integer whichAnimation returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichAnimation `integer`</dt>
-  <dd></dd>
-</dl>
+whichAnimation `integer`
+: 

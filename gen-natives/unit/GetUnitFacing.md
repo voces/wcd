@@ -10,12 +10,10 @@ Returns the units facing in degrees.
 
 ## Declaration
 
-```
+```jass
 constant native GetUnitFacing takes unit whichUnit returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

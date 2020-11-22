@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardGetLabelText takes leaderboard lb returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
-</dl>
+lb `leaderboard`
+: 

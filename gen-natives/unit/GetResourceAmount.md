@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetResourceAmount takes unit whichUnit returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

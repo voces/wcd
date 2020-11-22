@@ -9,12 +9,10 @@ Does the same as`TriggerExecute`but if the caller has been marked with`TriggerWa
 
 ## Declaration
 
-```
+```jass
 native TriggerExecuteWait takes trigger whichTrigger returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
-</dl>
+whichTrigger `trigger`
+: 

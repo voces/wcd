@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetStartLocPrio takes integer whichStartLoc, integer prioSlotIndex returns startlocprio
 ```
 
 ## Parameters
-<dl>
-  <dt>whichStartLoc `integer`</dt>
-  <dd></dd>
+whichStartLoc `integer`
+: 
 
-  <dt>prioSlotIndex `integer`</dt>
-  <dd></dd>
-</dl>
+prioSlotIndex `integer`
+: 

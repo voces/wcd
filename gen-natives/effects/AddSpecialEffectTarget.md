@@ -11,21 +11,19 @@ Attaches the special effect to the attachment point attachPointName of thetarget
 
 ## Declaration
 
-```
+```jass
 native AddSpecialEffectTarget takes string modelName, widget targetWidget, string attachPointName returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>modelName `string`</dt>
-  <dd>The path of the model. Use double backslashes when specifyinga directory, rather than single backslashes. See AddSpecialEffect for an example.</dd>
+modelName `string`
+: The path of the model. Use double backslashes when specifyinga directory, rather than single backslashes. See AddSpecialEffect for an example.
 
-  <dt>targetWidget `widget`</dt>
-  <dd>The widget to attach the effect to.</dd>
+targetWidget `widget`
+: The widget to attach the effect to.
 
-  <dt>attachPointName `string`</dt>
-  <dd>The attachment point of the widget where the effect willbe placed. Attachment points are points in a model that can be referenced to asareas for effects to be attached, whether it be from a spell or this function.A list of common attachment points in in-game Warcraft 3 models can be seen below.If the attachment point does not exist, it will attach the effect to the model's origin.</dd>
-</dl>
+attachPointName `string`
+: The attachment point of the widget where the effect willbe placed. Attachment points are points in a model that can be referenced to asareas for effects to be attached, whether it be from a spell or this function.A list of common attachment points in in-game Warcraft 3 models can be seen below.If the attachment point does not exist, it will attach the effect to the model's origin.
 
 ## Notes 
 Strings such as "Large" and "Medium" affect effects' sizes on the widgetit is attached to. You can add or remove these by going to the object editor andmodifying "Art - Required Animation Names - Attachments" for a particular unityou are attaching effects to.

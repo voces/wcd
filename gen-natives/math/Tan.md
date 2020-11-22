@@ -10,12 +10,10 @@ Takes a real value input in radians and returns its tangent value.
 
 ## Declaration
 
-```
+```jass
 native Tan takes real radians returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>radians `real`</dt>
-  <dd>The input radians.</dd>
-</dl>
+radians `real`
+: The input radians.

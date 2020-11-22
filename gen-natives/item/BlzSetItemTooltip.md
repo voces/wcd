@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetItemTooltip takes item whichItem, string tooltip returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>tooltip `string`</dt>
-  <dd></dd>
-</dl>
+tooltip `string`
+: 

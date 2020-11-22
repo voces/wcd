@@ -3,10 +3,7 @@ import commonjs from "@rollup/plugin-commonjs";
 import json from "@rollup/plugin-json";
 import resolve from "@rollup/plugin-node-resolve";
 import replace from "@rollup/plugin-replace";
-import livereload from "rollup-plugin-livereload";
-// import html from '@rollup/plugin-html';
 import scss from "rollup-plugin-scss";
-import serve from "rollup-plugin-serve";
 import { terser } from "rollup-plugin-terser";
 
 const isProd = process.env.NODE_ENV === "production";
@@ -25,12 +22,8 @@ export default {
 			),
 		}),
 		json(),
-		resolve({
-			extensions,
-		}),
-		commonjs({
-			include: /node_modules/,
-		}),
+		resolve({ extensions }),
+		commonjs({ include: /node_modules/ }),
 		babel({
 			extensions,
 			exclude: /node_modules/,
@@ -63,17 +56,7 @@ export default {
 				],
 			],
 		}),
-		scss({
-			output: "assets/css/theme.css",
-		}),
+		scss({ output: "assets/css/theme.css" }),
 		isProd && terser(),
-		!isProd &&
-			serve({
-				host: "localhost",
-				port: 3000,
-				historyApiFallback: "/wcd/index.html",
-				contentBase: [".."],
-			}),
-		!isProd && livereload(),
 	],
 };

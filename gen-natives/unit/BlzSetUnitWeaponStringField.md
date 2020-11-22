@@ -13,21 +13,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitWeaponStringField takes unit whichUnit, unitweaponstringfield whichField, integer index, string value returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichField `unitweaponstringfield`</dt>
-  <dd></dd>
+whichField `unitweaponstringfield`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
+index `integer`
+: 
 
-  <dt>value `string`</dt>
-  <dd></dd>
-</dl>
+value `string`
+: 

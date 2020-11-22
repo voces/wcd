@@ -11,18 +11,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetModel takes framehandle frame, string modelFile, integer cameraIndex returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>modelFile `string`</dt>
-  <dd></dd>
+modelFile `string`
+: 
 
-  <dt>cameraIndex `integer`</dt>
-  <dd></dd>
-</dl>
+cameraIndex `integer`
+: 

@@ -12,18 +12,16 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native TriggerRegisterCommandEvent takes trigger whichTrigger, integer whichAbility, string order returns event
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>whichAbility `integer`</dt>
-  <dd></dd>
+whichAbility `integer`
+: 
 
-  <dt>order `string`</dt>
-  <dd></dd>
-</dl>
+order `string`
+: 

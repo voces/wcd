@@ -11,15 +11,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitAttackCooldown takes unit whichUnit, integer weaponIndex returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>weaponIndex `integer`</dt>
-  <dd></dd>
-</dl>
+weaponIndex `integer`
+: 

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetGameTypeSupported takes gametype whichGameType, boolean value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGameType `gametype`</dt>
-  <dd></dd>
+whichGameType `gametype`
+: 
 
-  <dt>value `boolean`</dt>
-  <dd></dd>
-</dl>
+value `boolean`
+: 

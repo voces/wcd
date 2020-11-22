@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DestroyFilter takes filterfunc f returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>f `filterfunc`</dt>
-  <dd></dd>
-</dl>
+f `filterfunc`
+: 
 
 ## Notes 
 Only call this on filterfunc created via`And`,`Or`,`Not`.

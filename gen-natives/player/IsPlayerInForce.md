@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsPlayerInForce takes player whichPlayer, force whichForce returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>whichForce `force`</dt>
-  <dd></dd>
-</dl>
+whichForce `force`
+: 

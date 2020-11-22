@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native VolumeGroupSetVolume takes volumegroup vgroup, real scale returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>vgroup `volumegroup`</dt>
-  <dd></dd>
+vgroup `volumegroup`
+: 
 
-  <dt>scale `real`</dt>
-  <dd></dd>
-</dl>
+scale `real`
+: 

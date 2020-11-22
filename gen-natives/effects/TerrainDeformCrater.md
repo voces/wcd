@@ -12,30 +12,28 @@ Create a crater at the given coordinates.
 
 ## Declaration
 
-```
+```jass
 native TerrainDeformCrater takes real x, real y, real radius, real depth, integer duration, boolean permanent returns terraindeformation
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd>The x coordinate of the craters center</dd>
+x `real`
+: The x coordinate of the craters center
 
-  <dt>y `real`</dt>
-  <dd>The y coordinate of the craters center</dd>
+y `real`
+: The y coordinate of the craters center
 
-  <dt>radius `real`</dt>
-  <dd>The radius of the crater</dd>
+radius `real`
+: The radius of the crater
 
-  <dt>depth `real`</dt>
-  <dd>The depth of the crater</dd>
+depth `real`
+: The depth of the crater
 
-  <dt>duration `integer`</dt>
-  <dd>The duration in milliseconds.</dd>
+duration `integer`
+: The duration in milliseconds.
 
-  <dt>permanent `boolean`</dt>
-  <dd>Make the deformation permanent.</dd>
-</dl>
+permanent `boolean`
+: Make the deformation permanent.
 
 ## Notes 
 To approximate the resulting height of a point`distance`units away from thecenter point`(x, y)`you can use the following formula:`Cos(bj_PI/2 * distance / radius) * -depth`. See this [issue](https://github.com/lep/jassdoc/issues/31) for some more information.

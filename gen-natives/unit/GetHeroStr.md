@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetHeroStr takes unit whichHero, boolean includeBonuses returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>includeBonuses `boolean`</dt>
-  <dd></dd>
-</dl>
+includeBonuses `boolean`
+: 

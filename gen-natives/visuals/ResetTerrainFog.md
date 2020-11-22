@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ResetTerrainFog takes nothing returns nothing
 ```

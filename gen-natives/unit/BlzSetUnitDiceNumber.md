@@ -10,18 +10,16 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitDiceNumber takes unit whichUnit, integer diceNumber, integer weaponIndex returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>diceNumber `integer`</dt>
-  <dd></dd>
+diceNumber `integer`
+: 
 
-  <dt>weaponIndex `integer`</dt>
-  <dd></dd>
-</dl>
+weaponIndex `integer`
+: 

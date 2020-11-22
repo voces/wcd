@@ -10,15 +10,13 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native GetLocationZ takes location whichLocation returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichLocation `location`</dt>
-  <dd></dd>
-</dl>
+whichLocation `location`
+: 
 
 ## Notes 
 This function is asynchronous. The values it returns are not guaranteed synchronous between each player.If you attempt to use it in a synchronous manner, it may cause a desync.

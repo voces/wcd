@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native StoreBoolean takes gamecache cache, string missionKey, string key, boolean value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>cache `gamecache`</dt>
-  <dd></dd>
+cache `gamecache`
+: 
 
-  <dt>missionKey `string`</dt>
-  <dd></dd>
+missionKey `string`
+: 
 
-  <dt>key `string`</dt>
-  <dd></dd>
+key `string`
+: 
 
-  <dt>value `boolean`</dt>
-  <dd></dd>
-</dl>
+value `boolean`
+: 

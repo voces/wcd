@@ -11,18 +11,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzCreateSimpleFrame takes string name, framehandle owner, integer createContext returns framehandle
 ```
 
 ## Parameters
-<dl>
-  <dt>name `string`</dt>
-  <dd></dd>
+name `string`
+: 
 
-  <dt>owner `framehandle`</dt>
-  <dd></dd>
+owner `framehandle`
+: 
 
-  <dt>createContext `integer`</dt>
-  <dd></dd>
-</dl>
+createContext `integer`
+: 

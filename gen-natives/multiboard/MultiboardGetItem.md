@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardGetItem takes multiboard lb, integer row, integer column returns multiboarditem
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>row `integer`</dt>
-  <dd></dd>
+row `integer`
+: 
 
-  <dt>column `integer`</dt>
-  <dd></dd>
-</dl>
+column `integer`
+: 

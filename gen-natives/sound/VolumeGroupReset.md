@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native VolumeGroupReset takes nothing returns nothing
 ```

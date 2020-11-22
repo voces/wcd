@@ -11,27 +11,25 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetCinematicScene takes integer portraitUnitId, playercolor color, string speakerTitle, string text, real sceneDuration, real voiceoverDuration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>portraitUnitId `integer`</dt>
-  <dd></dd>
+portraitUnitId `integer`
+: 
 
-  <dt>color `playercolor`</dt>
-  <dd></dd>
+color `playercolor`
+: 
 
-  <dt>speakerTitle `string`</dt>
-  <dd></dd>
+speakerTitle `string`
+: 
 
-  <dt>text `string`</dt>
-  <dd></dd>
+text `string`
+: 
 
-  <dt>sceneDuration `real`</dt>
-  <dd></dd>
+sceneDuration `real`
+: 
 
-  <dt>voiceoverDuration `real`</dt>
-  <dd></dd>
-</dl>
+voiceoverDuration `real`
+: 

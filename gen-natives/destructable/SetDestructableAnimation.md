@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetDestructableAnimation takes destructable d, string whichAnimation returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
+d `destructable`
+: 
 
-  <dt>whichAnimation `string`</dt>
-  <dd></dd>
-</dl>
+whichAnimation `string`
+: 

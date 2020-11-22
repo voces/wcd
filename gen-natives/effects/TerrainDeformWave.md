@@ -10,42 +10,40 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TerrainDeformWave takes real x, real y, real dirX, real dirY, real distance, real speed, real radius, real depth, integer trailTime, integer count returns terraindeformation
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>dirX `real`</dt>
-  <dd></dd>
+dirX `real`
+: 
 
-  <dt>dirY `real`</dt>
-  <dd></dd>
+dirY `real`
+: 
 
-  <dt>distance `real`</dt>
-  <dd></dd>
+distance `real`
+: 
 
-  <dt>speed `real`</dt>
-  <dd></dd>
+speed `real`
+: 
 
-  <dt>radius `real`</dt>
-  <dd></dd>
+radius `real`
+: 
 
-  <dt>depth `real`</dt>
-  <dd></dd>
+depth `real`
+: 
 
-  <dt>trailTime `integer`</dt>
-  <dd></dd>
+trailTime `integer`
+: 
 
-  <dt>count `integer`</dt>
-  <dd></dd>
-</dl>
+count `integer`
+: 
 
 ## Notes 
 Permanent terrain deformations are not present in saved game files.

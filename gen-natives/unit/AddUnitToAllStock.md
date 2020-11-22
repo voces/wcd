@@ -8,18 +8,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native AddUnitToAllStock takes integer unitId, integer currentStock, integer stockMax returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>unitId `integer`</dt>
-  <dd></dd>
+unitId `integer`
+: 
 
-  <dt>currentStock `integer`</dt>
-  <dd></dd>
+currentStock `integer`
+: 
 
-  <dt>stockMax `integer`</dt>
-  <dd></dd>
-</dl>
+stockMax `integer`
+: 

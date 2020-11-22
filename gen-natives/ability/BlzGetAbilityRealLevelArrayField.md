@@ -12,21 +12,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityRealLevelArrayField takes ability whichAbility, abilityreallevelarrayfield whichField, integer level, integer index returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAbility `ability`</dt>
-  <dd></dd>
+whichAbility `ability`
+: 
 
-  <dt>whichField `abilityreallevelarrayfield`</dt>
-  <dd></dd>
+whichField `abilityreallevelarrayfield`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
+level `integer`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 

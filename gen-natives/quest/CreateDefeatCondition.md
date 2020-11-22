@@ -9,7 +9,7 @@ Defeat conditions tell players what conditions would warrant a defeat.They are s
 
 ## Declaration
 
-```
+```jass
 native CreateDefeatCondition takes nothing returns defeatcondition
 ```
 

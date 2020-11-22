@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetEventDamageSource takes nothing returns unit
 ```

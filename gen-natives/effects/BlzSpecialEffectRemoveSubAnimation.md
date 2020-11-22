@@ -10,15 +10,13 @@ patch: 1.30
 
 ## Declaration
 
-```
+```jass
 native BlzSpecialEffectRemoveSubAnimation takes effect whichEffect, subanimtype whichSubAnim returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>whichSubAnim `subanimtype`</dt>
-  <dd></dd>
-</dl>
+whichSubAnim `subanimtype`
+: 

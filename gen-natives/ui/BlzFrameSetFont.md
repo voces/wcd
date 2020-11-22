@@ -12,21 +12,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetFont takes framehandle frame, string fileName, real height, integer flags returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>fileName `string`</dt>
-  <dd></dd>
+fileName `string`
+: 
 
-  <dt>height `real`</dt>
-  <dd></dd>
+height `real`
+: 
 
-  <dt>flags `integer`</dt>
-  <dd></dd>
-</dl>
+flags `integer`
+: 

@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetTextSizeLimit takes framehandle frame, integer size returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>size `integer`</dt>
-  <dd></dd>
-</dl>
+size `integer`
+: 

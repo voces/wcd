@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetEnumPlayer takes nothing returns player
 ```

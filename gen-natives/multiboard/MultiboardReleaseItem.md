@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardReleaseItem takes multiboarditem mbi returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>mbi `multiboarditem`</dt>
-  <dd></dd>
-</dl>
+mbi `multiboarditem`
+: 

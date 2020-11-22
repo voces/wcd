@@ -10,18 +10,16 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native IsUnit takes unit whichUnit, unit whichSpecifiedUnit returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichSpecifiedUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichSpecifiedUnit `unit`
+: 
 
 ## Notes 
 Useless. Use operator== instead.

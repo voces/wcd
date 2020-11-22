@@ -11,21 +11,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardAddItem takes leaderboard lb, string label, integer value, player p returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>label `string`</dt>
-  <dd></dd>
+label `string`
+: 
 
-  <dt>value `integer`</dt>
-  <dd></dd>
+value `integer`
+: 
 
-  <dt>p `player`</dt>
-  <dd></dd>
-</dl>
+p `player`
+: 

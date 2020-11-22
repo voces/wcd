@@ -10,15 +10,13 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native AbilityId2String takes integer abilityId returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
-</dl>
+abilityId `integer`
+: 
 
 ## Bugs 
 Not working correctly

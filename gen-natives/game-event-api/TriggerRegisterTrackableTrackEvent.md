@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerRegisterTrackableTrackEvent takes trigger whichTrigger, trackable t returns event
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>t `trackable`</dt>
-  <dd></dd>
-</dl>
+t `trackable`
+: 

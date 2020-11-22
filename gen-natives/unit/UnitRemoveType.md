@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitRemoveType takes unit whichUnit, unittype whichUnitType returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichUnitType `unittype`</dt>
-  <dd></dd>
-</dl>
+whichUnitType `unittype`
+: 

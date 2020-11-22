@@ -10,24 +10,22 @@ Sets the unit's color to the color defined by (red,green,blue,alpha).
 
 ## Declaration
 
-```
+```jass
 native SetUnitVertexColor takes unit whichUnit, integer red, integer green, integer blue, integer alpha returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd>The unit the indicator will be applied to.</dd>
+whichUnit `unit`
+: The unit the indicator will be applied to.
 
-  <dt>red `integer`</dt>
-  <dd>An integer from 0-255 determining the amount of red color.</dd>
+red `integer`
+: An integer from 0-255 determining the amount of red color.
 
-  <dt>green `integer`</dt>
-  <dd>An integer from 0-255 determining the amount of green color.</dd>
+green `integer`
+: An integer from 0-255 determining the amount of green color.
 
-  <dt>blue `integer`</dt>
-  <dd>An integer from 0-255 determining the amount of blue color.</dd>
+blue `integer`
+: An integer from 0-255 determining the amount of blue color.
 
-  <dt>alpha `integer`</dt>
-  <dd>An integer from 0-255 determining the transparency. A value of 0 is complete transparency while a value of 255 is complete opacity.</dd>
-</dl>
+alpha `integer`
+: An integer from 0-255 determining the transparency. A value of 0 is complete transparency while a value of 255 is complete opacity.

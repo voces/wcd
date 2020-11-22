@@ -12,18 +12,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitIntegerField takes unit whichUnit, unitintegerfield whichField, integer value returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichField `unitintegerfield`</dt>
-  <dd></dd>
+whichField `unitintegerfield`
+: 
 
-  <dt>value `integer`</dt>
-  <dd></dd>
-</dl>
+value `integer`
+: 

@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerStructureCount takes player whichPlayer, boolean includeIncomplete returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>includeIncomplete `boolean`</dt>
-  <dd></dd>
-</dl>
+includeIncomplete `boolean`
+: 

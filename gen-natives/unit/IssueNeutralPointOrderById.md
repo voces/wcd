@@ -14,24 +14,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IssueNeutralPointOrderById takes player forWhichPlayer,unit neutralStructure, integer unitId, real x, real y returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>forWhichPlayerunit `player`</dt>
-  <dd></dd>
+forWhichPlayerunit `player`
+: 
 
-  <dt>integer `neutralStructure`</dt>
-  <dd></dd>
+integer `neutralStructure`
+: 
 
-  <dt>real `x`</dt>
-  <dd></dd>
+real `x`
+: 
 
-  <dt>returns `y`</dt>
-  <dd></dd>
+returns `y`
+: 
 
-  <dt>undefined `boolean`</dt>
-  <dd></dd>
-</dl>
+undefined `boolean`
+: 

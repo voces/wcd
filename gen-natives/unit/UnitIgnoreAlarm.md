@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitIgnoreAlarm takes unit whichUnit, boolean flag returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

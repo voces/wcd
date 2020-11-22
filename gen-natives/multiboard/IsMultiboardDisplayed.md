@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsMultiboardDisplayed takes multiboard lb returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
-</dl>
+lb `multiboard`
+: 

@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityRealField takes ability whichAbility, abilityrealfield whichField returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAbility `ability`</dt>
-  <dd></dd>
+whichAbility `ability`
+: 
 
-  <dt>whichField `abilityrealfield`</dt>
-  <dd></dd>
-</dl>
+whichField `abilityrealfield`
+: 

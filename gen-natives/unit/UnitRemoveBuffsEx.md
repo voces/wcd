@@ -9,33 +9,31 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitRemoveBuffsEx takes unit whichUnit, boolean removePositive, boolean removeNegative, boolean magic, boolean physical, boolean timedLife, boolean aura, boolean autoDispel returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>removePositive `boolean`</dt>
-  <dd></dd>
+removePositive `boolean`
+: 
 
-  <dt>removeNegative `boolean`</dt>
-  <dd></dd>
+removeNegative `boolean`
+: 
 
-  <dt>magic `boolean`</dt>
-  <dd></dd>
+magic `boolean`
+: 
 
-  <dt>physical `boolean`</dt>
-  <dd></dd>
+physical `boolean`
+: 
 
-  <dt>timedLife `boolean`</dt>
-  <dd></dd>
+timedLife `boolean`
+: 
 
-  <dt>aura `boolean`</dt>
-  <dd></dd>
+aura `boolean`
+: 
 
-  <dt>autoDispel `boolean`</dt>
-  <dd></dd>
-</dl>
+autoDispel `boolean`
+: 

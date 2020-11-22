@@ -10,12 +10,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerHandicapReviveTime takes player whichPlayer returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

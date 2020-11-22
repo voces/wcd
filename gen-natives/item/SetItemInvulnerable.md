@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemInvulnerable takes item whichItem, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

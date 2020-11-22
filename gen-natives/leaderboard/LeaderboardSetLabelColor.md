@@ -9,24 +9,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardSetLabelColor takes leaderboard lb, integer red, integer green, integer blue, integer alpha returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>red `integer`</dt>
-  <dd></dd>
+red `integer`
+: 
 
-  <dt>green `integer`</dt>
-  <dd></dd>
+green `integer`
+: 
 
-  <dt>blue `integer`</dt>
-  <dd></dd>
+blue `integer`
+: 
 
-  <dt>alpha `integer`</dt>
-  <dd></dd>
-</dl>
+alpha `integer`
+: 

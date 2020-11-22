@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetEventUnitState takes nothing returns unitstate
 ```

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsUnitInTransport takes unit whichUnit, unit whichTransport returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichTransport `unit`</dt>
-  <dd></dd>
-</dl>
+whichTransport `unit`
+: 

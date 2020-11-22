@@ -14,24 +14,22 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzTriggerRegisterPlayerKeyEvent takes trigger whichTrigger, player whichPlayer, oskeytype key, integer metaKey, boolean keyDown returns event
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>key `oskeytype`</dt>
-  <dd></dd>
+key `oskeytype`
+: 
 
-  <dt>metaKey `integer`</dt>
-  <dd></dd>
+metaKey `integer`
+: 
 
-  <dt>keyDown `boolean`</dt>
-  <dd></dd>
-</dl>
+keyDown `boolean`
+: 

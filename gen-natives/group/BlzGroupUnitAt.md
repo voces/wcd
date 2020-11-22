@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGroupUnitAt takes group whichGroup, integer index returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 

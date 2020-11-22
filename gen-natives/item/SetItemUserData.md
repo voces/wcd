@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemUserData takes item whichItem, integer data returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>data `integer`</dt>
-  <dd></dd>
-</dl>
+data `integer`
+: 

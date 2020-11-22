@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetAbilityIcon takes integer abilCode, string iconPath returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>abilCode `integer`</dt>
-  <dd></dd>
+abilCode `integer`
+: 
 
-  <dt>iconPath `string`</dt>
-  <dd></dd>
-</dl>
+iconPath `string`
+: 

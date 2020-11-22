@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardSortItemsByPlayer takes leaderboard lb, boolean ascending returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>ascending `boolean`</dt>
-  <dd></dd>
-</dl>
+ascending `boolean`
+: 

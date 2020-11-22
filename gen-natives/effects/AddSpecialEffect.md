@@ -11,21 +11,19 @@ Creates the special effect in point with coordinates (x;y) with Z = 0 using them
 
 ## Declaration
 
-```
+```jass
 native AddSpecialEffect takes string modelName, real x, real y returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>modelName `string`</dt>
-  <dd></dd>
+modelName `string`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 
 
 ## Notes 
 To create an effect with a z-position not zero see<http://www.hiveworkshop.com/forums/1561722-post10.html>.

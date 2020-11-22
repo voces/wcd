@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetSaveBasicFilename takes nothing returns string
 ```

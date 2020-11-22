@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetEventWeaponType takes weapontype weaponType returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>weaponType `weapontype`</dt>
-  <dd></dd>
-</dl>
+weaponType `weapontype`
+: 

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native FlushStoredMission takes gamecache cache, string missionKey returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>cache `gamecache`</dt>
-  <dd></dd>
+cache `gamecache`
+: 
 
-  <dt>missionKey `string`</dt>
-  <dd></dd>
-</dl>
+missionKey `string`
+: 

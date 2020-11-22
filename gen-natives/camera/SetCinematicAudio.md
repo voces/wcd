@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetCinematicAudio takes boolean cinematicAudio returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>cinematicAudio `boolean`</dt>
-  <dd></dd>
-</dl>
+cinematicAudio `boolean`
+: 

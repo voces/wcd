@@ -11,18 +11,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitDropItemSlot takes unit whichUnit, item whichItem, integer slot returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>slot `integer`</dt>
-  <dd></dd>
-</dl>
+slot `integer`
+: 

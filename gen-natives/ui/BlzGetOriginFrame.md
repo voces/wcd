@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetOriginFrame takes originframetype frameType, integer index returns framehandle
 ```
 
 ## Parameters
-<dl>
-  <dt>frameType `originframetype`</dt>
-  <dd></dd>
+frameType `originframetype`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 

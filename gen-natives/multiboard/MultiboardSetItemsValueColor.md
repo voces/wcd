@@ -10,24 +10,22 @@ Applies the setting to all items.
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemsValueColor takes multiboard lb, integer red, integer green, integer blue, integer alpha returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>red `integer`</dt>
-  <dd></dd>
+red `integer`
+: 
 
-  <dt>green `integer`</dt>
-  <dd></dd>
+green `integer`
+: 
 
-  <dt>blue `integer`</dt>
-  <dd></dd>
+blue `integer`
+: 
 
-  <dt>alpha `integer`</dt>
-  <dd></dd>
-</dl>
+alpha `integer`
+: 

@@ -10,18 +10,16 @@ Returns the rawcode ID of a random item of the specified level and item type.Pas
 
 ## Declaration
 
-```
+```jass
 native ChooseRandomItemEx takes itemtype whichType, integer level returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichType `itemtype`</dt>
-  <dd>The classification of items to choose from.</dd>
+whichType `itemtype`
+: The classification of items to choose from.
 
-  <dt>level `integer`</dt>
-  <dd>The level of the items to choose from. Passing a level of -1 is equivalent to any level.</dd>
-</dl>
+level `integer`
+: The level of the items to choose from. Passing a level of -1 is equivalent to any level.
 
 ## Notes 
 The item returned is not chosen from preplaced items on the map, but rather any item of that level.

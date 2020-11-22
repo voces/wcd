@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsLocationFoggedToPlayer takes location whichLocation, player whichPlayer returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichLocation `location`</dt>
-  <dd></dd>
+whichLocation `location`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

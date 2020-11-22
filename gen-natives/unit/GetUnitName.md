@@ -10,12 +10,10 @@ async: true
 
 ## Declaration
 
-```
+```jass
 constant native GetUnitName takes unit whichUnit returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

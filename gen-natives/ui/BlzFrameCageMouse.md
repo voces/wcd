@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameCageMouse takes framehandle frame, boolean enable returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>enable `boolean`</dt>
-  <dd></dd>
-</dl>
+enable `boolean`
+: 

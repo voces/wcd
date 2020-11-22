@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerName takes player whichPlayer, string name returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>name `string`</dt>
-  <dd></dd>
-</dl>
+name `string`
+: 

@@ -10,12 +10,10 @@ Takes a real value input in radians and returns its cosine value. The domain oft
 
 ## Declaration
 
-```
+```jass
 native Cos takes real radians returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>radians `real`</dt>
-  <dd>The input radians.</dd>
-</dl>
+radians `real`
+: The input radians.

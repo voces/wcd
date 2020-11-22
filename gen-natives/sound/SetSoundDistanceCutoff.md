@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetSoundDistanceCutoff takes sound soundHandle, real cutoff returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>cutoff `real`</dt>
-  <dd></dd>
-</dl>
+cutoff `real`
+: 

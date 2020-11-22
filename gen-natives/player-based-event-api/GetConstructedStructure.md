@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetConstructedStructure takes nothing returns unit
 ```

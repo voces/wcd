@@ -11,18 +11,16 @@ This native is used to keep abilities when morphing units
 
 ## Declaration
 
-```
+```jass
 native UnitMakeAbilityPermanent takes unit whichUnit, boolean permanent, integer abilityId returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>permanent `boolean`</dt>
-  <dd></dd>
+permanent `boolean`
+: 
 
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
-</dl>
+abilityId `integer`
+: 

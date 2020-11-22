@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardMinimize takes multiboard lb, boolean minimize returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>minimize `boolean`</dt>
-  <dd></dd>
-</dl>
+minimize `boolean`
+: 

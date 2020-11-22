@@ -9,30 +9,28 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTerrainFogEx takes integer style, real zstart, real zend, real density, real red, real green, real blue returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>style `integer`</dt>
-  <dd></dd>
+style `integer`
+: 
 
-  <dt>zstart `real`</dt>
-  <dd></dd>
+zstart `real`
+: 
 
-  <dt>zend `real`</dt>
-  <dd></dd>
+zend `real`
+: 
 
-  <dt>density `real`</dt>
-  <dd></dd>
+density `real`
+: 
 
-  <dt>red `real`</dt>
-  <dd></dd>
+red `real`
+: 
 
-  <dt>green `real`</dt>
-  <dd></dd>
+green `real`
+: 
 
-  <dt>blue `real`</dt>
-  <dd></dd>
-</dl>
+blue `real`
+: 

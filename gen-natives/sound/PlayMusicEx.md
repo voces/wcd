@@ -10,21 +10,19 @@ Sets the file as the current music for the map, and plays it.
 
 ## Declaration
 
-```
+```jass
 native PlayMusicEx takes string musicName, integer frommsecs, integer fadeinmsecs returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>musicName `string`</dt>
-  <dd>The path to the music file.</dd>
+musicName `string`
+: The path to the music file.
 
-  <dt>frommsecs `integer`</dt>
-  <dd>At what offset the music starts. In milliseconds.</dd>
+frommsecs `integer`
+: At what offset the music starts. In milliseconds.
 
-  <dt>fadeinmsecs `integer`</dt>
-  <dd>How long the music is faded in. In milliseconds.</dd>
-</dl>
+fadeinmsecs `integer`
+: How long the music is faded in. In milliseconds.
 
 ## Notes 
 Music is on its own channel and can be toggled on and off within the Warcraft III game menu.

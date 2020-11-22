@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupEnumUnitsSelected takes group whichGroup, player whichPlayer, boolexpr filter returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
-</dl>
+filter `boolexpr`
+: 

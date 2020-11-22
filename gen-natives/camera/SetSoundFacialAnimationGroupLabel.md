@@ -11,15 +11,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetSoundFacialAnimationGroupLabel takes sound soundHandle, string groupLabel returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>groupLabel `string`</dt>
-  <dd></dd>
-</dl>
+groupLabel `string`
+: 

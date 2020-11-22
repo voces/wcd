@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DisplayTextToPlayer takes player toPlayer, real x, real y, string message returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>toPlayer `player`</dt>
-  <dd></dd>
+toPlayer `player`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>message `string`</dt>
-  <dd></dd>
-</dl>
+message `string`
+: 

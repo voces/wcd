@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native AddUnitAnimationProperties takes unit whichUnit, string animProperties, boolean add returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>animProperties `string`</dt>
-  <dd></dd>
+animProperties `string`
+: 
 
-  <dt>add `boolean`</dt>
-  <dd></dd>
-</dl>
+add `boolean`
+: 

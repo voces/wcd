@@ -10,12 +10,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzGetItemSkin takes item whichItem returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
-</dl>
+whichItem `item`
+: 

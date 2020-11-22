@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetCreepCampFilterState takes nothing returns boolean
 ```

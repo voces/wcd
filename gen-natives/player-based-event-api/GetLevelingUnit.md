@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetLevelingUnit takes nothing returns unit
 ```

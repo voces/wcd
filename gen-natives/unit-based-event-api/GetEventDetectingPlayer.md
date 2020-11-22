@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetEventDetectingPlayer takes nothing returns player
 ```

@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzStartRecording takes integer fps returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>fps `integer`</dt>
-  <dd></dd>
-</dl>
+fps `integer`
+: 

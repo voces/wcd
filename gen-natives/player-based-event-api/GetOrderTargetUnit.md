@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetOrderTargetUnit takes nothing returns unit
 ```

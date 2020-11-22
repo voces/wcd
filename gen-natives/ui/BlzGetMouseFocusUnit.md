@@ -10,6 +10,6 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native BlzGetMouseFocusUnit takes nothing returns unit
 ```

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemVisible takes item whichItem, boolean show returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>show `boolean`</dt>
-  <dd></dd>
-</dl>
+show `boolean`
+: 

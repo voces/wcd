@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGroupGetSize takes group whichGroup returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
-</dl>
+whichGroup `group`
+: 

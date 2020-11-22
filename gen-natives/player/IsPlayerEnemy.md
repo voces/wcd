@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsPlayerEnemy takes player whichPlayer, player otherPlayer returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>otherPlayer `player`</dt>
-  <dd></dd>
-</dl>
+otherPlayer `player`
+: 

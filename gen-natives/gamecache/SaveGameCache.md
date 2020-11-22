@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SaveGameCache takes gamecache whichCache returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichCache `gamecache`</dt>
-  <dd></dd>
-</dl>
+whichCache `gamecache`
+: 

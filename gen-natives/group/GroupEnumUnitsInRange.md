@@ -10,24 +10,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupEnumUnitsInRange takes group whichGroup, real x, real y, real radius, boolexpr filter returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>radius `real`</dt>
-  <dd></dd>
+radius `real`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
-</dl>
+filter `boolexpr`
+: 

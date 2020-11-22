@@ -9,12 +9,10 @@ Sets the music volume.
 
 ## Declaration
 
-```
+```jass
 native SetMusicVolume takes integer volume returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>volume `integer`</dt>
-  <dd>Volume between 0 and 127.</dd>
-</dl>
+volume `integer`
+: Volume between 0 and 127.

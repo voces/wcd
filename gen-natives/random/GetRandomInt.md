@@ -9,18 +9,16 @@ Returns a random integer in the range [lowBound, highBound].
 
 ## Declaration
 
-```
+```jass
 native GetRandomInt takes integer lowBound, integer highBound returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>lowBound `integer`</dt>
-  <dd>The inclusive lower bound of the random number returned</dd>
+lowBound `integer`
+: The inclusive lower bound of the random number returned
 
-  <dt>highBound `integer`</dt>
-  <dd>The inclusive higher bound of the random number returned</dd>
-</dl>
+highBound `integer`
+: The inclusive higher bound of the random number returned
 
 ## Notes 
 If lowBound>highBound then it just swaps the values.

@@ -11,12 +11,10 @@ Returns the texmapflags that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertTexMapFlags takes integer i returns texmapflags
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the texmapflags</dd>
-</dl>
+i `integer`
+: The integer representation of the texmapflags

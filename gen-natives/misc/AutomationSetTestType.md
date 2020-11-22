@@ -9,12 +9,10 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native AutomationSetTestType takes string testType returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>testType `string`</dt>
-  <dd></dd>
-</dl>
+testType `string`
+: 

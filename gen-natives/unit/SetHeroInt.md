@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetHeroInt takes unit whichHero, integer newInt, boolean permanent returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>newInt `integer`</dt>
-  <dd></dd>
+newInt `integer`
+: 
 
-  <dt>permanent `boolean`</dt>
-  <dd></dd>
-</dl>
+permanent `boolean`
+: 

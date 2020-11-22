@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SelectHeroSkill takes unit whichHero, integer abilcode returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>abilcode `integer`</dt>
-  <dd></dd>
-</dl>
+abilcode `integer`
+: 

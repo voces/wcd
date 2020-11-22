@@ -11,15 +11,13 @@ Triggers when the timer you tell it about expires
 
 ## Declaration
 
-```
+```jass
 native TriggerRegisterTimerExpireEvent takes trigger whichTrigger, timer t returns event
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>t `timer`</dt>
-  <dd></dd>
-</dl>
+t `timer`
+: 

@@ -10,12 +10,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native CreateUpgradeCommandButtonEffect takes integer whichUprgade returns commandbuttoneffect
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUprgade `integer`</dt>
-  <dd></dd>
-</dl>
+whichUprgade `integer`
+: 

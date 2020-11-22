@@ -12,18 +12,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityRealLevelField takes ability whichAbility, abilityreallevelfield whichField, integer level returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAbility `ability`</dt>
-  <dd></dd>
+whichAbility `ability`
+: 
 
-  <dt>whichField `abilityreallevelfield`</dt>
-  <dd></dd>
+whichField `abilityreallevelfield`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
-</dl>
+level `integer`
+: 

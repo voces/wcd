@@ -14,27 +14,25 @@ Creates the special effect in point with coordinates (x;y) with Z = 0 using them
 
 ## Declaration
 
-```
+```jass
 native AddSpellEffectById takes integer abilityId, effecttype t,real x, real y returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
+abilityId `integer`
+: 
 
-  <dt>treal `effecttype`</dt>
-  <dd></dd>
+treal `effecttype`
+: 
 
-  <dt>real `x`</dt>
-  <dd></dd>
+real `x`
+: 
 
-  <dt>returns `y`</dt>
-  <dd></dd>
+returns `y`
+: 
 
-  <dt>undefined `effect`</dt>
-  <dd></dd>
-</dl>
+undefined `effect`
+: 
 
 ## Notes 
 To create an effect with a z-position not zero see<http://www.hiveworkshop.com/forums/1561722-post10.html>.

@@ -9,15 +9,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetEnemyStartLocPrioCount takes integer whichStartLoc, integer prioSlotCount returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichStartLoc `integer`</dt>
-  <dd></dd>
+whichStartLoc `integer`
+: 
 
-  <dt>prioSlotCount `integer`</dt>
-  <dd></dd>
-</dl>
+prioSlotCount `integer`
+: 

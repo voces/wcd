@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemCharges takes item whichItem, integer charges returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>charges `integer`</dt>
-  <dd></dd>
-</dl>
+charges `integer`
+: 

@@ -11,12 +11,10 @@ Returns the gamespeed that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertGameSpeed takes integer i returns gamespeed
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the gamespeed</dd>
-</dl>
+i `integer`
+: The integer representation of the gamespeed

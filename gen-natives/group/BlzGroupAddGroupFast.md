@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGroupAddGroupFast takes group whichGroup, group addGroup returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>addGroup `group`</dt>
-  <dd></dd>
-</dl>
+addGroup `group`
+: 

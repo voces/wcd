@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitSetConstructionProgress takes unit whichUnit, integer constructionPercentage returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>constructionPercentage `integer`</dt>
-  <dd></dd>
-</dl>
+constructionPercentage `integer`
+: 

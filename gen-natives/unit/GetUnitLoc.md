@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetUnitLoc takes unit whichUnit returns location
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 
 
 ## Bugs 
 If the unit is loaded into a zeppelin this will not return the positionof the zeppelin but the last position of the unit before it was loaded intothe zeppelin.

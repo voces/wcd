@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetImageRender takes image whichImage, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichImage `image`</dt>
-  <dd></dd>
+whichImage `image`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 
 
 ## Bugs 
 Does not work. Use`SetImageRenderAlways`instead.

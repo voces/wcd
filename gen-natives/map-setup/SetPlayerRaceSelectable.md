@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerRaceSelectable takes player whichPlayer, boolean value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>value `boolean`</dt>
-  <dd></dd>
-</dl>
+value `boolean`
+: 

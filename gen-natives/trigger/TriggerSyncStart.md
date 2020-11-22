@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerSyncStart takes nothing returns nothing
 ```

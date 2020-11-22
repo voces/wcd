@@ -10,15 +10,13 @@ Applies the setting to all items.
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemsIcon takes multiboard lb, string iconPath returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>iconPath `string`</dt>
-  <dd></dd>
-</dl>
+iconPath `string`
+: 

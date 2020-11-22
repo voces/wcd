@@ -11,12 +11,10 @@ Returns the gametype that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertGameType takes integer i returns gametype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the gametype</dd>
-</dl>
+i `integer`
+: The integer representation of the gametype

@@ -11,18 +11,16 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 native GetAbilityEffectById takes integer abilityId, effecttype t, integer index returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
+abilityId `integer`
+: 
 
-  <dt>t `effecttype`</dt>
-  <dd></dd>
+t `effecttype`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 

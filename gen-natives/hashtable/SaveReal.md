@@ -11,21 +11,19 @@ patch: 1.24
 
 ## Declaration
 
-```
+```jass
 native SaveReal takes hashtable table, integer parentKey, integer childKey, real value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>table `hashtable`</dt>
-  <dd></dd>
+table `hashtable`
+: 
 
-  <dt>parentKey `integer`</dt>
-  <dd></dd>
+parentKey `integer`
+: 
 
-  <dt>childKey `integer`</dt>
-  <dd></dd>
+childKey `integer`
+: 
 
-  <dt>value `real`</dt>
-  <dd></dd>
-</dl>
+value `real`
+: 

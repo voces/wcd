@@ -10,12 +10,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzGetPlayerTownHallCount takes player whichPlayer returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

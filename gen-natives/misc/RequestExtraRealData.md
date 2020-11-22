@@ -13,33 +13,31 @@ patch: 1.30
 
 ## Declaration
 
-```
+```jass
 native RequestExtraRealData takes integer dataType, player whichPlayer, string param1, string param2, boolean param3, integer param4, integer param5, integer param6 returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>dataType `integer`</dt>
-  <dd></dd>
+dataType `integer`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>param1 `string`</dt>
-  <dd></dd>
+param1 `string`
+: 
 
-  <dt>param2 `string`</dt>
-  <dd></dd>
+param2 `string`
+: 
 
-  <dt>param3 `boolean`</dt>
-  <dd></dd>
+param3 `boolean`
+: 
 
-  <dt>param4 `integer`</dt>
-  <dd></dd>
+param4 `integer`
+: 
 
-  <dt>param5 `integer`</dt>
-  <dd></dd>
+param5 `integer`
+: 
 
-  <dt>param6 `integer`</dt>
-  <dd></dd>
-</dl>
+param6 `integer`
+: 

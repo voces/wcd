@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTerrainPathable takes real x, real y, pathingtype t, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>t `pathingtype`</dt>
-  <dd></dd>
+t `pathingtype`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

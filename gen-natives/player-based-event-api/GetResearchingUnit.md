@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetResearchingUnit takes nothing returns unit
 ```

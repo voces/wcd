@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DestroyCondition takes conditionfunc c returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>c `conditionfunc`</dt>
-  <dd></dd>
-</dl>
+c `conditionfunc`
+: 
 
 ## Notes 
 Only call this on conditionfuncs created via`And`,`Or`,`Not`.

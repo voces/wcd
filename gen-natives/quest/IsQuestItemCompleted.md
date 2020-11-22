@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsQuestItemCompleted takes questitem whichQuestItem returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichQuestItem `questitem`</dt>
-  <dd></dd>
-</dl>
+whichQuestItem `questitem`
+: 

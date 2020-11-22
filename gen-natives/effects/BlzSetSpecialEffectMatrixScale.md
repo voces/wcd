@@ -10,21 +10,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetSpecialEffectMatrixScale takes effect whichEffect, real x, real y, real z returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>z `real`</dt>
-  <dd></dd>
-</dl>
+z `real`
+: 

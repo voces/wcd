@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForceEnumAllies takes force whichForce, player whichPlayer, boolexpr filter returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichForce `force`</dt>
-  <dd></dd>
+whichForce `force`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
-</dl>
+filter `boolexpr`
+: 

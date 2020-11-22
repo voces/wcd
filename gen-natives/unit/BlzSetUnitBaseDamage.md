@@ -10,18 +10,16 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitBaseDamage takes unit whichUnit, integer baseDamage, integer weaponIndex returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>baseDamage `integer`</dt>
-  <dd></dd>
+baseDamage `integer`
+: 
 
-  <dt>weaponIndex `integer`</dt>
-  <dd></dd>
-</dl>
+weaponIndex `integer`
+: 

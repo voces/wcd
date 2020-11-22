@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ItemPoolRemoveItemType takes itempool whichItemPool, integer itemId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItemPool `itempool`</dt>
-  <dd></dd>
+whichItemPool `itempool`
+: 
 
-  <dt>itemId `integer`</dt>
-  <dd></dd>
-</dl>
+itemId `integer`
+: 

@@ -10,18 +10,16 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzDecPlayerTechResearched takes player whichPlayer, integer techid, integer levels returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>techid `integer`</dt>
-  <dd></dd>
+techid `integer`
+: 
 
-  <dt>levels `integer`</dt>
-  <dd></dd>
-</dl>
+levels `integer`
+: 

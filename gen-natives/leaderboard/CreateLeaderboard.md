@@ -9,7 +9,7 @@ Creates a leaderboard handle.Leaderboards initially have 0 rows, 0 columns, and 
 
 ## Declaration
 
-```
+```jass
 native CreateLeaderboard takes nothing returns leaderboard
 ```
 

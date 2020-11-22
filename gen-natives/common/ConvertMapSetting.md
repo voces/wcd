@@ -11,12 +11,10 @@ Returns the mapsetting that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertMapSetting takes integer i returns mapsetting
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the mapsetting</dd>
-</dl>
+i `integer`
+: The integer representation of the mapsetting

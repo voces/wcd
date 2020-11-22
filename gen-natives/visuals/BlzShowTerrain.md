@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzShowTerrain takes boolean show returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>show `boolean`</dt>
-  <dd></dd>
-</dl>
+show `boolean`
+: 

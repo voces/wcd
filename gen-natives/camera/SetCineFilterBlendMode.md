@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetCineFilterBlendMode takes blendmode whichMode returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichMode `blendmode`</dt>
-  <dd></dd>
-</dl>
+whichMode `blendmode`
+: 

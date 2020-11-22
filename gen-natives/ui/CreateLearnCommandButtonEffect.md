@@ -10,12 +10,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native CreateLearnCommandButtonEffect takes integer abilityId returns commandbuttoneffect
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
-</dl>
+abilityId `integer`
+: 

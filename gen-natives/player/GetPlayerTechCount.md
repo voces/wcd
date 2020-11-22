@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerTechCount takes player whichPlayer, integer techid, boolean specificonly returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>techid `integer`</dt>
-  <dd></dd>
+techid `integer`
+: 
 
-  <dt>specificonly `boolean`</dt>
-  <dd></dd>
-</dl>
+specificonly `boolean`
+: 

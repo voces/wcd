@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitAbility takes unit whichUnit, integer abilId returns ability
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>abilId `integer`</dt>
-  <dd></dd>
-</dl>
+abilId `integer`
+: 

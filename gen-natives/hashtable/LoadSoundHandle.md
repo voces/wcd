@@ -11,18 +11,16 @@ patch: 1.24
 
 ## Declaration
 
-```
+```jass
 native LoadSoundHandle takes hashtable table, integer parentKey, integer childKey returns sound
 ```
 
 ## Parameters
-<dl>
-  <dt>table `hashtable`</dt>
-  <dd></dd>
+table `hashtable`
+: 
 
-  <dt>parentKey `integer`</dt>
-  <dd></dd>
+parentKey `integer`
+: 
 
-  <dt>childKey `integer`</dt>
-  <dd></dd>
-</dl>
+childKey `integer`
+: 

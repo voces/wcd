@@ -13,21 +13,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzTriggerRegisterPlayerSyncEvent takes trigger whichTrigger, player whichPlayer, string prefix, boolean fromServer returns event
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>prefix `string`</dt>
-  <dd></dd>
+prefix `string`
+: 
 
-  <dt>fromServer `boolean`</dt>
-  <dd></dd>
-</dl>
+fromServer `boolean`
+: 

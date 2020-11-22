@@ -10,15 +10,13 @@ Arctangent function with two arguments.The result is returned in radians in rang
 
 ## Declaration
 
-```
+```jass
 native Atan2 takes real y, real x returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
-</dl>
+x `real`
+: 

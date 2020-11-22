@@ -9,6 +9,6 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzGetTriggerPlayerMousePosition takes nothing returns location
 ```

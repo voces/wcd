@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetGamePlacement takes placement whichPlacementType returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlacementType `placement`</dt>
-  <dd></dd>
-</dl>
+whichPlacementType `placement`
+: 

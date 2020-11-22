@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitResetCooldown takes unit whichUnit returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

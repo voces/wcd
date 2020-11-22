@@ -10,18 +10,16 @@ Applies the setting to all items.
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemsStyle takes multiboard lb, boolean showValues, boolean showIcons returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>showValues `boolean`</dt>
-  <dd></dd>
+showValues `boolean`
+: 
 
-  <dt>showIcons `boolean`</dt>
-  <dd></dd>
-</dl>
+showIcons `boolean`
+: 

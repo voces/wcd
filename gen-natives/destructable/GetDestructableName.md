@@ -10,12 +10,10 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native GetDestructableName takes destructable d returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
-</dl>
+d `destructable`
+: 

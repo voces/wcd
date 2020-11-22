@@ -10,12 +10,10 @@ Returns the target location of a camerasetup.
 
 ## Declaration
 
-```
+```jass
 native CameraSetupGetDestPositionLoc takes camerasetup whichSetup returns location
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSetup `camerasetup`</dt>
-  <dd>The camera setup.</dd>
-</dl>
+whichSetup `camerasetup`
+: The camera setup.

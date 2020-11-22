@@ -10,15 +10,13 @@ Applies the setting to all items.
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemsWidth takes multiboard lb, real width returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>width `real`</dt>
-  <dd></dd>
-</dl>
+width `real`
+: 

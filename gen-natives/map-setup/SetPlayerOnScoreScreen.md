@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerOnScoreScreen takes player whichPlayer, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzItemAddAbility takes item whichItem, integer abilCode returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>abilCode `integer`</dt>
-  <dd></dd>
-</dl>
+abilCode `integer`
+: 

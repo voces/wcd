@@ -11,18 +11,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupTargetOrder takes group whichGroup, string order, widget targetWidget returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>order `string`</dt>
-  <dd></dd>
+order `string`
+: 
 
-  <dt>targetWidget `widget`</dt>
-  <dd></dd>
-</dl>
+targetWidget `widget`
+: 

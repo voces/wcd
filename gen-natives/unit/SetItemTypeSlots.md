@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemTypeSlots takes unit whichUnit, integer slots returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>slots `integer`</dt>
-  <dd></dd>
-</dl>
+slots `integer`
+: 

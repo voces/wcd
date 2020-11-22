@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupEnumUnitsOfType takes group whichGroup, string unitname, boolexpr filter returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>unitname `string`</dt>
-  <dd></dd>
+unitname `string`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
-</dl>
+filter `boolexpr`
+: 

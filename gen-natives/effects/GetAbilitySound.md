@@ -10,18 +10,16 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 native GetAbilitySound takes string abilityString, soundtype t returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityString `string`</dt>
-  <dd></dd>
+abilityString `string`
+: 
 
-  <dt>t `soundtype`</dt>
-  <dd></dd>
-</dl>
+t `soundtype`
+: 
 
 ## Notes 
 No one knows what abilityString is supposed to be.

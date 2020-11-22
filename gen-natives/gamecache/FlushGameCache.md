@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native FlushGameCache takes gamecache cache returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>cache `gamecache`</dt>
-  <dd></dd>
-</dl>
+cache `gamecache`
+: 

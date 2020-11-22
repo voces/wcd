@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native WaygateActivate takes unit waygate, boolean activate returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>waygate `unit`</dt>
-  <dd></dd>
+waygate `unit`
+: 
 
-  <dt>activate `boolean`</dt>
-  <dd></dd>
-</dl>
+activate `boolean`
+: 

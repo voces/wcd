@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUbersplatRenderAlways takes ubersplat whichSplat, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSplat `ubersplat`</dt>
-  <dd></dd>
+whichSplat `ubersplat`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

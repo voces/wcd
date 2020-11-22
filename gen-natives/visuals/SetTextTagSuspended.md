@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTextTagSuspended takes texttag t, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>t `texttag`</dt>
-  <dd></dd>
+t `texttag`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

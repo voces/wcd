@@ -9,15 +9,13 @@ Executes the preload-file.
 
 ## Declaration
 
-```
+```jass
 native Preloader takes string filename returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>filename `string`</dt>
-  <dd>The file to execute.</dd>
-</dl>
+filename `string`
+: The file to execute.
 
 ## Notes 
 This only works if you have enable the usage of local files in your registry.The registry key is`HKEY_CURRENT_USER\\Software\\Blizzard Entertainment\\Warcraft III\\Allow Local Files\`

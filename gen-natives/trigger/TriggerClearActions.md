@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerClearActions takes trigger whichTrigger returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
-</dl>
+whichTrigger `trigger`
+: 

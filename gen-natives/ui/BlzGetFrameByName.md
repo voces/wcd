@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetFrameByName takes string name, integer createContext returns framehandle
 ```
 
 ## Parameters
-<dl>
-  <dt>name `string`</dt>
-  <dd></dd>
+name `string`
+: 
 
-  <dt>createContext `integer`</dt>
-  <dd></dd>
-</dl>
+createContext `integer`
+: 

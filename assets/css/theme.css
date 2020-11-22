@@ -10,21 +10,11 @@
 .a {
   color: #3d7e9a; }
 
-.markdown-body {
-  margin: 0 !important; }
-  .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {
-    font-weight: 500;
-    color: #27262b; }
-  .markdown-body h1 {
-    font-size: 42px;
-    font-weight: 300;
-    border-bottom: none; }
-    .markdown-body h1:first-child {
-      display: none; }
+.markdown .language-jass .hljs-keyword {
+  color: #ab6ca4; }
 
-.edit-on-github {
-  font-size: 12px;
-  border-bottom: 1px solid #eeebee; }
+.markdown .language-jass .hljs-type {
+  color: #5c864e; }
 
 .search-bar {
   border-bottom: 1px solid #eeebee;
@@ -78,6 +68,10 @@
     border-bottom: 1px solid #eeebee; }
   .side-bar > ul {
     padding: 12px 0; }
+
+.edit-on-github {
+  font-size: 12px;
+  border-bottom: 1px solid #eeebee; }
 
 .nav ul, .nav {
   padding-left: 8px; }

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ShowInterface takes boolean flag, real fadeDuration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>flag `boolean`</dt>
-  <dd></dd>
+flag `boolean`
+: 
 
-  <dt>fadeDuration `real`</dt>
-  <dd></dd>
-</dl>
+fadeDuration `real`
+: 

@@ -10,15 +10,13 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 constant native ConvertFogState takes integer i returns fogstate
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd></dd>
-</dl>
+i `integer`
+: 
 
 ## Notes 
 Can be used for extended typecasting.<http://www.hiveworkshop.com/forums/j-280/t-232039/>

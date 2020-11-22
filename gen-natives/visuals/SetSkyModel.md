@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetSkyModel takes string skyModelFile returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>skyModelFile `string`</dt>
-  <dd></dd>
-</dl>
+skyModelFile `string`
+: 

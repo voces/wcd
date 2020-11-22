@@ -10,12 +10,10 @@ async: true
 
 ## Declaration
 
-```
+```jass
 constant native GetItemName takes item whichItem returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
-</dl>
+whichItem `item`
+: 

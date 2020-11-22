@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetTriggerExecCount takes trigger whichTrigger returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
-</dl>
+whichTrigger `trigger`
+: 

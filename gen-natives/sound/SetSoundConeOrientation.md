@@ -9,24 +9,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetSoundConeOrientation takes sound soundHandle, real x, real y, real z returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>z `real`</dt>
-  <dd></dd>
-</dl>
+z `real`
+: 
 
 ## Notes 
 This call is only valid if the sound was created with 3d enabled

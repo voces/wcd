@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native KillDestructable takes destructable d returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
-</dl>
+d `destructable`
+: 

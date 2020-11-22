@@ -10,15 +10,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitSkin takes unit whichUnit, integer skinId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>skinId `integer`</dt>
-  <dd></dd>
-</dl>
+skinId `integer`
+: 

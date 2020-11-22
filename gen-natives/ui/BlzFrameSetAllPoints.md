@@ -9,15 +9,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetAllPoints takes framehandle frame, framehandle relative returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>relative `framehandle`</dt>
-  <dd></dd>
-</dl>
+relative `framehandle`
+: 

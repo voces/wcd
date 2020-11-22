@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native StoreInteger takes gamecache cache, string missionKey, string key, integer value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>cache `gamecache`</dt>
-  <dd></dd>
+cache `gamecache`
+: 
 
-  <dt>missionKey `string`</dt>
-  <dd></dd>
+missionKey `string`
+: 
 
-  <dt>key `string`</dt>
-  <dd></dd>
+key `string`
+: 
 
-  <dt>value `integer`</dt>
-  <dd></dd>
-</dl>
+value `integer`
+: 

@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsFoggedToPlayer takes real x, real y, player whichPlayer returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

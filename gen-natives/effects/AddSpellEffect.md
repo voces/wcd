@@ -11,24 +11,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native AddSpellEffect takes string abilityString, effecttype t, real x, real y returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityString `string`</dt>
-  <dd></dd>
+abilityString `string`
+: 
 
-  <dt>t `effecttype`</dt>
-  <dd></dd>
+t `effecttype`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 
 
 ## Notes 
 No one knows what abilityString is supposed to be.

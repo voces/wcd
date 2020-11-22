@@ -10,21 +10,19 @@ Sets the X/Y position of the provided image.This is the bottom left corner of th
 
 ## Declaration
 
-```
+```jass
 native SetImagePosition takes image whichImage, real x, real y, real z returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichImage `image`</dt>
-  <dd></dd>
+whichImage `image`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>z `real`</dt>
-  <dd></dd>
-</dl>
+z `real`
+: 

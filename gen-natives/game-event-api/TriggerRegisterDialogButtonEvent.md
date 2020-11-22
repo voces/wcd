@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerRegisterDialogButtonEvent takes trigger whichTrigger, button whichButton returns event
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>whichButton `button`</dt>
-  <dd></dd>
-</dl>
+whichButton `button`
+: 

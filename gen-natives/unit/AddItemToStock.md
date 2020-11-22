@@ -10,24 +10,22 @@ Adds an item of the type itemId with current stock of currentStock and max stock
 
 ## Declaration
 
-```
+```jass
 native AddItemToStock takes unit whichUnit, integer itemId, integer currentStock, integer stockMax returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>itemId `integer`</dt>
-  <dd></dd>
+itemId `integer`
+: 
 
-  <dt>currentStock `integer`</dt>
-  <dd></dd>
+currentStock `integer`
+: 
 
-  <dt>stockMax `integer`</dt>
-  <dd></dd>
-</dl>
+stockMax `integer`
+: 
 
 ## Notes 
 Some issues with default Blizzard initialization and that function were met.See<http://www.hiveworkshop.com/forums/l-715/a-251815/>for details.

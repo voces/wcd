@@ -11,21 +11,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerTypedUnitCount takes player whichPlayer, string unitName, boolean includeIncomplete, boolean includeUpgrades returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>unitName `string`</dt>
-  <dd></dd>
+unitName `string`
+: 
 
-  <dt>includeIncomplete `boolean`</dt>
-  <dd></dd>
+includeIncomplete `boolean`
+: 
 
-  <dt>includeUpgrades `boolean`</dt>
-  <dd></dd>
-</dl>
+includeUpgrades `boolean`
+: 

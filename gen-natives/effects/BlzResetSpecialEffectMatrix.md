@@ -9,12 +9,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzResetSpecialEffectMatrix takes effect whichEffect returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
-</dl>
+whichEffect `effect`
+: 

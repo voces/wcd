@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SuspendHeroXP takes unit whichHero, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

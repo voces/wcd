@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetEventDamageType takes damagetype damageType returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>damageType `damagetype`</dt>
-  <dd></dd>
-</dl>
+damageType `damagetype`
+: 

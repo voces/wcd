@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetItemIntegerField takes item whichItem, itemintegerfield whichField returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>whichField `itemintegerfield`</dt>
-  <dd></dd>
-</dl>
+whichField `itemintegerfield`
+: 

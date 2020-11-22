@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetGameDifficulty takes gamedifficulty whichdifficulty returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichdifficulty `gamedifficulty`</dt>
-  <dd></dd>
-</dl>
+whichdifficulty `gamedifficulty`
+: 

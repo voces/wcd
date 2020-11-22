@@ -9,7 +9,7 @@ Returns the actual string they typed in ( same as what you registered forif you 
 
 ## Declaration
 
-```
+```jass
 constant native GetEventPlayerChatString takes nothing returns string
 ```
 

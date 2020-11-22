@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native WaygateSetDestination takes unit waygate, real x, real y returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>waygate `unit`</dt>
-  <dd></dd>
+waygate `unit`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

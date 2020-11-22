@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetAllyColorFilterState takes integer state returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>state `integer`</dt>
-  <dd></dd>
-</dl>
+state `integer`
+: 

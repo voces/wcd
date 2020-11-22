@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetStepSize takes framehandle frame, real stepSize returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>stepSize `real`</dt>
-  <dd></dd>
-</dl>
+stepSize `real`
+: 

@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native DestroyMinimapIcon takes minimapicon pingId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>pingId `minimapicon`</dt>
-  <dd></dd>
-</dl>
+pingId `minimapicon`
+: 

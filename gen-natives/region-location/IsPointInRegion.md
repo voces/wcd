@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsPointInRegion takes region whichRegion, real x, real y returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichRegion `region`</dt>
-  <dd></dd>
+whichRegion `region`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

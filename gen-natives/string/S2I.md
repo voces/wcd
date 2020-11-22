@@ -11,15 +11,13 @@ Converts a string of digits to the represented number.Returns`0`in case of an er
 
 ## Declaration
 
-```
+```jass
 native S2I takes string s returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>s `string`</dt>
-  <dd>The string to be converted</dd>
-</dl>
+s `string`
+: The string to be converted
 
 ## Notes 
 This function only works for decimal strings. Hexadecimal or octal stringsare not supported.

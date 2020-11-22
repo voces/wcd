@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetTriggerPlayer takes nothing returns player
 ```

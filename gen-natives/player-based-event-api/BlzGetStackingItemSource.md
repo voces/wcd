@@ -10,6 +10,6 @@ Source is the item that is losing charges.
 
 ## Declaration
 
-```
+```jass
 constant native BlzGetStackingItemSource takes nothing returns item
 ```

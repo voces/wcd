@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitAbilityLevel takes unit whichUnit, integer abilcode, integer level returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>abilcode `integer`</dt>
-  <dd></dd>
+abilcode `integer`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
-</dl>
+level `integer`
+: 

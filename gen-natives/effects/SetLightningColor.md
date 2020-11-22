@@ -10,24 +10,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetLightningColor takes lightning whichBolt, real r, real g, real b, real a returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichBolt `lightning`</dt>
-  <dd></dd>
+whichBolt `lightning`
+: 
 
-  <dt>r `real`</dt>
-  <dd></dd>
+r `real`
+: 
 
-  <dt>g `real`</dt>
-  <dd></dd>
+g `real`
+: 
 
-  <dt>b `real`</dt>
-  <dd></dd>
+b `real`
+: 
 
-  <dt>a `real`</dt>
-  <dd></dd>
-</dl>
+a `real`
+: 

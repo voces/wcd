@@ -13,27 +13,25 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native CreateMinimapIconAtLoc takes location where, integer red, integer green, integer blue, string pingPath, fogstate fogVisibility returns minimapicon
 ```
 
 ## Parameters
-<dl>
-  <dt>where `location`</dt>
-  <dd></dd>
+where `location`
+: 
 
-  <dt>red `integer`</dt>
-  <dd></dd>
+red `integer`
+: 
 
-  <dt>green `integer`</dt>
-  <dd></dd>
+green `integer`
+: 
 
-  <dt>blue `integer`</dt>
-  <dd></dd>
+blue `integer`
+: 
 
-  <dt>pingPath `string`</dt>
-  <dd></dd>
+pingPath `string`
+: 
 
-  <dt>fogVisibility `fogstate`</dt>
-  <dd></dd>
-</dl>
+fogVisibility `fogstate`
+: 

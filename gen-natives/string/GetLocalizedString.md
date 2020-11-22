@@ -10,15 +10,13 @@ Reads a string out of some files and returns the result.The result can differ be
 
 ## Declaration
 
-```
+```jass
 native GetLocalizedString takes string source returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>source `string`</dt>
-  <dd></dd>
-</dl>
+source `string`
+: 
 
 ## Bugs 
 Cannot assign it to a constant variable as it will crash the game.`constant string foo = GetLocalizedString("bar")`

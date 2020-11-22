@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzChangeMinimapTerrainTex takes string texFile returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>texFile `string`</dt>
-  <dd></dd>
-</dl>
+texFile `string`
+: 

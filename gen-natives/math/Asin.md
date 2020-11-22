@@ -10,12 +10,10 @@ Arcsine, one of inverse trigonometric functions. The result is returned inradian
 
 ## Declaration
 
-```
+```jass
 native Asin takes real y returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

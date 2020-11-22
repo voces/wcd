@@ -9,6 +9,6 @@ Returns handle to unit which triggered the most recent event when called fromwit
 
 ## Declaration
 
-```
+```jass
 constant native GetTriggerUnit takes nothing returns unit
 ```

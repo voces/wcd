@@ -9,12 +9,10 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzUnitInterruptAttack takes unit whichUnit returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

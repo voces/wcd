@@ -11,21 +11,19 @@ Reveals a player's remaining buildings to a force. The black mask over thebuildi
 
 ## Declaration
 
-```
+```jass
 native CripplePlayer takes player whichPlayer, force toWhichPlayers, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd>The player to reveal.</dd>
+whichPlayer `player`
+: The player to reveal.
 
-  <dt>toWhichPlayers `force`</dt>
-  <dd>The players who will see whichPlayer's buildings.</dd>
+toWhichPlayers `force`
+: The players who will see whichPlayer's buildings.
 
-  <dt>flag `boolean`</dt>
-  <dd>If true, the buildings will be revealed. If false, the buildingswill not be revealed. Note that if you set it to false, it will not hide the buildings with a black mask.</dd>
-</dl>
+flag `boolean`
+: If true, the buildings will be revealed. If false, the buildingswill not be revealed. Note that if you set it to false, it will not hide the buildings with a black mask.
 
 ## Notes 
 his function will not check whether the player has a town hall before revealing.

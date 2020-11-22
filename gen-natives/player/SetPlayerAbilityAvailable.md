@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerAbilityAvailable takes player whichPlayer, integer abilid, boolean avail returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>abilid `integer`</dt>
-  <dd></dd>
+abilid `integer`
+: 
 
-  <dt>avail `boolean`</dt>
-  <dd></dd>
-</dl>
+avail `boolean`
+: 

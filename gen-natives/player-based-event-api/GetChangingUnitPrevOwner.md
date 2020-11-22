@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetChangingUnitPrevOwner takes nothing returns player
 ```

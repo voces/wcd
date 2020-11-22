@@ -10,15 +10,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetMinimapIconOrphanDestroy takes minimapicon whichMinimapIcon, boolean doDestroy returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichMinimapIcon `minimapicon`</dt>
-  <dd></dd>
+whichMinimapIcon `minimapicon`
+: 
 
-  <dt>doDestroy `boolean`</dt>
-  <dd></dd>
-</dl>
+doDestroy `boolean`
+: 

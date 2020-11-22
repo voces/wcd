@@ -11,15 +11,13 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitZ takes unit whichUnit returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 
 
 ## Notes 
 Returns the same result as`BlzGetLocalUnitZ`.

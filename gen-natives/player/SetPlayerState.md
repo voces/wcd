@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerState takes player whichPlayer, playerstate whichPlayerState, integer value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>whichPlayerState `playerstate`</dt>
-  <dd></dd>
+whichPlayerState `playerstate`
+: 
 
-  <dt>value `integer`</dt>
-  <dd></dd>
-</dl>
+value `integer`
+: 

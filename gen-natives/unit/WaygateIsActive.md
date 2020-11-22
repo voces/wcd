@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native WaygateIsActive takes unit waygate returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>waygate `unit`</dt>
-  <dd></dd>
-</dl>
+waygate `unit`
+: 

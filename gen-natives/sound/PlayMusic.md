@@ -9,15 +9,13 @@ Sets the file as the current music for the map, and plays it.
 
 ## Declaration
 
-```
+```jass
 native PlayMusic takes string musicName returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>musicName `string`</dt>
-  <dd>The path to the music file.</dd>
-</dl>
+musicName `string`
+: The path to the music file.
 
 ## Notes 
 Music is on its own channel and can be toggled on and off within the Warcraft III game menu.

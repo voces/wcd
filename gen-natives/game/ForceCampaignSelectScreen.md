@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForceCampaignSelectScreen takes nothing returns nothing
 ```

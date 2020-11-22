@@ -9,15 +9,13 @@ This function is used as and operator, but for boolexpr types.So, it's same as`o
 
 ## Declaration
 
-```
+```jass
 native And takes boolexpr operandA, boolexpr operandB returns boolexpr
 ```
 
 ## Parameters
-<dl>
-  <dt>operandA `boolexpr`</dt>
-  <dd></dd>
+operandA `boolexpr`
+: 
 
-  <dt>operandB `boolexpr`</dt>
-  <dd></dd>
-</dl>
+operandB `boolexpr`
+: 

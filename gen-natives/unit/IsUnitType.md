@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsUnitType takes unit whichUnit, unittype whichUnitType returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichUnitType `unittype`</dt>
-  <dd></dd>
-</dl>
+whichUnitType `unittype`
+: 
 
 ## Notes 
 This native returns a boolean, which when typecasted to integer mightbe greater than 1. It's probably implemented via a bitset.

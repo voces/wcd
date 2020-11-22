@@ -10,21 +10,19 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetSpecialEffectOrientation takes effect whichEffect, real yaw, real pitch, real roll returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>yaw `real`</dt>
-  <dd></dd>
+yaw `real`
+: 
 
-  <dt>pitch `real`</dt>
-  <dd></dd>
+pitch `real`
+: 
 
-  <dt>roll `real`</dt>
-  <dd></dd>
-</dl>
+roll `real`
+: 

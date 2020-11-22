@@ -10,12 +10,10 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 native R2I takes real r returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>r `real`</dt>
-  <dd></dd>
-</dl>
+r `real`
+: 

@@ -8,7 +8,7 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateQuest takes nothing returns quest
 ```
 

@@ -11,21 +11,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitWeaponIntegerField takes unit whichUnit, unitweaponintegerfield whichField, integer index returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichField `unitweaponintegerfield`</dt>
-  <dd></dd>
+whichField `unitweaponintegerfield`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 
 
 ## Bugs 
 Might crash the game when called on a unit with no attack.

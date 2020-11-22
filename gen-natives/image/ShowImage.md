@@ -10,15 +10,13 @@ It shows/hides image whichImage, depending on boolean flag (true shows, false hi
 
 ## Declaration
 
-```
+```jass
 native ShowImage takes image whichImage, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichImage `image`</dt>
-  <dd></dd>
+whichImage `image`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

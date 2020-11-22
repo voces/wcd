@@ -11,18 +11,16 @@ Untested, but if its decription can account for anthing, it locks the Z position
 
 ## Declaration
 
-```
+```jass
 native SetImageConstantHeight takes image whichImage, boolean flag, real height returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichImage `image`</dt>
-  <dd></dd>
+whichImage `image`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
+flag `boolean`
+: 
 
-  <dt>height `real`</dt>
-  <dd></dd>
-</dl>
+height `real`
+: 

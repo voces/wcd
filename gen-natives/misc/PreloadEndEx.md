@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native PreloadEndEx takes nothing returns nothing
 ```

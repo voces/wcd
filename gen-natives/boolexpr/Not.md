@@ -9,12 +9,10 @@ This function is used as not operator, but for boolexpr types.So, it's same as`n
 
 ## Declaration
 
-```
+```jass
 native Not takes boolexpr operand returns boolexpr
 ```
 
 ## Parameters
-<dl>
-  <dt>operand `boolexpr`</dt>
-  <dd></dd>
-</dl>
+operand `boolexpr`
+: 

@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetCancelledStructure takes nothing returns unit
 ```

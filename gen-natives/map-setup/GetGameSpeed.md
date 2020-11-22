@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetGameSpeed takes nothing returns gamespeed
 ```

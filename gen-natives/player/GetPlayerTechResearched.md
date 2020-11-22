@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerTechResearched takes player whichPlayer, integer techid, boolean specificonly returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>techid `integer`</dt>
-  <dd></dd>
+techid `integer`
+: 
 
-  <dt>specificonly `boolean`</dt>
-  <dd></dd>
-</dl>
+specificonly `boolean`
+: 

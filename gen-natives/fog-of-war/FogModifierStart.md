@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native FogModifierStart takes fogmodifier whichFogModifier returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichFogModifier `fogmodifier`</dt>
-  <dd></dd>
-</dl>
+whichFogModifier `fogmodifier`
+: 

@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitStringField takes unit whichUnit, unitstringfield whichField returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichField `unitstringfield`</dt>
-  <dd></dd>
-</dl>
+whichField `unitstringfield`
+: 

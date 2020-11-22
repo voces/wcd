@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitCreepGuard takes unit whichUnit, boolean creepGuard returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>creepGuard `boolean`</dt>
-  <dd></dd>
-</dl>
+creepGuard `boolean`
+: 

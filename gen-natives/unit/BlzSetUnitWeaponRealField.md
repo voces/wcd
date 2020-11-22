@@ -13,21 +13,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitWeaponRealField takes unit whichUnit, unitweaponrealfield whichField, integer index, real value returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichField `unitweaponrealfield`</dt>
-  <dd></dd>
+whichField `unitweaponrealfield`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
+index `integer`
+: 
 
-  <dt>value `real`</dt>
-  <dd></dd>
-</dl>
+value `real`
+: 

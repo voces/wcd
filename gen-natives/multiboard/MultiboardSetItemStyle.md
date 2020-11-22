@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemStyle takes multiboarditem mbi, boolean showValue, boolean showIcon returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>mbi `multiboarditem`</dt>
-  <dd></dd>
+mbi `multiboarditem`
+: 
 
-  <dt>showValue `boolean`</dt>
-  <dd></dd>
+showValue `boolean`
+: 
 
-  <dt>showIcon `boolean`</dt>
-  <dd></dd>
-</dl>
+showIcon `boolean`
+: 

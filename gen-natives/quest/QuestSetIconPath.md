@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native QuestSetIconPath takes quest whichQuest, string iconPath returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichQuest `quest`</dt>
-  <dd></dd>
+whichQuest `quest`
+: 
 
-  <dt>iconPath `string`</dt>
-  <dd></dd>
-</dl>
+iconPath `string`
+: 

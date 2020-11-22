@@ -11,42 +11,40 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TerrainDeformRipple takes real x, real y, real radius, real depth, integer duration, integer count, real spaceWaves, real timeWaves, real radiusStartPct, boolean limitNeg returns terraindeformation
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>radius `real`</dt>
-  <dd></dd>
+radius `real`
+: 
 
-  <dt>depth `real`</dt>
-  <dd></dd>
+depth `real`
+: 
 
-  <dt>duration `integer`</dt>
-  <dd>The duration in milliseconds.</dd>
+duration `integer`
+: The duration in milliseconds.
 
-  <dt>count `integer`</dt>
-  <dd></dd>
+count `integer`
+: 
 
-  <dt>spaceWaves `real`</dt>
-  <dd></dd>
+spaceWaves `real`
+: 
 
-  <dt>timeWaves `real`</dt>
-  <dd></dd>
+timeWaves `real`
+: 
 
-  <dt>radiusStartPct `real`</dt>
-  <dd></dd>
+radiusStartPct `real`
+: 
 
-  <dt>limitNeg `boolean`</dt>
-  <dd></dd>
-</dl>
+limitNeg `boolean`
+: 
 
 ## Notes 
 Permanent terrain deformations are not present in saved game files.

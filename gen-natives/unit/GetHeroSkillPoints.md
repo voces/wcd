@@ -10,12 +10,10 @@ Returns the units available skill points.
 
 ## Declaration
 
-```
+```jass
 native GetHeroSkillPoints takes unit whichHero returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
-</dl>
+whichHero `unit`
+: 

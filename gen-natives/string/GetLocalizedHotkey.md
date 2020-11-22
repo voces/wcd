@@ -11,12 +11,10 @@ Returns the`integer`hotkey for a specific game action à la`"GAMEOVER_QUIT_GAME"
 
 ## Declaration
 
-```
+```jass
 native GetLocalizedHotkey takes string source returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>source `string`</dt>
-  <dd></dd>
-</dl>
+source `string`
+: 

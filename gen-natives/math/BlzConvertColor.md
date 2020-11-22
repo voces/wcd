@@ -10,21 +10,19 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 native BlzConvertColor takes integer a, integer r, integer g, integer b returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>a `integer`</dt>
-  <dd></dd>
+a `integer`
+: 
 
-  <dt>r `integer`</dt>
-  <dd></dd>
+r `integer`
+: 
 
-  <dt>g `integer`</dt>
-  <dd></dd>
+g `integer`
+: 
 
-  <dt>b `integer`</dt>
-  <dd></dd>
-</dl>
+b `integer`
+: 

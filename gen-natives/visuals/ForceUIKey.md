@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForceUIKey takes string key returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>key `string`</dt>
-  <dd></dd>
-</dl>
+key `string`
+: 

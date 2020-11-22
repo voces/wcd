@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ReloadGame takes nothing returns nothing
 ```

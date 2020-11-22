@@ -9,12 +9,10 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetEventDamage takes real damage returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>damage `real`</dt>
-  <dd></dd>
-</dl>
+damage `real`
+: 

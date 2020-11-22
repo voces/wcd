@@ -10,6 +10,6 @@ Target is the item getting charges.
 
 ## Declaration
 
-```
+```jass
 constant native BlzGetStackingItemTarget takes nothing returns item
 ```

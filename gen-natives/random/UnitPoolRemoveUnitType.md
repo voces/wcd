@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitPoolRemoveUnitType takes unitpool whichPool, integer unitId returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPool `unitpool`</dt>
-  <dd></dd>
+whichPool `unitpool`
+: 
 
-  <dt>unitId `integer`</dt>
-  <dd></dd>
-</dl>
+unitId `integer`
+: 

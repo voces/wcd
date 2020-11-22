@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetCineFilterDuration takes real duration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>duration `real`</dt>
-  <dd></dd>
-</dl>
+duration `real`
+: 

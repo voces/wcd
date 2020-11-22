@@ -11,12 +11,10 @@ Returns the alliancetype that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertAllianceType takes integer i returns alliancetype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the alliancetype</dd>
-</dl>
+i `integer`
+: The integer representation of the alliancetype

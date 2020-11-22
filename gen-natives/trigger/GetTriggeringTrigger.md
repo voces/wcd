@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetTriggeringTrigger takes nothing returns trigger
 ```

@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native SetPlayerTechResearched takes player whichPlayer, integer techid, integer setToLevel returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>techid `integer`</dt>
-  <dd></dd>
+techid `integer`
+: 
 
-  <dt>setToLevel `integer`</dt>
-  <dd></dd>
-</dl>
+setToLevel `integer`
+: 

@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitApplyTimedLife takes unit whichUnit, integer buffId, real duration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>buffId `integer`</dt>
-  <dd></dd>
+buffId `integer`
+: 
 
-  <dt>duration `real`</dt>
-  <dd></dd>
-</dl>
+duration `real`
+: 

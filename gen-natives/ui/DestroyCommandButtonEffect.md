@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native DestroyCommandButtonEffect takes commandbuttoneffect whichEffect returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `commandbuttoneffect`</dt>
-  <dd></dd>
-</dl>
+whichEffect `commandbuttoneffect`
+: 

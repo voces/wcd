@@ -10,15 +10,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetMinimapIconVisible takes minimapicon whichMinimapIcon, boolean visible returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichMinimapIcon `minimapicon`</dt>
-  <dd></dd>
+whichMinimapIcon `minimapicon`
+: 
 
-  <dt>visible `boolean`</dt>
-  <dd></dd>
-</dl>
+visible `boolean`
+: 

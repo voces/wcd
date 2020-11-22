@@ -10,15 +10,13 @@ Forces player to have the specified start loc and marks the start loc as occupie
 
 ## Declaration
 
-```
+```jass
 native ForcePlayerStartLocation takes player whichPlayer, integer startLocIndex returns nothing 
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>startLocIndex `integer`</dt>
-  <dd></dd>
-</dl>
+startLocIndex `integer`
+: 

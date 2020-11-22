@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetTournamentFinishNowRule takes nothing returns integer
 ```

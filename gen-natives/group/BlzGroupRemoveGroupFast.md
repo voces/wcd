@@ -10,15 +10,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGroupRemoveGroupFast takes group whichGroup, group removeGroup returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>removeGroup `group`</dt>
-  <dd></dd>
-</dl>
+removeGroup `group`
+: 

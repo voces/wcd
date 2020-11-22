@@ -10,18 +10,16 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetAbilityActivatedTooltip takes integer abilCode, string tooltip, integer level returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>abilCode `integer`</dt>
-  <dd></dd>
+abilCode `integer`
+: 
 
-  <dt>tooltip `string`</dt>
-  <dd></dd>
+tooltip `string`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
-</dl>
+level `integer`
+: 

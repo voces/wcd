@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerColor takes player whichPlayer, playercolor color returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>color `playercolor`</dt>
-  <dd></dd>
-</dl>
+color `playercolor`
+: 

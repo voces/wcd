@@ -11,21 +11,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native AddSpellEffectTarget takes string modelName, effecttype t, widget targetWidget, string attachPoint returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>modelName `string`</dt>
-  <dd></dd>
+modelName `string`
+: 
 
-  <dt>t `effecttype`</dt>
-  <dd></dd>
+t `effecttype`
+: 
 
-  <dt>targetWidget `widget`</dt>
-  <dd></dd>
+targetWidget `widget`
+: 
 
-  <dt>attachPoint `string`</dt>
-  <dd></dd>
-</dl>
+attachPoint `string`
+: 

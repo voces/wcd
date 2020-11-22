@@ -11,21 +11,19 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzCreateItemWithSkin takes integer itemid, real x, real y, integer skinId returns item
 ```
 
 ## Parameters
-<dl>
-  <dt>itemid `integer`</dt>
-  <dd></dd>
+itemid `integer`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>skinId `integer`</dt>
-  <dd></dd>
-</dl>
+skinId `integer`
+: 

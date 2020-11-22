@@ -12,21 +12,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DialogAddQuitButton takes dialog whichDialog, boolean doScoreScreen, string buttonText, integer hotkey returns button
 ```
 
 ## Parameters
-<dl>
-  <dt>whichDialog `dialog`</dt>
-  <dd></dd>
+whichDialog `dialog`
+: 
 
-  <dt>doScoreScreen `boolean`</dt>
-  <dd></dd>
+doScoreScreen `boolean`
+: 
 
-  <dt>buttonText `string`</dt>
-  <dd></dd>
+buttonText `string`
+: 
 
-  <dt>hotkey `integer`</dt>
-  <dd></dd>
-</dl>
+hotkey `integer`
+: 

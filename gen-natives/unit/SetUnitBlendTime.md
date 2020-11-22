@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitBlendTime takes unit whichUnit, real blendTime returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>blendTime `real`</dt>
-  <dd></dd>
-</dl>
+blendTime `real`
+: 

@@ -10,15 +10,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 constant native SetPlayerHandicapDamage takes player whichPlayer, real handicap returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>handicap `real`</dt>
-  <dd></dd>
-</dl>
+handicap `real`
+: 

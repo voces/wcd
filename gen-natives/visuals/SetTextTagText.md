@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTextTagText takes texttag t, string s, real height returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>t `texttag`</dt>
-  <dd></dd>
+t `texttag`
+: 
 
-  <dt>s `string`</dt>
-  <dd></dd>
+s `string`
+: 
 
-  <dt>height `real`</dt>
-  <dd></dd>
-</dl>
+height `real`
+: 

@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native PreloadRefresh takes nothing returns nothing
 ```

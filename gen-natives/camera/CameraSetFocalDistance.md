@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native CameraSetFocalDistance takes real distance returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>distance `real`</dt>
-  <dd></dd>
-</dl>
+distance `real`
+: 

@@ -11,15 +11,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetDialogueSpeakerNameKey takes sound soundHandle, string speakerName returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>speakerName `string`</dt>
-  <dd></dd>
-</dl>
+speakerName `string`
+: 

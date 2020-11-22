@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitArmor takes unit whichUnit, real armorAmount returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>armorAmount `real`</dt>
-  <dd></dd>
-</dl>
+armorAmount `real`
+: 

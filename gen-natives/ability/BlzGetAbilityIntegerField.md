@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityIntegerField takes ability whichAbility, abilityintegerfield whichField returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAbility `ability`</dt>
-  <dd></dd>
+whichAbility `ability`
+: 
 
-  <dt>whichField `abilityintegerfield`</dt>
-  <dd></dd>
-</dl>
+whichField `abilityintegerfield`
+: 

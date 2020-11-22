@@ -9,6 +9,6 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 constant native GetBJPlayerNeutralExtra takes nothing returns integer
 ```

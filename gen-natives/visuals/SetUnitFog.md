@@ -8,24 +8,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitFog takes real a, real b, real c, real d, real e returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>a `real`</dt>
-  <dd></dd>
+a `real`
+: 
 
-  <dt>b `real`</dt>
-  <dd></dd>
+b `real`
+: 
 
-  <dt>c `real`</dt>
-  <dd></dd>
+c `real`
+: 
 
-  <dt>d `real`</dt>
-  <dd></dd>
+d `real`
+: 
 
-  <dt>e `real`</dt>
-  <dd></dd>
-</dl>
+e `real`
+: 

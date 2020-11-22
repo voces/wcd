@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetClickedDialog takes nothing returns dialog
 ```

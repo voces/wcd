@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetDestructableAnimationSpeed takes destructable d, real speedFactor returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
+d `destructable`
+: 
 
-  <dt>speedFactor `real`</dt>
-  <dd></dd>
-</dl>
+speedFactor `real`
+: 

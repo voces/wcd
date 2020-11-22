@@ -9,21 +9,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetStartLocPrio takes integer whichStartLoc, integer prioSlotIndex, integer otherStartLocIndex, startlocprio priority returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichStartLoc `integer`</dt>
-  <dd></dd>
+whichStartLoc `integer`
+: 
 
-  <dt>prioSlotIndex `integer`</dt>
-  <dd></dd>
+prioSlotIndex `integer`
+: 
 
-  <dt>otherStartLocIndex `integer`</dt>
-  <dd></dd>
+otherStartLocIndex `integer`
+: 
 
-  <dt>priority `startlocprio`</dt>
-  <dd></dd>
-</dl>
+priority `startlocprio`
+: 

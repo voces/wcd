@@ -10,12 +10,10 @@ Returns an integer representation of a player's start location. If the playehas 
 
 ## Declaration
 
-```
+```jass
 native GetPlayerStartLocation takes player whichPlayer returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd>The player of which to return the starting location.</dd>
-</dl>
+whichPlayer `player`
+: The player of which to return the starting location.

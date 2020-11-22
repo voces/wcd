@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForceQuestDialogUpdate takes nothing returns nothing
 ```

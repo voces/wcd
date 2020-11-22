@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetMaxCheckpointSaves takes integer maxCheckpointSaves returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>maxCheckpointSaves `integer`</dt>
-  <dd></dd>
-</dl>
+maxCheckpointSaves `integer`
+: 

@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetAbilityBooleanField takes ability whichAbility, abilitybooleanfield whichField returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAbility `ability`</dt>
-  <dd></dd>
+whichAbility `ability`
+: 
 
-  <dt>whichField `abilitybooleanfield`</dt>
-  <dd></dd>
-</dl>
+whichField `abilitybooleanfield`
+: 

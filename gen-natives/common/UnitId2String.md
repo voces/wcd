@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native UnitId2String takes integer unitId returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>unitId `integer`</dt>
-  <dd></dd>
-</dl>
+unitId `integer`
+: 
 
 ## Bugs 
 Always returns null after the game is loaded/if the game is a replay.

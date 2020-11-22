@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerScore takes player whichPlayer, playerscore whichPlayerScore returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>whichPlayerScore `playerscore`</dt>
-  <dd></dd>
-</dl>
+whichPlayerScore `playerscore`
+: 

@@ -11,30 +11,28 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupEnumUnitsInRangeCounted takes group whichGroup, real x, real y, real radius, boolexpr filter, integer countLimit returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>radius `real`</dt>
-  <dd></dd>
+radius `real`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
+filter `boolexpr`
+: 
 
-  <dt>countLimit `integer`</dt>
-  <dd></dd>
-</dl>
+countLimit `integer`
+: 
 
 ## Bugs 
 Causes irregular behavior when used with large numbers

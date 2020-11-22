@@ -9,24 +9,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardSetStyle takes leaderboard lb, boolean showLabel, boolean showNames, boolean showValues, boolean showIcons returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>showLabel `boolean`</dt>
-  <dd></dd>
+showLabel `boolean`
+: 
 
-  <dt>showNames `boolean`</dt>
-  <dd></dd>
+showNames `boolean`
+: 
 
-  <dt>showValues `boolean`</dt>
-  <dd></dd>
+showValues `boolean`
+: 
 
-  <dt>showIcons `boolean`</dt>
-  <dd></dd>
-</dl>
+showIcons `boolean`
+: 

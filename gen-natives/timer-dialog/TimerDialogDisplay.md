@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TimerDialogDisplay takes timerdialog whichDialog, boolean display returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichDialog `timerdialog`</dt>
-  <dd></dd>
+whichDialog `timerdialog`
+: 
 
-  <dt>display `boolean`</dt>
-  <dd></dd>
-</dl>
+display `boolean`
+: 

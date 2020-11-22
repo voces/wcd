@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ReviveHero takes unit whichHero, real x, real y, boolean doEyecandy returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>doEyecandy `boolean`</dt>
-  <dd></dd>
-</dl>
+doEyecandy `boolean`
+: 

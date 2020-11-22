@@ -12,33 +12,31 @@ Creates a sound handle.
 
 ## Declaration
 
-```
+```jass
 native CreateSound takes string fileName, boolean looping, boolean is3D, boolean stopwhenoutofrange, integer fadeInRate, integer fadeOutRate, string eaxSetting returns sound
 ```
 
 ## Parameters
-<dl>
-  <dt>fileName `string`</dt>
-  <dd>The path to the file.</dd>
+fileName `string`
+: The path to the file.
 
-  <dt>looping `boolean`</dt>
-  <dd>Looping sounds will restart once the sound duration has finished.</dd>
+looping `boolean`
+: Looping sounds will restart once the sound duration has finished.
 
-  <dt>is3D `boolean`</dt>
-  <dd>3D Sounds can be played on particular areas of the map. They are attheir loudest when the camera is close to the sound's coordinates.</dd>
+is3D `boolean`
+: 3D Sounds can be played on particular areas of the map. They are attheir loudest when the camera is close to the sound's coordinates.
 
-  <dt>stopwhenoutofrange `boolean`</dt>
-  <dd></dd>
+stopwhenoutofrange `boolean`
+: 
 
-  <dt>fadeInRate `integer`</dt>
-  <dd>How quickly the sound fades in. The higher the number, thefaster the sound fades in. Maximum number is 127.</dd>
+fadeInRate `integer`
+: How quickly the sound fades in. The higher the number, thefaster the sound fades in. Maximum number is 127.
 
-  <dt>fadeOutRate `integer`</dt>
-  <dd>How quickly the sound fades out. The higher the number, thefaster the sound fades out. Maximum number is 127.</dd>
+fadeOutRate `integer`
+: How quickly the sound fades out. The higher the number, thefaster the sound fades out. Maximum number is 127.
 
-  <dt>eaxSetting `string`</dt>
-  <dd>EAX is an acronym for environmental audio extensions. In thesound editor, this corresponds to the "Effect" setting.The known settings available in Warcraft III are:| Value              |  Setting               ||--------------------| ---------------------- ||`"CombatSoundsEAX"`| combat                 ||`"KotoDrumsEAX"`| drums                  ||`"SpellsEAX"`| spells                 ||`"MissilesEAX"`| missiles               ||`"HeroAcksEAX"`| hero acknowledgements  ||`"DoodadsEAX"`| doodads                ||`"DefaultEAXON"`| default                |</dd>
-</dl>
+eaxSetting `string`
+: EAX is an acronym for environmental audio extensions. In thesound editor, this corresponds to the "Effect" setting.The known settings available in Warcraft III are:| Value              |  Setting               ||--------------------| ---------------------- ||`"CombatSoundsEAX"`| combat                 ||`"KotoDrumsEAX"`| drums                  ||`"SpellsEAX"`| spells                 ||`"MissilesEAX"`| missiles               ||`"HeroAcksEAX"`| hero acknowledgements  ||`"DoodadsEAX"`| doodads                ||`"DefaultEAXON"`| default                |
 
 ## Notes 
 You can only play the same sound handle once.

@@ -12,21 +12,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerRegisterGameStateEvent takes trigger whichTrigger, gamestate whichState, limitop opcode, real limitval returns event
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>whichState `gamestate`</dt>
-  <dd></dd>
+whichState `gamestate`
+: 
 
-  <dt>opcode `limitop`</dt>
-  <dd></dd>
+opcode `limitop`
+: 
 
-  <dt>limitval `real`</dt>
-  <dd></dd>
-</dl>
+limitval `real`
+: 

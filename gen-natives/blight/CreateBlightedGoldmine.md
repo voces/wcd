@@ -11,21 +11,19 @@ Creates a new, undead blighted gold mine unit at the specified coordinates for t
 
 ## Declaration
 
-```
+```jass
 native CreateBlightedGoldmine takes player id, real x, real y, real face returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>id `player`</dt>
-  <dd>The player to create the goldmine for.</dd>
+id `player`
+: The player to create the goldmine for.
 
-  <dt>x `real`</dt>
-  <dd>The x-coordinate of the goldmine</dd>
+x `real`
+: The x-coordinate of the goldmine
 
-  <dt>y `real`</dt>
-  <dd>The y-coordinate of the goldmine</dd>
+y `real`
+: The y-coordinate of the goldmine
 
-  <dt>face `real`</dt>
-  <dd>The facing of the goldmine in degrees</dd>
-</dl>
+face `real`
+: The facing of the goldmine in degrees

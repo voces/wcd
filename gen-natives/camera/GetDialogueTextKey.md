@@ -10,12 +10,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native GetDialogueTextKey takes sound soundHandle returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
-</dl>
+soundHandle `sound`
+: 

@@ -11,15 +11,13 @@ If an item exists in the given slot, it is removed from the Hero and placed onth
 
 ## Declaration
 
-```
+```jass
 native UnitRemoveItemFromSlot takes unit whichUnit, integer itemSlot returns item
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>itemSlot `integer`</dt>
-  <dd></dd>
-</dl>
+itemSlot `integer`
+: 

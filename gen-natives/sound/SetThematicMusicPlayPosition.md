@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetThematicMusicPlayPosition takes integer millisecs returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>millisecs `integer`</dt>
-  <dd></dd>
-</dl>
+millisecs `integer`
+: 

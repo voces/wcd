@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetColumnCount takes multiboard lb, integer count returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>count `integer`</dt>
-  <dd></dd>
-</dl>
+count `integer`
+: 

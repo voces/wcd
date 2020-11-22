@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetDestructableOccluderHeight takes destructable d, real height returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
+d `destructable`
+: 
 
-  <dt>height `real`</dt>
-  <dd></dd>
-</dl>
+height `real`
+: 

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardSetSizeByItemCount takes leaderboard lb, integer count returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>count `integer`</dt>
-  <dd></dd>
-</dl>
+count `integer`
+: 

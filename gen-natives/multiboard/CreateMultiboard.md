@@ -8,7 +8,7 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateMultiboard takes nothing returns multiboard
 ```
 

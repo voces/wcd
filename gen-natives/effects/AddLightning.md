@@ -12,27 +12,25 @@ Adds the lightning of type codeName between two points with coordinates (x1;y1)a
 
 ## Declaration
 
-```
+```jass
 native AddLightning takes string codeName, boolean checkVisibility, real x1, real y1, real x2, real y2 returns lightning
 ```
 
 ## Parameters
-<dl>
-  <dt>codeName `string`</dt>
-  <dd></dd>
+codeName `string`
+: 
 
-  <dt>checkVisibility `boolean`</dt>
-  <dd></dd>
+checkVisibility `boolean`
+: 
 
-  <dt>x1 `real`</dt>
-  <dd></dd>
+x1 `real`
+: 
 
-  <dt>y1 `real`</dt>
-  <dd></dd>
+y1 `real`
+: 
 
-  <dt>x2 `real`</dt>
-  <dd></dd>
+x2 `real`
+: 
 
-  <dt>y2 `real`</dt>
-  <dd></dd>
-</dl>
+y2 `real`
+: 

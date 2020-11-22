@@ -11,15 +11,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetDialogueTextKey takes sound soundHandle, string dialogueText returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>dialogueText `string`</dt>
-  <dd></dd>
-</dl>
+dialogueText `string`
+: 

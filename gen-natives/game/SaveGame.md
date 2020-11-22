@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SaveGame takes string saveFileName returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>saveFileName `string`</dt>
-  <dd></dd>
-</dl>
+saveFileName `string`
+: 

@@ -11,18 +11,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetItemBooleanField takes item whichItem, itembooleanfield whichField, boolean value returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>whichField `itembooleanfield`</dt>
-  <dd></dd>
+whichField `itembooleanfield`
+: 
 
-  <dt>value `boolean`</dt>
-  <dd></dd>
-</dl>
+value `boolean`
+: 

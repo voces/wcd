@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native CameraSetDepthOfFieldScale takes real scale returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>scale `real`</dt>
-  <dd></dd>
-</dl>
+scale `real`
+: 

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForForce takes force whichForce, code callback returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichForce `force`</dt>
-  <dd></dd>
+whichForce `force`
+: 
 
-  <dt>callback `code`</dt>
-  <dd></dd>
-</dl>
+callback `code`
+: 

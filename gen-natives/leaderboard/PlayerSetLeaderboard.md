@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native PlayerSetLeaderboard takes player toPlayer, leaderboard lb returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>toPlayer `player`</dt>
-  <dd></dd>
+toPlayer `player`
+: 
 
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
-</dl>
+lb `leaderboard`
+: 

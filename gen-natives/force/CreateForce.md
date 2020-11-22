@@ -9,6 +9,6 @@ Creates an empty force object. Forces act as objects which can point to groups o
 
 ## Declaration
 
-```
+```jass
 native CreateForce takes nothing returns force
 ```

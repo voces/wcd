@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetRowCount takes multiboard lb, integer count returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>count `integer`</dt>
-  <dd></dd>
-</dl>
+count `integer`
+: 
 
 ## Bugs 
 It is only safe to change the row count by one. Use multiple calls for bigger values.<http://www.hiveworkshop.com/forums/l-715/m-250775/><http://www.hiveworkshop.com/forums/t-269/w-234897/>

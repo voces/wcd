@@ -12,24 +12,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native AddSpellEffectLoc takes string abilityString, effecttype t,location where returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityString `string`</dt>
-  <dd></dd>
+abilityString `string`
+: 
 
-  <dt>tlocation `effecttype`</dt>
-  <dd></dd>
+tlocation `effecttype`
+: 
 
-  <dt>returns `where`</dt>
-  <dd></dd>
+returns `where`
+: 
 
-  <dt>undefined `effect`</dt>
-  <dd></dd>
-</dl>
+undefined `effect`
+: 
 
 ## Notes 
 No one knows what abilityString is supposed to be.

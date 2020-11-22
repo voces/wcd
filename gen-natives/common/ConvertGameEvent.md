@@ -11,12 +11,10 @@ Returns the gameevent that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertGameEvent takes integer i returns gameevent
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the gameevent</dd>
-</dl>
+i `integer`
+: The integer representation of the gameevent

@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetTeams takes nothing returns integer
 ```

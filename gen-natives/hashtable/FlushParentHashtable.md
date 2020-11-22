@@ -9,12 +9,10 @@ patch: 1.24
 
 ## Declaration
 
-```
+```jass
 native FlushParentHashtable takes hashtable table returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>table `hashtable`</dt>
-  <dd></dd>
-</dl>
+table `hashtable`
+: 

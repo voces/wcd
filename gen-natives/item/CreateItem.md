@@ -11,18 +11,16 @@ Creates an item object at the specified coordinates ( x , y ).
 
 ## Declaration
 
-```
+```jass
 native CreateItem takes integer itemid, real x, real y returns item
 ```
 
 ## Parameters
-<dl>
-  <dt>itemid `integer`</dt>
-  <dd>The rawcode of the item.</dd>
+itemid `integer`
+: The rawcode of the item.
 
-  <dt>x `real`</dt>
-  <dd>The x-coordinate of the item</dd>
+x `real`
+: The x-coordinate of the item
 
-  <dt>y `real`</dt>
-  <dd>The y-coordinate of the item</dd>
-</dl>
+y `real`
+: The y-coordinate of the item

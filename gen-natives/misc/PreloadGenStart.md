@@ -9,6 +9,6 @@ Starts a new timer. In the generated file from`PreloadGenEnd`will be a linelike`
 
 ## Declaration
 
-```
+```jass
 native PreloadGenStart takes nothing returns nothing
 ```

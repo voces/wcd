@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitState takes unit whichUnit, unitstate whichUnitState, real newVal returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichUnitState `unitstate`</dt>
-  <dd></dd>
+whichUnitState `unitstate`
+: 
 
-  <dt>newVal `real`</dt>
-  <dd></dd>
-</dl>
+newVal `real`
+: 

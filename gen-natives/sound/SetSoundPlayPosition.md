@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetSoundPlayPosition takes sound soundHandle, integer millisecs returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>millisecs `integer`</dt>
-  <dd></dd>
-</dl>
+millisecs `integer`
+: 
 
 ## Notes 
 Must be called immediately after calling StartSound.

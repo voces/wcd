@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TerrainDeformStopAll takes nothing returns nothing
 ```

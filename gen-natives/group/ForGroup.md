@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForGroup takes group whichGroup, code callback returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>callback `code`</dt>
-  <dd></dd>
-</dl>
+callback `code`
+: 

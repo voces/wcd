@@ -10,15 +10,13 @@ Applies the setting to all items.
 
 ## Declaration
 
-```
+```jass
 native MultiboardSetItemsValue takes multiboard lb, string value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `multiboard`</dt>
-  <dd></dd>
+lb `multiboard`
+: 
 
-  <dt>value `string`</dt>
-  <dd></dd>
-</dl>
+value `string`
+: 

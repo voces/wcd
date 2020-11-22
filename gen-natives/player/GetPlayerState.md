@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerState takes player whichPlayer, playerstate whichPlayerState returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>whichPlayerState `playerstate`</dt>
-  <dd></dd>
-</dl>
+whichPlayerState `playerstate`
+: 

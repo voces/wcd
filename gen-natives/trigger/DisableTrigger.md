@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DisableTrigger takes trigger whichTrigger returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
-</dl>
+whichTrigger `trigger`
+: 

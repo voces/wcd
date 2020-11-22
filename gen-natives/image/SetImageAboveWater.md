@@ -10,18 +10,16 @@ Draws the specified image above the water if the flag is true. The secondboolean
 
 ## Declaration
 
-```
+```jass
 native SetImageAboveWater takes image whichImage, boolean flag, boolean useWaterAlpha returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichImage `image`</dt>
-  <dd></dd>
+whichImage `image`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
+flag `boolean`
+: 
 
-  <dt>useWaterAlpha `boolean`</dt>
-  <dd></dd>
-</dl>
+useWaterAlpha `boolean`
+: 

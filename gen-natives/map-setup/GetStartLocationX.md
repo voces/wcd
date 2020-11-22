@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetStartLocationX takes integer whichStartLocation returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichStartLocation `integer`</dt>
-  <dd></dd>
-</dl>
+whichStartLocation `integer`
+: 

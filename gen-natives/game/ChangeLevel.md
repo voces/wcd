@@ -10,15 +10,13 @@ Loads the next level for all players. Note that this function is asynchronous,so
 
 ## Declaration
 
-```
+```jass
 native ChangeLevel takes string newLevel, boolean doScoreScreen returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>newLevel `string`</dt>
-  <dd>The path of the next level. The path is relative to the Warcraft III folder.</dd>
+newLevel `string`
+: The path of the next level. The path is relative to the Warcraft III folder.
 
-  <dt>doScoreScreen `boolean`</dt>
-  <dd>If set to true, the score screen will appear before the user progresses to the next level.</dd>
-</dl>
+doScoreScreen `boolean`
+: If set to true, the score screen will appear before the user progresses to the next level.

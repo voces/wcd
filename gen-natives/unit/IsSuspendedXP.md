@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsSuspendedXP takes unit whichHero returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
-</dl>
+whichHero `unit`
+: 

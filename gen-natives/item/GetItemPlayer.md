@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetItemPlayer takes item whichItem returns player
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
-</dl>
+whichItem `item`
+: 

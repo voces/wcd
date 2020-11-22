@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsItemPowerup takes item whichItem returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
-</dl>
+whichItem `item`
+: 

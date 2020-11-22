@@ -10,21 +10,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native RegisterStackedSound takes sound soundHandle, boolean byPosition, real rectwidth, real rectheight returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>byPosition `boolean`</dt>
-  <dd></dd>
+byPosition `boolean`
+: 
 
-  <dt>rectwidth `real`</dt>
-  <dd></dd>
+rectwidth `real`
+: 
 
-  <dt>rectheight `real`</dt>
-  <dd></dd>
-</dl>
+rectheight `real`
+: 

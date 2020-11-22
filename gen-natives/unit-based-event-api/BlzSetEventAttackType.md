@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetEventAttackType takes attacktype attackType returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>attackType `attacktype`</dt>
-  <dd></dd>
-</dl>
+attackType `attacktype`
+: 

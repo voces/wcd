@@ -9,7 +9,7 @@ Clears all messages displayed via triggers. All messages will still show up in t
 
 ## Declaration
 
-```
+```jass
 native ClearTextMessages takes nothing returns nothing
 ```
 

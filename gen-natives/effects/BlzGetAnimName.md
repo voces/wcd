@@ -10,12 +10,10 @@ patch: 1.30
 
 ## Declaration
 
-```
+```jass
 native BlzGetAnimName takes animtype whichAnim returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>whichAnim `animtype`</dt>
-  <dd></dd>
-</dl>
+whichAnim `animtype`
+: 

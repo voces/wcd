@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetHeroProperName takes unit whichUnit, string heroProperName returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>heroProperName `string`</dt>
-  <dd></dd>
-</dl>
+heroProperName `string`
+: 

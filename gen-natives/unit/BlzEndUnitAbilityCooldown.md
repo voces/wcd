@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzEndUnitAbilityCooldown takes unit whichUnit, integer abilCode returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>abilCode `integer`</dt>
-  <dd></dd>
-</dl>
+abilCode `integer`
+: 

@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native RestartGame takes boolean doScoreScreen returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>doScoreScreen `boolean`</dt>
-  <dd></dd>
-</dl>
+doScoreScreen `boolean`
+: 

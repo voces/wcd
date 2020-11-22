@@ -11,24 +11,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupEnumUnitsInRectCounted takes group whichGroup, rect r, boolexpr filter, integer countLimit returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>r `rect`</dt>
-  <dd></dd>
+r `rect`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
+filter `boolexpr`
+: 
 
-  <dt>countLimit `integer`</dt>
-  <dd></dd>
-</dl>
+countLimit `integer`
+: 
 
 ## Bugs 
 Causes irregular behavior when used with large numbers

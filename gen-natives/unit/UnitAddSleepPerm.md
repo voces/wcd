@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitAddSleepPerm takes unit whichUnit, boolean add returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>add `boolean`</dt>
-  <dd></dd>
-</dl>
+add `boolean`
+: 

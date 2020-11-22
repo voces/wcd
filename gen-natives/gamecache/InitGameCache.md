@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native InitGameCache takes string campaignFile returns gamecache
 ```
 
 ## Parameters
-<dl>
-  <dt>campaignFile `string`</dt>
-  <dd></dd>
-</dl>
+campaignFile `string`
+: 
 
 ## Notes 
 You cannot create more than 255 gamecaches

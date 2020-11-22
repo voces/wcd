@@ -10,12 +10,10 @@ Arctangent, one of inverse trigonometric functions. The result is returned inrad
 
 ## Declaration
 
-```
+```jass
 native Acos takes real x returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
-</dl>
+x `real`
+: 

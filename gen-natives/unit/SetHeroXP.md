@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetHeroXP takes unit whichHero, integer newXpVal, boolean showEyeCandy returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>newXpVal `integer`</dt>
-  <dd></dd>
+newXpVal `integer`
+: 
 
-  <dt>showEyeCandy `boolean`</dt>
-  <dd></dd>
-</dl>
+showEyeCandy `boolean`
+: 

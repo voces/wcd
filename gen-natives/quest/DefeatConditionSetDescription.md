@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DefeatConditionSetDescription takes defeatcondition whichCondition, string description returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichCondition `defeatcondition`</dt>
-  <dd></dd>
+whichCondition `defeatcondition`
+: 
 
-  <dt>description `string`</dt>
-  <dd></dd>
-</dl>
+description `string`
+: 

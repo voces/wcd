@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitItemInSlot takes unit whichUnit, integer itemSlot returns item
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>itemSlot `integer`</dt>
-  <dd></dd>
-</dl>
+itemSlot `integer`
+: 

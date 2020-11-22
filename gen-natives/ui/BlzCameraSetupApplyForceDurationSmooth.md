@@ -11,27 +11,25 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzCameraSetupApplyForceDurationSmooth takes camerasetup whichSetup, boolean doPan, real forcedDuration, real easeInDuration, real easeOutDuration, real smoothFactor returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSetup `camerasetup`</dt>
-  <dd></dd>
+whichSetup `camerasetup`
+: 
 
-  <dt>doPan `boolean`</dt>
-  <dd></dd>
+doPan `boolean`
+: 
 
-  <dt>forcedDuration `real`</dt>
-  <dd></dd>
+forcedDuration `real`
+: 
 
-  <dt>easeInDuration `real`</dt>
-  <dd></dd>
+easeInDuration `real`
+: 
 
-  <dt>easeOutDuration `real`</dt>
-  <dd></dd>
+easeOutDuration `real`
+: 
 
-  <dt>smoothFactor `real`</dt>
-  <dd></dd>
-</dl>
+smoothFactor `real`
+: 

@@ -11,15 +11,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetItemRealField takes item whichItem, itemrealfield whichField returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItem `item`</dt>
-  <dd></dd>
+whichItem `item`
+: 
 
-  <dt>whichField `itemrealfield`</dt>
-  <dd></dd>
-</dl>
+whichField `itemrealfield`
+: 

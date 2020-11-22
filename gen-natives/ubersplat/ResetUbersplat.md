@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ResetUbersplat takes ubersplat whichSplat returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSplat `ubersplat`</dt>
-  <dd></dd>
-</dl>
+whichSplat `ubersplat`
+: 
 
 ## Bugs 
 Does nothing.

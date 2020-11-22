@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardSetItemLabel takes leaderboard lb, integer whichItem, string val returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>whichItem `integer`</dt>
-  <dd></dd>
+whichItem `integer`
+: 
 
-  <dt>val `string`</dt>
-  <dd></dd>
-</dl>
+val `string`
+: 

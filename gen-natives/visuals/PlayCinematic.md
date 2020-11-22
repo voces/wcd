@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native PlayCinematic takes string movieName returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>movieName `string`</dt>
-  <dd></dd>
-</dl>
+movieName `string`
+: 

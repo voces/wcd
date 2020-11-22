@@ -11,15 +11,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native SetSoundFacialAnimationLabel takes sound soundHandle, string animationLabel returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>animationLabel `string`</dt>
-  <dd></dd>
-</dl>
+animationLabel `string`
+: 

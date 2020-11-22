@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native QuestSetTitle takes quest whichQuest, string title returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichQuest `quest`</dt>
-  <dd></dd>
+whichQuest `quest`
+: 
 
-  <dt>title `string`</dt>
-  <dd></dd>
-</dl>
+title `string`
+: 

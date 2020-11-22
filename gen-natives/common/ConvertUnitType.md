@@ -11,12 +11,10 @@ Returns the unittype that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertUnitType takes integer i returns unittype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the unittype</dd>
-</dl>
+i `integer`
+: The integer representation of the unittype

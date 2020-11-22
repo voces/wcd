@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitAddItemToSlotById takes unit whichUnit, integer itemId, integer itemSlot returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>itemId `integer`</dt>
-  <dd></dd>
+itemId `integer`
+: 
 
-  <dt>itemSlot `integer`</dt>
-  <dd></dd>
-</dl>
+itemSlot `integer`
+: 

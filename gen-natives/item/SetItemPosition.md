@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetItemPosition takes item i, real x, real y returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>i `item`</dt>
-  <dd></dd>
+i `item`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

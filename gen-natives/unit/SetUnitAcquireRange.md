@@ -10,18 +10,16 @@ Sets a unit's acquire range.  This is the value that a unit uses to choose targe
 
 ## Declaration
 
-```
+```jass
 native SetUnitAcquireRange takes unit whichUnit, real newAcquireRange returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>newAcquireRange `real`</dt>
-  <dd></dd>
-</dl>
+newAcquireRange `real`
+: 
 
 ## Notes 
 It is a myth that reducing acquire range with this native can limit a unit'sattack range.

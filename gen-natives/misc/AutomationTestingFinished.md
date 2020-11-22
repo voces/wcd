@@ -9,6 +9,6 @@ patch: 1.30
 
 ## Declaration
 
-```
+```jass
 native AutomationTestingFinished takes nothing returns nothing
 ```

@@ -9,6 +9,6 @@ Stops thematic music.
 
 ## Declaration
 
-```
+```jass
 native EndThematicMusic takes nothing returns nothing
 ```

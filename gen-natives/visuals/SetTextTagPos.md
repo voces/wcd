@@ -9,21 +9,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTextTagPos takes texttag t, real x, real y, real heightOffset returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>t `texttag`</dt>
-  <dd></dd>
+t `texttag`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>heightOffset `real`</dt>
-  <dd></dd>
-</dl>
+heightOffset `real`
+: 

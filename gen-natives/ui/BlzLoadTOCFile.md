@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzLoadTOCFile takes string TOCFile returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>TOCFile `string`</dt>
-  <dd></dd>
-</dl>
+TOCFile `string`
+: 

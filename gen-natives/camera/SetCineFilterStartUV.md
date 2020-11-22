@@ -8,21 +8,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetCineFilterStartUV takes real minu, real minv, real maxu, real maxv returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>minu `real`</dt>
-  <dd></dd>
+minu `real`
+: 
 
-  <dt>minv `real`</dt>
-  <dd></dd>
+minv `real`
+: 
 
-  <dt>maxu `real`</dt>
-  <dd></dd>
+maxu `real`
+: 
 
-  <dt>maxv `real`</dt>
-  <dd></dd>
-</dl>
+maxv `real`
+: 

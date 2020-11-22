@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native PlayModelCinematic takes string modelName returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>modelName `string`</dt>
-  <dd></dd>
-</dl>
+modelName `string`
+: 

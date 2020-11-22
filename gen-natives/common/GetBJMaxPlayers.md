@@ -9,6 +9,6 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 constant native GetBJMaxPlayers takes nothing returns integer
 ```

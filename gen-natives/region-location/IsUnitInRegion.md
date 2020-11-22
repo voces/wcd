@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsUnitInRegion takes region whichRegion, unit whichUnit returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichRegion `region`</dt>
-  <dd></dd>
+whichRegion `region`
+: 
 
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

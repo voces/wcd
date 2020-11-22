@@ -10,21 +10,19 @@ Defines a player's start location at the specified coordinates. The startlocatio
 
 ## Declaration
 
-```
+```jass
 native DefineStartLocation takes integer whichStartLoc, real x, real y returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichStartLoc `integer`</dt>
-  <dd>The ID of the player for the starting location. See`GetPlayerStartLocation`.</dd>
+whichStartLoc `integer`
+: The ID of the player for the starting location. See`GetPlayerStartLocation`.
 
-  <dt>x `real`</dt>
-  <dd>The x-coordinate of the start location.</dd>
+x `real`
+: The x-coordinate of the start location.
 
-  <dt>y `real`</dt>
-  <dd>The y-coordinate of the start location.</dd>
-</dl>
+y `real`
+: The y-coordinate of the start location.
 
 ## Notes 
 It is only recommended to use this in the`config`function in the war3map.j.Using it elsewhere will affect the returned values of`GetStartLocationX`and`GetStartLocationY`, but will have no effect on the camera's initial position andthe melee starting positions.

@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DisplayLoadDialog takes nothing returns nothing
 ```

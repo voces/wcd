@@ -9,12 +9,10 @@ patch: 1.32.2
 
 ## Declaration
 
-```
+```jass
 native SetThematicMusicVolume takes integer volume returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>volume `integer`</dt>
-  <dd></dd>
-</dl>
+volume `integer`
+: 

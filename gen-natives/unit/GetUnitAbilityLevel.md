@@ -10,15 +10,13 @@ Returns the level of the ability for the unit.
 
 ## Declaration
 
-```
+```jass
 native GetUnitAbilityLevel takes unit whichUnit, integer abilcode returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>abilcode `integer`</dt>
-  <dd></dd>
-</dl>
+abilcode `integer`
+: 

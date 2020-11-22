@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetPlayerSelectable takes player whichPlayer returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

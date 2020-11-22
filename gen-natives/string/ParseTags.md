@@ -9,12 +9,10 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 constant native ParseTags takes string taggedString returns string
 ```
 
 ## Parameters
-<dl>
-  <dt>taggedString `string`</dt>
-  <dd></dd>
-</dl>
+taggedString `string`
+: 

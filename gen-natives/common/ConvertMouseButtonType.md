@@ -12,12 +12,10 @@ Returns the mousebuttontype that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertMouseButtonType takes integer i returns mousebuttontype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the mousebuttontype</dd>
-</dl>
+i `integer`
+: The integer representation of the mousebuttontype

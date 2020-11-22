@@ -9,6 +9,6 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzEndRecording takes nothing returns nothing
 ```

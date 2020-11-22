@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ReviveHeroLoc takes unit whichHero, location loc, boolean doEyecandy returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>loc `location`</dt>
-  <dd></dd>
+loc `location`
+: 
 
-  <dt>doEyecandy `boolean`</dt>
-  <dd></dd>
-</dl>
+doEyecandy `boolean`
+: 

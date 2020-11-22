@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DestroyForce takes force whichForce returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichForce `force`</dt>
-  <dd></dd>
-</dl>
+whichForce `force`
+: 

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerStartLocation takes player whichPlayer, integer startLocIndex returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>startLocIndex `integer`</dt>
-  <dd></dd>
-</dl>
+startLocIndex `integer`
+: 

@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetCameraMargin takes integer whichMargin returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichMargin `integer`</dt>
-  <dd></dd>
-</dl>
+whichMargin `integer`
+: 

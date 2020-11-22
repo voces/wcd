@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForceCinematicSubtitles takes boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

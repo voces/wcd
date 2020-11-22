@@ -11,27 +11,25 @@ Displays the message to *all* players but the first "%s" in the message willbe r
 
 ## Declaration
 
-```
+```jass
 native DisplayTimedTextFromPlayer takes player toPlayer, real x, real y, real duration, string message returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>toPlayer `player`</dt>
-  <dd></dd>
+toPlayer `player`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>duration `real`</dt>
-  <dd></dd>
+duration `real`
+: 
 
-  <dt>message `string`</dt>
-  <dd></dd>
-</dl>
+message `string`
+: 
 
 ## Notes 
 A better name for the parameter`toPlayer`would be`fromPlayer`.

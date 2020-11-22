@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetRandomSeed takes integer seed returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>seed `integer`</dt>
-  <dd></dd>
-</dl>
+seed `integer`
+: 

@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native EndCinematicScene takes nothing returns nothing
 ```

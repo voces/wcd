@@ -10,15 +10,13 @@ Computes x to the y'th power.If y is zero this returns 1.0 and if both x is zero
 
 ## Declaration
 
-```
+```jass
 native Pow takes real x, real power returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>power `real`</dt>
-  <dd></dd>
-</dl>
+power `real`
+: 

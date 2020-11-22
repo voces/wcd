@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ForceUICancel takes nothing returns nothing
 ```

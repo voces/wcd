@@ -11,18 +11,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IssuePointOrderLoc takes unit whichUnit, string order, location whichLocation returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>order `string`</dt>
-  <dd></dd>
+order `string`
+: 
 
-  <dt>whichLocation `location`</dt>
-  <dd></dd>
-</dl>
+whichLocation `location`
+: 

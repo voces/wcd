@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitTimeScale takes unit whichUnit, real timeScale returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>timeScale `real`</dt>
-  <dd></dd>
-</dl>
+timeScale `real`
+: 

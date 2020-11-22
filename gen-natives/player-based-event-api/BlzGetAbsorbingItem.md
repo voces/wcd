@@ -10,6 +10,6 @@ For EVENT_PLAYER_UNIT_PICKUP_ITEM, returns the item absorbing the picked up item
 
 ## Declaration
 
-```
+```jass
 constant native BlzGetAbsorbingItem takes nothing returns item
 ```

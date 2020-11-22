@@ -13,30 +13,28 @@ Returns null if the specified value's data is not found in the cache.
 
 ## Declaration
 
-```
+```jass
 native RestoreUnit takes gamecache cache, string missionKey, string key, player forWhichPlayer, real x, real y, real facing returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>cache `gamecache`</dt>
-  <dd></dd>
+cache `gamecache`
+: 
 
-  <dt>missionKey `string`</dt>
-  <dd></dd>
+missionKey `string`
+: 
 
-  <dt>key `string`</dt>
-  <dd></dd>
+key `string`
+: 
 
-  <dt>forWhichPlayer `player`</dt>
-  <dd></dd>
+forWhichPlayer `player`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>facing `real`</dt>
-  <dd></dd>
-</dl>
+facing `real`
+: 

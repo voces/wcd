@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetHeroLevel takes unit whichHero, integer level, boolean showEyeCandy returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>level `integer`</dt>
-  <dd></dd>
+level `integer`
+: 
 
-  <dt>showEyeCandy `boolean`</dt>
-  <dd></dd>
-</dl>
+showEyeCandy `boolean`
+: 

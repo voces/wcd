@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitExploded takes unit whichUnit, boolean exploded returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>exploded `boolean`</dt>
-  <dd></dd>
-</dl>
+exploded `boolean`
+: 

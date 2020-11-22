@@ -11,30 +11,28 @@ Creates the dead version of a destructable at the coordinates ( x , y , z ).If t
 
 ## Declaration
 
-```
+```jass
 native CreateDeadDestructableZ takes integer objectid, real x, real y, real z, real face, real scale, integer variation returns destructable
 ```
 
 ## Parameters
-<dl>
-  <dt>objectid `integer`</dt>
-  <dd>The rawcode of the destructable to be created.</dd>
+objectid `integer`
+: The rawcode of the destructable to be created.
 
-  <dt>x `real`</dt>
-  <dd>The x-coordinate of the destructable.</dd>
+x `real`
+: The x-coordinate of the destructable.
 
-  <dt>y `real`</dt>
-  <dd>The y-coordinate of the destructable.</dd>
+y `real`
+: The y-coordinate of the destructable.
 
-  <dt>z `real`</dt>
-  <dd>The z-coordinate of the destructable.</dd>
+z `real`
+: The z-coordinate of the destructable.
 
-  <dt>face `real`</dt>
-  <dd>The facing of the destructable.</dd>
+face `real`
+: The facing of the destructable.
 
-  <dt>scale `real`</dt>
-  <dd>The X-Y-Z scaling value of the destructable.</dd>
+scale `real`
+: The X-Y-Z scaling value of the destructable.
 
-  <dt>variation `integer`</dt>
-  <dd>The integer representing the variation of the destructable to be created.</dd>
-</dl>
+variation `integer`
+: The integer representing the variation of the destructable to be created.

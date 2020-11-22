@@ -13,21 +13,19 @@ Attaches the special effect to the attachment point attachPointName of thetarget
 
 ## Declaration
 
-```
+```jass
 native AddSpellEffectTargetById takes integer abilityId, effecttype t, widget targetWidget, string attachPoint returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>abilityId `integer`</dt>
-  <dd></dd>
+abilityId `integer`
+: 
 
-  <dt>t `effecttype`</dt>
-  <dd></dd>
+t `effecttype`
+: 
 
-  <dt>targetWidget `widget`</dt>
-  <dd></dd>
+targetWidget `widget`
+: 
 
-  <dt>attachPoint `string`</dt>
-  <dd></dd>
-</dl>
+attachPoint `string`
+: 

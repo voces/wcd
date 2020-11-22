@@ -11,12 +11,10 @@ Returns the mapcontrol that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertMapControl takes integer i returns mapcontrol
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the mapcontrol</dd>
-</dl>
+i `integer`
+: The integer representation of the mapcontrol

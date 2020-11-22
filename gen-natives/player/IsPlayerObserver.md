@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsPlayerObserver takes player whichPlayer returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
-</dl>
+whichPlayer `player`
+: 

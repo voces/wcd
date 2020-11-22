@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitFacingTimed takes unit whichUnit, real facingAngle, real duration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>facingAngle `real`</dt>
-  <dd></dd>
+facingAngle `real`
+: 
 
-  <dt>duration `real`</dt>
-  <dd></dd>
-</dl>
+duration `real`
+: 

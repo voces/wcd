@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native LeaderboardRemoveItem takes leaderboard lb, integer index returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>lb `leaderboard`</dt>
-  <dd></dd>
+lb `leaderboard`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 

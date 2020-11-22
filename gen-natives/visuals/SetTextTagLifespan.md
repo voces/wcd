@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTextTagLifespan takes texttag t, real lifespan returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>t `texttag`</dt>
-  <dd></dd>
+t `texttag`
+: 
 
-  <dt>lifespan `real`</dt>
-  <dd></dd>
-</dl>
+lifespan `real`
+: 

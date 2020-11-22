@@ -9,15 +9,13 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzSetMousePos takes integer x, integer y returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>x `integer`</dt>
-  <dd></dd>
+x `integer`
+: 
 
-  <dt>y `integer`</dt>
-  <dd></dd>
-</dl>
+y `integer`
+: 

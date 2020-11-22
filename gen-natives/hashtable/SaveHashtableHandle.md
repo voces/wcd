@@ -11,21 +11,19 @@ patch: 1.24b
 
 ## Declaration
 
-```
+```jass
 native SaveHashtableHandle takes hashtable table, integer parentKey, integer childKey, hashtable whichHashtable returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>table `hashtable`</dt>
-  <dd></dd>
+table `hashtable`
+: 
 
-  <dt>parentKey `integer`</dt>
-  <dd></dd>
+parentKey `integer`
+: 
 
-  <dt>childKey `integer`</dt>
-  <dd></dd>
+childKey `integer`
+: 
 
-  <dt>whichHashtable `hashtable`</dt>
-  <dd></dd>
-</dl>
+whichHashtable `hashtable`
+: 

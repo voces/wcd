@@ -10,18 +10,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetSize takes framehandle frame, real width, real height returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>width `real`</dt>
-  <dd></dd>
+width `real`
+: 
 
-  <dt>height `real`</dt>
-  <dd></dd>
-</dl>
+height `real`
+: 

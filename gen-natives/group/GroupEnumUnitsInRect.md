@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupEnumUnitsInRect takes group whichGroup, rect r, boolexpr filter returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>r `rect`</dt>
-  <dd></dd>
+r `rect`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
-</dl>
+filter `boolexpr`
+: 

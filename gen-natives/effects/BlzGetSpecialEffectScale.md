@@ -10,12 +10,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzGetSpecialEffectScale takes effect whichEffect returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
-</dl>
+whichEffect `effect`
+: 

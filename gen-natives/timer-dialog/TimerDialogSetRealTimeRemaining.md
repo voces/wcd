@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TimerDialogSetRealTimeRemaining takes timerdialog whichDialog, real timeRemaining returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichDialog `timerdialog`</dt>
-  <dd></dd>
+whichDialog `timerdialog`
+: 
 
-  <dt>timeRemaining `real`</dt>
-  <dd></dd>
-</dl>
+timeRemaining `real`
+: 

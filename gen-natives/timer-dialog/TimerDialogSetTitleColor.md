@@ -10,24 +10,22 @@ Sets the timer-dialogs color.
 
 ## Declaration
 
-```
+```jass
 native TimerDialogSetTitleColor takes timerdialog whichDialog, integer red, integer green, integer blue, integer alpha returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichDialog `timerdialog`</dt>
-  <dd>The timerdialog</dd>
+whichDialog `timerdialog`
+: The timerdialog
 
-  <dt>red `integer`</dt>
-  <dd>An integer from 0-255 determining the amount of red color.</dd>
+red `integer`
+: An integer from 0-255 determining the amount of red color.
 
-  <dt>green `integer`</dt>
-  <dd>An integer from 0-255 determining the amount of green color.</dd>
+green `integer`
+: An integer from 0-255 determining the amount of green color.
 
-  <dt>blue `integer`</dt>
-  <dd>An integer from 0-255 determining the amount of blue color.</dd>
+blue `integer`
+: An integer from 0-255 determining the amount of blue color.
 
-  <dt>alpha `integer`</dt>
-  <dd>An integer from 0-255 determining the transparency. A value of 0 is complete transparency while a value of 255 is complete opacity.</dd>
-</dl>
+alpha `integer`
+: An integer from 0-255 determining the transparency. A value of 0 is complete transparency while a value of 255 is complete opacity.

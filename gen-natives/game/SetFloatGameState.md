@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetFloatGameState takes fgamestate whichFloatGameState, real value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichFloatGameState `fgamestate`</dt>
-  <dd></dd>
+whichFloatGameState `fgamestate`
+: 
 
-  <dt>value `real`</dt>
-  <dd></dd>
-</dl>
+value `real`
+: 

@@ -10,21 +10,19 @@ Sets the target coordinates for a camerasetup over a duration. The coordinatecha
 
 ## Declaration
 
-```
+```jass
 native CameraSetupSetDestPosition takes camerasetup whichSetup, real x, real y, real duration returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSetup `camerasetup`</dt>
-  <dd>The camera setup.</dd>
+whichSetup `camerasetup`
+: The camera setup.
 
-  <dt>x `real`</dt>
-  <dd>The target x-coordinate.</dd>
+x `real`
+: The target x-coordinate.
 
-  <dt>y `real`</dt>
-  <dd>The target y-coordinate.</dd>
+y `real`
+: The target y-coordinate.
 
-  <dt>duration `real`</dt>
-  <dd>The coordinates will be applied over this duration once the camera setup is applied.</dd>
-</dl>
+duration `real`
+: The coordinates will be applied over this duration once the camera setup is applied.

@@ -11,18 +11,16 @@ Adds the weather effect with id effectID to the rect where.
 
 ## Declaration
 
-```
+```jass
 native AddWeatherEffect takes rect where, integer effectID returns weathereffect
 ```
 
 ## Parameters
-<dl>
-  <dt>where `rect`</dt>
-  <dd>The rect to apply the weathereffect to.</dd>
+where `rect`
+: The rect to apply the weathereffect to.
 
-  <dt>effectID `integer`</dt>
-  <dd>Which effect to apply.</dd>
-</dl>
+effectID `integer`
+: Which effect to apply.
 
 ## Notes 
 To understand more about weather effects nature, I advise to readAmmorth's article about weather effects:<http://www.wc3c.net/showthread.php?t=91176>.

@@ -11,21 +11,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupPointOrder takes group whichGroup, string order, real x, real y returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>order `string`</dt>
-  <dd></dd>
+order `string`
+: 
 
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
-</dl>
+y `real`
+: 

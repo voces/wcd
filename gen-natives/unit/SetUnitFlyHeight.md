@@ -9,18 +9,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetUnitFlyHeight takes unit whichUnit, real newHeight, real rate returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>newHeight `real`</dt>
-  <dd></dd>
+newHeight `real`
+: 
 
-  <dt>rate `real`</dt>
-  <dd></dd>
-</dl>
+rate `real`
+: 

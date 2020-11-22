@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetOrderTarget takes nothing returns widget
 ```

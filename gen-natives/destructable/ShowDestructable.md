@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native ShowDestructable takes destructable d, boolean flag returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>d `destructable`</dt>
-  <dd></dd>
+d `destructable`
+: 
 
-  <dt>flag `boolean`</dt>
-  <dd></dd>
-</dl>
+flag `boolean`
+: 

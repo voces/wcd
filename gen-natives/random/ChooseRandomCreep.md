@@ -9,12 +9,10 @@ Returns the rawcode ID of a random unit of the specified level. The unit chosenw
 
 ## Declaration
 
-```
+```jass
 native ChooseRandomCreep takes integer level returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>level `integer`</dt>
-  <dd>The level of the units to choose from.</dd>
-</dl>
+level `integer`
+: The level of the units to choose from.

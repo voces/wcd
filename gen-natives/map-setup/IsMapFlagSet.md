@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsMapFlagSet takes mapflag whichMapFlag returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichMapFlag `mapflag`</dt>
-  <dd></dd>
-</dl>
+whichMapFlag `mapflag`
+: 

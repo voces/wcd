@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native UnitStripHeroLevel takes unit whichHero, integer howManyLevels returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichHero `unit`</dt>
-  <dd></dd>
+whichHero `unit`
+: 
 
-  <dt>howManyLevels `integer`</dt>
-  <dd></dd>
-</dl>
+howManyLevels `integer`
+: 

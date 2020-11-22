@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerSleepAction takes real timeout returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>timeout `real`</dt>
-  <dd></dd>
-</dl>
+timeout `real`
+: 

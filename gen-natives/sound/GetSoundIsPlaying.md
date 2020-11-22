@@ -10,15 +10,13 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native GetSoundIsPlaying takes sound soundHandle returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
-</dl>
+soundHandle `sound`
+: 
 
 ## Notes 
 If you just started the sound this still returns false.

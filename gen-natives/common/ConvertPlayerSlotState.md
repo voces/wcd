@@ -11,12 +11,10 @@ Returns the playerslotstate that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertPlayerSlotState takes integer i returns playerslotstate
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the playerslotstate</dd>
-</dl>
+i `integer`
+: The integer representation of the playerslotstate

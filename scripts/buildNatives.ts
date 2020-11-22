@@ -96,15 +96,19 @@ const getParametersSection = (
 ): string | undefined => {
 	const entries = Object.entries(params);
 	if (entries.length === 0) return;
+	if (
+		Object.entries(params).some(([, spec]) =>
+			spec.description?.includes("\n"),
+		)
+	)
+		console.log("multiline:", params);
 	return `## Parameters
-<dl>
 ${Object.entries(params)
 	.map(
-		([name, spec]) => `  <dt>${name} \`${spec.type}\`</dt>
-  <dd>${spec.description ?? ""}</dd>`,
+		([name, spec]) => `${name} \`${spec.type}\`
+: ${spec.description ?? ""}`,
 	)
-	.join("\n\n")}
-</dl>`;
+	.join("\n\n")}`;
 };
 
 const extractTag = (tag: string, customBlocks: readonly tsdoc.DocBlock[]) => {
@@ -197,11 +201,12 @@ ${Array.from(types)
 
 ## Declaration
 
-\`\`\`
+\`\`\`jass
 ${nativeLine}
 \`\`\`${parametersSection ? "\n\n" + parametersSection : ""}${
 			notesSection ? "\n\n" + notesSection : ""
-		}${bugsSection ? "\n\n" + bugsSection : ""}`,
+		}${bugsSection ? "\n\n" + bugsSection : ""}
+`,
 	};
 };
 

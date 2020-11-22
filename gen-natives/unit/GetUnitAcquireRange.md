@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetUnitAcquireRange takes unit whichUnit returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

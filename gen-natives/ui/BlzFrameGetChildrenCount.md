@@ -10,12 +10,10 @@ patch: 1.32.6
 
 ## Declaration
 
-```
+```jass
 native BlzFrameGetChildrenCount takes framehandle frame returns integer
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
-</dl>
+frame `framehandle`
+: 

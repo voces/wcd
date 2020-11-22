@@ -10,15 +10,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetSpecialEffectTimeScale takes effect whichEffect, real timeScale returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>timeScale `real`</dt>
-  <dd></dd>
-</dl>
+timeScale `real`
+: 

@@ -10,18 +10,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetTextAlignment takes framehandle frame, textaligntype vert, textaligntype horz returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>vert `textaligntype`</dt>
-  <dd></dd>
+vert `textaligntype`
+: 
 
-  <dt>horz `textaligntype`</dt>
-  <dd></dd>
-</dl>
+horz `textaligntype`
+: 

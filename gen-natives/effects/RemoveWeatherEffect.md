@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native RemoveWeatherEffect takes weathereffect whichEffect returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `weathereffect`</dt>
-  <dd></dd>
-</dl>
+whichEffect `weathereffect`
+: 

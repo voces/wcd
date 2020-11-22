@@ -9,15 +9,13 @@ Applies the specified cheat, but only if the game is single player. There are af
 
 ## Declaration
 
-```
+```jass
 native Cheat takes string cheatStr returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>cheatStr `string`</dt>
-  <dd>The cheat to enter.</dd>
-</dl>
+cheatStr `string`
+: The cheat to enter.
 
 ## Notes 
 For a list of all cheats see<http://classic.battle.net/war3/cheatcodes.shtml>.

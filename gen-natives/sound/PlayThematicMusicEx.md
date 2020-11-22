@@ -10,18 +10,16 @@ The thematic music does not play repeatedly, but interrupts the PlayMusic-music.
 
 ## Declaration
 
-```
+```jass
 native PlayThematicMusicEx takes string musicFileName, integer frommsecs returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>musicFileName `string`</dt>
-  <dd>The path to the music file.</dd>
+musicFileName `string`
+: The path to the music file.
 
-  <dt>frommsecs `integer`</dt>
-  <dd>At what offset the music starts. In milliseconds.</dd>
-</dl>
+frommsecs `integer`
+: At what offset the music starts. In milliseconds.
 
 ## Notes 
 Only one thematic music at a time, cancels the previous one

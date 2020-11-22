@@ -8,15 +8,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetDayNightModels takes string terrainDNCFile, string unitDNCFile returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>terrainDNCFile `string`</dt>
-  <dd></dd>
+terrainDNCFile `string`
+: 
 
-  <dt>unitDNCFile `string`</dt>
-  <dd></dd>
-</dl>
+unitDNCFile `string`
+: 

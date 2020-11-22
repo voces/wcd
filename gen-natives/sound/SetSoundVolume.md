@@ -10,15 +10,13 @@ Sets the sounds volume
 
 ## Declaration
 
-```
+```jass
 native SetSoundVolume takes sound soundHandle, integer volume returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd>which sound</dd>
+soundHandle `sound`
+: which sound
 
-  <dt>volume `integer`</dt>
-  <dd>Volume, between 0 and 127.</dd>
-</dl>
+volume `integer`
+: Volume, between 0 and 127.

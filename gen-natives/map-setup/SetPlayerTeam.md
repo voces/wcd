@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerTeam takes player whichPlayer, integer whichTeam returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>whichTeam `integer`</dt>
-  <dd></dd>
-</dl>
+whichTeam `integer`
+: 

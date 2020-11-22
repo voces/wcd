@@ -11,12 +11,10 @@ Returns the effecttype that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertEffectType takes integer i returns effecttype
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the effecttype</dd>
-</dl>
+i `integer`
+: The integer representation of the effecttype

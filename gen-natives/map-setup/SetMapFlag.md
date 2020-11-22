@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetMapFlag takes mapflag whichMapFlag, boolean value returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichMapFlag `mapflag`</dt>
-  <dd></dd>
+whichMapFlag `mapflag`
+: 
 
-  <dt>value `boolean`</dt>
-  <dd></dd>
-</dl>
+value `boolean`
+: 

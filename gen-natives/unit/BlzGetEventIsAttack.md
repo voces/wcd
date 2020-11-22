@@ -9,6 +9,6 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzGetEventIsAttack takes nothing returns boolean
 ```

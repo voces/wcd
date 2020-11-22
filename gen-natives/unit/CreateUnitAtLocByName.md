@@ -12,21 +12,19 @@ types:
 
 ## Declaration
 
-```
+```jass
 native CreateUnitAtLocByName takes player id, string unitname, location whichLocation, real face returns unit
 ```
 
 ## Parameters
-<dl>
-  <dt>id `player`</dt>
-  <dd></dd>
+id `player`
+: 
 
-  <dt>unitname `string`</dt>
-  <dd></dd>
+unitname `string`
+: 
 
-  <dt>whichLocation `location`</dt>
-  <dd></dd>
+whichLocation `location`
+: 
 
-  <dt>face `real`</dt>
-  <dd>Unit facing in degrees</dd>
-</dl>
+face `real`
+: Unit facing in degrees

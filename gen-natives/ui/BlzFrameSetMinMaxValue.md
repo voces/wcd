@@ -10,18 +10,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetMinMaxValue takes framehandle frame, real minValue, real maxValue returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>minValue `real`</dt>
-  <dd></dd>
+minValue `real`
+: 
 
-  <dt>maxValue `real`</dt>
-  <dd></dd>
-</dl>
+maxValue `real`
+: 

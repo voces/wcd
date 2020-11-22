@@ -9,6 +9,6 @@ patch: 1.24b
 
 ## Declaration
 
-```
+```jass
 constant native GetSpellTargetY takes nothing returns real
 ```

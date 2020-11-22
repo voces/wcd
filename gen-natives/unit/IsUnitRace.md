@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native IsUnitRace takes unit whichUnit, race whichRace returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>whichRace `race`</dt>
-  <dd></dd>
-</dl>
+whichRace `race`
+: 

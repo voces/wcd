@@ -9,6 +9,6 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerNeutralAggressive takes nothing returns integer
 ```

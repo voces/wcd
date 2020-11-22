@@ -9,15 +9,13 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzSetAbilityPosX takes integer abilCode, integer x returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>abilCode `integer`</dt>
-  <dd></dd>
+abilCode `integer`
+: 
 
-  <dt>x `integer`</dt>
-  <dd></dd>
-</dl>
+x `integer`
+: 

@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetPlayerRacePreference takes player whichPlayer, racepreference whichRacePreference returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichPlayer `player`</dt>
-  <dd></dd>
+whichPlayer `player`
+: 
 
-  <dt>whichRacePreference `racepreference`</dt>
-  <dd></dd>
-</dl>
+whichRacePreference `racepreference`
+: 

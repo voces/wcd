@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native DestroyItemPool takes itempool whichItemPool returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichItemPool `itempool`</dt>
-  <dd></dd>
-</dl>
+whichItemPool `itempool`
+: 

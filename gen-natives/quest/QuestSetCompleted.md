@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native QuestSetCompleted takes quest whichQuest, boolean completed returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichQuest `quest`</dt>
-  <dd></dd>
+whichQuest `quest`
+: 
 
-  <dt>completed `boolean`</dt>
-  <dd></dd>
-</dl>
+completed `boolean`
+: 

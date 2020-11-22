@@ -9,7 +9,7 @@ Returns the rawcode ID of a random neutral passive building,such as the building
 
 ## Declaration
 
-```
+```jass
 native ChooseRandomNPBuilding takes nothing returns integer
 ```
 

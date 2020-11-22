@@ -10,15 +10,13 @@ patch: 1.32.6
 
 ## Declaration
 
-```
+```jass
 native BlzFrameGetChild takes framehandle frame, integer index returns framehandle
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>index `integer`</dt>
-  <dd></dd>
-</dl>
+index `integer`
+: 

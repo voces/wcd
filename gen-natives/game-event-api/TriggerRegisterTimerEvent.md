@@ -12,18 +12,16 @@ Creates it's own timer and triggers when it expires
 
 ## Declaration
 
-```
+```jass
 native TriggerRegisterTimerEvent takes trigger whichTrigger, real timeout, boolean periodic returns event
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>timeout `real`</dt>
-  <dd></dd>
+timeout `real`
+: 
 
-  <dt>periodic `boolean`</dt>
-  <dd></dd>
-</dl>
+periodic `boolean`
+: 

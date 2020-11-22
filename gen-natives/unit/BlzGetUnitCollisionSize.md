@@ -10,12 +10,10 @@ patch: 1.29
 
 ## Declaration
 
-```
+```jass
 native BlzGetUnitCollisionSize takes unit whichUnit returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
-</dl>
+whichUnit `unit`
+: 

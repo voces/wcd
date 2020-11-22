@@ -8,12 +8,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetTimeOfDayScale takes real r returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>r `real`</dt>
-  <dd></dd>
-</dl>
+r `real`
+: 

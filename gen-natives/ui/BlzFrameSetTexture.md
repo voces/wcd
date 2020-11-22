@@ -12,21 +12,19 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetTexture takes framehandle frame, string texFile, integer flag, boolean blend returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>texFile `string`</dt>
-  <dd></dd>
+texFile `string`
+: 
 
-  <dt>flag `integer`</dt>
-  <dd></dd>
+flag `integer`
+: 
 
-  <dt>blend `boolean`</dt>
-  <dd></dd>
-</dl>
+blend `boolean`
+: 

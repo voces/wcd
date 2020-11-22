@@ -10,15 +10,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IssueImmediateOrder takes unit whichUnit, string order returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>order `string`</dt>
-  <dd></dd>
-</dl>
+order `string`
+: 

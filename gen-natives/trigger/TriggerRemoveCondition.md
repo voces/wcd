@@ -9,15 +9,13 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TriggerRemoveCondition takes trigger whichTrigger, triggercondition whichCondition returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
+whichTrigger `trigger`
+: 
 
-  <dt>whichCondition `triggercondition`</dt>
-  <dd></dd>
-</dl>
+whichCondition `triggercondition`
+: 

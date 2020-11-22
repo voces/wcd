@@ -9,12 +9,10 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameGetParent takes framehandle frame returns framehandle
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
-</dl>
+frame `framehandle`
+: 

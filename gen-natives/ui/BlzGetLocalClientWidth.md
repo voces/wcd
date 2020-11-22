@@ -10,6 +10,6 @@ async: true
 
 ## Declaration
 
-```
+```jass
 native BlzGetLocalClientWidth takes nothing returns integer
 ```

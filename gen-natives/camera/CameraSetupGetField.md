@@ -11,18 +11,16 @@ Returns the value of the specified field for a camerasetup. The angle of attack,
 
 ## Declaration
 
-```
+```jass
 native CameraSetupGetField takes camerasetup whichSetup, camerafield whichField returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>whichSetup `camerasetup`</dt>
-  <dd>The camera setup.</dd>
+whichSetup `camerasetup`
+: The camera setup.
 
-  <dt>whichField `camerafield`</dt>
-  <dd>The field of the camerasetup.</dd>
-</dl>
+whichField `camerafield`
+: The field of the camerasetup.
 
 ## Notes 
 The angle of attack, field of view, roll, and rotation are all returned in degrees.

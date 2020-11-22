@@ -10,18 +10,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetPlayerAlliance takes player sourcePlayer, player otherPlayer, alliancetype whichAllianceSetting returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>sourcePlayer `player`</dt>
-  <dd></dd>
+sourcePlayer `player`
+: 
 
-  <dt>otherPlayer `player`</dt>
-  <dd></dd>
+otherPlayer `player`
+: 
 
-  <dt>whichAllianceSetting `alliancetype`</dt>
-  <dd></dd>
-</dl>
+whichAllianceSetting `alliancetype`
+: 

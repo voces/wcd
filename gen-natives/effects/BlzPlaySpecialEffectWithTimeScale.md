@@ -11,18 +11,16 @@ patch: 1.30
 
 ## Declaration
 
-```
+```jass
 native BlzPlaySpecialEffectWithTimeScale takes effect whichEffect, animtype whichAnim, real timeScale returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichEffect `effect`</dt>
-  <dd></dd>
+whichEffect `effect`
+: 
 
-  <dt>whichAnim `animtype`</dt>
-  <dd></dd>
+whichAnim `animtype`
+: 
 
-  <dt>timeScale `real`</dt>
-  <dd></dd>
-</dl>
+timeScale `real`
+: 

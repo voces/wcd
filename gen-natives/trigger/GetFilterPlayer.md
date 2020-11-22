@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 constant native GetFilterPlayer takes nothing returns player
 ```

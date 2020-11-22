@@ -11,18 +11,16 @@ Creates the special effect in the stated location where with Z = 0 using themode
 
 ## Declaration
 
-```
+```jass
 native AddSpecialEffectLoc takes string modelName, location where returns effect
 ```
 
 ## Parameters
-<dl>
-  <dt>modelName `string`</dt>
-  <dd></dd>
+modelName `string`
+: 
 
-  <dt>where `location`</dt>
-  <dd></dd>
-</dl>
+where `location`
+: 
 
 ## Notes 
 To create an effect with a z-position not zero see<http://www.hiveworkshop.com/forums/1561722-post10.html>.

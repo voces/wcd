@@ -9,12 +9,10 @@ types:
 
 ## Declaration
 
-```
+```jass
 native IsTriggerEnabled takes trigger whichTrigger returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichTrigger `trigger`</dt>
-  <dd></dd>
-</dl>
+whichTrigger `trigger`
+: 

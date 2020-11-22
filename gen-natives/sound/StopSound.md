@@ -10,18 +10,16 @@ Stops the sound.
 
 ## Declaration
 
-```
+```jass
 native StopSound takes sound soundHandle, boolean killWhenDone, boolean fadeOut returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd>The sound to stop</dd>
+soundHandle `sound`
+: The sound to stop
 
-  <dt>killWhenDone `boolean`</dt>
-  <dd>The sound gets destroyed if true.</dd>
+killWhenDone `boolean`
+: The sound gets destroyed if true.
 
-  <dt>fadeOut `boolean`</dt>
-  <dd>turns down the volume with`fadeOutRate`as stated in constructor.</dd>
-</dl>
+fadeOut `boolean`
+: turns down the volume with`fadeOutRate`as stated in constructor.

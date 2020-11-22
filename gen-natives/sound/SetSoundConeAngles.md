@@ -10,24 +10,22 @@ types:
 
 ## Declaration
 
-```
+```jass
 native SetSoundConeAngles takes sound soundHandle, real inside, real outside, integer outsideVolume returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>soundHandle `sound`</dt>
-  <dd></dd>
+soundHandle `sound`
+: 
 
-  <dt>inside `real`</dt>
-  <dd></dd>
+inside `real`
+: 
 
-  <dt>outside `real`</dt>
-  <dd></dd>
+outside `real`
+: 
 
-  <dt>outsideVolume `integer`</dt>
-  <dd></dd>
-</dl>
+outsideVolume `integer`
+: 
 
 ## Notes 
 This call is only valid if the sound was created with 3d enabled

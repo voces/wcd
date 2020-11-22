@@ -8,6 +8,6 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GetTimeOfDayScale takes nothing returns real
 ```

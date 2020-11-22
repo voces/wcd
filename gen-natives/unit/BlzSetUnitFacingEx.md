@@ -10,15 +10,13 @@ patch: 1.32
 
 ## Declaration
 
-```
+```jass
 native BlzSetUnitFacingEx takes unit whichUnit, real facingAngle returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichUnit `unit`</dt>
-  <dd></dd>
+whichUnit `unit`
+: 
 
-  <dt>facingAngle `real`</dt>
-  <dd></dd>
-</dl>
+facingAngle `real`
+: 

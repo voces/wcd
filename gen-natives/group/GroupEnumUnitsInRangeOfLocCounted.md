@@ -12,27 +12,25 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupEnumUnitsInRangeOfLocCounted takes group whichGroup, location whichLocation, real radius, boolexpr filter, integer countLimit returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>whichLocation `location`</dt>
-  <dd></dd>
+whichLocation `location`
+: 
 
-  <dt>radius `real`</dt>
-  <dd></dd>
+radius `real`
+: 
 
-  <dt>filter `boolexpr`</dt>
-  <dd></dd>
+filter `boolexpr`
+: 
 
-  <dt>countLimit `integer`</dt>
-  <dd></dd>
-</dl>
+countLimit `integer`
+: 
 
 ## Bugs 
 Causes irregular behavior when used with large numbers

@@ -9,15 +9,13 @@ Adds a string to the preload buffer.
 
 ## Declaration
 
-```
+```jass
 native Preload takes string filename returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>filename `string`</dt>
-  <dd>The string to be added to the buffer.Should probably not be named`filename`.</dd>
-</dl>
+filename `string`
+: The string to be added to the buffer.Should probably not be named`filename`.
 
 ## Notes 
 The data will be put into the file like this:````call Preload("<data here>")````So to put any executable code in the file you have to close the string and thenput your code onto a new line, like this:````call Preload("\")\n call your_stuff_here()")````

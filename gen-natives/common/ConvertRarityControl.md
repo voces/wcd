@@ -11,12 +11,10 @@ Returns the raritycontrol that corresponds to the given integer.
 
 ## Declaration
 
-```
+```jass
 constant native ConvertRarityControl takes integer i returns raritycontrol
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd>The integer representation of the raritycontrol</dd>
-</dl>
+i `integer`
+: The integer representation of the raritycontrol

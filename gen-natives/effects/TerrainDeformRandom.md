@@ -10,33 +10,31 @@ types:
 
 ## Declaration
 
-```
+```jass
 native TerrainDeformRandom takes real x, real y, real radius, real minDelta, real maxDelta, integer duration, integer updateInterval returns terraindeformation
 ```
 
 ## Parameters
-<dl>
-  <dt>x `real`</dt>
-  <dd></dd>
+x `real`
+: 
 
-  <dt>y `real`</dt>
-  <dd></dd>
+y `real`
+: 
 
-  <dt>radius `real`</dt>
-  <dd></dd>
+radius `real`
+: 
 
-  <dt>minDelta `real`</dt>
-  <dd></dd>
+minDelta `real`
+: 
 
-  <dt>maxDelta `real`</dt>
-  <dd></dd>
+maxDelta `real`
+: 
 
-  <dt>duration `integer`</dt>
-  <dd>The duration in milliseconds.</dd>
+duration `integer`
+: The duration in milliseconds.
 
-  <dt>updateInterval `integer`</dt>
-  <dd></dd>
-</dl>
+updateInterval `integer`
+: 
 
 ## Notes 
 Permanent terrain deformations are not present in saved game files.

@@ -10,12 +10,10 @@ pure: true
 
 ## Declaration
 
-```
+```jass
 native I2R takes integer i returns real
 ```
 
 ## Parameters
-<dl>
-  <dt>i `integer`</dt>
-  <dd></dd>
-</dl>
+i `integer`
+: 

@@ -10,18 +10,16 @@ patch: 1.31
 
 ## Declaration
 
-```
+```jass
 native BlzFrameSetSpriteAnimate takes framehandle frame, integer primaryProp, integer flags returns nothing
 ```
 
 ## Parameters
-<dl>
-  <dt>frame `framehandle`</dt>
-  <dd></dd>
+frame `framehandle`
+: 
 
-  <dt>primaryProp `integer`</dt>
-  <dd></dd>
+primaryProp `integer`
+: 
 
-  <dt>flags `integer`</dt>
-  <dd></dd>
-</dl>
+flags `integer`
+: 

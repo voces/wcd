@@ -11,18 +11,16 @@ types:
 
 ## Declaration
 
-```
+```jass
 native GroupPointOrderLoc takes group whichGroup, string order, location whichLocation returns boolean
 ```
 
 ## Parameters
-<dl>
-  <dt>whichGroup `group`</dt>
-  <dd></dd>
+whichGroup `group`
+: 
 
-  <dt>order `string`</dt>
-  <dd></dd>
+order `string`
+: 
 
-  <dt>whichLocation `location`</dt>
-  <dd></dd>
-</dl>
+whichLocation `location`
+: 
