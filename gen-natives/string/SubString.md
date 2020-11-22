@@ -15,13 +15,13 @@ native SubString takes string source, integer start, integer end returns string
 ```
 
 ## Parameters
-source `string`
+`string source`{!language=jass}
 : 
 
-start `integer`
+`integer start`{!language=jass}
 : 
 
-end `integer`
+`integer end`{!language=jass}
 : 
 
 ## Notes 

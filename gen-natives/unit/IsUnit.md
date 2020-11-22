@@ -15,10 +15,10 @@ constant native IsUnit takes unit whichUnit, unit whichSpecifiedUnit returns boo
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichSpecifiedUnit `unit`
+`unit whichSpecifiedUnit`{!language=jass}
 : 
 
 ## Notes 

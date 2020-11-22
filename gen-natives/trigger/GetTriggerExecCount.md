@@ -14,5 +14,5 @@ constant native GetTriggerExecCount takes trigger whichTrigger returns integer
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 

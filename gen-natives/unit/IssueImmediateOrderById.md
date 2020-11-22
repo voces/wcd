@@ -15,8 +15,8 @@ native IssueImmediateOrderById takes unit whichUnit, integer order returns boole
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 

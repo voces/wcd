@@ -14,8 +14,8 @@ native LeaderboardRemovePlayerItem takes leaderboard lb, player p returns nothin
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-p `player`
+`player p`{!language=jass}
 : 

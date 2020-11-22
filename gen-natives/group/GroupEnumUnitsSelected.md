@@ -15,11 +15,11 @@ native GroupEnumUnitsSelected takes group whichGroup, player whichPlayer, boolex
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-filter `boolexpr`
+`boolexpr filter`{!language=jass}
 : 

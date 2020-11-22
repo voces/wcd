@@ -16,8 +16,8 @@ native SetDialogueTextKey takes sound soundHandle, string dialogueText returns b
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-dialogueText `string`
+`string dialogueText`{!language=jass}
 : 

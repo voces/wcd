@@ -15,11 +15,11 @@ native IsPointInRegion takes region whichRegion, real x, real y returns boolean
 ```
 
 ## Parameters
-whichRegion `region`
+`region whichRegion`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

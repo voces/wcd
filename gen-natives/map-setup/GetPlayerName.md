@@ -14,5 +14,5 @@ native GetPlayerName takes player whichPlayer returns string
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

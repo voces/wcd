@@ -14,16 +14,16 @@ native SetUnitScale takes unit whichUnit, real scaleX, real scaleY, real scaleZ 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-scaleX `real`
+`real scaleX`{!language=jass}
 : This is actually the scale for *all* dimensions
 
-scaleY `real`
+`real scaleY`{!language=jass}
 : This parameter is not taken into account
 
-scaleZ `real`
+`real scaleZ`{!language=jass}
 : This parameter is not taken into account
 
 ## Bugs 

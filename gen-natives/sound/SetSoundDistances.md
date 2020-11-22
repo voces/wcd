@@ -14,13 +14,13 @@ native SetSoundDistances takes sound soundHandle, real minDist, real maxDist ret
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-minDist `real`
+`real minDist`{!language=jass}
 : 
 
-maxDist `real`
+`real maxDist`{!language=jass}
 : 
 
 ## Notes 

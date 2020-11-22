@@ -13,5 +13,5 @@ native DestroyDefeatCondition takes defeatcondition whichCondition returns nothi
 ```
 
 ## Parameters
-whichCondition `defeatcondition`
+`defeatcondition whichCondition`{!language=jass}
 : 

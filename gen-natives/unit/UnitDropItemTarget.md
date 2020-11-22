@@ -16,11 +16,11 @@ native UnitDropItemTarget takes unit whichUnit, item whichItem, widget target re
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-target `widget`
+`widget target`{!language=jass}
 : 

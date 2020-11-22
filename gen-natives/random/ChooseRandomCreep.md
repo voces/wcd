@@ -14,5 +14,5 @@ native ChooseRandomCreep takes integer level returns integer
 ```
 
 ## Parameters
-level `integer`
+`integer level`{!language=jass}
 : The level of the units to choose from.

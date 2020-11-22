@@ -15,8 +15,8 @@ native BlzSetSpecialEffectRoll takes effect whichEffect, real roll returns nothi
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-roll `real`
+`real roll`{!language=jass}
 : 

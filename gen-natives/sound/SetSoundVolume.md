@@ -15,8 +15,8 @@ native SetSoundVolume takes sound soundHandle, integer volume returns nothing
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : which sound
 
-volume `integer`
+`integer volume`{!language=jass}
 : Volume, between 0 and 127.

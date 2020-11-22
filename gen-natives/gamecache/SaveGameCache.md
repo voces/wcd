@@ -14,5 +14,5 @@ native SaveGameCache takes gamecache whichCache returns boolean
 ```
 
 ## Parameters
-whichCache `gamecache`
+`gamecache whichCache`{!language=jass}
 : 

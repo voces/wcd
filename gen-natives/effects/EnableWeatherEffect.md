@@ -14,8 +14,8 @@ native EnableWeatherEffect takes weathereffect whichEffect, boolean enable retur
 ```
 
 ## Parameters
-whichEffect `weathereffect`
+`weathereffect whichEffect`{!language=jass}
 : 
 
-enable `boolean`
+`boolean enable`{!language=jass}
 : 

@@ -16,14 +16,14 @@ native GroupPointOrderById takes group whichGroup, integer order, real x, real y
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

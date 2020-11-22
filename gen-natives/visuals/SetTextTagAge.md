@@ -14,8 +14,8 @@ native SetTextTagAge takes texttag t, real age returns nothing
 ```
 
 ## Parameters
-t `texttag`
+`texttag t`{!language=jass}
 : 
 
-age `real`
+`real age`{!language=jass}
 : 

@@ -15,11 +15,11 @@ native BlzSetUnitDiceSides takes unit whichUnit, integer diceSides, integer weap
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-diceSides `integer`
+`integer diceSides`{!language=jass}
 : 
 
-weaponIndex `integer`
+`integer weaponIndex`{!language=jass}
 : 

@@ -15,34 +15,34 @@ native TerrainDeformWave takes real x, real y, real dirX, real dirY, real distan
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-dirX `real`
+`real dirX`{!language=jass}
 : 
 
-dirY `real`
+`real dirY`{!language=jass}
 : 
 
-distance `real`
+`real distance`{!language=jass}
 : 
 
-speed `real`
+`real speed`{!language=jass}
 : 
 
-radius `real`
+`real radius`{!language=jass}
 : 
 
-depth `real`
+`real depth`{!language=jass}
 : 
 
-trailTime `integer`
+`integer trailTime`{!language=jass}
 : 
 
-count `integer`
+`integer count`{!language=jass}
 : 
 
 ## Notes 

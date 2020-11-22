@@ -16,8 +16,8 @@ native CreateCommandButtonEffect takes integer abilityId, string order returns c
 ```
 
 ## Parameters
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 

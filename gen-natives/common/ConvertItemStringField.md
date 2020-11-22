@@ -16,5 +16,5 @@ constant native ConvertItemStringField takes integer i returns itemstringfield
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

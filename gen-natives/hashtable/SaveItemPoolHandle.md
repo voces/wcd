@@ -17,14 +17,14 @@ native SaveItemPoolHandle takes hashtable table, integer parentKey, integer chil
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichItempool `itempool`
+`itempool whichItempool`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native SetUnitMoveSpeed takes unit whichUnit, real newSpeed returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-newSpeed `real`
+`real newSpeed`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native LeaderboardSortItemsByPlayer takes leaderboard lb, boolean ascending retu
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-ascending `boolean`
+`boolean ascending`{!language=jass}
 : 

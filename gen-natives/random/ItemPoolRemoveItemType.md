@@ -14,8 +14,8 @@ native ItemPoolRemoveItemType takes itempool whichItemPool, integer itemId retur
 ```
 
 ## Parameters
-whichItemPool `itempool`
+`itempool whichItemPool`{!language=jass}
 : 
 
-itemId `integer`
+`integer itemId`{!language=jass}
 : 

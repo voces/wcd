@@ -15,8 +15,8 @@ native BlzSetSpecialEffectYaw takes effect whichEffect, real yaw returns nothing
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-yaw `real`
+`real yaw`{!language=jass}
 : 

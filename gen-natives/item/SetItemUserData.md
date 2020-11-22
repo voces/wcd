@@ -14,8 +14,8 @@ native SetItemUserData takes item whichItem, integer data returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-data `integer`
+`integer data`{!language=jass}
 : 

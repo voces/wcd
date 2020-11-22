@@ -14,8 +14,8 @@ native MultiboardMinimize takes multiboard lb, boolean minimize returns nothing
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-minimize `boolean`
+`boolean minimize`{!language=jass}
 : 

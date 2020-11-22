@@ -20,28 +20,28 @@ native UnitDamageTarget takes unit whichUnit, widget target, real amount, boolea
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The source of the damage. To actual deal damage it should benot`null`.
 
-target `widget`
+`widget target`{!language=jass}
 : The target being damaged.
 
-amount `real`
+`real amount`{!language=jass}
 : How much damage is being dealt.
 
-attack `boolean`
+`boolean attack`{!language=jass}
 : Consider the damage dealt as being an attack.
 
-ranged `boolean`
+`boolean ranged`{!language=jass}
 : Consider the damage dealt as being from a ranged source.
 
-attackType `attacktype`
+`attacktype attackType`{!language=jass}
 : 
 
-damageType `damagetype`
+`damagetype damageType`{!language=jass}
 : 
 
-weaponType `weapontype`
+`weapontype weaponType`{!language=jass}
 : 
 
 ## Notes 

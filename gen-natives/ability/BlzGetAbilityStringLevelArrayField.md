@@ -17,14 +17,14 @@ native BlzGetAbilityStringLevelArrayField takes ability whichAbility, abilitystr
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilitystringlevelarrayfield`
+`abilitystringlevelarrayfield whichField`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 

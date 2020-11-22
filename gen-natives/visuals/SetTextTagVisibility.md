@@ -14,8 +14,8 @@ native SetTextTagVisibility takes texttag t, boolean flag returns nothing
 ```
 
 ## Parameters
-t `texttag`
+`texttag t`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

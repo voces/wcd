@@ -14,23 +14,23 @@ native SetTerrainFogEx takes integer style, real zstart, real zend, real density
 ```
 
 ## Parameters
-style `integer`
+`integer style`{!language=jass}
 : 
 
-zstart `real`
+`real zstart`{!language=jass}
 : 
 
-zend `real`
+`real zend`{!language=jass}
 : 
 
-density `real`
+`real density`{!language=jass}
 : 
 
-red `real`
+`real red`{!language=jass}
 : 
 
-green `real`
+`real green`{!language=jass}
 : 
 
-blue `real`
+`real blue`{!language=jass}
 : 

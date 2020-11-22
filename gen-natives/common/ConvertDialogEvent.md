@@ -16,5 +16,5 @@ constant native ConvertDialogEvent takes integer i returns dialogevent
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the dialogevent

@@ -16,8 +16,8 @@ native BlzGetUnitRealField takes unit whichUnit, unitrealfield whichField return
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichField `unitrealfield`
+`unitrealfield whichField`{!language=jass}
 : 

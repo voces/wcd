@@ -14,8 +14,8 @@ native MultiboardSetTitleText takes multiboard lb, string label returns nothing
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-label `string`
+`string label`{!language=jass}
 : 

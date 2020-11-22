@@ -14,8 +14,8 @@ native QuestSetCompleted takes quest whichQuest, boolean completed returns nothi
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 
 
-completed `boolean`
+`boolean completed`{!language=jass}
 : 

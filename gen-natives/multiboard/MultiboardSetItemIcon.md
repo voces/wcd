@@ -14,8 +14,8 @@ native MultiboardSetItemIcon takes multiboarditem mbi, string iconFileName retur
 ```
 
 ## Parameters
-mbi `multiboarditem`
+`multiboarditem mbi`{!language=jass}
 : 
 
-iconFileName `string`
+`string iconFileName`{!language=jass}
 : 

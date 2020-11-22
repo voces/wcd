@@ -15,8 +15,8 @@ native UnitItemInSlot takes unit whichUnit, integer itemSlot returns item
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-itemSlot `integer`
+`integer itemSlot`{!language=jass}
 : 

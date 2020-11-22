@@ -15,8 +15,8 @@ native BlzSpecialEffectRemoveSubAnimation takes effect whichEffect, subanimtype 
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-whichSubAnim `subanimtype`
+`subanimtype whichSubAnim`{!language=jass}
 : 

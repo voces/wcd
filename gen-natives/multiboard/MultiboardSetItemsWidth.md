@@ -15,8 +15,8 @@ native MultiboardSetItemsWidth takes multiboard lb, real width returns nothing
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-width `real`
+`real width`{!language=jass}
 : 

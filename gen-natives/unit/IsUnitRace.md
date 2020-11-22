@@ -15,8 +15,8 @@ constant native IsUnitRace takes unit whichUnit, race whichRace returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichRace `race`
+`race whichRace`{!language=jass}
 : 

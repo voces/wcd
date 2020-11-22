@@ -14,5 +14,5 @@ native GetItemType takes item whichItem returns itemtype
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

@@ -14,17 +14,17 @@ native LeaderboardSetLabelColor takes leaderboard lb, integer red, integer green
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-red `integer`
+`integer red`{!language=jass}
 : 
 
-green `integer`
+`integer green`{!language=jass}
 : 
 
-blue `integer`
+`integer blue`{!language=jass}
 : 
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : 

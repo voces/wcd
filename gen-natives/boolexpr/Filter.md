@@ -15,7 +15,7 @@ native Filter takes code func returns filterfunc
 ```
 
 ## Parameters
-func `code`
+`code func`{!language=jass}
 : 
 
 ## Notes 

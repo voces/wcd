@@ -16,14 +16,14 @@ native CameraSetupSetField takes camerasetup whichSetup, camerafield whichField,
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camera setup.
 
-whichField `camerafield`
+`camerafield whichField`{!language=jass}
 : The field of the camerasetup.
 
-value `real`
+`real value`{!language=jass}
 : The value to assign to the field.
 
-duration `real`
+`real duration`{!language=jass}
 : The duration over which the field will be set. If the duration is greaterthan 0, the changes will be made gradually once the camera setup is applied.

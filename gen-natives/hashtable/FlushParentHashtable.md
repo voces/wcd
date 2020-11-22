@@ -14,5 +14,5 @@ native FlushParentHashtable takes hashtable table returns nothing
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 

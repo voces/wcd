@@ -18,14 +18,14 @@ native BlzTriggerRegisterPlayerSyncEvent takes trigger whichTrigger, player whic
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-prefix `string`
+`string prefix`{!language=jass}
 : 
 
-fromServer `boolean`
+`boolean fromServer`{!language=jass}
 : 

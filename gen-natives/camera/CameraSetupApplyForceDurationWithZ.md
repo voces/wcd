@@ -15,11 +15,11 @@ native CameraSetupApplyForceDurationWithZ takes camerasetup whichSetup, real zDe
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camerasetup to apply.
 
-zDestOffset `real`
+`real zDestOffset`{!language=jass}
 : The camera's z-offset will gradually change to this value over the specified duration.
 
-forceDuration `real`
+`real forceDuration`{!language=jass}
 : The duration it will take to apply all the camera fields.It will ignore the times set by CameraSetupSetField.

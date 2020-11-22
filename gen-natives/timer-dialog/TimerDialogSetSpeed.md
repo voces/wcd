@@ -14,8 +14,8 @@ native TimerDialogSetSpeed takes timerdialog whichDialog, real speedMultFactor r
 ```
 
 ## Parameters
-whichDialog `timerdialog`
+`timerdialog whichDialog`{!language=jass}
 : 
 
-speedMultFactor `real`
+`real speedMultFactor`{!language=jass}
 : 

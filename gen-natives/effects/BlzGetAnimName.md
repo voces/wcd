@@ -15,5 +15,5 @@ native BlzGetAnimName takes animtype whichAnim returns string
 ```
 
 ## Parameters
-whichAnim `animtype`
+`animtype whichAnim`{!language=jass}
 : 

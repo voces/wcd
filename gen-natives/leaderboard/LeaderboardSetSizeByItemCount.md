@@ -14,8 +14,8 @@ native LeaderboardSetSizeByItemCount takes leaderboard lb, integer count returns
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-count `integer`
+`integer count`{!language=jass}
 : 

@@ -16,8 +16,8 @@ native BlzItemAddAbility takes item whichItem, integer abilCode returns boolean
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 

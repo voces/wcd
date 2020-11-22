@@ -16,5 +16,5 @@ constant native ConvertBlendMode takes integer i returns blendmode
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the blendmode

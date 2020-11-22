@@ -17,14 +17,14 @@ native TriggerRegisterGameStateEvent takes trigger whichTrigger, gamestate which
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichState `gamestate`
+`gamestate whichState`{!language=jass}
 : 
 
-opcode `limitop`
+`limitop opcode`{!language=jass}
 : 
 
-limitval `real`
+`real limitval`{!language=jass}
 : 

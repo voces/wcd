@@ -13,5 +13,5 @@ native RestartGame takes boolean doScoreScreen returns nothing
 ```
 
 ## Parameters
-doScoreScreen `boolean`
+`boolean doScoreScreen`{!language=jass}
 : 

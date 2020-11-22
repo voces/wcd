@@ -19,17 +19,17 @@ native IssueNeutralPointOrder takes player forWhichPlayer,unit neutralStructure,
 ```
 
 ## Parameters
-forWhichPlayerunit `player`
+`player forWhichPlayerunit`{!language=jass}
 : 
 
-string `neutralStructure`
+`neutralStructure string`{!language=jass}
 : 
 
-real `x`
+`x real`{!language=jass}
 : 
 
-returns `y`
+`y returns`{!language=jass}
 : 
 
-undefined `boolean`
+`boolean undefined`{!language=jass}
 : 

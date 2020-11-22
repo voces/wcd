@@ -16,8 +16,8 @@ native TriggerRegisterUpgradeCommandEvent takes trigger whichTrigger, integer wh
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichUpgrade `integer`
+`integer whichUpgrade`{!language=jass}
 : 

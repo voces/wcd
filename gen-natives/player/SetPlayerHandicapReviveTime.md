@@ -15,8 +15,8 @@ constant native SetPlayerHandicapReviveTime takes player whichPlayer, real handi
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-handicap `real`
+`real handicap`{!language=jass}
 : 

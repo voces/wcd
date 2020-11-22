@@ -17,20 +17,20 @@ native AddLightning takes string codeName, boolean checkVisibility, real x1, rea
 ```
 
 ## Parameters
-codeName `string`
+`string codeName`{!language=jass}
 : 
 
-checkVisibility `boolean`
+`boolean checkVisibility`{!language=jass}
 : 
 
-x1 `real`
+`real x1`{!language=jass}
 : 
 
-y1 `real`
+`real y1`{!language=jass}
 : 
 
-x2 `real`
+`real x2`{!language=jass}
 : 
 
-y2 `real`
+`real y2`{!language=jass}
 : 

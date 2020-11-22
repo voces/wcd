@@ -16,8 +16,8 @@ native SetSoundFacialAnimationSetFilepath takes sound soundHandle, string animat
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-animationSetFilepath `string`
+`string animationSetFilepath`{!language=jass}
 : 

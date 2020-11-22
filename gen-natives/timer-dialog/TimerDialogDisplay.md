@@ -14,8 +14,8 @@ native TimerDialogDisplay takes timerdialog whichDialog, boolean display returns
 ```
 
 ## Parameters
-whichDialog `timerdialog`
+`timerdialog whichDialog`{!language=jass}
 : 
 
-display `boolean`
+`boolean display`{!language=jass}
 : 

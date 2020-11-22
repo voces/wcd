@@ -13,5 +13,5 @@ native FogModifierStop takes fogmodifier whichFogModifier returns nothing
 ```
 
 ## Parameters
-whichFogModifier `fogmodifier`
+`fogmodifier whichFogModifier`{!language=jass}
 : 

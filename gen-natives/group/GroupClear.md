@@ -13,5 +13,5 @@ native GroupClear takes group whichGroup returns nothing
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native BlzFrameSetParent takes framehandle frame, framehandle parent returns not
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-parent `framehandle`
+`framehandle parent`{!language=jass}
 : 

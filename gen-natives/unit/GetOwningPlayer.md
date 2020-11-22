@@ -14,5 +14,5 @@ constant native GetOwningPlayer takes unit whichUnit returns player
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native SetUnitPositionLoc takes unit whichUnit, location whichLocation returns n
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 

@@ -16,11 +16,11 @@ native BlzFrameSetModel takes framehandle frame, string modelFile, integer camer
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-modelFile `string`
+`string modelFile`{!language=jass}
 : 
 
-cameraIndex `integer`
+`integer cameraIndex`{!language=jass}
 : 

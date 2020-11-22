@@ -16,5 +16,5 @@ constant native ConvertUnitBooleanField takes integer i returns unitbooleanfield
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

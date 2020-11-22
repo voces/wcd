@@ -15,8 +15,8 @@ native UnitAddAbility takes unit whichUnit, integer abilityId returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 

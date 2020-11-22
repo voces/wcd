@@ -14,7 +14,7 @@ native PlayMusic takes string musicName returns nothing
 ```
 
 ## Parameters
-musicName `string`
+`string musicName`{!language=jass}
 : The path to the music file.
 
 ## Notes 

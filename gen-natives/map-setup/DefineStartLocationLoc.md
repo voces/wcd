@@ -15,10 +15,10 @@ native DefineStartLocationLoc takes integer whichStartLoc, location whichLocatio
 ```
 
 ## Parameters
-whichStartLoc `integer`
+`integer whichStartLoc`{!language=jass}
 : The ID of the player for the starting location. See`GetPlayerStartLocation`.
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : The location of the start location.
 
 ## Notes 

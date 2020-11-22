@@ -15,8 +15,8 @@ native BlzFrameSetAlpha takes framehandle frame, integer alpha returns nothing
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : 

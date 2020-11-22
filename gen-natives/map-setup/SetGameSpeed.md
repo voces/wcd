@@ -13,5 +13,5 @@ native SetGameSpeed takes gamespeed whichspeed returns nothing
 ```
 
 ## Parameters
-whichspeed `gamespeed`
+`gamespeed whichspeed`{!language=jass}
 : 

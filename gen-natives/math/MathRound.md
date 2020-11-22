@@ -16,5 +16,5 @@ constant native MathRound takes real r returns integer
 ```
 
 ## Parameters
-r `real`
+`real r`{!language=jass}
 : 

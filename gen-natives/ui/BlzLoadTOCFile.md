@@ -15,5 +15,5 @@ native BlzLoadTOCFile takes string TOCFile returns boolean
 ```
 
 ## Parameters
-TOCFile `string`
+`string TOCFile`{!language=jass}
 : 

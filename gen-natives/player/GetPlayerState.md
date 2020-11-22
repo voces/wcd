@@ -15,8 +15,8 @@ constant native GetPlayerState takes player whichPlayer, playerstate whichPlayer
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-whichPlayerState `playerstate`
+`playerstate whichPlayerState`{!language=jass}
 : 

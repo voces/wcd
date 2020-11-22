@@ -13,5 +13,5 @@ constant native GetUnitRallyUnit takes unit whichUnit returns unit
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

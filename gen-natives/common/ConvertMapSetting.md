@@ -16,5 +16,5 @@ constant native ConvertMapSetting takes integer i returns mapsetting
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the mapsetting

@@ -14,5 +14,5 @@ native IsTriggerEnabled takes trigger whichTrigger returns boolean
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 

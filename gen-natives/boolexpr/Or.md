@@ -14,8 +14,8 @@ native Or takes boolexpr operandA, boolexpr operandB returns boolexpr
 ```
 
 ## Parameters
-operandA `boolexpr`
+`boolexpr operandA`{!language=jass}
 : 
 
-operandB `boolexpr`
+`boolexpr operandB`{!language=jass}
 : 

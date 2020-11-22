@@ -15,14 +15,14 @@ native DisplayTextToPlayer takes player toPlayer, real x, real y, string message
 ```
 
 ## Parameters
-toPlayer `player`
+`player toPlayer`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-message `string`
+`string message`{!language=jass}
 : 

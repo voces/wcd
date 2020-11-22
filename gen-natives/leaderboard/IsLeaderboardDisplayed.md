@@ -14,5 +14,5 @@ native IsLeaderboardDisplayed takes leaderboard lb returns boolean
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 

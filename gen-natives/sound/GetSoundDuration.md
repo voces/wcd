@@ -16,7 +16,7 @@ native GetSoundDuration takes sound soundHandle returns integer
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
 ## Notes 

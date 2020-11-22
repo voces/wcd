@@ -14,8 +14,8 @@ native SetTextTagFadepoint takes texttag t, real fadepoint returns nothing
 ```
 
 ## Parameters
-t `texttag`
+`texttag t`{!language=jass}
 : 
 
-fadepoint `real`
+`real fadepoint`{!language=jass}
 : 

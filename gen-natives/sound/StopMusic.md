@@ -14,5 +14,5 @@ native StopMusic takes boolean fadeOut returns nothing
 ```
 
 ## Parameters
-fadeOut `boolean`
+`boolean fadeOut`{!language=jass}
 : 

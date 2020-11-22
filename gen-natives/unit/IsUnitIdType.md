@@ -15,8 +15,8 @@ constant native IsUnitIdType takes integer unitId, unittype whichUnitType return
 ```
 
 ## Parameters
-unitId `integer`
+`integer unitId`{!language=jass}
 : 
 
-whichUnitType `unittype`
+`unittype whichUnitType`{!language=jass}
 : 

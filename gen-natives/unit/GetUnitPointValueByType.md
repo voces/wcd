@@ -13,5 +13,5 @@ native GetUnitPointValueByType takes integer unitType returns integer
 ```
 
 ## Parameters
-unitType `integer`
+`integer unitType`{!language=jass}
 : 

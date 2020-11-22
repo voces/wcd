@@ -14,5 +14,5 @@ constant native GetPlayerRace takes player whichPlayer returns race
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

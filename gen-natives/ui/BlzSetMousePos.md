@@ -14,8 +14,8 @@ native BlzSetMousePos takes integer x, integer y returns nothing
 ```
 
 ## Parameters
-x `integer`
+`integer x`{!language=jass}
 : 
 
-y `integer`
+`integer y`{!language=jass}
 : 

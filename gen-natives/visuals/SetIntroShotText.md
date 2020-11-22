@@ -13,5 +13,5 @@ native SetIntroShotText takes string introText returns nothing
 ```
 
 ## Parameters
-introText `string`
+`string introText`{!language=jass}
 : 

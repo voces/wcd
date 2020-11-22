@@ -15,13 +15,13 @@ native DefineStartLocation takes integer whichStartLoc, real x, real y returns n
 ```
 
 ## Parameters
-whichStartLoc `integer`
+`integer whichStartLoc`{!language=jass}
 : The ID of the player for the starting location. See`GetPlayerStartLocation`.
 
-x `real`
+`real x`{!language=jass}
 : The x-coordinate of the start location.
 
-y `real`
+`real y`{!language=jass}
 : The y-coordinate of the start location.
 
 ## Notes 

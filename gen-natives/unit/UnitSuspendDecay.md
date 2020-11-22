@@ -14,8 +14,8 @@ native UnitSuspendDecay takes unit whichUnit, boolean suspend returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-suspend `boolean`
+`boolean suspend`{!language=jass}
 : 

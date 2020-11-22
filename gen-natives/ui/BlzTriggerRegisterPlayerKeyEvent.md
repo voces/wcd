@@ -19,17 +19,17 @@ native BlzTriggerRegisterPlayerKeyEvent takes trigger whichTrigger, player which
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-key `oskeytype`
+`oskeytype key`{!language=jass}
 : 
 
-metaKey `integer`
+`integer metaKey`{!language=jass}
 : 
 
-keyDown `boolean`
+`boolean keyDown`{!language=jass}
 : 

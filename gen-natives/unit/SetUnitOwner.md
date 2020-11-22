@@ -15,11 +15,11 @@ native SetUnitOwner takes unit whichUnit, player whichPlayer, boolean changeColo
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-changeColor `boolean`
+`boolean changeColor`{!language=jass}
 : 

@@ -15,11 +15,11 @@ native SetHeroLevel takes unit whichHero, integer level, boolean showEyeCandy re
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 
 
-showEyeCandy `boolean`
+`boolean showEyeCandy`{!language=jass}
 : 

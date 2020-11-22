@@ -15,8 +15,8 @@ native IsUnitInRegion takes region whichRegion, unit whichUnit returns boolean
 ```
 
 ## Parameters
-whichRegion `region`
+`region whichRegion`{!language=jass}
 : 
 
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

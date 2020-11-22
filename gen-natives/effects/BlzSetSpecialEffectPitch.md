@@ -15,8 +15,8 @@ native BlzSetSpecialEffectPitch takes effect whichEffect, real pitch returns not
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-pitch `real`
+`real pitch`{!language=jass}
 : 

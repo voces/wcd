@@ -16,11 +16,11 @@ native PlaceRandomItem takes itempool whichItemPool, real x, real y returns item
 ```
 
 ## Parameters
-whichItemPool `itempool`
+`itempool whichItemPool`{!language=jass}
 : The itempool to draw from
 
-x `real`
+`real x`{!language=jass}
 : The x-coordinate of the item
 
-y `real`
+`real y`{!language=jass}
 : The y-coordinate of the item

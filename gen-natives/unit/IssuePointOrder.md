@@ -16,14 +16,14 @@ native IssuePointOrder takes unit whichUnit, string order, real x, real y return
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

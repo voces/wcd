@@ -19,19 +19,19 @@ native AddSpellEffectById takes integer abilityId, effecttype t,real x, real y r
 ```
 
 ## Parameters
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 
 
-treal `effecttype`
+`effecttype treal`{!language=jass}
 : 
 
-real `x`
+`x real`{!language=jass}
 : 
 
-returns `y`
+`y returns`{!language=jass}
 : 
 
-undefined `effect`
+`effect undefined`{!language=jass}
 : 
 
 ## Notes 

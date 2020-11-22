@@ -16,14 +16,14 @@ native BlzCreateFrame takes string name, framehandle owner, integer priority, in
 ```
 
 ## Parameters
-name `string`
+`string name`{!language=jass}
 : 
 
-owner `framehandle`
+`framehandle owner`{!language=jass}
 : 
 
-priority `integer`
+`integer priority`{!language=jass}
 : 
 
-createContext `integer`
+`integer createContext`{!language=jass}
 : 

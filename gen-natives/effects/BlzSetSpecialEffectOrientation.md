@@ -15,14 +15,14 @@ native BlzSetSpecialEffectOrientation takes effect whichEffect, real yaw, real p
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-yaw `real`
+`real yaw`{!language=jass}
 : 
 
-pitch `real`
+`real pitch`{!language=jass}
 : 
 
-roll `real`
+`real roll`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native SetItemVisible takes item whichItem, boolean show returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-show `boolean`
+`boolean show`{!language=jass}
 : 

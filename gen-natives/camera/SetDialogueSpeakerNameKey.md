@@ -16,8 +16,8 @@ native SetDialogueSpeakerNameKey takes sound soundHandle, string speakerName ret
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-speakerName `string`
+`string speakerName`{!language=jass}
 : 

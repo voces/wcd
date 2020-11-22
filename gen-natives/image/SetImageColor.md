@@ -15,17 +15,17 @@ native SetImageColor takes image whichImage, integer red, integer green, integer
 ```
 
 ## Parameters
-whichImage `image`
+`image whichImage`{!language=jass}
 : 
 
-red `integer`
+`integer red`{!language=jass}
 : 
 
-green `integer`
+`integer green`{!language=jass}
 : 
 
-blue `integer`
+`integer blue`{!language=jass}
 : 
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : 

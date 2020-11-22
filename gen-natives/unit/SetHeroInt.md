@@ -15,11 +15,11 @@ native SetHeroInt takes unit whichHero, integer newInt, boolean permanent return
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-newInt `integer`
+`integer newInt`{!language=jass}
 : 
 
-permanent `boolean`
+`boolean permanent`{!language=jass}
 : 

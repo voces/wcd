@@ -15,14 +15,14 @@ native CameraSetupSetDestPosition takes camerasetup whichSetup, real x, real y, 
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camera setup.
 
-x `real`
+`real x`{!language=jass}
 : The target x-coordinate.
 
-y `real`
+`real y`{!language=jass}
 : The target y-coordinate.
 
-duration `real`
+`real duration`{!language=jass}
 : The coordinates will be applied over this duration once the camera setup is applied.

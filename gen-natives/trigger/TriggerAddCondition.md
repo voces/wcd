@@ -15,8 +15,8 @@ native TriggerAddCondition takes trigger whichTrigger, boolexpr condition return
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-condition `boolexpr`
+`boolexpr condition`{!language=jass}
 : 

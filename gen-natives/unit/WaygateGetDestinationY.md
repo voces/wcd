@@ -14,5 +14,5 @@ native WaygateGetDestinationY takes unit waygate returns real
 ```
 
 ## Parameters
-waygate `unit`
+`unit waygate`{!language=jass}
 : 

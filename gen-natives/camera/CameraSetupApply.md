@@ -15,11 +15,11 @@ native CameraSetupApply takes camerasetup whichSetup, boolean doPan, boolean pan
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camerasetup to apply.
 
-doPan `boolean`
+`boolean doPan`{!language=jass}
 : If set to true, it will move the current camera's target coordinates to thecamera setup's target coordinates. If false, the camera will not movecoordinates, but will still apply the other fields.
 
-panTimed `boolean`
+`boolean panTimed`{!language=jass}
 : If set to true, then it will change the camera's properties over the times specified in CameraSetupSetField.

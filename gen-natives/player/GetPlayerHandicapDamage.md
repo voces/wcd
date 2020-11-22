@@ -15,5 +15,5 @@ constant native GetPlayerHandicapDamage takes player whichPlayer returns real
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

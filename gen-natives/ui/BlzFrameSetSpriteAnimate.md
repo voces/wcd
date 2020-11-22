@@ -15,11 +15,11 @@ native BlzFrameSetSpriteAnimate takes framehandle frame, integer primaryProp, in
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-primaryProp `integer`
+`integer primaryProp`{!language=jass}
 : 
 
-flags `integer`
+`integer flags`{!language=jass}
 : 

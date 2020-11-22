@@ -14,8 +14,8 @@ native QuestSetFailed takes quest whichQuest, boolean failed returns nothing
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 
 
-failed `boolean`
+`boolean failed`{!language=jass}
 : 

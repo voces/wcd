@@ -14,8 +14,8 @@ native RemovePlayer takes player whichPlayer, playergameresult gameResult return
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-gameResult `playergameresult`
+`playergameresult gameResult`{!language=jass}
 : 

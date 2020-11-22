@@ -16,5 +16,5 @@ constant native ConvertEffectType takes integer i returns effecttype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the effecttype

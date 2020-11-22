@@ -16,5 +16,5 @@ constant native ConvertPlayerState takes integer i returns playerstate
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the playerstate

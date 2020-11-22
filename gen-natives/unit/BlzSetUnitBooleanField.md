@@ -16,11 +16,11 @@ native BlzSetUnitBooleanField takes unit whichUnit, unitbooleanfield whichField,
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichField `unitbooleanfield`
+`unitbooleanfield whichField`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

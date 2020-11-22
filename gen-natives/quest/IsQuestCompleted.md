@@ -14,5 +14,5 @@ native IsQuestCompleted takes quest whichQuest returns boolean
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 

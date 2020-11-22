@@ -14,8 +14,8 @@ native BlzFrameSetAllPoints takes framehandle frame, framehandle relative return
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-relative `framehandle`
+`framehandle relative`{!language=jass}
 : 

@@ -16,5 +16,5 @@ constant native ConvertUnitType takes integer i returns unittype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the unittype

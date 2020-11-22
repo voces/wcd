@@ -14,5 +14,5 @@ native BlzUnitInterruptAttack takes unit whichUnit returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

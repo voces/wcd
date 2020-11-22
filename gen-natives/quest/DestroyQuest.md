@@ -13,5 +13,5 @@ native DestroyQuest takes quest whichQuest returns nothing
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 

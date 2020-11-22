@@ -14,14 +14,14 @@ native AddUnitToStock takes unit whichUnit, integer unitId, integer currentStock
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-unitId `integer`
+`integer unitId`{!language=jass}
 : 
 
-currentStock `integer`
+`integer currentStock`{!language=jass}
 : 
 
-stockMax `integer`
+`integer stockMax`{!language=jass}
 : 

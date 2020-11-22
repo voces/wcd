@@ -16,5 +16,5 @@ constant native ConvertGameSpeed takes integer i returns gamespeed
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the gamespeed

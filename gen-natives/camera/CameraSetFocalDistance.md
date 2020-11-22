@@ -14,5 +14,5 @@ native CameraSetFocalDistance takes real distance returns nothing
 ```
 
 ## Parameters
-distance `real`
+`real distance`{!language=jass}
 : 

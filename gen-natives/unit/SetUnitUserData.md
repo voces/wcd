@@ -15,10 +15,10 @@ native SetUnitUserData takes unit whichUnit, integer data returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-data `integer`
+`integer data`{!language=jass}
 : 
 
 ## Notes 

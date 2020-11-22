@@ -15,8 +15,8 @@ native IsLocationInRegion takes region whichRegion, location whichLocation retur
 ```
 
 ## Parameters
-whichRegion `region`
+`region whichRegion`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 

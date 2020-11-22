@@ -13,5 +13,5 @@ native SetSkyModel takes string skyModelFile returns nothing
 ```
 
 ## Parameters
-skyModelFile `string`
+`string skyModelFile`{!language=jass}
 : 

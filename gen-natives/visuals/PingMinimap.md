@@ -13,11 +13,11 @@ native PingMinimap takes real x, real y, real duration returns nothing
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-duration `real`
+`real duration`{!language=jass}
 : 

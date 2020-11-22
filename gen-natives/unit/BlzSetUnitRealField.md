@@ -17,11 +17,11 @@ native BlzSetUnitRealField takes unit whichUnit, unitrealfield whichField, real 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichField `unitrealfield`
+`unitrealfield whichField`{!language=jass}
 : 
 
-value `real`
+`real value`{!language=jass}
 : 

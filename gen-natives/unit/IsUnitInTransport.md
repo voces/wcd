@@ -14,8 +14,8 @@ constant native IsUnitInTransport takes unit whichUnit, unit whichTransport retu
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichTransport `unit`
+`unit whichTransport`{!language=jass}
 : 

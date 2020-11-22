@@ -15,11 +15,11 @@ native SetUnitState takes unit whichUnit, unitstate whichUnitState, real newVal 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichUnitState `unitstate`
+`unitstate whichUnitState`{!language=jass}
 : 
 
-newVal `real`
+`real newVal`{!language=jass}
 : 

@@ -14,5 +14,5 @@ native DestroyLightning takes lightning whichBolt returns boolean
 ```
 
 ## Parameters
-whichBolt `lightning`
+`lightning whichBolt`{!language=jass}
 : 

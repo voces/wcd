@@ -14,5 +14,5 @@ native CameraSetSmoothingFactor takes real factor returns nothing
 ```
 
 ## Parameters
-factor `real`
+`real factor`{!language=jass}
 : The smoothing factor. It is 0 by default.

@@ -17,11 +17,11 @@ native BlzSetItemIntegerField takes item whichItem, itemintegerfield whichField,
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-whichField `itemintegerfield`
+`itemintegerfield whichField`{!language=jass}
 : 
 
-value `integer`
+`integer value`{!language=jass}
 : 

@@ -15,11 +15,11 @@ native SetImageAboveWater takes image whichImage, boolean flag, boolean useWater
 ```
 
 ## Parameters
-whichImage `image`
+`image whichImage`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 
 
-useWaterAlpha `boolean`
+`boolean useWaterAlpha`{!language=jass}
 : 

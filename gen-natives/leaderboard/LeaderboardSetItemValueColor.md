@@ -14,20 +14,20 @@ native LeaderboardSetItemValueColor takes leaderboard lb, integer whichItem, int
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-whichItem `integer`
+`integer whichItem`{!language=jass}
 : 
 
-red `integer`
+`integer red`{!language=jass}
 : 
 
-green `integer`
+`integer green`{!language=jass}
 : 
 
-blue `integer`
+`integer blue`{!language=jass}
 : 
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : 

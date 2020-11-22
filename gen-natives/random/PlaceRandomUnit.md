@@ -16,17 +16,17 @@ native PlaceRandomUnit takes unitpool whichPool, player forWhichPlayer, real x, 
 ```
 
 ## Parameters
-whichPool `unitpool`
+`unitpool whichPool`{!language=jass}
 : 
 
-forWhichPlayer `player`
+`player forWhichPlayer`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-facing `real`
+`real facing`{!language=jass}
 : 

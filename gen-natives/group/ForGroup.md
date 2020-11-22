@@ -14,8 +14,8 @@ native ForGroup takes group whichGroup, code callback returns nothing
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-callback `code`
+`code callback`{!language=jass}
 : 

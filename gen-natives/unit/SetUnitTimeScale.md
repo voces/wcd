@@ -14,8 +14,8 @@ native SetUnitTimeScale takes unit whichUnit, real timeScale returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-timeScale `real`
+`real timeScale`{!language=jass}
 : 

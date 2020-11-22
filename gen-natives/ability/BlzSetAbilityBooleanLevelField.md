@@ -17,14 +17,14 @@ native BlzSetAbilityBooleanLevelField takes ability whichAbility, abilityboolean
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilitybooleanlevelfield`
+`abilitybooleanlevelfield whichField`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

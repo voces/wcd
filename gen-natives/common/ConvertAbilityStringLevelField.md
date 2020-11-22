@@ -16,5 +16,5 @@ constant native ConvertAbilityStringLevelField takes integer i returns abilityst
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

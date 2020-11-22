@@ -14,5 +14,5 @@ native GetPlayerController takes player whichPlayer returns mapcontrol
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

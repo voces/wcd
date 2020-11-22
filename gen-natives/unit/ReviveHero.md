@@ -15,14 +15,14 @@ native ReviveHero takes unit whichHero, real x, real y, boolean doEyecandy retur
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-doEyecandy `boolean`
+`boolean doEyecandy`{!language=jass}
 : 

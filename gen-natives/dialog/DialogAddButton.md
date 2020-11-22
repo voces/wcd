@@ -16,13 +16,13 @@ native DialogAddButton takes dialog whichDialog, string buttonText, integer hotk
 ```
 
 ## Parameters
-whichDialog `dialog`
+`dialog whichDialog`{!language=jass}
 : 
 
-buttonText `string`
+`string buttonText`{!language=jass}
 : 
 
-hotkey `integer`
+`integer hotkey`{!language=jass}
 : 
 
 ## Notes 

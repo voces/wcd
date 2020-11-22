@@ -14,5 +14,5 @@ native BlzStartRecording takes integer fps returns nothing
 ```
 
 ## Parameters
-fps `integer`
+`integer fps`{!language=jass}
 : 

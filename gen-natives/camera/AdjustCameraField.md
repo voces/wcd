@@ -15,11 +15,11 @@ native AdjustCameraField takes camerafield whichField, real offset, real duratio
 ```
 
 ## Parameters
-whichField `camerafield`
+`camerafield whichField`{!language=jass}
 : 
 
-offset `real`
+`real offset`{!language=jass}
 : 
 
-duration `real`
+`real duration`{!language=jass}
 : 

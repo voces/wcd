@@ -15,11 +15,11 @@ native BlzDecPlayerTechResearched takes player whichPlayer, integer techid, inte
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-techid `integer`
+`integer techid`{!language=jass}
 : 
 
-levels `integer`
+`integer levels`{!language=jass}
 : 

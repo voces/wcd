@@ -16,8 +16,8 @@ native BlzGetUnitAbilityCooldownRemaining takes unit whichUnit, integer abilId r
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilId `integer`
+`integer abilId`{!language=jass}
 : 

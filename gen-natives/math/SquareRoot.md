@@ -15,5 +15,5 @@ native SquareRoot takes real x returns real
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 

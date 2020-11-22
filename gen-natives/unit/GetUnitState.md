@@ -15,8 +15,8 @@ constant native GetUnitState takes unit whichUnit, unitstate whichUnitState retu
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichUnitState `unitstate`
+`unitstate whichUnitState`{!language=jass}
 : 

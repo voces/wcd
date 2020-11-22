@@ -16,5 +16,5 @@ constant native ConvertGameDifficulty takes integer i returns gamedifficulty
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the gamedifficulty

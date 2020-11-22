@@ -16,10 +16,10 @@ native CameraSetupGetField takes camerasetup whichSetup, camerafield whichField 
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camera setup.
 
-whichField `camerafield`
+`camerafield whichField`{!language=jass}
 : The field of the camerasetup.
 
 ## Notes 

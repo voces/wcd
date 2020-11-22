@@ -15,8 +15,8 @@ constant native IsUnitAlly takes unit whichUnit, player whichPlayer returns bool
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

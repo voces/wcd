@@ -16,5 +16,5 @@ constant native ConvertTextAlignType takes integer i returns textaligntype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

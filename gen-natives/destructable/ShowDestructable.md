@@ -14,8 +14,8 @@ native ShowDestructable takes destructable d, boolean flag returns nothing
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

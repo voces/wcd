@@ -15,11 +15,11 @@ native ReviveHeroLoc takes unit whichHero, location loc, boolean doEyecandy retu
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-loc `location`
+`location loc`{!language=jass}
 : 
 
-doEyecandy `boolean`
+`boolean doEyecandy`{!language=jass}
 : 

@@ -15,7 +15,7 @@ constant native ConvertAttackType takes integer i returns attacktype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 
 
 ## Notes 

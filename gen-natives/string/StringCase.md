@@ -15,8 +15,8 @@ native StringCase takes string source, boolean upper returns string
 ```
 
 ## Parameters
-source `string`
+`string source`{!language=jass}
 : 
 
-upper `boolean`
+`boolean upper`{!language=jass}
 : 

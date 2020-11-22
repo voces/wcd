@@ -13,5 +13,5 @@ native DestroyTextTag takes texttag t returns nothing
 ```
 
 ## Parameters
-t `texttag`
+`texttag t`{!language=jass}
 : 

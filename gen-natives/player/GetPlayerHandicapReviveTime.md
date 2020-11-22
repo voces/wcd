@@ -15,5 +15,5 @@ constant native GetPlayerHandicapReviveTime takes player whichPlayer returns rea
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

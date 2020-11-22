@@ -14,8 +14,8 @@ constant native IsPlayerEnemy takes player whichPlayer, player otherPlayer retur
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-otherPlayer `player`
+`player otherPlayer`{!language=jass}
 : 

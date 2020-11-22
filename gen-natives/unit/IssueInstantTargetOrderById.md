@@ -16,14 +16,14 @@ native IssueInstantTargetOrderById takes unit whichUnit, integer order, widget t
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 
 
-targetWidget `widget`
+`widget targetWidget`{!language=jass}
 : 
 
-instantTargetWidget `widget`
+`widget instantTargetWidget`{!language=jass}
 : 

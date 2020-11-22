@@ -16,16 +16,16 @@ native AddSpellEffect takes string abilityString, effecttype t, real x, real y r
 ```
 
 ## Parameters
-abilityString `string`
+`string abilityString`{!language=jass}
 : 
 
-t `effecttype`
+`effecttype t`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
 ## Notes 

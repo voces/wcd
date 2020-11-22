@@ -16,14 +16,14 @@ native IssueBuildOrder takes unit whichPeon, string unitToBuild, real x, real y 
 ```
 
 ## Parameters
-whichPeon `unit`
+`unit whichPeon`{!language=jass}
 : 
 
-unitToBuild `string`
+`string unitToBuild`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

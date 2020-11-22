@@ -16,17 +16,17 @@ native BlzCreateFrameByType takes string typeName, string name, framehandle owne
 ```
 
 ## Parameters
-typeName `string`
+`string typeName`{!language=jass}
 : 
 
-name `string`
+`string name`{!language=jass}
 : 
 
-owner `framehandle`
+`framehandle owner`{!language=jass}
 : 
 
-inherits `string`
+`string inherits`{!language=jass}
 : 
 
-createContext `integer`
+`integer createContext`{!language=jass}
 : 

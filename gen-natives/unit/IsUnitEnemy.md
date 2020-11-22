@@ -15,8 +15,8 @@ constant native IsUnitEnemy takes unit whichUnit, player whichPlayer returns boo
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

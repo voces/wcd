@@ -14,8 +14,8 @@ native SetTextTagLifespan takes texttag t, real lifespan returns nothing
 ```
 
 ## Parameters
-t `texttag`
+`texttag t`{!language=jass}
 : 
 
-lifespan `real`
+`real lifespan`{!language=jass}
 : 

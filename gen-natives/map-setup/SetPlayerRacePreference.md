@@ -14,8 +14,8 @@ native SetPlayerRacePreference takes player whichPlayer, racepreference whichRac
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-whichRacePreference `racepreference`
+`racepreference whichRacePreference`{!language=jass}
 : 

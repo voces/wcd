@@ -14,17 +14,17 @@ native LeaderboardSetStyle takes leaderboard lb, boolean showLabel, boolean show
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-showLabel `boolean`
+`boolean showLabel`{!language=jass}
 : 
 
-showNames `boolean`
+`boolean showNames`{!language=jass}
 : 
 
-showValues `boolean`
+`boolean showValues`{!language=jass}
 : 
 
-showIcons `boolean`
+`boolean showIcons`{!language=jass}
 : 

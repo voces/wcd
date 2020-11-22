@@ -15,17 +15,17 @@ native SetLightningColor takes lightning whichBolt, real r, real g, real b, real
 ```
 
 ## Parameters
-whichBolt `lightning`
+`lightning whichBolt`{!language=jass}
 : 
 
-r `real`
+`real r`{!language=jass}
 : 
 
-g `real`
+`real g`{!language=jass}
 : 
 
-b `real`
+`real b`{!language=jass}
 : 
 
-a `real`
+`real a`{!language=jass}
 : 

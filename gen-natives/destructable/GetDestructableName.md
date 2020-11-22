@@ -15,5 +15,5 @@ native GetDestructableName takes destructable d returns string
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 

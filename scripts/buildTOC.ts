@@ -47,6 +47,8 @@ interface Doc {
 }
 
 const processDoc = ({ path, contents }: ReadFile) => {
+	if (path === "404.md") return;
+
 	const frontmatter = contents.split("---\n")[1];
 	const frontyaml = yaml.safeLoad(frontmatter);
 	if (typeof frontyaml !== "object") throw new Error();
@@ -75,20 +77,25 @@ const processDoc = ({ path, contents }: ReadFile) => {
 interface Node {
 	children?: Record<string, Node>;
 	title?: string;
+	nav_priority?: number;
 }
 
 readDirectory(".").then((files) => {
 	const index: Node = { title: "root" };
 
-	files.map(processDoc).forEach(({ path, title }) => {
-		const parts = path.split("/");
-		let cur = index;
-		for (const part of parts) {
-			if (!cur.children) cur.children = {};
-			cur = cur.children[part] ?? (cur.children[part] = {});
-		}
-		cur.title = title;
-	});
+	files
+		.map(processDoc)
+		.filter((v): v is Doc => !!v)
+		.forEach(({ path, title, nav_priority }) => {
+			const parts = path.split("/");
+			let cur = index;
+			for (const part of parts) {
+				if (!cur.children) cur.children = {};
+				cur = cur.children[part] ?? (cur.children[part] = {});
+			}
+			cur.title = title;
+			if (nav_priority !== undefined) cur.nav_priority = nav_priority;
+		});
 
 	fs.writeFile("toc.json", JSON.stringify(index));
 });

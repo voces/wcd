@@ -16,5 +16,5 @@ constant native ConvertArmorType takes integer i returns armortype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

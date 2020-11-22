@@ -15,11 +15,11 @@ native CreateMIDISound takes string soundLabel, integer fadeInRate, integer fade
 ```
 
 ## Parameters
-soundLabel `string`
+`string soundLabel`{!language=jass}
 : 
 
-fadeInRate `integer`
+`integer fadeInRate`{!language=jass}
 : 
 
-fadeOutRate `integer`
+`integer fadeOutRate`{!language=jass}
 : 

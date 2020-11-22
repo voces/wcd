@@ -15,5 +15,5 @@ native BlzFrameGetName takes framehandle frame returns string
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 

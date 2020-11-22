@@ -15,8 +15,8 @@ native UnitStripHeroLevel takes unit whichHero, integer howManyLevels returns bo
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-howManyLevels `integer`
+`integer howManyLevels`{!language=jass}
 : 

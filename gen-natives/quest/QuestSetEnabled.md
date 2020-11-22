@@ -14,8 +14,8 @@ native QuestSetEnabled takes quest whichQuest, boolean enabled returns nothing
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 
 
-enabled `boolean`
+`boolean enabled`{!language=jass}
 : 

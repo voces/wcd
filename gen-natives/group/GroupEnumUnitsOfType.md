@@ -15,11 +15,11 @@ native GroupEnumUnitsOfType takes group whichGroup, string unitname, boolexpr fi
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-unitname `string`
+`string unitname`{!language=jass}
 : 
 
-filter `boolexpr`
+`boolexpr filter`{!language=jass}
 : 

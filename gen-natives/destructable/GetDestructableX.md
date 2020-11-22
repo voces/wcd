@@ -14,5 +14,5 @@ native GetDestructableX takes destructable d returns real
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 

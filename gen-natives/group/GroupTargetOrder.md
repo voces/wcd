@@ -16,11 +16,11 @@ native GroupTargetOrder takes group whichGroup, string order, widget targetWidge
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 
 
-targetWidget `widget`
+`widget targetWidget`{!language=jass}
 : 

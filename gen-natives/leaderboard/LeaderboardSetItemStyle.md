@@ -15,17 +15,17 @@ native LeaderboardSetItemStyle takes leaderboard lb, integer whichItem, boolean 
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-whichItem `integer`
+`integer whichItem`{!language=jass}
 : 
 
-showLabel `boolean`
+`boolean showLabel`{!language=jass}
 : 
 
-showValue `boolean`
+`boolean showValue`{!language=jass}
 : 
 
-showIcon `boolean`
+`boolean showIcon`{!language=jass}
 : 

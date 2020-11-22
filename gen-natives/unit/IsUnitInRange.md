@@ -15,11 +15,11 @@ constant native IsUnitInRange takes unit whichUnit, unit otherUnit, real distanc
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-otherUnit `unit`
+`unit otherUnit`{!language=jass}
 : 
 
-distance `real`
+`real distance`{!language=jass}
 : 

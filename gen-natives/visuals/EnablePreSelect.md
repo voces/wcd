@@ -13,8 +13,8 @@ native EnablePreSelect takes boolean state, boolean ui returns nothing
 ```
 
 ## Parameters
-state `boolean`
+`boolean state`{!language=jass}
 : 
 
-ui `boolean`
+`boolean ui`{!language=jass}
 : 

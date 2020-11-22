@@ -16,11 +16,11 @@ native GroupPointOrderLoc takes group whichGroup, string order, location whichLo
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 

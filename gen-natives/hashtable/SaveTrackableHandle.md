@@ -17,14 +17,14 @@ native SaveTrackableHandle takes hashtable table, integer parentKey, integer chi
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichTrackable `trackable`
+`trackable whichTrackable`{!language=jass}
 : 

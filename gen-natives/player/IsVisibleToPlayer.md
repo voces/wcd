@@ -15,11 +15,11 @@ constant native IsVisibleToPlayer takes real x, real y, player whichPlayer retur
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

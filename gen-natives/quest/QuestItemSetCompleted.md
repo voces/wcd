@@ -14,8 +14,8 @@ native QuestItemSetCompleted takes questitem whichQuestItem, boolean completed r
 ```
 
 ## Parameters
-whichQuestItem `questitem`
+`questitem whichQuestItem`{!language=jass}
 : 
 
-completed `boolean`
+`boolean completed`{!language=jass}
 : 

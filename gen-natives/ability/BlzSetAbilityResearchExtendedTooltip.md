@@ -15,11 +15,11 @@ native BlzSetAbilityResearchExtendedTooltip takes integer abilCode, string resea
 ```
 
 ## Parameters
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 
 
-researchExtendedTooltip `string`
+`string researchExtendedTooltip`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 

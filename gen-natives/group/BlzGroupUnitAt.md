@@ -16,8 +16,8 @@ native BlzGroupUnitAt takes group whichGroup, integer index returns unit
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 

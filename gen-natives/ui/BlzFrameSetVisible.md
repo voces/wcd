@@ -15,8 +15,8 @@ native BlzFrameSetVisible takes framehandle frame, boolean visible returns nothi
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-visible `boolean`
+`boolean visible`{!language=jass}
 : 

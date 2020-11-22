@@ -16,8 +16,8 @@ native BlzGetAbilityRealField takes ability whichAbility, abilityrealfield which
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilityrealfield`
+`abilityrealfield whichField`{!language=jass}
 : 

@@ -17,20 +17,20 @@ native BlzCreateUnitWithSkin takes player id, integer unitid, real x, real y, re
 ```
 
 ## Parameters
-id `player`
+`player id`{!language=jass}
 : 
 
-unitid `integer`
+`integer unitid`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-face `real`
+`real face`{!language=jass}
 : 
 
-skinId `integer`
+`integer skinId`{!language=jass}
 : 

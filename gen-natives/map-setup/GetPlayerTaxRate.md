@@ -15,11 +15,11 @@ native GetPlayerTaxRate takes player sourcePlayer, player otherPlayer, playersta
 ```
 
 ## Parameters
-sourcePlayer `player`
+`player sourcePlayer`{!language=jass}
 : 
 
-otherPlayer `player`
+`player otherPlayer`{!language=jass}
 : 
 
-whichResource `playerstate`
+`playerstate whichResource`{!language=jass}
 : 

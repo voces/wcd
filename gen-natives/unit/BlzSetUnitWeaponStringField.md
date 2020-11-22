@@ -18,14 +18,14 @@ native BlzSetUnitWeaponStringField takes unit whichUnit, unitweaponstringfield w
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichField `unitweaponstringfield`
+`unitweaponstringfield whichField`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 
 
-value `string`
+`string value`{!language=jass}
 : 

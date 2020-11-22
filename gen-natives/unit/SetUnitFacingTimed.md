@@ -14,11 +14,11 @@ native SetUnitFacingTimed takes unit whichUnit, real facingAngle, real duration 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-facingAngle `real`
+`real facingAngle`{!language=jass}
 : 
 
-duration `real`
+`real duration`{!language=jass}
 : 

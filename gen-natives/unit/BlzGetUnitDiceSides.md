@@ -15,8 +15,8 @@ native BlzGetUnitDiceSides takes unit whichUnit, integer weaponIndex returns int
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-weaponIndex `integer`
+`integer weaponIndex`{!language=jass}
 : 

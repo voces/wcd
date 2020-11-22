@@ -1,4 +1,7 @@
 .nav {
+    max-height: calc(100vh - 61px);
+    overflow-y: auto;
+
     ul, & {
         padding-left: 8px;
     }

@@ -14,8 +14,8 @@ native QuestSetTitle takes quest whichQuest, string title returns nothing
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 
 
-title `string`
+`string title`{!language=jass}
 : 

@@ -15,13 +15,13 @@ native PlayMusicEx takes string musicName, integer frommsecs, integer fadeinmsec
 ```
 
 ## Parameters
-musicName `string`
+`string musicName`{!language=jass}
 : The path to the music file.
 
-frommsecs `integer`
+`integer frommsecs`{!language=jass}
 : At what offset the music starts. In milliseconds.
 
-fadeinmsecs `integer`
+`integer fadeinmsecs`{!language=jass}
 : How long the music is faded in. In milliseconds.
 
 ## Notes 

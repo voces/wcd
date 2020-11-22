@@ -15,8 +15,8 @@ native BlzFrameSetEnable takes framehandle frame, boolean enabled returns nothin
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-enabled `boolean`
+`boolean enabled`{!language=jass}
 : 

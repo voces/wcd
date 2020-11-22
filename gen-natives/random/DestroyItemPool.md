@@ -13,5 +13,5 @@ native DestroyItemPool takes itempool whichItemPool returns nothing
 ```
 
 ## Parameters
-whichItemPool `itempool`
+`itempool whichItemPool`{!language=jass}
 : 

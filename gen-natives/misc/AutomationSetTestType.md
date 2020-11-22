@@ -14,5 +14,5 @@ native AutomationSetTestType takes string testType returns nothing
 ```
 
 ## Parameters
-testType `string`
+`string testType`{!language=jass}
 : 

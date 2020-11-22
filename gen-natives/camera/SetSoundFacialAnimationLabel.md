@@ -16,8 +16,8 @@ native SetSoundFacialAnimationLabel takes sound soundHandle, string animationLab
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-animationLabel `string`
+`string animationLabel`{!language=jass}
 : 

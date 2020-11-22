@@ -16,5 +16,5 @@ constant native GetCameraField takes camerafield whichField returns real
 ```
 
 ## Parameters
-whichField `camerafield`
+`camerafield whichField`{!language=jass}
 : 

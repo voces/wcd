@@ -16,11 +16,11 @@ native ItemPoolAddItemType takes itempool whichItemPool, integer itemId, real we
 ```
 
 ## Parameters
-whichItemPool `itempool`
+`itempool whichItemPool`{!language=jass}
 : The itempool to add the item to
 
-itemId `integer`
+`integer itemId`{!language=jass}
 : The rawcode of the item
 
-weight `real`
+`real weight`{!language=jass}
 : The weight of the itemThe weight determines how likely it is for the item to be chose by`PlaceRandomItem`.

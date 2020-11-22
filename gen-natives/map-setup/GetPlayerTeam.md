@@ -14,5 +14,5 @@ native GetPlayerTeam takes player whichPlayer returns integer
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

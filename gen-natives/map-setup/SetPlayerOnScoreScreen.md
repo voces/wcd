@@ -14,8 +14,8 @@ native SetPlayerOnScoreScreen takes player whichPlayer, boolean flag returns not
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

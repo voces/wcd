@@ -15,7 +15,7 @@ constant native OrderId takes string orderIdString returns integer
 ```
 
 ## Parameters
-orderIdString `string`
+`string orderIdString`{!language=jass}
 : 
 
 ## Bugs 

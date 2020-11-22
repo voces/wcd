@@ -15,7 +15,7 @@ native GetSoundIsPlaying takes sound soundHandle returns boolean
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
 ## Notes 

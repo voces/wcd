@@ -15,8 +15,8 @@ native LeaderboardGetPlayerIndex takes leaderboard lb, player p returns integer
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-p `player`
+`player p`{!language=jass}
 : 

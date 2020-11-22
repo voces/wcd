@@ -15,10 +15,10 @@ native AddResourceAmount takes unit whichUnit, integer amount returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The unit who receives the added resource amount.
 
-amount `integer`
+`integer amount`{!language=jass}
 : The amount of resources to add to the unit.
 
 ## Bugs 

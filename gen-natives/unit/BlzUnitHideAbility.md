@@ -16,11 +16,11 @@ native BlzUnitHideAbility takes unit whichUnit, integer abilId, boolean flag ret
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilId `integer`
+`integer abilId`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

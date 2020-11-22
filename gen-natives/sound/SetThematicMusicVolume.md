@@ -14,5 +14,5 @@ native SetThematicMusicVolume takes integer volume returns nothing
 ```
 
 ## Parameters
-volume `integer`
+`integer volume`{!language=jass}
 : 

@@ -11,7 +11,7 @@ const SearchResults = ({ items }: { items: SearchResult[] }) => (
 		{items.slice(0, 100).map((item, idx, arr) => (
 			<li key={item.path} className="result">
 				<a
-					href={`wcd/${item.path}`}
+					href={`/wcd/${item.path}`}
 					className={
 						idx === 0
 							? "first"
@@ -48,7 +48,6 @@ export const SearchBar = (): JSX.Element => {
 				onKeyDown={(e) => {
 					if (e.key === "Escape") setSearchResults([]);
 				}}
-				onBlur={() => setSearchResults([])}
 			/>
 			<a href="https://github.com/voces/wcd">wcd on GitHub</a>
 			<SearchResults items={searchResults} />

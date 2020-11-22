@@ -16,13 +16,13 @@ native GetAbilityEffect takes string abilityString, effecttype t, integer index 
 ```
 
 ## Parameters
-abilityString `string`
+`string abilityString`{!language=jass}
 : 
 
-t `effecttype`
+`effecttype t`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 
 
 ## Notes 

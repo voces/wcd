@@ -14,5 +14,5 @@ native MultiboardGetRowCount takes multiboard lb returns integer
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 

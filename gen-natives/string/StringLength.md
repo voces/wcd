@@ -16,5 +16,5 @@ native StringLength takes string s returns integer
 ```
 
 ## Parameters
-s `string`
+`string s`{!language=jass}
 : 

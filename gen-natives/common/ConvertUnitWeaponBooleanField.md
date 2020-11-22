@@ -16,5 +16,5 @@ constant native ConvertUnitWeaponBooleanField takes integer i returns unitweapon
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

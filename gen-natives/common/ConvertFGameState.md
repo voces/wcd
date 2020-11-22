@@ -16,5 +16,5 @@ constant native ConvertFGameState takes integer i returns fgamestate
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the fgamestate

@@ -15,8 +15,8 @@ native TriggerRegisterDialogButtonEvent takes trigger whichTrigger, button which
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichButton `button`
+`button whichButton`{!language=jass}
 : 

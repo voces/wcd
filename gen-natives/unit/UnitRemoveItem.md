@@ -15,8 +15,8 @@ native UnitRemoveItem takes unit whichUnit, item whichItem returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

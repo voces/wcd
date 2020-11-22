@@ -16,14 +16,14 @@ native GroupPointOrder takes group whichGroup, string order, real x, real y retu
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

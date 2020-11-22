@@ -15,8 +15,8 @@ native BlzSetItemIconPath takes item whichItem, string iconPath returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-iconPath `string`
+`string iconPath`{!language=jass}
 : 

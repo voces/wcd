@@ -15,11 +15,11 @@ native MultiboardGetItem takes multiboard lb, integer row, integer column return
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-row `integer`
+`integer row`{!language=jass}
 : 
 
-column `integer`
+`integer column`{!language=jass}
 : 

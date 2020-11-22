@@ -14,8 +14,8 @@ native ShowUbersplat takes ubersplat whichSplat, boolean flag returns nothing
 ```
 
 ## Parameters
-whichSplat `ubersplat`
+`ubersplat whichSplat`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

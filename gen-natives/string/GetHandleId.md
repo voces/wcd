@@ -15,5 +15,5 @@ native GetHandleId takes handle h returns integer
 ```
 
 ## Parameters
-h `handle`
+`handle h`{!language=jass}
 : 

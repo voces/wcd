@@ -13,5 +13,5 @@ native FlushGameCache takes gamecache cache returns nothing
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 

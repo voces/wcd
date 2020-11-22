@@ -14,5 +14,5 @@ native SaveGameExists takes string saveName returns boolean
 ```
 
 ## Parameters
-saveName `string`
+`string saveName`{!language=jass}
 : 

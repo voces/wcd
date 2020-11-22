@@ -15,5 +15,5 @@ native BlzFrameGetValue takes framehandle frame returns real
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 

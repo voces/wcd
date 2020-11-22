@@ -16,17 +16,17 @@ native CreateUnitByName takes player whichPlayer, string unitname, real x, real 
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-unitname `string`
+`string unitname`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-face `real`
+`real face`{!language=jass}
 : Unit facing in degrees

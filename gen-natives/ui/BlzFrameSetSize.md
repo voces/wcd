@@ -15,11 +15,11 @@ native BlzFrameSetSize takes framehandle frame, real width, real height returns 
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-width `real`
+`real width`{!language=jass}
 : 
 
-height `real`
+`real height`{!language=jass}
 : 

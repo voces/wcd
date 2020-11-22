@@ -17,14 +17,14 @@ native SaveSoundHandle takes hashtable table, integer parentKey, integer childKe
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichSound `sound`
+`sound whichSound`{!language=jass}
 : 

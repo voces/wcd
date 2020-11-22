@@ -15,13 +15,13 @@ native DialogDisplay takes player whichPlayer, dialog whichDialog, boolean flag 
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-whichDialog `dialog`
+`dialog whichDialog`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 
 
 ## Notes 

@@ -16,11 +16,11 @@ constant native IsUnitInRangeLoc takes unit whichUnit, location whichLocation, r
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 
 
-distance `real`
+`real distance`{!language=jass}
 : 

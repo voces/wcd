@@ -16,11 +16,11 @@ native BlzCreateSimpleFrame takes string name, framehandle owner, integer create
 ```
 
 ## Parameters
-name `string`
+`string name`{!language=jass}
 : 
 
-owner `framehandle`
+`framehandle owner`{!language=jass}
 : 
 
-createContext `integer`
+`integer createContext`{!language=jass}
 : 

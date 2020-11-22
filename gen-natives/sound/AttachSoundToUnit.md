@@ -15,10 +15,10 @@ native AttachSoundToUnit takes sound soundHandle, unit whichUnit returns nothing
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : The 3D sound to play.
 
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The unit to attach the sound to.
 
 ## Notes 

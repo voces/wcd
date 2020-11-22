@@ -15,14 +15,14 @@ native SetPlayerAlliance takes player sourcePlayer, player otherPlayer, alliance
 ```
 
 ## Parameters
-sourcePlayer `player`
+`player sourcePlayer`{!language=jass}
 : 
 
-otherPlayer `player`
+`player otherPlayer`{!language=jass}
 : 
 
-whichAllianceSetting `alliancetype`
+`alliancetype whichAllianceSetting`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

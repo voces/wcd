@@ -14,5 +14,5 @@ constant native IsHeroUnitId takes integer unitId returns boolean
 ```
 
 ## Parameters
-unitId `integer`
+`integer unitId`{!language=jass}
 : 

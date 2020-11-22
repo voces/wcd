@@ -14,8 +14,8 @@ native MultiboardSetColumnCount takes multiboard lb, integer count returns nothi
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-count `integer`
+`integer count`{!language=jass}
 : 

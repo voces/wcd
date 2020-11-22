@@ -14,8 +14,8 @@ native SetDestructableInvulnerable takes destructable d, boolean flag returns no
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

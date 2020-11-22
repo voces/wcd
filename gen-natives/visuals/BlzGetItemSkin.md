@@ -15,5 +15,5 @@ native BlzGetItemSkin takes item whichItem returns integer
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

@@ -15,10 +15,10 @@ native ChooseRandomItemEx takes itemtype whichType, integer level returns intege
 ```
 
 ## Parameters
-whichType `itemtype`
+`itemtype whichType`{!language=jass}
 : The classification of items to choose from.
 
-level `integer`
+`integer level`{!language=jass}
 : The level of the items to choose from. Passing a level of -1 is equivalent to any level.
 
 ## Notes 

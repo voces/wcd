@@ -13,5 +13,5 @@ native SetAllyColorFilterState takes integer state returns nothing
 ```
 
 ## Parameters
-state `integer`
+`integer state`{!language=jass}
 : 

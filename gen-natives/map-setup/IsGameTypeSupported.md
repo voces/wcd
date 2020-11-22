@@ -14,5 +14,5 @@ native IsGameTypeSupported takes gametype whichGameType returns boolean
 ```
 
 ## Parameters
-whichGameType `gametype`
+`gametype whichGameType`{!language=jass}
 : 

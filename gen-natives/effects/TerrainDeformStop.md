@@ -14,8 +14,8 @@ native TerrainDeformStop takes terraindeformation deformation, integer duration 
 ```
 
 ## Parameters
-deformation `terraindeformation`
+`terraindeformation deformation`{!language=jass}
 : 
 
-duration `integer`
+`integer duration`{!language=jass}
 : 

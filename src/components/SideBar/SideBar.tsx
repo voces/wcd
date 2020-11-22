@@ -4,11 +4,15 @@ import React from "react";
 
 import { Nav } from "../Nav/Nav";
 
-export const SideBar = (): JSX.Element => (
+export const SideBar = ({
+	setMarkdownContents,
+}: {
+	setMarkdownContents: (marrkdown: string) => void;
+}): JSX.Element => (
 	<div className="side-bar">
 		<header>
 			<img src="/wcd/assets/img/logo.png" height={28} />
 		</header>
-		<Nav />
+		<Nav setMarkdownContents={setMarkdownContents} />
 	</div>
 );

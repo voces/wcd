@@ -18,14 +18,14 @@ native BlzSetUnitWeaponRealField takes unit whichUnit, unitweaponrealfield which
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichField `unitweaponrealfield`
+`unitweaponrealfield whichField`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 
 
-value `real`
+`real value`{!language=jass}
 : 

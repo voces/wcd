@@ -15,8 +15,8 @@ native TriggerRegisterTrackableTrackEvent takes trigger whichTrigger, trackable 
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-t `trackable`
+`trackable t`{!language=jass}
 : 

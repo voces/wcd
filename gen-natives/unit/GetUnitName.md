@@ -15,5 +15,5 @@ constant native GetUnitName takes unit whichUnit returns string
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

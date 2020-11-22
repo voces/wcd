@@ -14,5 +14,5 @@ native Not takes boolexpr operand returns boolexpr
 ```
 
 ## Parameters
-operand `boolexpr`
+`boolexpr operand`{!language=jass}
 : 

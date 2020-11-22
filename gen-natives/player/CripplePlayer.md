@@ -16,13 +16,13 @@ native CripplePlayer takes player whichPlayer, force toWhichPlayers, boolean fla
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : The player to reveal.
 
-toWhichPlayers `force`
+`force toWhichPlayers`{!language=jass}
 : The players who will see whichPlayer's buildings.
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : If true, the buildings will be revealed. If false, the buildingswill not be revealed. Note that if you set it to false, it will not hide the buildings with a black mask.
 
 ## Notes 

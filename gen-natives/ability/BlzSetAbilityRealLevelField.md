@@ -18,14 +18,14 @@ native BlzSetAbilityRealLevelField takes ability whichAbility, abilityreallevelf
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilityreallevelfield`
+`abilityreallevelfield whichField`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 
 
-value `real`
+`real value`{!language=jass}
 : 

@@ -15,11 +15,11 @@ native ForceEnumPlayersCounted takes force whichForce, boolexpr filter, integer 
 ```
 
 ## Parameters
-whichForce `force`
+`force whichForce`{!language=jass}
 : 
 
-filter `boolexpr`
+`boolexpr filter`{!language=jass}
 : 
 
-countLimit `integer`
+`integer countLimit`{!language=jass}
 : 

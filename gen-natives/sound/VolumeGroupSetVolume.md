@@ -14,8 +14,8 @@ native VolumeGroupSetVolume takes volumegroup vgroup, real scale returns nothing
 ```
 
 ## Parameters
-vgroup `volumegroup`
+`volumegroup vgroup`{!language=jass}
 : 
 
-scale `real`
+`real scale`{!language=jass}
 : 

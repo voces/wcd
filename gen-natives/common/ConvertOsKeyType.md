@@ -16,5 +16,5 @@ constant native ConvertOsKeyType takes integer i returns oskeytype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

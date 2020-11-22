@@ -17,14 +17,14 @@ native CreateUnitAtLocByName takes player id, string unitname, location whichLoc
 ```
 
 ## Parameters
-id `player`
+`player id`{!language=jass}
 : 
 
-unitname `string`
+`string unitname`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 
 
-face `real`
+`real face`{!language=jass}
 : Unit facing in degrees

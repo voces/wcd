@@ -13,5 +13,5 @@ native LeaderboardClear takes leaderboard lb returns nothing
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native TriggerRemoveAction takes trigger whichTrigger, triggeraction whichAction
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichAction `triggeraction`
+`triggeraction whichAction`{!language=jass}
 : 

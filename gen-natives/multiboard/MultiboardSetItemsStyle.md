@@ -15,11 +15,11 @@ native MultiboardSetItemsStyle takes multiboard lb, boolean showValues, boolean 
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-showValues `boolean`
+`boolean showValues`{!language=jass}
 : 
 
-showIcons `boolean`
+`boolean showIcons`{!language=jass}
 : 

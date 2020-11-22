@@ -15,5 +15,5 @@ native BlzSetEventAttackType takes attacktype attackType returns boolean
 ```
 
 ## Parameters
-attackType `attacktype`
+`attacktype attackType`{!language=jass}
 : 

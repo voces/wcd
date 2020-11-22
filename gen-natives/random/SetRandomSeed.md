@@ -13,5 +13,5 @@ native SetRandomSeed takes integer seed returns nothing
 ```
 
 ## Parameters
-seed `integer`
+`integer seed`{!language=jass}
 : 

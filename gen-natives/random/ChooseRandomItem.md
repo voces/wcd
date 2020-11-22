@@ -14,7 +14,7 @@ native ChooseRandomItem takes integer level returns integer
 ```
 
 ## Parameters
-level `integer`
+`integer level`{!language=jass}
 : The level of the items to choose from. Passing a level of -1 is equivalent to any level.
 
 ## Notes 

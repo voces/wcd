@@ -13,11 +13,11 @@ native AddUnitToAllStock takes integer unitId, integer currentStock, integer sto
 ```
 
 ## Parameters
-unitId `integer`
+`integer unitId`{!language=jass}
 : 
 
-currentStock `integer`
+`integer currentStock`{!language=jass}
 : 
 
-stockMax `integer`
+`integer stockMax`{!language=jass}
 : 

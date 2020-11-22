@@ -15,16 +15,16 @@ native SetSoundConeAngles takes sound soundHandle, real inside, real outside, in
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-inside `real`
+`real inside`{!language=jass}
 : 
 
-outside `real`
+`real outside`{!language=jass}
 : 
 
-outsideVolume `integer`
+`integer outsideVolume`{!language=jass}
 : 
 
 ## Notes 

@@ -16,13 +16,13 @@ native IsTerrainPathable takes real x, real y, pathingtype t returns boolean
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-t `pathingtype`
+`pathingtype t`{!language=jass}
 : 
 
 ## Notes 

@@ -16,5 +16,5 @@ constant native ConvertPlacement takes integer i returns placement
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the placement

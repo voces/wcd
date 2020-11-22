@@ -14,5 +14,5 @@ constant native GetUnitRallyDestructable takes unit whichUnit returns destructab
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

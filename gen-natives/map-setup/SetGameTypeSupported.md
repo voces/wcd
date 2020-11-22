@@ -14,8 +14,8 @@ native SetGameTypeSupported takes gametype whichGameType, boolean value returns 
 ```
 
 ## Parameters
-whichGameType `gametype`
+`gametype whichGameType`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

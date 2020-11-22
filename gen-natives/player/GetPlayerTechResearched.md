@@ -15,11 +15,11 @@ constant native GetPlayerTechResearched takes player whichPlayer, integer techid
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-techid `integer`
+`integer techid`{!language=jass}
 : 
 
-specificonly `boolean`
+`boolean specificonly`{!language=jass}
 : 

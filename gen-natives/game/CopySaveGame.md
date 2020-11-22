@@ -14,8 +14,8 @@ native CopySaveGame takes string sourceSaveName, string destSaveName returns boo
 ```
 
 ## Parameters
-sourceSaveName `string`
+`string sourceSaveName`{!language=jass}
 : 
 
-destSaveName `string`
+`string destSaveName`{!language=jass}
 : 

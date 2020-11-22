@@ -15,11 +15,11 @@ native SetUnitRescuable takes unit whichUnit, player byWhichPlayer, boolean flag
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-byWhichPlayer `player`
+`player byWhichPlayer`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

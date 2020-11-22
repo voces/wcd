@@ -16,5 +16,5 @@ constant native ConvertRacePref takes integer i returns racepreference
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the racepreference

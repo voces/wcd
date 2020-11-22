@@ -16,5 +16,5 @@ constant native ConvertItemBooleanField takes integer i returns itembooleanfield
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

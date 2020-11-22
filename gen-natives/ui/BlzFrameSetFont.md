@@ -17,14 +17,14 @@ native BlzFrameSetFont takes framehandle frame, string fileName, real height, in
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-fileName `string`
+`string fileName`{!language=jass}
 : 
 
-height `real`
+`real height`{!language=jass}
 : 
 
-flags `integer`
+`integer flags`{!language=jass}
 : 

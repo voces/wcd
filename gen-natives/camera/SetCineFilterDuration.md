@@ -13,5 +13,5 @@ native SetCineFilterDuration takes real duration returns nothing
 ```
 
 ## Parameters
-duration `real`
+`real duration`{!language=jass}
 : 

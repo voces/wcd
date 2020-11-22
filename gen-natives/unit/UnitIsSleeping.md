@@ -14,5 +14,5 @@ native UnitIsSleeping takes unit whichUnit returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

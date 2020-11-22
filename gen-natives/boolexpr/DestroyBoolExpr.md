@@ -13,7 +13,7 @@ native DestroyBoolExpr takes boolexpr e returns nothing
 ```
 
 ## Parameters
-e `boolexpr`
+`boolexpr e`{!language=jass}
 : 
 
 ## Notes 

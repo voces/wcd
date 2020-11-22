@@ -18,37 +18,37 @@ native UnitDamagePoint takes unit whichUnit, real delay, real radius, real x, re
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-delay `real`
+`real delay`{!language=jass}
 : 
 
-radius `real`
+`real radius`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-amount `real`
+`real amount`{!language=jass}
 : 
 
-attack `boolean`
+`boolean attack`{!language=jass}
 : 
 
-ranged `boolean`
+`boolean ranged`{!language=jass}
 : 
 
-attackType `attacktype`
+`attacktype attackType`{!language=jass}
 : 
 
-damageType `damagetype`
+`damagetype damageType`{!language=jass}
 : 
 
-weaponType `weapontype`
+`weapontype weaponType`{!language=jass}
 : 
 
 ## Bugs 

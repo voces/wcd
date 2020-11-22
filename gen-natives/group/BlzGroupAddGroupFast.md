@@ -15,8 +15,8 @@ native BlzGroupAddGroupFast takes group whichGroup, group addGroup returns integ
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-addGroup `group`
+`group addGroup`{!language=jass}
 : 

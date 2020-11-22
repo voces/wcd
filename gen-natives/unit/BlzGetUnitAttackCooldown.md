@@ -16,8 +16,8 @@ native BlzGetUnitAttackCooldown takes unit whichUnit, integer weaponIndex return
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-weaponIndex `integer`
+`integer weaponIndex`{!language=jass}
 : 

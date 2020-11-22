@@ -16,34 +16,34 @@ native TerrainDeformRipple takes real x, real y, real radius, real depth, intege
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-radius `real`
+`real radius`{!language=jass}
 : 
 
-depth `real`
+`real depth`{!language=jass}
 : 
 
-duration `integer`
+`integer duration`{!language=jass}
 : The duration in milliseconds.
 
-count `integer`
+`integer count`{!language=jass}
 : 
 
-spaceWaves `real`
+`real spaceWaves`{!language=jass}
 : 
 
-timeWaves `real`
+`real timeWaves`{!language=jass}
 : 
 
-radiusStartPct `real`
+`real radiusStartPct`{!language=jass}
 : 
 
-limitNeg `boolean`
+`boolean limitNeg`{!language=jass}
 : 
 
 ## Notes 

@@ -13,5 +13,5 @@ native SetCampaignMenuRaceEx takes integer campaignIndex returns nothing
 ```
 
 ## Parameters
-campaignIndex `integer`
+`integer campaignIndex`{!language=jass}
 : 

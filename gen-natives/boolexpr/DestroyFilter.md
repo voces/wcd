@@ -13,7 +13,7 @@ native DestroyFilter takes filterfunc f returns nothing
 ```
 
 ## Parameters
-f `filterfunc`
+`filterfunc f`{!language=jass}
 : 
 
 ## Notes 

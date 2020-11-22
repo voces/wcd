@@ -15,8 +15,8 @@ native BlzSetSpecialEffectY takes effect whichEffect, real y returns nothing
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

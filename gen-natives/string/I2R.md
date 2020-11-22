@@ -15,5 +15,5 @@ native I2R takes integer i returns real
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

@@ -14,17 +14,17 @@ native MultiboardSetItemValueColor takes multiboarditem mbi, integer red, intege
 ```
 
 ## Parameters
-mbi `multiboarditem`
+`multiboarditem mbi`{!language=jass}
 : 
 
-red `integer`
+`integer red`{!language=jass}
 : 
 
-green `integer`
+`integer green`{!language=jass}
 : 
 
-blue `integer`
+`integer blue`{!language=jass}
 : 
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : 

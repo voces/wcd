@@ -15,5 +15,5 @@ native Asin takes real y returns real
 ```
 
 ## Parameters
-y `real`
+`real y`{!language=jass}
 : 

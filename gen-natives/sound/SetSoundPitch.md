@@ -15,10 +15,10 @@ native SetSoundPitch takes sound soundHandle, real pitch returns nothing
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-pitch `real`
+`real pitch`{!language=jass}
 : 
 
 ## Bugs 

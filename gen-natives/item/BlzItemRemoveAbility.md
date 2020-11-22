@@ -16,8 +16,8 @@ native BlzItemRemoveAbility takes item whichItem, integer abilCode returns boole
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 

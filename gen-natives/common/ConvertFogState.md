@@ -15,7 +15,7 @@ constant native ConvertFogState takes integer i returns fogstate
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 
 
 ## Notes 

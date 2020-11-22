@@ -14,8 +14,8 @@ native SuspendHeroXP takes unit whichHero, boolean flag returns nothing
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

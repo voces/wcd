@@ -13,5 +13,5 @@ native SetCineFilterBlendMode takes blendmode whichMode returns nothing
 ```
 
 ## Parameters
-whichMode `blendmode`
+`blendmode whichMode`{!language=jass}
 : 

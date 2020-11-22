@@ -14,5 +14,5 @@ native GetDestructableTypeId takes destructable d returns integer
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 

@@ -13,8 +13,8 @@ native SetStartLocPrioCount takes integer whichStartLoc, integer prioSlotCount r
 ```
 
 ## Parameters
-whichStartLoc `integer`
+`integer whichStartLoc`{!language=jass}
 : 
 
-prioSlotCount `integer`
+`integer prioSlotCount`{!language=jass}
 : 

@@ -15,10 +15,10 @@ native IncUnitAbilityLevel takes unit whichUnit, integer abilcode returns intege
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The unit with the ability.
 
-abilcode `integer`
+`integer abilcode`{!language=jass}
 : The four digit rawcode representation of the ability.
 
 ## Notes 

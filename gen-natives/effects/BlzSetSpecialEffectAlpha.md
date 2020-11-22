@@ -15,8 +15,8 @@ native BlzSetSpecialEffectAlpha takes effect whichEffect, integer alpha returns 
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : 

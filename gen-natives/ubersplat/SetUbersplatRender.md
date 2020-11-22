@@ -14,8 +14,8 @@ native SetUbersplatRender takes ubersplat whichSplat, boolean flag returns nothi
 ```
 
 ## Parameters
-whichSplat `ubersplat`
+`ubersplat whichSplat`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

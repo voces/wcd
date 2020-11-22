@@ -14,8 +14,8 @@ native UnitIgnoreAlarm takes unit whichUnit, boolean flag returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

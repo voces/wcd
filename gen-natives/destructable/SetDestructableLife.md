@@ -14,8 +14,8 @@ native SetDestructableLife takes destructable d, real life returns nothing
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 
 
-life `real`
+`real life`{!language=jass}
 : 

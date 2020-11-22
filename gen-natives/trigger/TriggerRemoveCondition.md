@@ -14,8 +14,8 @@ native TriggerRemoveCondition takes trigger whichTrigger, triggercondition which
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichCondition `triggercondition`
+`triggercondition whichCondition`{!language=jass}
 : 

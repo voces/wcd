@@ -17,5 +17,5 @@ constant native ConvertSubAnimType takes integer i returns subanimtype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the subanimtype

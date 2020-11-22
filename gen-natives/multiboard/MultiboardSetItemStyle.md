@@ -14,11 +14,11 @@ native MultiboardSetItemStyle takes multiboarditem mbi, boolean showValue, boole
 ```
 
 ## Parameters
-mbi `multiboarditem`
+`multiboarditem mbi`{!language=jass}
 : 
 
-showValue `boolean`
+`boolean showValue`{!language=jass}
 : 
 
-showIcon `boolean`
+`boolean showIcon`{!language=jass}
 : 

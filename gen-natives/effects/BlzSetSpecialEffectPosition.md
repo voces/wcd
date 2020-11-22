@@ -15,14 +15,14 @@ native BlzSetSpecialEffectPosition takes effect whichEffect, real x, real y, rea
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-z `real`
+`real z`{!language=jass}
 : 

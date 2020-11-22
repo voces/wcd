@@ -14,10 +14,10 @@ native LoadGame takes string saveFileName, boolean doScoreScreen returns nothing
 ```
 
 ## Parameters
-saveFileName `string`
+`string saveFileName`{!language=jass}
 : 
 
-doScoreScreen `boolean`
+`boolean doScoreScreen`{!language=jass}
 : 
 
 ## Bugs 

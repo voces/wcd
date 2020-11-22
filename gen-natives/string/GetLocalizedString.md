@@ -15,7 +15,7 @@ native GetLocalizedString takes string source returns string
 ```
 
 ## Parameters
-source `string`
+`string source`{!language=jass}
 : 
 
 ## Bugs 

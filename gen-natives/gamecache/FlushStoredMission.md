@@ -14,8 +14,8 @@ native FlushStoredMission takes gamecache cache, string missionKey returns nothi
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 
 
-missionKey `string`
+`string missionKey`{!language=jass}
 : 

@@ -15,23 +15,23 @@ native PingMinimapEx takes real x, real y, real duration, integer red, integer g
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-duration `real`
+`real duration`{!language=jass}
 : 
 
-red `integer`
+`integer red`{!language=jass}
 : 
 
-green `integer`
+`integer green`{!language=jass}
 : 
 
-blue `integer`
+`integer blue`{!language=jass}
 : 
 
-extraEffects `boolean`
+`boolean extraEffects`{!language=jass}
 : 

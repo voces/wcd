@@ -13,5 +13,5 @@ native EnableUserControl takes boolean b returns nothing
 ```
 
 ## Parameters
-b `boolean`
+`boolean b`{!language=jass}
 : 

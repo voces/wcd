@@ -16,14 +16,14 @@ native UnitUseItemPoint takes unit whichUnit, item whichItem, real x, real y ret
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

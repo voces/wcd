@@ -15,8 +15,8 @@ native GroupImmediateOrderById takes group whichGroup, integer order returns boo
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 

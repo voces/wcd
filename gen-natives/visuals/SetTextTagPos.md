@@ -14,14 +14,14 @@ native SetTextTagPos takes texttag t, real x, real y, real heightOffset returns 
 ```
 
 ## Parameters
-t `texttag`
+`texttag t`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-heightOffset `real`
+`real heightOffset`{!language=jass}
 : 

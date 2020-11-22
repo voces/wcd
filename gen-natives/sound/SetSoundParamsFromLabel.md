@@ -15,8 +15,8 @@ native SetSoundParamsFromLabel takes sound soundHandle, string soundLabel return
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : The sound to configure.
 
-soundLabel `string`
+`string soundLabel`{!language=jass}
 : the label out of one of the SLK-files, whose settings should beused, e.g. values like volume, pitch, pitch variance, priority, channel, min distance, max distance, distance cutoff or eax.

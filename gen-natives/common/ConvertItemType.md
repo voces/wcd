@@ -16,5 +16,5 @@ constant native ConvertItemType takes integer i returns itemtype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the itemtype

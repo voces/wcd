@@ -14,5 +14,5 @@ native IsQuestItemCompleted takes questitem whichQuestItem returns boolean
 ```
 
 ## Parameters
-whichQuestItem `questitem`
+`questitem whichQuestItem`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native PlayerSetLeaderboard takes player toPlayer, leaderboard lb returns nothin
 ```
 
 ## Parameters
-toPlayer `player`
+`player toPlayer`{!language=jass}
 : 
 
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 

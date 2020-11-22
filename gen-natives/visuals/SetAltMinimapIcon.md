@@ -14,7 +14,7 @@ native SetAltMinimapIcon takes string iconPath returns nothing
 ```
 
 ## Parameters
-iconPath `string`
+`string iconPath`{!language=jass}
 : 
 
 ## Notes 

@@ -14,8 +14,8 @@ native SetPlayerColor takes player whichPlayer, playercolor color returns nothin
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-color `playercolor`
+`playercolor color`{!language=jass}
 : 

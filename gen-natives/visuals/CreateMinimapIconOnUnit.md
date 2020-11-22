@@ -18,20 +18,20 @@ native CreateMinimapIconOnUnit takes unit whichUnit, integer red, integer green,
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-red `integer`
+`integer red`{!language=jass}
 : 
 
-green `integer`
+`integer green`{!language=jass}
 : 
 
-blue `integer`
+`integer blue`{!language=jass}
 : 
 
-pingPath `string`
+`string pingPath`{!language=jass}
 : 
 
-fogVisibility `fogstate`
+`fogstate fogVisibility`{!language=jass}
 : 

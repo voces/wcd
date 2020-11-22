@@ -16,11 +16,11 @@ native CreateItem takes integer itemid, real x, real y returns item
 ```
 
 ## Parameters
-itemid `integer`
+`integer itemid`{!language=jass}
 : The rawcode of the item.
 
-x `real`
+`real x`{!language=jass}
 : The x-coordinate of the item
 
-y `real`
+`real y`{!language=jass}
 : The y-coordinate of the item

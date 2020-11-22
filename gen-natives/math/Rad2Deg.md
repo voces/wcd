@@ -15,5 +15,5 @@ native Rad2Deg takes real radians returns real
 ```
 
 ## Parameters
-radians `real`
+`real radians`{!language=jass}
 : The radian value to be converted.

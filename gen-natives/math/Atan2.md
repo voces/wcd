@@ -15,8 +15,8 @@ native Atan2 takes real y, real x returns real
 ```
 
 ## Parameters
-y `real`
+`real y`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 

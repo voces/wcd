@@ -16,14 +16,14 @@ native AddSpellEffectTarget takes string modelName, effecttype t, widget targetW
 ```
 
 ## Parameters
-modelName `string`
+`string modelName`{!language=jass}
 : 
 
-t `effecttype`
+`effecttype t`{!language=jass}
 : 
 
-targetWidget `widget`
+`widget targetWidget`{!language=jass}
 : 
 
-attachPoint `string`
+`string attachPoint`{!language=jass}
 : 

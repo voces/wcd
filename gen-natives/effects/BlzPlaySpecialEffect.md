@@ -15,8 +15,8 @@ native BlzPlaySpecialEffect takes effect whichEffect, animtype whichAnim returns
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-whichAnim `animtype`
+`animtype whichAnim`{!language=jass}
 : 

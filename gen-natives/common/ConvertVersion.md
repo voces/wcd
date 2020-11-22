@@ -16,5 +16,5 @@ constant native ConvertVersion takes integer i returns version
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the version

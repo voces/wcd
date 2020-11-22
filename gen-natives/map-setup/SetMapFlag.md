@@ -14,8 +14,8 @@ native SetMapFlag takes mapflag whichMapFlag, boolean value returns nothing
 ```
 
 ## Parameters
-whichMapFlag `mapflag`
+`mapflag whichMapFlag`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

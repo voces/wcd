@@ -16,11 +16,11 @@ native IssueTargetOrder takes unit whichUnit, string order, widget targetWidget 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 
 
-targetWidget `widget`
+`widget targetWidget`{!language=jass}
 : 

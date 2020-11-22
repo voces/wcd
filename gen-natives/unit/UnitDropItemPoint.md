@@ -16,14 +16,14 @@ native UnitDropItemPoint takes unit whichUnit, item whichItem, real x, real y re
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native SetUnitAnimation takes unit whichUnit, string whichAnimation returns noth
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichAnimation `string`
+`string whichAnimation`{!language=jass}
 : 

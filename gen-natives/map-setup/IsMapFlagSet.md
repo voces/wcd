@@ -14,5 +14,5 @@ native IsMapFlagSet takes mapflag whichMapFlag returns boolean
 ```
 
 ## Parameters
-whichMapFlag `mapflag`
+`mapflag whichMapFlag`{!language=jass}
 : 

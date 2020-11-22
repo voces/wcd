@@ -13,5 +13,5 @@ native RemoveItem takes item whichItem returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

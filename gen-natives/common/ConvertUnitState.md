@@ -16,5 +16,5 @@ constant native ConvertUnitState takes integer i returns unitstate
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the unitstate

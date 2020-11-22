@@ -16,5 +16,5 @@ constant native ConvertMoveType takes integer i returns movetype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

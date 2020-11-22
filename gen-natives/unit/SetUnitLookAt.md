@@ -16,22 +16,22 @@ native SetUnitLookAt takes unit whichUnit, string whichBone, unit lookAtTarget, 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The unit that will have its bone locked to face the target.
 
-whichBone `string`
+`string whichBone`{!language=jass}
 : The bone to lock onto the target. The engine only supportslocking the head and the chest. To lock the head, you can put in any inputexcept a null string. To lock the chest, the string must start with`"bone_chest"`.All leading spaces are ignored, it is case insensitive, and anything after thefirst non-leading space will be ignored.
 
-lookAtTarget `unit`
+`unit lookAtTarget`{!language=jass}
 : The bone will be locked to face this unit.
 
-offsetX `real`
+`real offsetX`{!language=jass}
 : The x-offset from lookAtTarget's origin point.
 
-offsetY `real`
+`real offsetY`{!language=jass}
 : The y-offset from lookAtTarget's origin point.
 
-offsetZ `real`
+`real offsetZ`{!language=jass}
 : The z-offset from lookAtTarget's origin point (this already factors in the terrain Z).
 
 ## Notes 

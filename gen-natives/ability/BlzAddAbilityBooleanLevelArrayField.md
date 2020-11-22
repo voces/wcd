@@ -17,14 +17,14 @@ native BlzAddAbilityBooleanLevelArrayField takes ability whichAbility, abilitybo
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilitybooleanlevelarrayfield`
+`abilitybooleanlevelarrayfield whichField`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

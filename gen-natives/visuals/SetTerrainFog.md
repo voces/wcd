@@ -13,19 +13,19 @@ native SetTerrainFog takes real a, real b, real c, real d, real e returns nothin
 ```
 
 ## Parameters
-a `real`
+`real a`{!language=jass}
 : 
 
-b `real`
+`real b`{!language=jass}
 : 
 
-c `real`
+`real c`{!language=jass}
 : 
 
-d `real`
+`real d`{!language=jass}
 : 
 
-e `real`
+`real e`{!language=jass}
 : 
 
 ## Bugs 

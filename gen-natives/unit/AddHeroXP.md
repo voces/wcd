@@ -16,13 +16,13 @@ native AddHeroXP takes unit whichHero, integer xpToAdd, boolean showEyeCandy ret
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : The hero unit to add experience to.
 
-xpToAdd `integer`
+`integer xpToAdd`{!language=jass}
 : The amount of experience to add to the hero unit.
 
-showEyeCandy `boolean`
+`boolean showEyeCandy`{!language=jass}
 : If the boolean input is true, then the hero-level-gaineffect will be shown if the hero gains a level from the added experience.
 
 ## Bugs 

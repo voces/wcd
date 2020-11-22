@@ -15,11 +15,11 @@ native CameraSetTargetNoiseEx takes real mag, real velocity, boolean vertOnly re
 ```
 
 ## Parameters
-mag `real`
+`real mag`{!language=jass}
 : The magnitude of the swaying.
 
-velocity `real`
+`real velocity`{!language=jass}
 : The speed of the swaying.
 
-vertOnly `boolean`
+`boolean vertOnly`{!language=jass}
 : Stands for "vertical only". If set to true, then the swaying will only modify target distance and z-offset.

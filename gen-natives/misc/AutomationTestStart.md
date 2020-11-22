@@ -14,5 +14,5 @@ native AutomationTestStart takes string testName returns nothing
 ```
 
 ## Parameters
-testName `string`
+`string testName`{!language=jass}
 : 

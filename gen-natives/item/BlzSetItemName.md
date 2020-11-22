@@ -15,8 +15,8 @@ native BlzSetItemName takes item whichItem, string name returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-name `string`
+`string name`{!language=jass}
 : 

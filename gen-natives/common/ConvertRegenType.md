@@ -16,5 +16,5 @@ constant native ConvertRegenType takes integer i returns regentype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

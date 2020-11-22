@@ -14,5 +14,5 @@ native DestroyMinimapIcon takes minimapicon pingId returns nothing
 ```
 
 ## Parameters
-pingId `minimapicon`
+`minimapicon pingId`{!language=jass}
 : 

@@ -17,5 +17,5 @@ constant native ConvertMouseButtonType takes integer i returns mousebuttontype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the mousebuttontype

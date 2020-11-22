@@ -16,5 +16,5 @@ constant native ConvertAIDifficulty takes integer i returns aidifficulty
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the aidifficulty

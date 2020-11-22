@@ -16,20 +16,20 @@ native CreateSoundFromLabel takes string soundLabel, boolean looping, boolean is
 ```
 
 ## Parameters
-soundLabel `string`
+`string soundLabel`{!language=jass}
 : 
 
-looping `boolean`
+`boolean looping`{!language=jass}
 : 
 
-is3D `boolean`
+`boolean is3D`{!language=jass}
 : 
 
-stopwhenoutofrange `boolean`
+`boolean stopwhenoutofrange`{!language=jass}
 : 
 
-fadeInRate `integer`
+`integer fadeInRate`{!language=jass}
 : 
 
-fadeOutRate `integer`
+`integer fadeOutRate`{!language=jass}
 : 

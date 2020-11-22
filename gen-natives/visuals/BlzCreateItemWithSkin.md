@@ -16,14 +16,14 @@ native BlzCreateItemWithSkin takes integer itemid, real x, real y, integer skinI
 ```
 
 ## Parameters
-itemid `integer`
+`integer itemid`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-skinId `integer`
+`integer skinId`{!language=jass}
 : 

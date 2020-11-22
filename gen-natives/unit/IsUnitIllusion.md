@@ -14,5 +14,5 @@ constant native IsUnitIllusion takes unit whichUnit returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

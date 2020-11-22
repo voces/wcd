@@ -16,8 +16,8 @@ native BlzGetItemAbility takes item whichItem, integer abilCode returns ability
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 

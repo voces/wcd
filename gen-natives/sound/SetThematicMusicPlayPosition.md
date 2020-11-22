@@ -13,5 +13,5 @@ native SetThematicMusicPlayPosition takes integer millisecs returns nothing
 ```
 
 ## Parameters
-millisecs `integer`
+`integer millisecs`{!language=jass}
 : 

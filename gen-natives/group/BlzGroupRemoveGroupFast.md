@@ -15,8 +15,8 @@ native BlzGroupRemoveGroupFast takes group whichGroup, group removeGroup returns
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-removeGroup `group`
+`group removeGroup`{!language=jass}
 : 

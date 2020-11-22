@@ -14,5 +14,5 @@ constant native GetStartLocationX takes integer whichStartLocation returns real
 ```
 
 ## Parameters
-whichStartLocation `integer`
+`integer whichStartLocation`{!language=jass}
 : 

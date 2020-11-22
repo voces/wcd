@@ -16,5 +16,5 @@ constant native ConvertStartLocPrio takes integer i returns startlocprio
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the startlocprio

@@ -15,11 +15,11 @@ native StopSound takes sound soundHandle, boolean killWhenDone, boolean fadeOut 
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : The sound to stop
 
-killWhenDone `boolean`
+`boolean killWhenDone`{!language=jass}
 : The sound gets destroyed if true.
 
-fadeOut `boolean`
+`boolean fadeOut`{!language=jass}
 : turns down the volume with`fadeOutRate`as stated in constructor.

@@ -16,11 +16,11 @@ native GroupTargetOrderById takes group whichGroup, integer order, widget target
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 
 
-targetWidget `widget`
+`widget targetWidget`{!language=jass}
 : 

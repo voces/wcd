@@ -13,5 +13,5 @@ constant native GetFoodUsed takes integer unitId returns integer
 ```
 
 ## Parameters
-unitId `integer`
+`integer unitId`{!language=jass}
 : 

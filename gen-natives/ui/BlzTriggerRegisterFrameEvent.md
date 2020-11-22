@@ -17,11 +17,11 @@ native BlzTriggerRegisterFrameEvent takes trigger whichTrigger, framehandle fram
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-eventId `frameeventtype`
+`frameeventtype eventId`{!language=jass}
 : 

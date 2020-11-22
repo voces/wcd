@@ -14,8 +14,8 @@ native BlzEnableSelections takes boolean enableSelection, boolean enableSelectio
 ```
 
 ## Parameters
-enableSelection `boolean`
+`boolean enableSelection`{!language=jass}
 : 
 
-enableSelectionCircle `boolean`
+`boolean enableSelectionCircle`{!language=jass}
 : 

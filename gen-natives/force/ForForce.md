@@ -14,8 +14,8 @@ native ForForce takes force whichForce, code callback returns nothing
 ```
 
 ## Parameters
-whichForce `force`
+`force whichForce`{!language=jass}
 : 
 
-callback `code`
+`code callback`{!language=jass}
 : 

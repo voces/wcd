@@ -14,8 +14,8 @@ native SetUnitBlendTime takes unit whichUnit, real blendTime returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-blendTime `real`
+`real blendTime`{!language=jass}
 : 

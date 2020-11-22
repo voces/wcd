@@ -16,11 +16,11 @@ native IssuePointOrderLoc takes unit whichUnit, string order, location whichLoca
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 

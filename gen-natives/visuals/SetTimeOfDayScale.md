@@ -13,5 +13,5 @@ native SetTimeOfDayScale takes real r returns nothing
 ```
 
 ## Parameters
-r `real`
+`real r`{!language=jass}
 : 

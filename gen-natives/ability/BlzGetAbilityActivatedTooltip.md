@@ -15,8 +15,8 @@ native BlzGetAbilityActivatedTooltip takes integer abilCode, integer level retur
 ```
 
 ## Parameters
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 

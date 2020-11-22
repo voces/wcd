@@ -14,8 +14,8 @@ native UnitSetUpgradeProgress takes unit whichUnit, integer upgradePercentage re
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-upgradePercentage `integer`
+`integer upgradePercentage`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native SelectHeroSkill takes unit whichHero, integer abilcode returns nothing
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-abilcode `integer`
+`integer abilcode`{!language=jass}
 : 

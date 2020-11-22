@@ -13,5 +13,5 @@ native SetIntroShotModel takes string introModelPath returns nothing
 ```
 
 ## Parameters
-introModelPath `string`
+`string introModelPath`{!language=jass}
 : 

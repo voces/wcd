@@ -14,11 +14,11 @@ native FlushStoredInteger takes gamecache cache, string missionKey, string key r
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 
 
-missionKey `string`
+`string missionKey`{!language=jass}
 : 
 
-key `string`
+`string key`{!language=jass}
 : 

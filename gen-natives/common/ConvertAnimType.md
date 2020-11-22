@@ -17,5 +17,5 @@ constant native ConvertAnimType takes integer i returns animtype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the animtype

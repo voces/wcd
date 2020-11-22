@@ -16,5 +16,5 @@ constant native ConvertPathingType takes integer i returns pathingtype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the pathingtype

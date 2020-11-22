@@ -14,5 +14,5 @@ native SetMusicVolume takes integer volume returns nothing
 ```
 
 ## Parameters
-volume `integer`
+`integer volume`{!language=jass}
 : Volume between 0 and 127.

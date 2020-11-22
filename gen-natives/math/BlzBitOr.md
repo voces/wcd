@@ -15,8 +15,8 @@ native BlzBitOr takes integer x, integer y returns integer
 ```
 
 ## Parameters
-x `integer`
+`integer x`{!language=jass}
 : 
 
-y `integer`
+`integer y`{!language=jass}
 : 

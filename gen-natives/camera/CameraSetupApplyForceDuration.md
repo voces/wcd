@@ -16,11 +16,11 @@ native CameraSetupApplyForceDuration takes camerasetup whichSetup, boolean doPan
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camerasetup to apply.
 
-doPan `boolean`
+`boolean doPan`{!language=jass}
 : If set to true, it will move the current camera's target coordinates to thecamera setup's target coordinates. If false, the camera will not movecoordinates, but will still apply the other fields.
 
-forceDuration `real`
+`real forceDuration`{!language=jass}
 : The duration it will take to apply all the camera fields.It will ignore the times set by CameraSetupSetField.

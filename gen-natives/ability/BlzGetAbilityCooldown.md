@@ -15,8 +15,8 @@ native BlzGetAbilityCooldown takes integer abilId, integer level returns real
 ```
 
 ## Parameters
-abilId `integer`
+`integer abilId`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 

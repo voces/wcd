@@ -16,5 +16,5 @@ constant native ConvertAbilityBooleanLevelArrayField takes integer i returns abi
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

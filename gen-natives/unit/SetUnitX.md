@@ -14,10 +14,10 @@ native SetUnitX takes unit whichUnit, real newX returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-newX `real`
+`real newX`{!language=jass}
 : 
 
 ## Notes 

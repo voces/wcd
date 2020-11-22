@@ -14,8 +14,8 @@ native SetUnitAnimationByIndex takes unit whichUnit, integer whichAnimation retu
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichAnimation `integer`
+`integer whichAnimation`{!language=jass}
 : 

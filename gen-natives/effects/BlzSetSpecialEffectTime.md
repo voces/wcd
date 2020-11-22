@@ -15,8 +15,8 @@ native BlzSetSpecialEffectTime takes effect whichEffect, real time returns nothi
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-time `real`
+`real time`{!language=jass}
 : 

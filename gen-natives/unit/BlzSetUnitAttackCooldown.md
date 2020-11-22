@@ -16,11 +16,11 @@ native BlzSetUnitAttackCooldown takes unit whichUnit, real cooldown, integer wea
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-cooldown `real`
+`real cooldown`{!language=jass}
 : 
 
-weaponIndex `integer`
+`integer weaponIndex`{!language=jass}
 : 

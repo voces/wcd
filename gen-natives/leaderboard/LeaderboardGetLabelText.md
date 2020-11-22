@@ -14,5 +14,5 @@ native LeaderboardGetLabelText takes leaderboard lb returns string
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 

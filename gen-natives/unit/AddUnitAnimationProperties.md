@@ -15,11 +15,11 @@ native AddUnitAnimationProperties takes unit whichUnit, string animProperties, b
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-animProperties `string`
+`string animProperties`{!language=jass}
 : 
 
-add `boolean`
+`boolean add`{!language=jass}
 : 

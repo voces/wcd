@@ -15,8 +15,8 @@ native BlzSetUnitName takes unit whichUnit, string name returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-name `string`
+`string name`{!language=jass}
 : 

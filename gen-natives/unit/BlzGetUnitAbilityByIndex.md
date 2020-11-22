@@ -16,8 +16,8 @@ native BlzGetUnitAbilityByIndex takes unit whichUnit, integer index returns abil
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 

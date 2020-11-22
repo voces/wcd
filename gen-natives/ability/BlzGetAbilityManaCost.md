@@ -14,8 +14,8 @@ native BlzGetAbilityManaCost takes integer abilId, integer level returns integer
 ```
 
 ## Parameters
-abilId `integer`
+`integer abilId`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 

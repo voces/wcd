@@ -14,8 +14,8 @@ native QueueDestructableAnimation takes destructable d, string whichAnimation re
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 
 
-whichAnimation `string`
+`string whichAnimation`{!language=jass}
 : 

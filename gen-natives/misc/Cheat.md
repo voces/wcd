@@ -14,7 +14,7 @@ native Cheat takes string cheatStr returns nothing
 ```
 
 ## Parameters
-cheatStr `string`
+`string cheatStr`{!language=jass}
 : The cheat to enter.
 
 ## Notes 

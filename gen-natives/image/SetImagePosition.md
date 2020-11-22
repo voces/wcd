@@ -15,14 +15,14 @@ native SetImagePosition takes image whichImage, real x, real y, real z returns n
 ```
 
 ## Parameters
-whichImage `image`
+`image whichImage`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-z `real`
+`real z`{!language=jass}
 : 

@@ -15,10 +15,10 @@ native PlayThematicMusicEx takes string musicFileName, integer frommsecs returns
 ```
 
 ## Parameters
-musicFileName `string`
+`string musicFileName`{!language=jass}
 : The path to the music file.
 
-frommsecs `integer`
+`integer frommsecs`{!language=jass}
 : At what offset the music starts. In milliseconds.
 
 ## Notes 

@@ -14,11 +14,11 @@ native SetCameraOrientController takes unit whichUnit, real xoffset, real yoffse
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-xoffset `real`
+`real xoffset`{!language=jass}
 : 
 
-yoffset `real`
+`real yoffset`{!language=jass}
 : 

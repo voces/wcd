@@ -15,8 +15,8 @@ constant native IsUnitInGroup takes unit whichUnit, group whichGroup returns boo
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 

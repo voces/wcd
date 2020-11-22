@@ -14,5 +14,5 @@ native MultiboardGetTitleText takes multiboard lb returns string
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 

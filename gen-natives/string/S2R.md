@@ -16,7 +16,7 @@ native S2R takes string s returns real
 ```
 
 ## Parameters
-s `string`
+`string s`{!language=jass}
 : The string to be converted
 
 ## Notes 

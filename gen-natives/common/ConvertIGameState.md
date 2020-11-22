@@ -16,5 +16,5 @@ constant native ConvertIGameState takes integer i returns igamestate
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the igamestate

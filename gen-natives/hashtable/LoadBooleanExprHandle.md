@@ -16,11 +16,11 @@ native LoadBooleanExprHandle takes hashtable table, integer parentKey, integer c
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 

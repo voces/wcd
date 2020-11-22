@@ -15,8 +15,8 @@ native BlzFrameAddText takes framehandle frame, string text returns nothing
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-text `string`
+`string text`{!language=jass}
 : 

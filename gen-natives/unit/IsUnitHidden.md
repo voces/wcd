@@ -14,5 +14,5 @@ constant native IsUnitHidden takes unit whichUnit returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

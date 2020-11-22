@@ -16,20 +16,20 @@ native BlzFrameSetPoint takes framehandle frame, framepointtype point, framehand
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-point `framepointtype`
+`framepointtype point`{!language=jass}
 : 
 
-relative `framehandle`
+`framehandle relative`{!language=jass}
 : 
 
-relativePoint `framepointtype`
+`framepointtype relativePoint`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

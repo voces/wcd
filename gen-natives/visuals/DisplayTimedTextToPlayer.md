@@ -15,17 +15,17 @@ native DisplayTimedTextToPlayer takes player toPlayer, real x, real y, real dura
 ```
 
 ## Parameters
-toPlayer `player`
+`player toPlayer`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-duration `real`
+`real duration`{!language=jass}
 : 
 
-message `string`
+`string message`{!language=jass}
 : 

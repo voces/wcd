@@ -15,11 +15,11 @@ native BlzSetUnitDiceNumber takes unit whichUnit, integer diceNumber, integer we
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-diceNumber `integer`
+`integer diceNumber`{!language=jass}
 : 
 
-weaponIndex `integer`
+`integer weaponIndex`{!language=jass}
 : 

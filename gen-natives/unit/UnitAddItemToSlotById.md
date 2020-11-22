@@ -15,11 +15,11 @@ native UnitAddItemToSlotById takes unit whichUnit, integer itemId, integer itemS
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-itemId `integer`
+`integer itemId`{!language=jass}
 : 
 
-itemSlot `integer`
+`integer itemSlot`{!language=jass}
 : 

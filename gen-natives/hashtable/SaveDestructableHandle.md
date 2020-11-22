@@ -17,14 +17,14 @@ native SaveDestructableHandle takes hashtable table, integer parentKey, integer 
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichDestructable `destructable`
+`destructable whichDestructable`{!language=jass}
 : 

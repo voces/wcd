@@ -14,11 +14,11 @@ native SetUnitAbilityLevel takes unit whichUnit, integer abilcode, integer level
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilcode `integer`
+`integer abilcode`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 

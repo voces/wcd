@@ -17,7 +17,7 @@ constant native GetObjectName takes integer objectId returns string
 ```
 
 ## Parameters
-objectId `integer`
+`integer objectId`{!language=jass}
 : 
 
 ## Bugs 

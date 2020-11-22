@@ -15,8 +15,8 @@ native LeaderboardHasPlayerItem takes leaderboard lb, player p returns boolean
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-p `player`
+`player p`{!language=jass}
 : 

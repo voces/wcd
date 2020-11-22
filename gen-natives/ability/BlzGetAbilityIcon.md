@@ -15,5 +15,5 @@ native BlzGetAbilityIcon takes integer abilCode returns string
 ```
 
 ## Parameters
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native MultiboardSetItemWidth takes multiboarditem mbi, real width returns nothi
 ```
 
 ## Parameters
-mbi `multiboarditem`
+`multiboarditem mbi`{!language=jass}
 : 
 
-width `real`
+`real width`{!language=jass}
 : 

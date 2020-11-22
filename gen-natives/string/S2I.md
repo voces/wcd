@@ -16,7 +16,7 @@ native S2I takes string s returns integer
 ```
 
 ## Parameters
-s `string`
+`string s`{!language=jass}
 : The string to be converted
 
 ## Notes 

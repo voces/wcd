@@ -15,8 +15,8 @@ constant native IsUnitOwnedByPlayer takes unit whichUnit, player whichPlayer ret
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

@@ -13,5 +13,5 @@ native RemoveDestructable takes destructable d returns nothing
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 

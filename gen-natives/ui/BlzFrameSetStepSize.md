@@ -15,8 +15,8 @@ native BlzFrameSetStepSize takes framehandle frame, real stepSize returns nothin
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-stepSize `real`
+`real stepSize`{!language=jass}
 : 

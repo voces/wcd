@@ -17,14 +17,14 @@ native SaveStr takes hashtable table, integer parentKey, integer childKey, strin
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-value `string`
+`string value`{!language=jass}
 : 

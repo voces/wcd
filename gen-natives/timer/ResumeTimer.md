@@ -13,5 +13,5 @@ native ResumeTimer takes timer whichTimer returns nothing
 ```
 
 ## Parameters
-whichTimer `timer`
+`timer whichTimer`{!language=jass}
 : 

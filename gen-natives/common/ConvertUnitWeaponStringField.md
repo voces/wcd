@@ -16,5 +16,5 @@ constant native ConvertUnitWeaponStringField takes integer i returns unitweapons
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

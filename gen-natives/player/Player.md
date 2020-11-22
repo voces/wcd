@@ -15,7 +15,7 @@ constant native Player takes integer number returns player
 ```
 
 ## Parameters
-number `integer`
+`integer number`{!language=jass}
 : 
 
 ## Bugs 

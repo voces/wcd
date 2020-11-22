@@ -15,8 +15,8 @@ native BlzFrameSetScale takes framehandle frame, real scale returns nothing
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-scale `real`
+`real scale`{!language=jass}
 : 

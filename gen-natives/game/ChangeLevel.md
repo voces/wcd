@@ -15,8 +15,8 @@ native ChangeLevel takes string newLevel, boolean doScoreScreen returns nothing
 ```
 
 ## Parameters
-newLevel `string`
+`string newLevel`{!language=jass}
 : The path of the next level. The path is relative to the Warcraft III folder.
 
-doScoreScreen `boolean`
+`boolean doScoreScreen`{!language=jass}
 : If set to true, the score screen will appear before the user progresses to the next level.

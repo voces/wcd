@@ -15,8 +15,8 @@ native BlzEndUnitAbilityCooldown takes unit whichUnit, integer abilCode returns 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 

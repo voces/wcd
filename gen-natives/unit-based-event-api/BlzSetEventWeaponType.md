@@ -15,5 +15,5 @@ native BlzSetEventWeaponType takes weapontype weaponType returns boolean
 ```
 
 ## Parameters
-weaponType `weapontype`
+`weapontype weaponType`{!language=jass}
 : 

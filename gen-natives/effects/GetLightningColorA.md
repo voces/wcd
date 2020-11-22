@@ -14,5 +14,5 @@ native GetLightningColorA takes lightning whichBolt returns real
 ```
 
 ## Parameters
-whichBolt `lightning`
+`lightning whichBolt`{!language=jass}
 : 

@@ -16,7 +16,7 @@ native GetSoundFileDuration takes string musicFileName returns integer
 ```
 
 ## Parameters
-musicFileName `string`
+`string musicFileName`{!language=jass}
 : 
 
 ## Notes 

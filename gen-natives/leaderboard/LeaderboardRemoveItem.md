@@ -14,8 +14,8 @@ native LeaderboardRemoveItem takes leaderboard lb, integer index returns nothing
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 

@@ -15,10 +15,10 @@ native GetAbilitySound takes string abilityString, soundtype t returns string
 ```
 
 ## Parameters
-abilityString `string`
+`string abilityString`{!language=jass}
 : 
 
-t `soundtype`
+`soundtype t`{!language=jass}
 : 
 
 ## Notes 

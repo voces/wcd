@@ -15,8 +15,8 @@ native BlzFrameSetLevel takes framehandle frame, integer level returns nothing
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 

@@ -15,8 +15,8 @@ constant native SetPlayerHandicapDamage takes player whichPlayer, real handicap 
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-handicap `real`
+`real handicap`{!language=jass}
 : 

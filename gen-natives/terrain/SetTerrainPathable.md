@@ -15,14 +15,14 @@ native SetTerrainPathable takes real x, real y, pathingtype t, boolean flag retu
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-t `pathingtype`
+`pathingtype t`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

@@ -16,5 +16,5 @@ constant native ConvertPlayerSlotState takes integer i returns playerslotstate
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the playerslotstate

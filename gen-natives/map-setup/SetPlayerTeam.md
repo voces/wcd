@@ -14,8 +14,8 @@ native SetPlayerTeam takes player whichPlayer, integer whichTeam returns nothing
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-whichTeam `integer`
+`integer whichTeam`{!language=jass}
 : 

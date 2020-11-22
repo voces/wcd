@@ -15,10 +15,10 @@ native CameraSetupApplyWithZ takes camerasetup whichSetup, real zDestOffset retu
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camerasetup to apply.
 
-zDestOffset `real`
+`real zDestOffset`{!language=jass}
 : The camera's z-offset will gradually change to this value over the specified duration.
 
 ## Bugs 

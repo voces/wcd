@@ -15,8 +15,8 @@ native GetUnitAbilityLevel takes unit whichUnit, integer abilcode returns intege
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilcode `integer`
+`integer abilcode`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native SetSoundDuration takes sound soundHandle, integer duration returns nothin
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-duration `integer`
+`integer duration`{!language=jass}
 : 

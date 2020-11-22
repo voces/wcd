@@ -14,5 +14,5 @@ constant native GetUnitRallyPoint takes unit whichUnit returns location
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

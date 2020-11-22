@@ -14,8 +14,8 @@ native BlzSetAbilityPosX takes integer abilCode, integer x returns nothing
 ```
 
 ## Parameters
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 
 
-x `integer`
+`integer x`{!language=jass}
 : 

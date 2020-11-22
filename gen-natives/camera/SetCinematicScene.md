@@ -16,20 +16,20 @@ native SetCinematicScene takes integer portraitUnitId, playercolor color, string
 ```
 
 ## Parameters
-portraitUnitId `integer`
+`integer portraitUnitId`{!language=jass}
 : 
 
-color `playercolor`
+`playercolor color`{!language=jass}
 : 
 
-speakerTitle `string`
+`string speakerTitle`{!language=jass}
 : 
 
-text `string`
+`string text`{!language=jass}
 : 
 
-sceneDuration `real`
+`real sceneDuration`{!language=jass}
 : 
 
-voiceoverDuration `real`
+`real voiceoverDuration`{!language=jass}
 : 

@@ -16,23 +16,23 @@ native CreateDestructableZ takes integer objectid, real x, real y, real z, real 
 ```
 
 ## Parameters
-objectid `integer`
+`integer objectid`{!language=jass}
 : The rawcode of the destructable to be created.
 
-x `real`
+`real x`{!language=jass}
 : The x-coordinate of the destructable.
 
-y `real`
+`real y`{!language=jass}
 : The y-coordinate of the destructable.
 
-z `real`
+`real z`{!language=jass}
 : 
 
-face `real`
+`real face`{!language=jass}
 : The facing of the destructable.
 
-scale `real`
+`real scale`{!language=jass}
 : The X-Y-Z scaling value of the destructable.
 
-variation `integer`
+`integer variation`{!language=jass}
 : The integer representing the variation of the destructable to be created.

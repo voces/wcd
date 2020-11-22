@@ -16,5 +16,5 @@ constant native ConvertLimitOp takes integer i returns limitop
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the limitop

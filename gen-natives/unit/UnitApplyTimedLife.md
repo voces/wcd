@@ -15,11 +15,11 @@ native UnitApplyTimedLife takes unit whichUnit, integer buffId, real duration re
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-buffId `integer`
+`integer buffId`{!language=jass}
 : 
 
-duration `real`
+`real duration`{!language=jass}
 : 

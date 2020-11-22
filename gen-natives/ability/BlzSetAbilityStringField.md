@@ -17,11 +17,11 @@ native BlzSetAbilityStringField takes ability whichAbility, abilitystringfield w
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilitystringfield`
+`abilitystringfield whichField`{!language=jass}
 : 
 
-value `string`
+`string value`{!language=jass}
 : 

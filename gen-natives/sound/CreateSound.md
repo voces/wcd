@@ -17,25 +17,25 @@ native CreateSound takes string fileName, boolean looping, boolean is3D, boolean
 ```
 
 ## Parameters
-fileName `string`
+`string fileName`{!language=jass}
 : The path to the file.
 
-looping `boolean`
+`boolean looping`{!language=jass}
 : Looping sounds will restart once the sound duration has finished.
 
-is3D `boolean`
+`boolean is3D`{!language=jass}
 : 3D Sounds can be played on particular areas of the map. They are attheir loudest when the camera is close to the sound's coordinates.
 
-stopwhenoutofrange `boolean`
+`boolean stopwhenoutofrange`{!language=jass}
 : 
 
-fadeInRate `integer`
+`integer fadeInRate`{!language=jass}
 : How quickly the sound fades in. The higher the number, thefaster the sound fades in. Maximum number is 127.
 
-fadeOutRate `integer`
+`integer fadeOutRate`{!language=jass}
 : How quickly the sound fades out. The higher the number, thefaster the sound fades out. Maximum number is 127.
 
-eaxSetting `string`
+`string eaxSetting`{!language=jass}
 : EAX is an acronym for environmental audio extensions. In thesound editor, this corresponds to the "Effect" setting.The known settings available in Warcraft III are:| Value              |  Setting               ||--------------------| ---------------------- ||`"CombatSoundsEAX"`| combat                 ||`"KotoDrumsEAX"`| drums                  ||`"SpellsEAX"`| spells                 ||`"MissilesEAX"`| missiles               ||`"HeroAcksEAX"`| hero acknowledgements  ||`"DoodadsEAX"`| doodads                ||`"DefaultEAXON"`| default                |
 
 ## Notes 

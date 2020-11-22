@@ -13,5 +13,5 @@ native TriggerSleepAction takes real timeout returns nothing
 ```
 
 ## Parameters
-timeout `real`
+`real timeout`{!language=jass}
 : 

@@ -15,11 +15,11 @@ native SetItemPlayer takes item whichItem, player whichPlayer, boolean changeCol
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-changeColor `boolean`
+`boolean changeColor`{!language=jass}
 : 

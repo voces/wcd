@@ -15,5 +15,5 @@ native BlzFrameIsVisible takes framehandle frame returns boolean
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 

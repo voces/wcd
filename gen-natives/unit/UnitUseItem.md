@@ -15,8 +15,8 @@ native UnitUseItem takes unit whichUnit, item whichItem returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

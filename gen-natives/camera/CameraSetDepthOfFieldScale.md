@@ -14,5 +14,5 @@ native CameraSetDepthOfFieldScale takes real scale returns nothing
 ```
 
 ## Parameters
-scale `real`
+`real scale`{!language=jass}
 : 

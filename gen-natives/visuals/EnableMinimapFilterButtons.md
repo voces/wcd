@@ -13,8 +13,8 @@ native EnableMinimapFilterButtons takes boolean enableAlly, boolean enableCreep 
 ```
 
 ## Parameters
-enableAlly `boolean`
+`boolean enableAlly`{!language=jass}
 : 
 
-enableCreep `boolean`
+`boolean enableCreep`{!language=jass}
 : 

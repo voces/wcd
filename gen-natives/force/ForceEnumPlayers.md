@@ -14,8 +14,8 @@ native ForceEnumPlayers takes force whichForce, boolexpr filter returns nothing
 ```
 
 ## Parameters
-whichForce `force`
+`force whichForce`{!language=jass}
 : 
 
-filter `boolexpr`
+`boolexpr filter`{!language=jass}
 : 

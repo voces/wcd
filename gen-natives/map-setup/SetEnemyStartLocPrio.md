@@ -15,14 +15,14 @@ native SetEnemyStartLocPrio takes integer whichStartLoc, integer prioSlotIndex, 
 ```
 
 ## Parameters
-whichStartLoc `integer`
+`integer whichStartLoc`{!language=jass}
 : 
 
-prioSlotIndex `integer`
+`integer prioSlotIndex`{!language=jass}
 : 
 
-otherStartLocIndex `integer`
+`integer otherStartLocIndex`{!language=jass}
 : 
 
-priority `startlocprio`
+`startlocprio priority`{!language=jass}
 : 

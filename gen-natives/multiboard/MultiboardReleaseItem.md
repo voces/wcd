@@ -13,5 +13,5 @@ native MultiboardReleaseItem takes multiboarditem mbi returns nothing
 ```
 
 ## Parameters
-mbi `multiboarditem`
+`multiboarditem mbi`{!language=jass}
 : 

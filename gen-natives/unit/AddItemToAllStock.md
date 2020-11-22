@@ -14,13 +14,13 @@ native AddItemToAllStock takes integer itemId, integer currentStock, integer sto
 ```
 
 ## Parameters
-itemId `integer`
+`integer itemId`{!language=jass}
 : The item to add to the stock.
 
-currentStock `integer`
+`integer currentStock`{!language=jass}
 : Determines the amount of that item in stock upon being addedto the buildings.
 
-stockMax `integer`
+`integer stockMax`{!language=jass}
 : The item will grow in stock count up to the value of stockMax.The rate at which the item grows in stock is determined by its stock replenishinterval, which can be modified in the object editor.
 
 ## Notes 

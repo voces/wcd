@@ -17,14 +17,14 @@ native SaveItemHandle takes hashtable table, integer parentKey, integer childKey
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

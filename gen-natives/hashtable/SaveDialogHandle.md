@@ -17,14 +17,14 @@ native SaveDialogHandle takes hashtable table, integer parentKey, integer childK
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichDialog `dialog`
+`dialog whichDialog`{!language=jass}
 : 

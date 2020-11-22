@@ -16,11 +16,11 @@ native IssueNeutralImmediateOrder takes player forWhichPlayer, unit neutralStruc
 ```
 
 ## Parameters
-forWhichPlayer `player`
+`player forWhichPlayer`{!language=jass}
 : 
 
-neutralStructure `unit`
+`unit neutralStructure`{!language=jass}
 : 
 
-unitToBuild `string`
+`string unitToBuild`{!language=jass}
 : 

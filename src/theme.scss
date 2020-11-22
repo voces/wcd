@@ -14,9 +14,22 @@
     color: #3d7e9a;
 }
 
-.markdown .language-jass {
+.markdown {
+    h2 {
+        margin-top: 16px;
+    }
+    
+    dl:first-child {
+        margin-top: 0;
+    }
 
-    .hljs-keyword { color: #ab6ca4; }
-    .hljs-type { color: #5c864e; }
+    dd {
+        margin-left: 16px;
+        margin-bottom: 8px;
+    }
 
+    .language-jass {
+        .hljs-keyword { color: #ab6ca4; }
+        .hljs-type { color: #5c864e; }
+    }
 }

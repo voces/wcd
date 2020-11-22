@@ -17,17 +17,17 @@ native CreateCorpse takes player whichPlayer, integer unitid, real x, real y, re
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : The owner of the corpse.
 
-unitid `integer`
+`integer unitid`{!language=jass}
 : The rawcode of the unit for the corpse.
 
-x `real`
+`real x`{!language=jass}
 : The x-coordinate of the corpse.
 
-y `real`
+`real y`{!language=jass}
 : The y-coordinate of the corpse.
 
-face `real`
+`real face`{!language=jass}
 : Unit facing in degrees.

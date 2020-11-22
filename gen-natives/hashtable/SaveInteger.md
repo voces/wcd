@@ -15,14 +15,14 @@ native SaveInteger takes hashtable table, integer parentKey, integer childKey, i
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-value `integer`
+`integer value`{!language=jass}
 : 

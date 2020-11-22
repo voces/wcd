@@ -13,5 +13,5 @@ native EnableOcclusion takes boolean flag returns nothing
 ```
 
 ## Parameters
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

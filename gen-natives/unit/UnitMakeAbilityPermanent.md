@@ -16,11 +16,11 @@ native UnitMakeAbilityPermanent takes unit whichUnit, boolean permanent, integer
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-permanent `boolean`
+`boolean permanent`{!language=jass}
 : 
 
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 

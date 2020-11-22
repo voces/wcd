@@ -14,5 +14,5 @@ native GetItemX takes item i returns real
 ```
 
 ## Parameters
-i `item`
+`item i`{!language=jass}
 : 

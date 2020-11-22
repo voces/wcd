@@ -15,14 +15,14 @@ native BlzSetSpecialEffectColor takes effect whichEffect, integer r, integer g, 
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-r `integer`
+`integer r`{!language=jass}
 : 
 
-g `integer`
+`integer g`{!language=jass}
 : 
 
-b `integer`
+`integer b`{!language=jass}
 : 

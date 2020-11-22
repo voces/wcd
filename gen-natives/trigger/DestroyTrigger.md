@@ -13,7 +13,7 @@ native DestroyTrigger takes trigger whichTrigger returns nothing
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
 ## Bugs 

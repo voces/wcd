@@ -15,26 +15,26 @@ native UnitCountBuffsEx takes unit whichUnit, boolean removePositive, boolean re
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-removePositive `boolean`
+`boolean removePositive`{!language=jass}
 : 
 
-removeNegative `boolean`
+`boolean removeNegative`{!language=jass}
 : 
 
-magic `boolean`
+`boolean magic`{!language=jass}
 : 
 
-physical `boolean`
+`boolean physical`{!language=jass}
 : 
 
-timedLife `boolean`
+`boolean timedLife`{!language=jass}
 : 
 
-aura `boolean`
+`boolean aura`{!language=jass}
 : 
 
-autoDispel `boolean`
+`boolean autoDispel`{!language=jass}
 : 

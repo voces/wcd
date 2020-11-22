@@ -17,16 +17,16 @@ native AddSpellEffectLoc takes string abilityString, effecttype t,location where
 ```
 
 ## Parameters
-abilityString `string`
+`string abilityString`{!language=jass}
 : 
 
-tlocation `effecttype`
+`effecttype tlocation`{!language=jass}
 : 
 
-returns `where`
+`where returns`{!language=jass}
 : 
 
-undefined `effect`
+`effect undefined`{!language=jass}
 : 
 
 ## Notes 

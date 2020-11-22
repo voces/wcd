@@ -15,7 +15,7 @@ native Deg2Rad takes real degrees returns real
 ```
 
 ## Parameters
-degrees `real`
+`real degrees`{!language=jass}
 : The degree input.
 
 ## Notes 

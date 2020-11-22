@@ -16,16 +16,16 @@ native GroupEnumUnitsOfTypeCounted takes group whichGroup, string unitname, bool
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-unitname `string`
+`string unitname`{!language=jass}
 : 
 
-filter `boolexpr`
+`boolexpr filter`{!language=jass}
 : 
 
-countLimit `integer`
+`integer countLimit`{!language=jass}
 : 
 
 ## Bugs 

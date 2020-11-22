@@ -14,8 +14,8 @@ native ShowInterface takes boolean flag, real fadeDuration returns nothing
 ```
 
 ## Parameters
-flag `boolean`
+`boolean flag`{!language=jass}
 : 
 
-fadeDuration `real`
+`real fadeDuration`{!language=jass}
 : 

@@ -14,7 +14,7 @@ native InitGameCache takes string campaignFile returns gamecache
 ```
 
 ## Parameters
-campaignFile `string`
+`string campaignFile`{!language=jass}
 : 
 
 ## Notes 

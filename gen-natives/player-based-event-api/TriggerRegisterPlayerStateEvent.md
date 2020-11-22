@@ -18,17 +18,17 @@ native TriggerRegisterPlayerStateEvent takes trigger whichTrigger, player whichP
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-whichState `playerstate`
+`playerstate whichState`{!language=jass}
 : 
 
-opcode `limitop`
+`limitop opcode`{!language=jass}
 : 
 
-limitval `real`
+`real limitval`{!language=jass}
 : 

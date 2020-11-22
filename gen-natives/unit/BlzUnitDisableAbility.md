@@ -16,14 +16,14 @@ native BlzUnitDisableAbility takes unit whichUnit, integer abilId, boolean flag,
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilId `integer`
+`integer abilId`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 
 
-hideUI `boolean`
+`boolean hideUI`{!language=jass}
 : 

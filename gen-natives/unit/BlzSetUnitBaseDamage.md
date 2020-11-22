@@ -15,11 +15,11 @@ native BlzSetUnitBaseDamage takes unit whichUnit, integer baseDamage, integer we
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-baseDamage `integer`
+`integer baseDamage`{!language=jass}
 : 
 
-weaponIndex `integer`
+`integer weaponIndex`{!language=jass}
 : 

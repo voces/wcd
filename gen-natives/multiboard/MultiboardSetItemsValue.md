@@ -15,8 +15,8 @@ native MultiboardSetItemsValue takes multiboard lb, string value returns nothing
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-value `string`
+`string value`{!language=jass}
 : 

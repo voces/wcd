@@ -14,5 +14,5 @@ native SetCinematicAudio takes boolean cinematicAudio returns nothing
 ```
 
 ## Parameters
-cinematicAudio `boolean`
+`boolean cinematicAudio`{!language=jass}
 : 

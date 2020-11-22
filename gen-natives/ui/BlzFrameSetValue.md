@@ -15,8 +15,8 @@ native BlzFrameSetValue takes framehandle frame, real value returns nothing
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-value `real`
+`real value`{!language=jass}
 : 

@@ -14,11 +14,11 @@ native SetUnitFlyHeight takes unit whichUnit, real newHeight, real rate returns 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-newHeight `real`
+`real newHeight`{!language=jass}
 : 
 
-rate `real`
+`real rate`{!language=jass}
 : 

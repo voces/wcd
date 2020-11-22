@@ -14,5 +14,5 @@ native BlzFrameClearAllPoints takes framehandle frame returns nothing
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 

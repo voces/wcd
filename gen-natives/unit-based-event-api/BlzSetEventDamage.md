@@ -14,5 +14,5 @@ native BlzSetEventDamage takes real damage returns nothing
 ```
 
 ## Parameters
-damage `real`
+`real damage`{!language=jass}
 : 

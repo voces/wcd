@@ -16,11 +16,11 @@ native BlzSetItemBooleanField takes item whichItem, itembooleanfield whichField,
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-whichField `itembooleanfield`
+`itembooleanfield whichField`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

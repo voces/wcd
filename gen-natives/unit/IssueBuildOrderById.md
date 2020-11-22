@@ -16,14 +16,14 @@ native IssueBuildOrderById takes unit whichPeon, integer unitId, real x, real y 
 ```
 
 ## Parameters
-whichPeon `unit`
+`unit whichPeon`{!language=jass}
 : 
 
-unitId `integer`
+`integer unitId`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

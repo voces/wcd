@@ -13,5 +13,5 @@ native RemoveWeatherEffect takes weathereffect whichEffect returns nothing
 ```
 
 ## Parameters
-whichEffect `weathereffect`
+`weathereffect whichEffect`{!language=jass}
 : 

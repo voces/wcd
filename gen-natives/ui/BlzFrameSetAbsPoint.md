@@ -16,14 +16,14 @@ native BlzFrameSetAbsPoint takes framehandle frame, framepointtype point, real x
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-point `framepointtype`
+`framepointtype point`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

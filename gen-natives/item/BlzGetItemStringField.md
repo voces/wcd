@@ -16,8 +16,8 @@ native BlzGetItemStringField takes item whichItem, itemstringfield whichField re
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-whichField `itemstringfield`
+`itemstringfield whichField`{!language=jass}
 : 

@@ -14,7 +14,7 @@ constant native GetUnitX takes unit whichUnit returns real
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
 ## Bugs 

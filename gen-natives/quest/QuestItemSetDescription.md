@@ -14,8 +14,8 @@ native QuestItemSetDescription takes questitem whichQuestItem, string descriptio
 ```
 
 ## Parameters
-whichQuestItem `questitem`
+`questitem whichQuestItem`{!language=jass}
 : 
 
-description `string`
+`string description`{!language=jass}
 : 

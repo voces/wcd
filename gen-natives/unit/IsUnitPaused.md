@@ -14,5 +14,5 @@ native IsUnitPaused takes unit whichHero returns boolean
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 

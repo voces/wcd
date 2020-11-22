@@ -14,5 +14,5 @@ constant native IsPlayerObserver takes player whichPlayer returns boolean
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

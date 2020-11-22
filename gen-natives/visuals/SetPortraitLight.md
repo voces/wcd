@@ -14,5 +14,5 @@ native SetPortraitLight takes string portraitDNCFile returns nothing
 ```
 
 ## Parameters
-portraitDNCFile `string`
+`string portraitDNCFile`{!language=jass}
 : 

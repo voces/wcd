@@ -14,5 +14,5 @@ native LeaderboardGetItemCount takes leaderboard lb returns integer
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 

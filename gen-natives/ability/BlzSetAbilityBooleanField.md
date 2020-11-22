@@ -16,11 +16,11 @@ native BlzSetAbilityBooleanField takes ability whichAbility, abilitybooleanfield
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilitybooleanfield`
+`abilitybooleanfield whichField`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

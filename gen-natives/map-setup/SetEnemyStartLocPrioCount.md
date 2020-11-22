@@ -14,8 +14,8 @@ native SetEnemyStartLocPrioCount takes integer whichStartLoc, integer prioSlotCo
 ```
 
 ## Parameters
-whichStartLoc `integer`
+`integer whichStartLoc`{!language=jass}
 : 
 
-prioSlotCount `integer`
+`integer prioSlotCount`{!language=jass}
 : 

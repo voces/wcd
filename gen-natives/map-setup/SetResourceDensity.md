@@ -13,5 +13,5 @@ native SetResourceDensity takes mapdensity whichdensity returns nothing
 ```
 
 ## Parameters
-whichdensity `mapdensity`
+`mapdensity whichdensity`{!language=jass}
 : 

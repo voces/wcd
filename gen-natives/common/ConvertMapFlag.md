@@ -16,5 +16,5 @@ constant native ConvertMapFlag takes integer i returns mapflag
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the mapflag

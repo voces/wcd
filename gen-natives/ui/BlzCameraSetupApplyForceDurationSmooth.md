@@ -16,20 +16,20 @@ native BlzCameraSetupApplyForceDurationSmooth takes camerasetup whichSetup, bool
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : 
 
-doPan `boolean`
+`boolean doPan`{!language=jass}
 : 
 
-forcedDuration `real`
+`real forcedDuration`{!language=jass}
 : 
 
-easeInDuration `real`
+`real easeInDuration`{!language=jass}
 : 
 
-easeOutDuration `real`
+`real easeOutDuration`{!language=jass}
 : 
 
-smoothFactor `real`
+`real smoothFactor`{!language=jass}
 : 

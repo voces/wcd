@@ -14,11 +14,11 @@ native LeaderboardSetItemValue takes leaderboard lb, integer whichItem, integer 
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-whichItem `integer`
+`integer whichItem`{!language=jass}
 : 
 
-val `integer`
+`integer val`{!language=jass}
 : 

@@ -16,11 +16,11 @@ native GetStoredInteger takes gamecache cache, string missionKey, string key ret
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 
 
-missionKey `string`
+`string missionKey`{!language=jass}
 : 
 
-key `string`
+`string key`{!language=jass}
 : 

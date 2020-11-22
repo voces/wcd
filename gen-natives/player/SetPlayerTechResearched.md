@@ -14,11 +14,11 @@ constant native SetPlayerTechResearched takes player whichPlayer, integer techid
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-techid `integer`
+`integer techid`{!language=jass}
 : 
 
-setToLevel `integer`
+`integer setToLevel`{!language=jass}
 : 

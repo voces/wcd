@@ -13,5 +13,5 @@ native RemoveUnitFromAllStock takes integer unitId returns nothing
 ```
 
 ## Parameters
-unitId `integer`
+`integer unitId`{!language=jass}
 : 

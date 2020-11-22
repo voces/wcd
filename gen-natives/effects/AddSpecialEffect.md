@@ -16,13 +16,13 @@ native AddSpecialEffect takes string modelName, real x, real y returns effect
 ```
 
 ## Parameters
-modelName `string`
+`string modelName`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
 ## Notes 

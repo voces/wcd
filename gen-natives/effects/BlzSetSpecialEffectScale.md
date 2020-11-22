@@ -15,8 +15,8 @@ native BlzSetSpecialEffectScale takes effect whichEffect, real scale returns not
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-scale `real`
+`real scale`{!language=jass}
 : 

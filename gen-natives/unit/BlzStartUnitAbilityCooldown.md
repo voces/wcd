@@ -16,11 +16,11 @@ native BlzStartUnitAbilityCooldown takes unit whichUnit, integer abilCode, real 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 
 
-cooldown `real`
+`real cooldown`{!language=jass}
 : 

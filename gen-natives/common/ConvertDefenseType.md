@@ -16,5 +16,5 @@ constant native ConvertDefenseType takes integer i returns defensetype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

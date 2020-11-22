@@ -14,8 +14,8 @@ native QuestSetDescription takes quest whichQuest, string description returns no
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 
 
-description `string`
+`string description`{!language=jass}
 : 

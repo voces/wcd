@@ -17,14 +17,14 @@ native SaveTriggerConditionHandle takes hashtable table, integer parentKey, inte
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichTriggercondition `triggercondition`
+`triggercondition whichTriggercondition`{!language=jass}
 : 

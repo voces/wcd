@@ -14,5 +14,5 @@ constant native GetUnitRace takes unit whichUnit returns race
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

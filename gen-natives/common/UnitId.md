@@ -14,5 +14,5 @@ constant native UnitId takes string unitIdString returns integer
 ```
 
 ## Parameters
-unitIdString `string`
+`string unitIdString`{!language=jass}
 : 

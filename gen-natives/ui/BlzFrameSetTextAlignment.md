@@ -15,11 +15,11 @@ native BlzFrameSetTextAlignment takes framehandle frame, textaligntype vert, tex
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-vert `textaligntype`
+`textaligntype vert`{!language=jass}
 : 
 
-horz `textaligntype`
+`textaligntype horz`{!language=jass}
 : 

@@ -15,8 +15,8 @@ native SetMinimapIconVisible takes minimapicon whichMinimapIcon, boolean visible
 ```
 
 ## Parameters
-whichMinimapIcon `minimapicon`
+`minimapicon whichMinimapIcon`{!language=jass}
 : 
 
-visible `boolean`
+`boolean visible`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native SetDestructableAnimationSpeed takes destructable d, real speedFactor retu
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 
 
-speedFactor `real`
+`real speedFactor`{!language=jass}
 : 

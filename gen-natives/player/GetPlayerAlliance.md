@@ -15,11 +15,11 @@ constant native GetPlayerAlliance takes player sourcePlayer, player otherPlayer,
 ```
 
 ## Parameters
-sourcePlayer `player`
+`player sourcePlayer`{!language=jass}
 : 
 
-otherPlayer `player`
+`player otherPlayer`{!language=jass}
 : 
 
-whichAllianceSetting `alliancetype`
+`alliancetype whichAllianceSetting`{!language=jass}
 : 

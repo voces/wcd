@@ -16,8 +16,8 @@ native BlzGetOriginFrame takes originframetype frameType, integer index returns 
 ```
 
 ## Parameters
-frameType `originframetype`
+`originframetype frameType`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 

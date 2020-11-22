@@ -14,11 +14,11 @@ native SetItemPosition takes item i, real x, real y returns nothing
 ```
 
 ## Parameters
-i `item`
+`item i`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

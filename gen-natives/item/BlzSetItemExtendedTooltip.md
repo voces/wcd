@@ -15,8 +15,8 @@ native BlzSetItemExtendedTooltip takes item whichItem, string extendedTooltip re
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-extendedTooltip `string`
+`string extendedTooltip`{!language=jass}
 : 

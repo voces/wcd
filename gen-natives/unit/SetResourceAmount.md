@@ -14,8 +14,8 @@ native SetResourceAmount takes unit whichUnit, integer amount returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-amount `integer`
+`integer amount`{!language=jass}
 : 

@@ -16,8 +16,8 @@ native BlzForceHasPlayer takes force whichForce, player whichPlayer returns bool
 ```
 
 ## Parameters
-whichForce `force`
+`force whichForce`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

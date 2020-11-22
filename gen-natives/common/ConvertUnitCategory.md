@@ -16,5 +16,5 @@ constant native ConvertUnitCategory takes integer i returns unitcategory
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

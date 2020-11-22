@@ -15,11 +15,11 @@ native BlzFrameSetMinMaxValue takes framehandle frame, real minValue, real maxVa
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-minValue `real`
+`real minValue`{!language=jass}
 : 
 
-maxValue `real`
+`real maxValue`{!language=jass}
 : 

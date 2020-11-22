@@ -15,5 +15,5 @@ native BlzChangeMinimapTerrainTex takes string texFile returns boolean
 ```
 
 ## Parameters
-texFile `string`
+`string texFile`{!language=jass}
 : 

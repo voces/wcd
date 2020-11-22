@@ -14,5 +14,5 @@ native IsTimerDialogDisplayed takes timerdialog whichDialog returns boolean
 ```
 
 ## Parameters
-whichDialog `timerdialog`
+`timerdialog whichDialog`{!language=jass}
 : 

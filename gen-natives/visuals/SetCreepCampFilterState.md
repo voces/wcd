@@ -13,5 +13,5 @@ native SetCreepCampFilterState takes boolean state returns nothing
 ```
 
 ## Parameters
-state `boolean`
+`boolean state`{!language=jass}
 : 

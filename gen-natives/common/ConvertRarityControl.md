@@ -16,5 +16,5 @@ constant native ConvertRarityControl takes integer i returns raritycontrol
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the raritycontrol

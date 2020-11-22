@@ -14,8 +14,8 @@ native SetSoundChannel takes sound soundHandle, integer channel returns nothing
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-channel `integer`
+`integer channel`{!language=jass}
 : 

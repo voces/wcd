@@ -15,10 +15,10 @@ constant native IsUnitType takes unit whichUnit, unittype whichUnitType returns 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichUnitType `unittype`
+`unittype whichUnitType`{!language=jass}
 : 
 
 ## Notes 

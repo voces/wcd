@@ -14,5 +14,5 @@ native IsMultiboardDisplayed takes multiboard lb returns boolean
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 

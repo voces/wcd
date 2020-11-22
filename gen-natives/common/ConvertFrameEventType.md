@@ -16,5 +16,5 @@ constant native ConvertFrameEventType takes integer i returns frameeventtype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

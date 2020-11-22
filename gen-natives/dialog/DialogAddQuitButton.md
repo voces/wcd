@@ -17,14 +17,14 @@ native DialogAddQuitButton takes dialog whichDialog, boolean doScoreScreen, stri
 ```
 
 ## Parameters
-whichDialog `dialog`
+`dialog whichDialog`{!language=jass}
 : 
 
-doScoreScreen `boolean`
+`boolean doScoreScreen`{!language=jass}
 : 
 
-buttonText `string`
+`string buttonText`{!language=jass}
 : 
 
-hotkey `integer`
+`integer hotkey`{!language=jass}
 : 

@@ -15,5 +15,5 @@ native CameraSetupGetDestPositionY takes camerasetup whichSetup returns real
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camera setup.

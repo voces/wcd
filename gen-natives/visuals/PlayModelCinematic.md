@@ -13,5 +13,5 @@ native PlayModelCinematic takes string modelName returns nothing
 ```
 
 ## Parameters
-modelName `string`
+`string modelName`{!language=jass}
 : 

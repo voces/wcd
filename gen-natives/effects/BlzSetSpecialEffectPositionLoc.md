@@ -15,8 +15,8 @@ native BlzSetSpecialEffectPositionLoc takes effect whichEffect, location loc ret
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-loc `location`
+`location loc`{!language=jass}
 : 

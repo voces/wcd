@@ -15,5 +15,5 @@ native BlzFrameGetHeight takes framehandle frame returns real
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 

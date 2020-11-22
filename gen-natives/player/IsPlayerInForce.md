@@ -15,8 +15,8 @@ constant native IsPlayerInForce takes player whichPlayer, force whichForce retur
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-whichForce `force`
+`force whichForce`{!language=jass}
 : 

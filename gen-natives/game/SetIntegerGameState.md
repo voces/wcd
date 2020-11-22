@@ -14,8 +14,8 @@ native SetIntegerGameState takes igamestate whichIntegerGameState, integer value
 ```
 
 ## Parameters
-whichIntegerGameState `igamestate`
+`igamestate whichIntegerGameState`{!language=jass}
 : 
 
-value `integer`
+`integer value`{!language=jass}
 : 

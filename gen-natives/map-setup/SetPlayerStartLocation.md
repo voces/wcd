@@ -14,8 +14,8 @@ native SetPlayerStartLocation takes player whichPlayer, integer startLocIndex re
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-startLocIndex `integer`
+`integer startLocIndex`{!language=jass}
 : 

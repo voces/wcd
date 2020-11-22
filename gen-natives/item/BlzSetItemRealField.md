@@ -17,11 +17,11 @@ native BlzSetItemRealField takes item whichItem, itemrealfield whichField, real 
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-whichField `itemrealfield`
+`itemrealfield whichField`{!language=jass}
 : 
 
-value `real`
+`real value`{!language=jass}
 : 

@@ -16,14 +16,14 @@ native CreateBlightedGoldmine takes player id, real x, real y, real face returns
 ```
 
 ## Parameters
-id `player`
+`player id`{!language=jass}
 : The player to create the goldmine for.
 
-x `real`
+`real x`{!language=jass}
 : The x-coordinate of the goldmine
 
-y `real`
+`real y`{!language=jass}
 : The y-coordinate of the goldmine
 
-face `real`
+`real face`{!language=jass}
 : The facing of the goldmine in degrees

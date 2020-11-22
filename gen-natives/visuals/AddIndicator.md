@@ -15,19 +15,19 @@ native AddIndicator takes widget whichWidget, integer red, integer green, intege
 ```
 
 ## Parameters
-whichWidget `widget`
+`widget whichWidget`{!language=jass}
 : The widget the indicator will be applied to.
 
-red `integer`
+`integer red`{!language=jass}
 : An integer from 0-255 determining the amount of red color in the indicator.
 
-green `integer`
+`integer green`{!language=jass}
 : An integer from 0-255 determining the amount of green color in the indicator.
 
-blue `integer`
+`integer blue`{!language=jass}
 : An integer from 0-255 determining the amount of blue color in the indicator.
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : An integer from 0-255 determining the transparency of the indicator. A value of 0 is complete transparency while a value of 255 is complete opacity.
 
 ## Notes 

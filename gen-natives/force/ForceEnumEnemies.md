@@ -15,11 +15,11 @@ native ForceEnumEnemies takes force whichForce, player whichPlayer, boolexpr fil
 ```
 
 ## Parameters
-whichForce `force`
+`force whichForce`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-filter `boolexpr`
+`boolexpr filter`{!language=jass}
 : 

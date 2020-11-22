@@ -16,5 +16,5 @@ constant native ConvertAbilityRealLevelArrayField takes integer i returns abilit
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

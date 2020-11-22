@@ -13,5 +13,5 @@ native SetCineFilterTexMapFlags takes texmapflags whichFlags returns nothing
 ```
 
 ## Parameters
-whichFlags `texmapflags`
+`texmapflags whichFlags`{!language=jass}
 : 

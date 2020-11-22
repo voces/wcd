@@ -14,8 +14,8 @@ native QuestSetIconPath takes quest whichQuest, string iconPath returns nothing
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 
 
-iconPath `string`
+`string iconPath`{!language=jass}
 : 

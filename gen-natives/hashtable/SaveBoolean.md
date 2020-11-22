@@ -16,14 +16,14 @@ native SaveBoolean takes hashtable table, integer parentKey, integer childKey, b
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

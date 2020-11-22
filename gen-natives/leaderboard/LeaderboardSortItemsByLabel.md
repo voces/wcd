@@ -14,8 +14,8 @@ native LeaderboardSortItemsByLabel takes leaderboard lb, boolean ascending retur
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-ascending `boolean`
+`boolean ascending`{!language=jass}
 : 

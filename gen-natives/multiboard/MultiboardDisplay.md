@@ -14,10 +14,10 @@ native MultiboardDisplay takes multiboard lb, boolean show returns nothing
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-show `boolean`
+`boolean show`{!language=jass}
 : 
 
 ## Notes 

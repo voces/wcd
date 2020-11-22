@@ -13,5 +13,5 @@ native SetGameDifficulty takes gamedifficulty whichdifficulty returns nothing
 ```
 
 ## Parameters
-whichdifficulty `gamedifficulty`
+`gamedifficulty whichdifficulty`{!language=jass}
 : 

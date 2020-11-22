@@ -16,11 +16,11 @@ native SetImageConstantHeight takes image whichImage, boolean flag, real height 
 ```
 
 ## Parameters
-whichImage `image`
+`image whichImage`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 
 
-height `real`
+`real height`{!language=jass}
 : 

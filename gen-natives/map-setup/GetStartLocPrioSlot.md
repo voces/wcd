@@ -13,8 +13,8 @@ native GetStartLocPrioSlot takes integer whichStartLoc, integer prioSlotIndex re
 ```
 
 ## Parameters
-whichStartLoc `integer`
+`integer whichStartLoc`{!language=jass}
 : 
 
-prioSlotIndex `integer`
+`integer prioSlotIndex`{!language=jass}
 : 

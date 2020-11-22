@@ -14,8 +14,8 @@ native LeaderboardDisplay takes leaderboard lb, boolean show returns nothing
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-show `boolean`
+`boolean show`{!language=jass}
 : 

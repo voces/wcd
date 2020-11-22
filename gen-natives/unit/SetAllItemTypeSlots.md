@@ -13,5 +13,5 @@ native SetAllItemTypeSlots takes integer slots returns nothing
 ```
 
 ## Parameters
-slots `integer`
+`integer slots`{!language=jass}
 : 

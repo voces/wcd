@@ -17,14 +17,14 @@ native SaveTriggerEventHandle takes hashtable table, integer parentKey, integer 
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichEvent `event`
+`event whichEvent`{!language=jass}
 : 

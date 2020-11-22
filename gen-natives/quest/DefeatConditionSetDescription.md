@@ -14,8 +14,8 @@ native DefeatConditionSetDescription takes defeatcondition whichCondition, strin
 ```
 
 ## Parameters
-whichCondition `defeatcondition`
+`defeatcondition whichCondition`{!language=jass}
 : 
 
-description `string`
+`string description`{!language=jass}
 : 

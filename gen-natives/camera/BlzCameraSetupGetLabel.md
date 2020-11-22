@@ -15,5 +15,5 @@ native BlzCameraSetupGetLabel takes camerasetup whichSetup returns string
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : 

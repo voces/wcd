@@ -14,8 +14,8 @@ native SetUnitTurnSpeed takes unit whichUnit, real newTurnSpeed returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-newTurnSpeed `real`
+`real newTurnSpeed`{!language=jass}
 : 

@@ -16,10 +16,10 @@ native AddWeatherEffect takes rect where, integer effectID returns weathereffect
 ```
 
 ## Parameters
-where `rect`
+`rect where`{!language=jass}
 : The rect to apply the weathereffect to.
 
-effectID `integer`
+`integer effectID`{!language=jass}
 : Which effect to apply.
 
 ## Notes 

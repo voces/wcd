@@ -14,8 +14,8 @@ native QueueUnitAnimation takes unit whichUnit, string whichAnimation returns no
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichAnimation `string`
+`string whichAnimation`{!language=jass}
 : 

@@ -15,8 +15,8 @@ constant native IsUnitVisible takes unit whichUnit, player whichPlayer returns b
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

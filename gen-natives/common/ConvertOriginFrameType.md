@@ -16,5 +16,5 @@ constant native ConvertOriginFrameType takes integer i returns originframetype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

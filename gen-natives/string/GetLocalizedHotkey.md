@@ -16,5 +16,5 @@ native GetLocalizedHotkey takes string source returns integer
 ```
 
 ## Parameters
-source `string`
+`string source`{!language=jass}
 : 

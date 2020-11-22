@@ -16,11 +16,11 @@ native LoadMultiboardItemHandle takes hashtable table, integer parentKey, intege
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 

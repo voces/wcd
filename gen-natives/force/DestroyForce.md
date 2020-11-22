@@ -13,5 +13,5 @@ native DestroyForce takes force whichForce returns nothing
 ```
 
 ## Parameters
-whichForce `force`
+`force whichForce`{!language=jass}
 : 

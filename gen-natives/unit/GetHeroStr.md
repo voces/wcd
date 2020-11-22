@@ -15,8 +15,8 @@ native GetHeroStr takes unit whichHero, boolean includeBonuses returns integer
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-includeBonuses `boolean`
+`boolean includeBonuses`{!language=jass}
 : 

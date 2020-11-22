@@ -15,8 +15,8 @@ native BlzSetSpecialEffectTimeScale takes effect whichEffect, real timeScale ret
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-timeScale `real`
+`real timeScale`{!language=jass}
 : 

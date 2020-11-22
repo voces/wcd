@@ -14,8 +14,8 @@ native TriggerWaitForSound takes sound s, real offset returns nothing
 ```
 
 ## Parameters
-s `sound`
+`sound s`{!language=jass}
 : 
 
-offset `real`
+`real offset`{!language=jass}
 : 

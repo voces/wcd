@@ -15,8 +15,8 @@ native BlzFrameGetChild takes framehandle frame, integer index returns framehand
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 

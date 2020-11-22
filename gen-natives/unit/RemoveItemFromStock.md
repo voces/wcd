@@ -14,8 +14,8 @@ native RemoveItemFromStock takes unit whichUnit, integer itemId returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-itemId `integer`
+`integer itemId`{!language=jass}
 : 

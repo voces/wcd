@@ -16,14 +16,14 @@ constant native GetPlayerTypedUnitCount takes player whichPlayer, string unitNam
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-unitName `string`
+`string unitName`{!language=jass}
 : 
 
-includeIncomplete `boolean`
+`boolean includeIncomplete`{!language=jass}
 : 
 
-includeUpgrades `boolean`
+`boolean includeUpgrades`{!language=jass}
 : 

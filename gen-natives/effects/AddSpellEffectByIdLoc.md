@@ -18,16 +18,16 @@ native AddSpellEffectByIdLoc takes integer abilityId, effecttype t,location wher
 ```
 
 ## Parameters
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 
 
-tlocation `effecttype`
+`effecttype tlocation`{!language=jass}
 : 
 
-returns `where`
+`where returns`{!language=jass}
 : 
 
-undefined `effect`
+`effect undefined`{!language=jass}
 : 
 
 ## Notes 

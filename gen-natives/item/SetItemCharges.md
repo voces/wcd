@@ -14,8 +14,8 @@ native SetItemCharges takes item whichItem, integer charges returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-charges `integer`
+`integer charges`{!language=jass}
 : 

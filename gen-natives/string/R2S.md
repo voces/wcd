@@ -15,5 +15,5 @@ native R2S takes real r returns string
 ```
 
 ## Parameters
-r `real`
+`real r`{!language=jass}
 : 

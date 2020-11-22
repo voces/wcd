@@ -15,8 +15,8 @@ native BlzSetItemSkin takes item whichItem, integer skinId returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-skinId `integer`
+`integer skinId`{!language=jass}
 : 

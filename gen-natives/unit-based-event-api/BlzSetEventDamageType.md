@@ -15,5 +15,5 @@ native BlzSetEventDamageType takes damagetype damageType returns boolean
 ```
 
 ## Parameters
-damageType `damagetype`
+`damagetype damageType`{!language=jass}
 : 

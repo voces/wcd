@@ -14,5 +14,5 @@ native TimerGetTimeout takes timer whichTimer returns real
 ```
 
 ## Parameters
-whichTimer `timer`
+`timer whichTimer`{!language=jass}
 : 

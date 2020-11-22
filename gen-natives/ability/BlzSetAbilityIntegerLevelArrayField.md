@@ -17,17 +17,17 @@ native BlzSetAbilityIntegerLevelArrayField takes ability whichAbility, abilityin
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilityintegerlevelarrayfield`
+`abilityintegerlevelarrayfield whichField`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 
 
-value `integer`
+`integer value`{!language=jass}
 : 

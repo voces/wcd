@@ -15,8 +15,8 @@ native MultiboardSetItemsIcon takes multiboard lb, string iconPath returns nothi
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-iconPath `string`
+`string iconPath`{!language=jass}
 : 

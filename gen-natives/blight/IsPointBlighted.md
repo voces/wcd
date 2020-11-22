@@ -14,8 +14,8 @@ native IsPointBlighted takes real x, real y returns boolean
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

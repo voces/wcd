@@ -14,5 +14,5 @@ native GetItemPlayer takes item whichItem returns player
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

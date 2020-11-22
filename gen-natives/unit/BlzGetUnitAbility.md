@@ -16,8 +16,8 @@ native BlzGetUnitAbility takes unit whichUnit, integer abilId returns ability
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-abilId `integer`
+`integer abilId`{!language=jass}
 : 

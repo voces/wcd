@@ -14,5 +14,5 @@ native DestroyCommandButtonEffect takes commandbuttoneffect whichEffect returns 
 ```
 
 ## Parameters
-whichEffect `commandbuttoneffect`
+`commandbuttoneffect whichEffect`{!language=jass}
 : 

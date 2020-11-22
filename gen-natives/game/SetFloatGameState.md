@@ -14,8 +14,8 @@ native SetFloatGameState takes fgamestate whichFloatGameState, real value return
 ```
 
 ## Parameters
-whichFloatGameState `fgamestate`
+`fgamestate whichFloatGameState`{!language=jass}
 : 
 
-value `real`
+`real value`{!language=jass}
 : 

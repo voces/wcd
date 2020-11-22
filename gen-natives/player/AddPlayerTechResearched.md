@@ -15,11 +15,11 @@ constant native AddPlayerTechResearched takes player whichPlayer, integer techid
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : The player who the upgrade will be researched for.
 
-techid `integer`
+`integer techid`{!language=jass}
 : The four digit rawcode ID of the upgrade.
 
-levels `integer`
+`integer levels`{!language=jass}
 : The number of levels to add to the current research level of the upgrade.

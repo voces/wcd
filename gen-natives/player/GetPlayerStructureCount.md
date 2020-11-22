@@ -15,8 +15,8 @@ constant native GetPlayerStructureCount takes player whichPlayer, boolean includ
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-includeIncomplete `boolean`
+`boolean includeIncomplete`{!language=jass}
 : 

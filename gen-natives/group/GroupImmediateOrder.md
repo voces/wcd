@@ -15,8 +15,8 @@ native GroupImmediateOrder takes group whichGroup, string order returns boolean
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 

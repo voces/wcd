@@ -13,7 +13,7 @@ native DestroyCondition takes conditionfunc c returns nothing
 ```
 
 ## Parameters
-c `conditionfunc`
+`conditionfunc c`{!language=jass}
 : 
 
 ## Notes 

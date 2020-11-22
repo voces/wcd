@@ -15,8 +15,8 @@ native BlzSetHeroProperName takes unit whichUnit, string heroProperName returns 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-heroProperName `string`
+`string heroProperName`{!language=jass}
 : 

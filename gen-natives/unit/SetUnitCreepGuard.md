@@ -14,8 +14,8 @@ native SetUnitCreepGuard takes unit whichUnit, boolean creepGuard returns nothin
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-creepGuard `boolean`
+`boolean creepGuard`{!language=jass}
 : 

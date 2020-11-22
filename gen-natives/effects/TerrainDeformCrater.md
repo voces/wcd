@@ -17,22 +17,22 @@ native TerrainDeformCrater takes real x, real y, real radius, real depth, intege
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : The x coordinate of the craters center
 
-y `real`
+`real y`{!language=jass}
 : The y coordinate of the craters center
 
-radius `real`
+`real radius`{!language=jass}
 : The radius of the crater
 
-depth `real`
+`real depth`{!language=jass}
 : The depth of the crater
 
-duration `integer`
+`integer duration`{!language=jass}
 : The duration in milliseconds.
 
-permanent `boolean`
+`boolean permanent`{!language=jass}
 : Make the deformation permanent.
 
 ## Notes 

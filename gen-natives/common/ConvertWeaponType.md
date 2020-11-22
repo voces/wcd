@@ -16,5 +16,5 @@ constant native ConvertWeaponType takes integer i returns weapontype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the weapontype

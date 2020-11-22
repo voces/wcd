@@ -15,14 +15,14 @@ native RegisterStackedSound takes sound soundHandle, boolean byPosition, real re
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-byPosition `boolean`
+`boolean byPosition`{!language=jass}
 : 
 
-rectwidth `real`
+`real rectwidth`{!language=jass}
 : 
 
-rectheight `real`
+`real rectheight`{!language=jass}
 : 

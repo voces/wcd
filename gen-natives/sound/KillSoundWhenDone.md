@@ -14,5 +14,5 @@ native KillSoundWhenDone takes sound soundHandle returns nothing
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 

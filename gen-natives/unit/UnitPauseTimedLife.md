@@ -14,8 +14,8 @@ native UnitPauseTimedLife takes unit whichUnit, boolean flag returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

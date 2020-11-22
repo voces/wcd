@@ -14,5 +14,5 @@ native IsItemIdPawnable takes integer itemId returns boolean
 ```
 
 ## Parameters
-itemId `integer`
+`integer itemId`{!language=jass}
 : 

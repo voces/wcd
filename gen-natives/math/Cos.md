@@ -15,5 +15,5 @@ native Cos takes real radians returns real
 ```
 
 ## Parameters
-radians `real`
+`real radians`{!language=jass}
 : The input radians.

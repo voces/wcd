@@ -16,5 +16,5 @@ constant native ConvertAbilityStringField takes integer i returns abilitystringf
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

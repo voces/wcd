@@ -16,8 +16,8 @@ native BlzGetItemRealField takes item whichItem, itemrealfield whichField return
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-whichField `itemrealfield`
+`itemrealfield whichField`{!language=jass}
 : 

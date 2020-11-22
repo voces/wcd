@@ -16,8 +16,8 @@ native BlzGetAbilityIntegerField takes ability whichAbility, abilityintegerfield
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilityintegerfield`
+`abilityintegerfield whichField`{!language=jass}
 : 

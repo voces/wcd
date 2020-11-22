@@ -15,8 +15,8 @@ native BlzSetItemDescription takes item whichItem, string description returns no
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-description `string`
+`string description`{!language=jass}
 : 

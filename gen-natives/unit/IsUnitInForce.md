@@ -15,8 +15,8 @@ constant native IsUnitInForce takes unit whichUnit, force whichForce returns boo
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichForce `force`
+`force whichForce`{!language=jass}
 : 

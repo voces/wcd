@@ -13,14 +13,14 @@ native SetCineFilterStartUV takes real minu, real minv, real maxu, real maxv ret
 ```
 
 ## Parameters
-minu `real`
+`real minu`{!language=jass}
 : 
 
-minv `real`
+`real minv`{!language=jass}
 : 
 
-maxu `real`
+`real maxu`{!language=jass}
 : 
 
-maxv `real`
+`real maxv`{!language=jass}
 : 

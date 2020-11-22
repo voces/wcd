@@ -15,5 +15,5 @@ native GetDialogueTextKey takes sound soundHandle returns string
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 

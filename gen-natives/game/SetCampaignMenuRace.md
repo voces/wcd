@@ -13,7 +13,7 @@ native SetCampaignMenuRace takes race r returns nothing
 ```
 
 ## Parameters
-r `race`
+`race r`{!language=jass}
 : 
 
 ## Notes 

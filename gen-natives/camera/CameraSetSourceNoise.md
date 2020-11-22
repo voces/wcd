@@ -14,8 +14,8 @@ native CameraSetSourceNoise takes real mag, real velocity returns nothing
 ```
 
 ## Parameters
-mag `real`
+`real mag`{!language=jass}
 : The magnitude of the swaying.
 
-velocity `real`
+`real velocity`{!language=jass}
 : The speed of the swaying.

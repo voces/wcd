@@ -14,8 +14,8 @@ native SetItemTypeSlots takes unit whichUnit, integer slots returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-slots `integer`
+`integer slots`{!language=jass}
 : 

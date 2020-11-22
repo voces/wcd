@@ -16,5 +16,5 @@ constant native ConvertUnitStringField takes integer i returns unitstringfield
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

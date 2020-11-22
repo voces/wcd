@@ -15,7 +15,7 @@ native GetHeroProperName takes unit whichHero returns string
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
 ## Notes 

@@ -17,14 +17,14 @@ native SaveMultiboardHandle takes hashtable table, integer parentKey, integer ch
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichMultiboard `multiboard`
+`multiboard whichMultiboard`{!language=jass}
 : 

@@ -15,8 +15,8 @@ native IssueImmediateOrder takes unit whichUnit, string order returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 

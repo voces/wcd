@@ -14,7 +14,7 @@ native DestroyImage takes image whichImage returns nothing
 ```
 
 ## Parameters
-whichImage `image`
+`image whichImage`{!language=jass}
 : Which image to destroy.
 
 ## Bugs 

@@ -16,5 +16,5 @@ constant native ConvertRace takes integer i returns race
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the race

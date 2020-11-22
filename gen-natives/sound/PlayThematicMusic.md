@@ -14,7 +14,7 @@ native PlayThematicMusic takes string musicFileName returns nothing
 ```
 
 ## Parameters
-musicFileName `string`
+`string musicFileName`{!language=jass}
 : The path to the music file.
 
 ## Notes 

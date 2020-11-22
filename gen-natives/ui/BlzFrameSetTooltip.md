@@ -14,8 +14,8 @@ native BlzFrameSetTooltip takes framehandle frame, framehandle tooltip returns n
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-tooltip `framehandle`
+`framehandle tooltip`{!language=jass}
 : 

@@ -14,5 +14,5 @@ native BlzResetSpecialEffectMatrix takes effect whichEffect returns nothing
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 

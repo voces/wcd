@@ -13,5 +13,5 @@ native DestroyUnitPool takes unitpool whichPool returns nothing
 ```
 
 ## Parameters
-whichPool `unitpool`
+`unitpool whichPool`{!language=jass}
 : 

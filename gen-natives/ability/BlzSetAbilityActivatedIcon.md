@@ -15,8 +15,8 @@ native BlzSetAbilityActivatedIcon takes integer abilCode, string iconPath return
 ```
 
 ## Parameters
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 
 
-iconPath `string`
+`string iconPath`{!language=jass}
 : 

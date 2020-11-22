@@ -17,14 +17,14 @@ native SaveBooleanExprHandle takes hashtable table, integer parentKey, integer c
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichBoolexpr `boolexpr`
+`boolexpr whichBoolexpr`{!language=jass}
 : 

@@ -14,5 +14,5 @@ native IsDestructableInvulnerable takes destructable d returns boolean
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 

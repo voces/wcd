@@ -15,5 +15,5 @@ native BlzGroupGetSize takes group whichGroup returns integer
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 

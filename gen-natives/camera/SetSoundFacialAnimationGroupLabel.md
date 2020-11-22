@@ -16,8 +16,8 @@ native SetSoundFacialAnimationGroupLabel takes sound soundHandle, string groupLa
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-groupLabel `string`
+`string groupLabel`{!language=jass}
 : 

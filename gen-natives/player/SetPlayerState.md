@@ -15,11 +15,11 @@ native SetPlayerState takes player whichPlayer, playerstate whichPlayerState, in
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-whichPlayerState `playerstate`
+`playerstate whichPlayerState`{!language=jass}
 : 
 
-value `integer`
+`integer value`{!language=jass}
 : 

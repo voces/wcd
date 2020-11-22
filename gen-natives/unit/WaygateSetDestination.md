@@ -14,11 +14,11 @@ native WaygateSetDestination takes unit waygate, real x, real y returns nothing
 ```
 
 ## Parameters
-waygate `unit`
+`unit waygate`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

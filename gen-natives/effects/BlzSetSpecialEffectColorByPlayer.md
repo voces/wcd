@@ -15,8 +15,8 @@ native BlzSetSpecialEffectColorByPlayer takes effect whichEffect, player whichPl
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

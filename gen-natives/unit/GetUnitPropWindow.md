@@ -15,5 +15,5 @@ native GetUnitPropWindow takes unit whichUnit returns real
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The function will return this unit's propulsion window angle.

@@ -13,5 +13,5 @@ native RemoveItemFromAllStock takes integer itemId returns nothing
 ```
 
 ## Parameters
-itemId `integer`
+`integer itemId`{!language=jass}
 : 

@@ -13,5 +13,5 @@ native ResetTrigger takes trigger whichTrigger returns nothing
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 

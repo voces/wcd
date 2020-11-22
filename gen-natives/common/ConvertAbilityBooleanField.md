@@ -16,5 +16,5 @@ constant native ConvertAbilityBooleanField takes integer i returns abilityboolea
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

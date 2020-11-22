@@ -17,11 +17,11 @@ native BlzSetUnitStringField takes unit whichUnit, unitstringfield whichField, s
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichField `unitstringfield`
+`unitstringfield whichField`{!language=jass}
 : 
 
-value `string`
+`string value`{!language=jass}
 : 

@@ -16,5 +16,5 @@ constant native ConvertPlayerColor takes integer i returns playercolor
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the playercolor

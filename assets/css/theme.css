@@ -10,6 +10,16 @@
 .a {
   color: #3d7e9a; }
 
+.markdown h2 {
+  margin-top: 16px; }
+
+.markdown dl:first-child {
+  margin-top: 0; }
+
+.markdown dd {
+  margin-left: 16px;
+  margin-bottom: 8px; }
+
 .markdown .language-jass .hljs-keyword {
   color: #ab6ca4; }
 
@@ -57,6 +67,10 @@
   .search-results .path {
     opacity: 0.75; }
 
+.edit-on-github {
+  font-size: 12px;
+  border-bottom: 1px solid #eeebee; }
+
 .side-bar {
   padding: 0 16px;
   margin-left: auto; }
@@ -69,18 +83,15 @@
   .side-bar > ul {
     padding: 12px 0; }
 
-.edit-on-github {
-  font-size: 12px;
-  border-bottom: 1px solid #eeebee; }
-
-.nav ul, .nav {
-  padding-left: 8px; }
-
-.nav li {
-  list-style: none;
-  font-family: 'Courier New', Courier, monospace; }
-
-.nav a {
-  display: block;
-  padding: 2px 0;
-  word-break: break-all; }
+.nav {
+  max-height: calc(100vh - 61px);
+  overflow-y: auto; }
+  .nav ul, .nav {
+    padding-left: 8px; }
+  .nav li {
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace; }
+  .nav a {
+    display: block;
+    padding: 2px 0;
+    word-break: break-all; }

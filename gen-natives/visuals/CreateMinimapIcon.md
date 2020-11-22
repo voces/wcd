@@ -18,23 +18,23 @@ native CreateMinimapIcon takes real x, real y, integer red, integer green, integ
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-red `integer`
+`integer red`{!language=jass}
 : 
 
-green `integer`
+`integer green`{!language=jass}
 : 
 
-blue `integer`
+`integer blue`{!language=jass}
 : 
 
-pingPath `string`
+`string pingPath`{!language=jass}
 : 
 
-fogVisibility `fogstate`
+`fogstate fogVisibility`{!language=jass}
 : 

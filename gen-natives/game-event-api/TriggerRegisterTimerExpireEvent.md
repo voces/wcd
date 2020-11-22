@@ -16,8 +16,8 @@ native TriggerRegisterTimerExpireEvent takes trigger whichTrigger, timer t retur
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-t `timer`
+`timer t`{!language=jass}
 : 

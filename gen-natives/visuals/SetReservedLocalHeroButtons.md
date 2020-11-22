@@ -13,5 +13,5 @@ native SetReservedLocalHeroButtons takes integer reserved returns nothing
 ```
 
 ## Parameters
-reserved `integer`
+`integer reserved`{!language=jass}
 : 

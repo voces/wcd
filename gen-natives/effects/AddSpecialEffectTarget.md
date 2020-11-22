@@ -16,13 +16,13 @@ native AddSpecialEffectTarget takes string modelName, widget targetWidget, strin
 ```
 
 ## Parameters
-modelName `string`
+`string modelName`{!language=jass}
 : The path of the model. Use double backslashes when specifyinga directory, rather than single backslashes. See AddSpecialEffect for an example.
 
-targetWidget `widget`
+`widget targetWidget`{!language=jass}
 : The widget to attach the effect to.
 
-attachPointName `string`
+`string attachPointName`{!language=jass}
 : The attachment point of the widget where the effect willbe placed. Attachment points are points in a model that can be referenced to asareas for effects to be attached, whether it be from a spell or this function.A list of common attachment points in in-game Warcraft 3 models can be seen below.If the attachment point does not exist, it will attach the effect to the model's origin.
 
 ## Notes 

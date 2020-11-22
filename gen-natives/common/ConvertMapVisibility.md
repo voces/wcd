@@ -16,5 +16,5 @@ constant native ConvertMapVisibility takes integer i returns mapvisibility
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the mapvisibility

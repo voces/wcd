@@ -15,11 +15,11 @@ native SetUnitAnimationWithRarity takes unit whichUnit, string whichAnimation, r
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichAnimation `string`
+`string whichAnimation`{!language=jass}
 : 
 
-rarity `raritycontrol`
+`raritycontrol rarity`{!language=jass}
 : 

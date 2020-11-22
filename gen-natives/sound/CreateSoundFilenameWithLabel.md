@@ -17,25 +17,25 @@ native CreateSoundFilenameWithLabel takes string fileName, boolean looping, bool
 ```
 
 ## Parameters
-fileName `string`
+`string fileName`{!language=jass}
 : The path to the file.
 
-looping `boolean`
+`boolean looping`{!language=jass}
 : Looping sounds will restart once the sound duration has finished.
 
-is3D `boolean`
+`boolean is3D`{!language=jass}
 : 3D Sounds can be played on particular areas of the map. They are attheir loudest when the camera is close to the sound's coordinates.
 
-stopwhenoutofrange `boolean`
+`boolean stopwhenoutofrange`{!language=jass}
 : 
 
-fadeInRate `integer`
+`integer fadeInRate`{!language=jass}
 : How quickly the sound fades in. The higher the number,the faster the sound fades in. Maximum number is 127.
 
-fadeOutRate `integer`
+`integer fadeOutRate`{!language=jass}
 : How quickly the sound fades out. The higher the number,the faster the sound fades out. Maximum number is 127. used, e.g. values likevolume, pitch, pitch variance, priority, channel, min distance, max distance, distance cutoff or eax.
 
-SLKEntryName `string`
+`string SLKEntryName`{!language=jass}
 : the label out of one of the SLK-files, whose settings should be
 
 ## Notes 

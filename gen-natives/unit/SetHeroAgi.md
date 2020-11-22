@@ -15,11 +15,11 @@ native SetHeroAgi takes unit whichHero, integer newAgi, boolean permanent return
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-newAgi `integer`
+`integer newAgi`{!language=jass}
 : 
 
-permanent `boolean`
+`boolean permanent`{!language=jass}
 : 

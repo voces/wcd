@@ -14,5 +14,5 @@ native ResetUnitLookAt takes unit whichUnit returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The unit that will have its bone unlocked.

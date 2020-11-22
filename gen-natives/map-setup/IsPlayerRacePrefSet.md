@@ -15,8 +15,8 @@ native IsPlayerRacePrefSet takes player whichPlayer, racepreference pref returns
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-pref `racepreference`
+`racepreference pref`{!language=jass}
 : 

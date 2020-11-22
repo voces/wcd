@@ -15,5 +15,5 @@ native R2I takes real r returns integer
 ```
 
 ## Parameters
-r `real`
+`real r`{!language=jass}
 : 

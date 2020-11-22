@@ -15,8 +15,8 @@ native BlzFrameSetFocus takes framehandle frame, boolean flag returns nothing
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

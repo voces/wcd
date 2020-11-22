@@ -13,5 +13,5 @@ native SetCineFilterTexture takes string filename returns nothing
 ```
 
 ## Parameters
-filename `string`
+`string filename`{!language=jass}
 : 

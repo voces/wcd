@@ -16,11 +16,11 @@ native BlzDisplayChatMessage takes player whichPlayer, integer recipient, string
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-recipient `integer`
+`integer recipient`{!language=jass}
 : 
 
-message `string`
+`string message`{!language=jass}
 : 

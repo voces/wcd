@@ -14,5 +14,5 @@ native GetPlayerSlotState takes player whichPlayer returns playerslotstate
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

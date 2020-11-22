@@ -16,7 +16,7 @@ native BlzGetUnitZ takes unit whichUnit returns real
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
 ## Notes 

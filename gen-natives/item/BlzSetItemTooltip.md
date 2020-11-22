@@ -15,8 +15,8 @@ native BlzSetItemTooltip takes item whichItem, string tooltip returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-tooltip `string`
+`string tooltip`{!language=jass}
 : 

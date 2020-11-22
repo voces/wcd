@@ -14,8 +14,8 @@ native SetUnitExploded takes unit whichUnit, boolean exploded returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-exploded `boolean`
+`boolean exploded`{!language=jass}
 : 

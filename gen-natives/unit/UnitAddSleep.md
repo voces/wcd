@@ -14,8 +14,8 @@ native UnitAddSleep takes unit whichUnit, boolean add returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-add `boolean`
+`boolean add`{!language=jass}
 : 

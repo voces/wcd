@@ -105,7 +105,7 @@ const getParametersSection = (
 	return `## Parameters
 ${Object.entries(params)
 	.map(
-		([name, spec]) => `${name} \`${spec.type}\`
+		([name, spec]) => `\`${spec.type} ${name}\`{!language=jass}
 : ${spec.description ?? ""}`,
 	)
 	.join("\n\n")}`;

@@ -13,14 +13,14 @@ native SetCineFilterEndColor takes integer red, integer green, integer blue, int
 ```
 
 ## Parameters
-red `integer`
+`integer red`{!language=jass}
 : 
 
-green `integer`
+`integer green`{!language=jass}
 : 
 
-blue `integer`
+`integer blue`{!language=jass}
 : 
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : 

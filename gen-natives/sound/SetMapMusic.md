@@ -15,13 +15,13 @@ native SetMapMusic takes string musicName, boolean random, integer index returns
 ```
 
 ## Parameters
-musicName `string`
+`string musicName`{!language=jass}
 : 
 
-random `boolean`
+`boolean random`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 
 
 ## Notes 

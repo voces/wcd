@@ -15,8 +15,8 @@ native BlzSetUnitSkin takes unit whichUnit, integer skinId returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-skinId `integer`
+`integer skinId`{!language=jass}
 : 

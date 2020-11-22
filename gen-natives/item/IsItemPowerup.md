@@ -14,5 +14,5 @@ native IsItemPowerup takes item whichItem returns boolean
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

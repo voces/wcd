@@ -14,8 +14,8 @@ native SetItemPawnable takes item i, boolean flag returns nothing
 ```
 
 ## Parameters
-i `item`
+`item i`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

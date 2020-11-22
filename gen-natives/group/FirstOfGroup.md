@@ -14,7 +14,7 @@ native FirstOfGroup takes group whichGroup returns unit
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
 ## Bugs 

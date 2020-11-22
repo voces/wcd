@@ -14,5 +14,5 @@ native WaygateIsActive takes unit waygate returns boolean
 ```
 
 ## Parameters
-waygate `unit`
+`unit waygate`{!language=jass}
 : 

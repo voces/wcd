@@ -15,14 +15,14 @@ native StoreBoolean takes gamecache cache, string missionKey, string key, boolea
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 
 
-missionKey `string`
+`string missionKey`{!language=jass}
 : 
 
-key `string`
+`string key`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

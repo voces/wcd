@@ -14,5 +14,5 @@ native BlzFrameGetParent takes framehandle frame returns framehandle
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 

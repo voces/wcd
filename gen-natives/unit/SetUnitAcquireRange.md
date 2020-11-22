@@ -15,10 +15,10 @@ native SetUnitAcquireRange takes unit whichUnit, real newAcquireRange returns no
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-newAcquireRange `real`
+`real newAcquireRange`{!language=jass}
 : 
 
 ## Notes 

@@ -14,8 +14,8 @@ constant native IsPlayerAlly takes player whichPlayer, player otherPlayer return
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-otherPlayer `player`
+`player otherPlayer`{!language=jass}
 : 

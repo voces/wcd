@@ -14,5 +14,5 @@ native BlzShowTerrain takes boolean show returns nothing
 ```
 
 ## Parameters
-show `boolean`
+`boolean show`{!language=jass}
 : 

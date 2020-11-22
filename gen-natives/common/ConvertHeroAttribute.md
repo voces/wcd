@@ -16,5 +16,5 @@ constant native ConvertHeroAttribute takes integer i returns heroattribute
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

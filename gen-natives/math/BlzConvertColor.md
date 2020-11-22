@@ -15,14 +15,14 @@ native BlzConvertColor takes integer a, integer r, integer g, integer b returns 
 ```
 
 ## Parameters
-a `integer`
+`integer a`{!language=jass}
 : 
 
-r `integer`
+`integer r`{!language=jass}
 : 
 
-g `integer`
+`integer g`{!language=jass}
 : 
 
-b `integer`
+`integer b`{!language=jass}
 : 

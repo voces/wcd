@@ -15,8 +15,8 @@ native Pow takes real x, real power returns real
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-power `real`
+`real power`{!language=jass}
 : 

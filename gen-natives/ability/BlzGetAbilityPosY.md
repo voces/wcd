@@ -14,5 +14,5 @@ native BlzGetAbilityPosY takes integer abilCode returns integer
 ```
 
 ## Parameters
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 

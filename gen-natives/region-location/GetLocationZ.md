@@ -15,7 +15,7 @@ native GetLocationZ takes location whichLocation returns real
 ```
 
 ## Parameters
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 
 
 ## Notes 

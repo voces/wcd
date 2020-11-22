@@ -16,11 +16,11 @@ native GroupPointOrderByIdLoc takes group whichGroup, integer order, location wh
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 

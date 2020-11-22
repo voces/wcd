@@ -15,17 +15,17 @@ native TimerDialogSetTitleColor takes timerdialog whichDialog, integer red, inte
 ```
 
 ## Parameters
-whichDialog `timerdialog`
+`timerdialog whichDialog`{!language=jass}
 : The timerdialog
 
-red `integer`
+`integer red`{!language=jass}
 : An integer from 0-255 determining the amount of red color.
 
-green `integer`
+`integer green`{!language=jass}
 : An integer from 0-255 determining the amount of green color.
 
-blue `integer`
+`integer blue`{!language=jass}
 : An integer from 0-255 determining the amount of blue color.
 
-alpha `integer`
+`integer alpha`{!language=jass}
 : An integer from 0-255 determining the transparency. A value of 0 is complete transparency while a value of 255 is complete opacity.

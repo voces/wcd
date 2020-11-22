@@ -16,5 +16,5 @@ constant native ConvertAbilityRealLevelField takes integer i returns abilityreal
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

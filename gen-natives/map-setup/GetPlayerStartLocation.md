@@ -15,5 +15,5 @@ native GetPlayerStartLocation takes player whichPlayer returns integer
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : The player of which to return the starting location.

@@ -15,14 +15,14 @@ native StoreInteger takes gamecache cache, string missionKey, string key, intege
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 
 
-missionKey `string`
+`string missionKey`{!language=jass}
 : 
 
-key `string`
+`string key`{!language=jass}
 : 
 
-value `integer`
+`integer value`{!language=jass}
 : 

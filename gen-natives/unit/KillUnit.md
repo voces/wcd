@@ -13,5 +13,5 @@ native KillUnit takes unit whichUnit returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

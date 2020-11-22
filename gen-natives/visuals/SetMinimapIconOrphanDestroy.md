@@ -15,8 +15,8 @@ native SetMinimapIconOrphanDestroy takes minimapicon whichMinimapIcon, boolean d
 ```
 
 ## Parameters
-whichMinimapIcon `minimapicon`
+`minimapicon whichMinimapIcon`{!language=jass}
 : 
 
-doDestroy `boolean`
+`boolean doDestroy`{!language=jass}
 : 

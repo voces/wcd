@@ -14,5 +14,5 @@ native UnitCanSleepPerm takes unit whichUnit returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

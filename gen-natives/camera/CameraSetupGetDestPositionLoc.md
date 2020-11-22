@@ -15,5 +15,5 @@ native CameraSetupGetDestPositionLoc takes camerasetup whichSetup returns locati
 ```
 
 ## Parameters
-whichSetup `camerasetup`
+`camerasetup whichSetup`{!language=jass}
 : The camera setup.

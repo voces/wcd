@@ -17,14 +17,14 @@ native BlzFrameSetTexture takes framehandle frame, string texFile, integer flag,
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-texFile `string`
+`string texFile`{!language=jass}
 : 
 
-flag `integer`
+`integer flag`{!language=jass}
 : 
 
-blend `boolean`
+`boolean blend`{!language=jass}
 : 

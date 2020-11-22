@@ -14,5 +14,5 @@ native CachePlayerHeroData takes player whichPlayer returns nothing
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : The player to store hero data for.

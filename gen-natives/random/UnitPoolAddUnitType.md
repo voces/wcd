@@ -15,11 +15,11 @@ native UnitPoolAddUnitType takes unitpool whichPool, integer unitId, real weight
 ```
 
 ## Parameters
-whichPool `unitpool`
+`unitpool whichPool`{!language=jass}
 : 
 
-unitId `integer`
+`integer unitId`{!language=jass}
 : 
 
-weight `real`
+`real weight`{!language=jass}
 : 

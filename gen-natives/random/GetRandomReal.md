@@ -13,8 +13,8 @@ native GetRandomReal takes real lowBound, real highBound returns real
 ```
 
 ## Parameters
-lowBound `real`
+`real lowBound`{!language=jass}
 : 
 
-highBound `real`
+`real highBound`{!language=jass}
 : 

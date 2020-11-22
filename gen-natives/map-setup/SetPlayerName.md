@@ -14,8 +14,8 @@ native SetPlayerName takes player whichPlayer, string name returns nothing
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-name `string`
+`string name`{!language=jass}
 : 

@@ -15,8 +15,8 @@ native UnitAddType takes unit whichUnit, unittype whichUnitType returns boolean
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichUnitType `unittype`
+`unittype whichUnitType`{!language=jass}
 : 

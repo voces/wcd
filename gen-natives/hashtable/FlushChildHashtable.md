@@ -15,8 +15,8 @@ native FlushChildHashtable takes hashtable table, integer parentKey returns noth
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 

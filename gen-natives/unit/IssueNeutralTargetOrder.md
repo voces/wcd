@@ -18,17 +18,17 @@ native IssueNeutralTargetOrder takes player forWhichPlayer,unit neutralStructure
 ```
 
 ## Parameters
-forWhichPlayerunit `player`
+`player forWhichPlayerunit`{!language=jass}
 : 
 
-string `neutralStructure`
+`neutralStructure string`{!language=jass}
 : 
 
-widget `unitToBuild`
+`unitToBuild widget`{!language=jass}
 : 
 
-returns `target`
+`target returns`{!language=jass}
 : 
 
-undefined `boolean`
+`boolean undefined`{!language=jass}
 : 

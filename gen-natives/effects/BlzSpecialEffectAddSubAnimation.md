@@ -15,8 +15,8 @@ native BlzSpecialEffectAddSubAnimation takes effect whichEffect, subanimtype whi
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-whichSubAnim `subanimtype`
+`subanimtype whichSubAnim`{!language=jass}
 : 

@@ -16,8 +16,8 @@ native BlzGetItemAbilityByIndex takes item whichItem, integer index returns abil
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 

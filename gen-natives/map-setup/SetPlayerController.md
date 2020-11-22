@@ -14,8 +14,8 @@ native SetPlayerController takes player whichPlayer, mapcontrol controlType retu
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-controlType `mapcontrol`
+`mapcontrol controlType`{!language=jass}
 : 

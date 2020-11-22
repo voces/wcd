@@ -14,5 +14,5 @@ constant native ParseTags takes string taggedString returns string
 ```
 
 ## Parameters
-taggedString `string`
+`string taggedString`{!language=jass}
 : 

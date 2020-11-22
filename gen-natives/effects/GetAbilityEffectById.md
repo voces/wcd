@@ -16,11 +16,11 @@ native GetAbilityEffectById takes integer abilityId, effecttype t, integer index
 ```
 
 ## Parameters
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 
 
-t `effecttype`
+`effecttype t`{!language=jass}
 : 
 
-index `integer`
+`integer index`{!language=jass}
 : 

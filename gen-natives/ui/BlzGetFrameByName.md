@@ -16,8 +16,8 @@ native BlzGetFrameByName takes string name, integer createContext returns frameh
 ```
 
 ## Parameters
-name `string`
+`string name`{!language=jass}
 : 
 
-createContext `integer`
+`integer createContext`{!language=jass}
 : 

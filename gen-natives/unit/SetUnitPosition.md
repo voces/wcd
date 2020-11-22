@@ -14,13 +14,13 @@ native SetUnitPosition takes unit whichUnit, real newX, real newY returns nothin
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-newX `real`
+`real newX`{!language=jass}
 : 
 
-newY `real`
+`real newY`{!language=jass}
 : 
 
 ## Notes 

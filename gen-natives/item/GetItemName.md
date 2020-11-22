@@ -15,5 +15,5 @@ constant native GetItemName takes item whichItem returns string
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

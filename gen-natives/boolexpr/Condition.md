@@ -15,7 +15,7 @@ native Condition takes code func returns conditionfunc
 ```
 
 ## Parameters
-func `code`
+`code func`{!language=jass}
 : 
 
 ## Notes 

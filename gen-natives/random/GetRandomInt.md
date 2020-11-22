@@ -14,10 +14,10 @@ native GetRandomInt takes integer lowBound, integer highBound returns integer
 ```
 
 ## Parameters
-lowBound `integer`
+`integer lowBound`{!language=jass}
 : The inclusive lower bound of the random number returned
 
-highBound `integer`
+`integer highBound`{!language=jass}
 : The inclusive higher bound of the random number returned
 
 ## Notes 

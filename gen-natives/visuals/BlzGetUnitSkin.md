@@ -15,5 +15,5 @@ native BlzGetUnitSkin takes unit whichUnit returns integer
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

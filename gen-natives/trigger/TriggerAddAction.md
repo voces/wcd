@@ -15,8 +15,8 @@ native TriggerAddAction takes trigger whichTrigger, code actionFunc returns trig
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-actionFunc `code`
+`code actionFunc`{!language=jass}
 : 

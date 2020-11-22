@@ -17,11 +17,11 @@ native TriggerRegisterTimerEvent takes trigger whichTrigger, real timeout, boole
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-timeout `real`
+`real timeout`{!language=jass}
 : 
 
-periodic `boolean`
+`boolean periodic`{!language=jass}
 : 

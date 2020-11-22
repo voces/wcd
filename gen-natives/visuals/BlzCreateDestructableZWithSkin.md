@@ -16,26 +16,26 @@ native BlzCreateDestructableZWithSkin takes integer objectid, real x, real y, re
 ```
 
 ## Parameters
-objectid `integer`
+`integer objectid`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-z `real`
+`real z`{!language=jass}
 : 
 
-face `real`
+`real face`{!language=jass}
 : 
 
-scale `real`
+`real scale`{!language=jass}
 : 
 
-variation `integer`
+`integer variation`{!language=jass}
 : 
 
-skinId `integer`
+`integer skinId`{!language=jass}
 : 

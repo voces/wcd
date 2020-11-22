@@ -15,8 +15,8 @@ native BlzSetUnitArmor takes unit whichUnit, real armorAmount returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-armorAmount `real`
+`real armorAmount`{!language=jass}
 : 

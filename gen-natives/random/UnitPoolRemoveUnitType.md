@@ -14,8 +14,8 @@ native UnitPoolRemoveUnitType takes unitpool whichPool, integer unitId returns n
 ```
 
 ## Parameters
-whichPool `unitpool`
+`unitpool whichPool`{!language=jass}
 : 
 
-unitId `integer`
+`integer unitId`{!language=jass}
 : 

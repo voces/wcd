@@ -14,8 +14,8 @@ native SetPlayerRaceSelectable takes player whichPlayer, boolean value returns n
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-value `boolean`
+`boolean value`{!language=jass}
 : 

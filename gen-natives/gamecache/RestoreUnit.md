@@ -18,23 +18,23 @@ native RestoreUnit takes gamecache cache, string missionKey, string key, player 
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 
 
-missionKey `string`
+`string missionKey`{!language=jass}
 : 
 
-key `string`
+`string key`{!language=jass}
 : 
 
-forWhichPlayer `player`
+`player forWhichPlayer`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-facing `real`
+`real facing`{!language=jass}
 : 

@@ -16,14 +16,14 @@ native IssuePointOrderById takes unit whichUnit, integer order, real x, real y r
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 

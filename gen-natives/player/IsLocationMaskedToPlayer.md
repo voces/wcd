@@ -15,8 +15,8 @@ constant native IsLocationMaskedToPlayer takes location whichLocation, player wh
 ```
 
 ## Parameters
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native QuestSetDiscovered takes quest whichQuest, boolean discovered returns not
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 
 
-discovered `boolean`
+`boolean discovered`{!language=jass}
 : 

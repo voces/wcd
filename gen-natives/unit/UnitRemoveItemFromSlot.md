@@ -16,8 +16,8 @@ native UnitRemoveItemFromSlot takes unit whichUnit, integer itemSlot returns ite
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-itemSlot `integer`
+`integer itemSlot`{!language=jass}
 : 

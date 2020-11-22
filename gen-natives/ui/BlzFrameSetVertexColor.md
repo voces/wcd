@@ -15,8 +15,8 @@ native BlzFrameSetVertexColor takes framehandle frame, integer color returns not
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-color `integer`
+`integer color`{!language=jass}
 : 

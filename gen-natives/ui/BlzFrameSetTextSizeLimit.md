@@ -15,8 +15,8 @@ native BlzFrameSetTextSizeLimit takes framehandle frame, integer size returns no
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-size `integer`
+`integer size`{!language=jass}
 : 

@@ -17,14 +17,14 @@ native IssueNeutralImmediateOrderById takes player forWhichPlayer,unit neutralSt
 ```
 
 ## Parameters
-forWhichPlayerunit `player`
+`player forWhichPlayerunit`{!language=jass}
 : 
 
-integer `neutralStructure`
+`neutralStructure integer`{!language=jass}
 : 
 
-returns `unitId`
+`unitId returns`{!language=jass}
 : 
 
-undefined `boolean`
+`boolean undefined`{!language=jass}
 : 

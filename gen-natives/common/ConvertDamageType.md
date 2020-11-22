@@ -16,5 +16,5 @@ constant native ConvertDamageType takes integer i returns damagetype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the damagetype

@@ -15,8 +15,8 @@ native SetUnitPropWindow takes unit whichUnit, real newPropWindowAngle returns n
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The function will modify this unit's propulsion window.
 
-newPropWindowAngle `real`
+`real newPropWindowAngle`{!language=jass}
 : The propulsion window angle to assign. Should be in radians.

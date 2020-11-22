@@ -14,10 +14,10 @@ native MultiboardSetRowCount takes multiboard lb, integer count returns nothing
 ```
 
 ## Parameters
-lb `multiboard`
+`multiboard lb`{!language=jass}
 : 
 
-count `integer`
+`integer count`{!language=jass}
 : 
 
 ## Bugs 

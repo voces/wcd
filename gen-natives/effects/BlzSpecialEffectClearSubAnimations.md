@@ -14,5 +14,5 @@ native BlzSpecialEffectClearSubAnimations takes effect whichEffect returns nothi
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 

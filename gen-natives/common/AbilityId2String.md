@@ -15,7 +15,7 @@ constant native AbilityId2String takes integer abilityId returns string
 ```
 
 ## Parameters
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 
 
 ## Bugs 

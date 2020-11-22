@@ -16,5 +16,5 @@ constant native ConvertUnitEvent takes integer i returns unitevent
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the unitevent

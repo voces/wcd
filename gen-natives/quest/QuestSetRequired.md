@@ -14,8 +14,8 @@ native QuestSetRequired takes quest whichQuest, boolean required returns nothing
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 
 
-required `boolean`
+`boolean required`{!language=jass}
 : 

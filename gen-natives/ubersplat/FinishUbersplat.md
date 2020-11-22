@@ -13,7 +13,7 @@ native FinishUbersplat takes ubersplat whichSplat returns nothing
 ```
 
 ## Parameters
-whichSplat `ubersplat`
+`ubersplat whichSplat`{!language=jass}
 : 
 
 ## Bugs 

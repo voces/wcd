@@ -16,11 +16,11 @@ native LoadDefeatConditionHandle takes hashtable table, integer parentKey, integ
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 

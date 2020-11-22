@@ -16,11 +16,11 @@ native UnitDropItemSlot takes unit whichUnit, item whichItem, integer slot retur
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-slot `integer`
+`integer slot`{!language=jass}
 : 

@@ -14,8 +14,8 @@ native SetUnitColor takes unit whichUnit, playercolor whichColor returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichColor `playercolor`
+`playercolor whichColor`{!language=jass}
 : 

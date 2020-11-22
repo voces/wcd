@@ -15,11 +15,11 @@ native EnumItemsInRect takes rect r, boolexpr filter, code actionFunc returns no
 ```
 
 ## Parameters
-r `rect`
+`rect r`{!language=jass}
 : 
 
-filter `boolexpr`
+`boolexpr filter`{!language=jass}
 : 
 
-actionFunc `code`
+`code actionFunc`{!language=jass}
 : 

@@ -15,5 +15,5 @@ native CreateUpgradeCommandButtonEffect takes integer whichUprgade returns comma
 ```
 
 ## Parameters
-whichUprgade `integer`
+`integer whichUprgade`{!language=jass}
 : 

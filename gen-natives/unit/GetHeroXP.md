@@ -14,5 +14,5 @@ native GetHeroXP takes unit whichHero returns integer
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 

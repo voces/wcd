@@ -14,5 +14,5 @@ native SkinManagerGetLocalPath takes string key returns string
 ```
 
 ## Parameters
-key `string`
+`string key`{!language=jass}
 : 

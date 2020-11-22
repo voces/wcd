@@ -17,14 +17,14 @@ native BlzRemoveAbilityIntegerLevelArrayField takes ability whichAbility, abilit
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilityintegerlevelarrayfield`
+`abilityintegerlevelarrayfield whichField`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 
 
-value `integer`
+`integer value`{!language=jass}
 : 

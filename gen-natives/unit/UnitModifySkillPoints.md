@@ -16,10 +16,10 @@ native UnitModifySkillPoints takes unit whichHero, integer skillPointDelta retur
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-skillPointDelta `integer`
+`integer skillPointDelta`{!language=jass}
 : 
 
 ## Notes 

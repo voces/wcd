@@ -14,5 +14,5 @@ native GetCameraMargin takes integer whichMargin returns real
 ```
 
 ## Parameters
-whichMargin `integer`
+`integer whichMargin`{!language=jass}
 : 

@@ -15,8 +15,8 @@ native BlzShowUnitTeamGlow takes unit whichUnit, boolean show returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-show `boolean`
+`boolean show`{!language=jass}
 : 

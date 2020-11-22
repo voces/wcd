@@ -15,8 +15,8 @@ constant native IsUnitDetected takes unit whichUnit, player whichPlayer returns 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

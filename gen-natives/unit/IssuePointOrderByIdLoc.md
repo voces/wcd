@@ -16,11 +16,11 @@ native IssuePointOrderByIdLoc takes unit whichUnit, integer order, location whic
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 

@@ -15,5 +15,5 @@ native CreateLearnCommandButtonEffect takes integer abilityId returns commandbut
 ```
 
 ## Parameters
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 

@@ -14,10 +14,10 @@ native SetSoundPlayPosition takes sound soundHandle, integer millisecs returns n
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-millisecs `integer`
+`integer millisecs`{!language=jass}
 : 
 
 ## Notes 

@@ -14,16 +14,16 @@ native SetSoundVelocity takes sound soundHandle, real x, real y, real z returns 
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-z `real`
+`real z`{!language=jass}
 : 
 
 ## Notes 

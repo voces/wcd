@@ -14,7 +14,7 @@ constant native GetUnitLoc takes unit whichUnit returns location
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
 ## Bugs 

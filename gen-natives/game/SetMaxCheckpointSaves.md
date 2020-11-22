@@ -14,5 +14,5 @@ native SetMaxCheckpointSaves takes integer maxCheckpointSaves returns nothing
 ```
 
 ## Parameters
-maxCheckpointSaves `integer`
+`integer maxCheckpointSaves`{!language=jass}
 : 

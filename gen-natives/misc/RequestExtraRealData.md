@@ -18,26 +18,26 @@ native RequestExtraRealData takes integer dataType, player whichPlayer, string p
 ```
 
 ## Parameters
-dataType `integer`
+`integer dataType`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-param1 `string`
+`string param1`{!language=jass}
 : 
 
-param2 `string`
+`string param2`{!language=jass}
 : 
 
-param3 `boolean`
+`boolean param3`{!language=jass}
 : 
 
-param4 `integer`
+`integer param4`{!language=jass}
 : 
 
-param5 `integer`
+`integer param5`{!language=jass}
 : 
 
-param6 `integer`
+`integer param6`{!language=jass}
 : 

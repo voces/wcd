@@ -16,5 +16,5 @@ constant native ConvertGameType takes integer i returns gametype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the gametype

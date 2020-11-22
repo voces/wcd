@@ -18,14 +18,14 @@ native AddSpellEffectTargetById takes integer abilityId, effecttype t, widget ta
 ```
 
 ## Parameters
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 
 
-t `effecttype`
+`effecttype t`{!language=jass}
 : 
 
-targetWidget `widget`
+`widget targetWidget`{!language=jass}
 : 
 
-attachPoint `string`
+`string attachPoint`{!language=jass}
 : 

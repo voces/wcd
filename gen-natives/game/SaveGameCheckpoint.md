@@ -15,8 +15,8 @@ native SaveGameCheckpoint takes string saveFileName, boolean showWindow returns 
 ```
 
 ## Parameters
-saveFileName `string`
+`string saveFileName`{!language=jass}
 : 
 
-showWindow `boolean`
+`boolean showWindow`{!language=jass}
 : 

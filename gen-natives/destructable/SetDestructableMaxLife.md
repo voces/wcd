@@ -14,8 +14,8 @@ native SetDestructableMaxLife takes destructable d, real max returns nothing
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 
 
-max `real`
+`real max`{!language=jass}
 : 

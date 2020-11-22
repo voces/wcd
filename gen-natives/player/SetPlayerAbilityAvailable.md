@@ -15,11 +15,11 @@ native SetPlayerAbilityAvailable takes player whichPlayer, integer abilid, boole
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-abilid `integer`
+`integer abilid`{!language=jass}
 : 
 
-avail `boolean`
+`boolean avail`{!language=jass}
 : 

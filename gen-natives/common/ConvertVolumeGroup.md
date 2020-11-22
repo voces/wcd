@@ -16,5 +16,5 @@ constant native ConvertVolumeGroup takes integer i returns volumegroup
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the volumegroup

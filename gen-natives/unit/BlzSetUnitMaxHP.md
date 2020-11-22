@@ -15,8 +15,8 @@ native BlzSetUnitMaxHP takes unit whichUnit, integer hp returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-hp `integer`
+`integer hp`{!language=jass}
 : 

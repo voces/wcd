@@ -17,14 +17,14 @@ native SaveTriggerActionHandle takes hashtable table, integer parentKey, integer
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichTriggeraction `triggeraction`
+`triggeraction whichTriggeraction`{!language=jass}
 : 

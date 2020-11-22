@@ -16,5 +16,5 @@ native BlzGetLocalSpecialEffectY takes effect whichEffect returns real
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 

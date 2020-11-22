@@ -15,7 +15,7 @@ native TriggerEvaluate takes trigger whichTrigger returns boolean
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
 ## Notes 

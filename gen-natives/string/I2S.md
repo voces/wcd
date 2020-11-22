@@ -15,5 +15,5 @@ native I2S takes integer i returns string
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

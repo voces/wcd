@@ -18,16 +18,16 @@ native TriggerRegisterPlayerChatEvent takes trigger whichTrigger, player whichPl
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : The trigger to which register the event.
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : The player on which chat-messages to react to.
 
-chatMessageToDetect `string`
+`string chatMessageToDetect`{!language=jass}
 : The message to react to. Pass`""`to react to any message.
 
-exactMatchOnly `boolean`
+`boolean exactMatchOnly`{!language=jass}
 : `true`if only the exact string in`chatMessageToDetect`should fire the trigger.`false`will trigger if the`chatMessageToDetect`appearsanywhere in the entered string.
 
 ## Notes 

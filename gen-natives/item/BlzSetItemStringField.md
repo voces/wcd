@@ -17,11 +17,11 @@ native BlzSetItemStringField takes item whichItem, itemstringfield whichField, s
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-whichField `itemstringfield`
+`itemstringfield whichField`{!language=jass}
 : 
 
-value `string`
+`string value`{!language=jass}
 : 

@@ -16,8 +16,8 @@ native GetAbilitySoundById takes integer abilityId, soundtype t returns string
 ```
 
 ## Parameters
-abilityId `integer`
+`integer abilityId`{!language=jass}
 : 
 
-t `soundtype`
+`soundtype t`{!language=jass}
 : 

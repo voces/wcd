@@ -16,5 +16,5 @@ constant native ConvertPlayerGameResult takes integer i returns playergameresult
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the playergameresult

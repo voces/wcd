@@ -15,7 +15,7 @@ native GetUnitDefaultPropWindow takes unit whichUnit returns real
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : The unit of which to return the default prop window
 
 ## Notes 

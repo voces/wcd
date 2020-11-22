@@ -16,5 +16,5 @@ constant native ConvertFramePointType takes integer i returns framepointtype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

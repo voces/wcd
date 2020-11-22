@@ -16,5 +16,5 @@ constant native ConvertTexMapFlags takes integer i returns texmapflags
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the texmapflags

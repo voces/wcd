@@ -15,11 +15,11 @@ native SetHeroXP takes unit whichHero, integer newXpVal, boolean showEyeCandy re
 ```
 
 ## Parameters
-whichHero `unit`
+`unit whichHero`{!language=jass}
 : 
 
-newXpVal `integer`
+`integer newXpVal`{!language=jass}
 : 
 
-showEyeCandy `boolean`
+`boolean showEyeCandy`{!language=jass}
 : 

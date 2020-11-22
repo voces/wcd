@@ -16,5 +16,5 @@ constant native ConvertPlayerUnitEvent takes integer i returns playerunitevent
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the playerunitevent

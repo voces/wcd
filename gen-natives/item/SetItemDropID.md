@@ -14,8 +14,8 @@ native SetItemDropID takes item whichItem, integer unitId returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-unitId `integer`
+`integer unitId`{!language=jass}
 : 

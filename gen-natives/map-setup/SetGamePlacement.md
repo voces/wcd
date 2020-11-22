@@ -13,5 +13,5 @@ native SetGamePlacement takes placement whichPlacementType returns nothing
 ```
 
 ## Parameters
-whichPlacementType `placement`
+`placement whichPlacementType`{!language=jass}
 : 

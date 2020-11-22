@@ -15,8 +15,8 @@ native BlzFrameCageMouse takes framehandle frame, boolean enable returns nothing
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-enable `boolean`
+`boolean enable`{!language=jass}
 : 

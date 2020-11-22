@@ -13,8 +13,8 @@ native SetDayNightModels takes string terrainDNCFile, string unitDNCFile returns
 ```
 
 ## Parameters
-terrainDNCFile `string`
+`string terrainDNCFile`{!language=jass}
 : 
 
-unitDNCFile `string`
+`string unitDNCFile`{!language=jass}
 : 

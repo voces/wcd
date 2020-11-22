@@ -16,5 +16,5 @@ native BlzGetItemTooltip takes item whichItem returns string
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

@@ -15,8 +15,8 @@ native ForcePlayerStartLocation takes player whichPlayer, integer startLocIndex 
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-startLocIndex `integer`
+`integer startLocIndex`{!language=jass}
 : 

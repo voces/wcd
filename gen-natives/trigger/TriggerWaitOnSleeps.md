@@ -15,8 +15,8 @@ native TriggerWaitOnSleeps takes trigger whichTrigger, boolean flag returns noth
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

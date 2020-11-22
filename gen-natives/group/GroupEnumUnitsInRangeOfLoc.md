@@ -16,14 +16,14 @@ native GroupEnumUnitsInRangeOfLoc takes group whichGroup, location whichLocation
 ```
 
 ## Parameters
-whichGroup `group`
+`group whichGroup`{!language=jass}
 : 
 
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 
 
-radius `real`
+`real radius`{!language=jass}
 : 
 
-filter `boolexpr`
+`boolexpr filter`{!language=jass}
 : 

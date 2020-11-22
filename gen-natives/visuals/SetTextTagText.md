@@ -15,11 +15,11 @@ native SetTextTagText takes texttag t, string s, real height returns nothing
 ```
 
 ## Parameters
-t `texttag`
+`texttag t`{!language=jass}
 : 
 
-s `string`
+`string s`{!language=jass}
 : 
 
-height `real`
+`real height`{!language=jass}
 : 

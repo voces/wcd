@@ -14,8 +14,8 @@ native GetStartLocPrio takes integer whichStartLoc, integer prioSlotIndex return
 ```
 
 ## Parameters
-whichStartLoc `integer`
+`integer whichStartLoc`{!language=jass}
 : 
 
-prioSlotIndex `integer`
+`integer prioSlotIndex`{!language=jass}
 : 

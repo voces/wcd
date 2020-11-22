@@ -14,8 +14,8 @@ native SetUnitRescueRange takes unit whichUnit, real range returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-range `real`
+`real range`{!language=jass}
 : 

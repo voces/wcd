@@ -18,25 +18,25 @@ native CreateFogModifierRadius takes player forWhichPlayer, fogstate whichState,
 ```
 
 ## Parameters
-forWhichPlayer `player`
+`player forWhichPlayer`{!language=jass}
 : 
 
-whichState `fogstate`
+`fogstate whichState`{!language=jass}
 : Determines what type of fog the area is being modified to.
 
-centerx `real`
+`real centerx`{!language=jass}
 : The x-coordinate where the fog modifier begins.
 
-centerY `real`
+`real centerY`{!language=jass}
 : The y-coordinate where the fog modifier begins.
 
-radius `real`
+`real radius`{!language=jass}
 : Determines the extent that the fog travels (expanding from the coordinates ( centerx , centerY )).
 
-useSharedVision `boolean`
+`boolean useSharedVision`{!language=jass}
 : Determines whether or not the fog modifier will be applied to allied players with shared vision.
 
-afterUnits `boolean`
+`boolean afterUnits`{!language=jass}
 : Will determine whether or not units in that area will be masked by the fog. If it is set to true and the fogstate is masked, it will hide all the units in the fog modifier's radius and mask the area. If set to false, it will only mask the areas that are not visible to the units.
 
 ## Notes 

@@ -14,5 +14,5 @@ native GetItemTypeId takes item i returns integer
 ```
 
 ## Parameters
-i `item`
+`item i`{!language=jass}
 : 

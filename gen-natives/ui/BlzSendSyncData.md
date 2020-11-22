@@ -15,8 +15,8 @@ native BlzSendSyncData takes string prefix, string data returns boolean
 ```
 
 ## Parameters
-prefix `string`
+`string prefix`{!language=jass}
 : 
 
-data `string`
+`string data`{!language=jass}
 : 

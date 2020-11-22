@@ -17,14 +17,14 @@ native SaveTimerHandle takes hashtable table, integer parentKey, integer childKe
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichTimer `timer`
+`timer whichTimer`{!language=jass}
 : 

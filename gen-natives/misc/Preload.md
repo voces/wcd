@@ -14,7 +14,7 @@ native Preload takes string filename returns nothing
 ```
 
 ## Parameters
-filename `string`
+`string filename`{!language=jass}
 : The string to be added to the buffer.Should probably not be named`filename`.
 
 ## Notes 

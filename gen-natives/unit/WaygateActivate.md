@@ -14,8 +14,8 @@ native WaygateActivate takes unit waygate, boolean activate returns nothing
 ```
 
 ## Parameters
-waygate `unit`
+`unit waygate`{!language=jass}
 : 
 
-activate `boolean`
+`boolean activate`{!language=jass}
 : 

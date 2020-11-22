@@ -17,17 +17,17 @@ native IssueInstantPointOrderById takes unit whichUnit, integer order, real x, r
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-order `integer`
+`integer order`{!language=jass}
 : 
 
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-instantTargetWidget `widget`
+`widget instantTargetWidget`{!language=jass}
 : 

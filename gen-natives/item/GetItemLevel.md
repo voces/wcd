@@ -14,5 +14,5 @@ native GetItemLevel takes item whichItem returns integer
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 

@@ -14,5 +14,5 @@ native PlayerGetLeaderboard takes player toPlayer returns leaderboard
 ```
 
 ## Parameters
-toPlayer `player`
+`player toPlayer`{!language=jass}
 : 

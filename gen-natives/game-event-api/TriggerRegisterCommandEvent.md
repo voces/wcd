@@ -17,11 +17,11 @@ native TriggerRegisterCommandEvent takes trigger whichTrigger, integer whichAbil
 ```
 
 ## Parameters
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 
 
-whichAbility `integer`
+`integer whichAbility`{!language=jass}
 : 
 
-order `string`
+`string order`{!language=jass}
 : 

@@ -14,5 +14,5 @@ native RemoveSaveDirectory takes string sourceDirName returns boolean
 ```
 
 ## Parameters
-sourceDirName `string`
+`string sourceDirName`{!language=jass}
 : 

@@ -15,14 +15,14 @@ native StoreString takes gamecache cache, string missionKey, string key, string 
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 
 
-missionKey `string`
+`string missionKey`{!language=jass}
 : 
 
-key `string`
+`string key`{!language=jass}
 : 
 
-value `string`
+`string value`{!language=jass}
 : 

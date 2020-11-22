@@ -14,8 +14,8 @@ native SetSoundDistanceCutoff takes sound soundHandle, real cutoff returns nothi
 ```
 
 ## Parameters
-soundHandle `sound`
+`sound soundHandle`{!language=jass}
 : 
 
-cutoff `real`
+`real cutoff`{!language=jass}
 : 

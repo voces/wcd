@@ -14,11 +14,11 @@ native UnitRemoveBuffs takes unit whichUnit, boolean removePositive, boolean rem
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-removePositive `boolean`
+`boolean removePositive`{!language=jass}
 : 
 
-removeNegative `boolean`
+`boolean removeNegative`{!language=jass}
 : 

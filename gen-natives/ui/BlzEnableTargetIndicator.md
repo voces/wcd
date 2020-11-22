@@ -14,5 +14,5 @@ native BlzEnableTargetIndicator takes boolean enable returns nothing
 ```
 
 ## Parameters
-enable `boolean`
+`boolean enable`{!language=jass}
 : 

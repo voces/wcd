@@ -14,8 +14,8 @@ native RenameSaveDirectory takes string sourceDirName, string destDirName return
 ```
 
 ## Parameters
-sourceDirName `string`
+`string sourceDirName`{!language=jass}
 : 
 
-destDirName `string`
+`string destDirName`{!language=jass}
 : 

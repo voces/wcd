@@ -16,5 +16,5 @@ constant native ConvertPathingFlag takes integer i returns pathingflag
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : 

@@ -14,11 +14,11 @@ native SetTextTagVelocity takes texttag t, real xvel, real yvel returns nothing
 ```
 
 ## Parameters
-t `texttag`
+`texttag t`{!language=jass}
 : 
 
-xvel `real`
+`real xvel`{!language=jass}
 : 
 
-yvel `real`
+`real yvel`{!language=jass}
 : 

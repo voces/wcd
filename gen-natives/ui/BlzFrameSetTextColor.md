@@ -15,8 +15,8 @@ native BlzFrameSetTextColor takes framehandle frame, integer color returns nothi
 ```
 
 ## Parameters
-frame `framehandle`
+`framehandle frame`{!language=jass}
 : 
 
-color `integer`
+`integer color`{!language=jass}
 : 

@@ -16,14 +16,14 @@ native LeaderboardAddItem takes leaderboard lb, string label, integer value, pla
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-label `string`
+`string label`{!language=jass}
 : 
 
-value `integer`
+`integer value`{!language=jass}
 : 
 
-p `player`
+`player p`{!language=jass}
 : 

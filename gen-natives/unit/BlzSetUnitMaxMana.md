@@ -15,8 +15,8 @@ native BlzSetUnitMaxMana takes unit whichUnit, integer mana returns nothing
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-mana `integer`
+`integer mana`{!language=jass}
 : 

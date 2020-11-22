@@ -16,10 +16,10 @@ native AddSpecialEffectLoc takes string modelName, location where returns effect
 ```
 
 ## Parameters
-modelName `string`
+`string modelName`{!language=jass}
 : 
 
-where `location`
+`location where`{!language=jass}
 : 
 
 ## Notes 

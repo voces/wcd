@@ -15,11 +15,11 @@ native BlzSetAbilityExtendedTooltip takes integer abilCode, string extendedToolt
 ```
 
 ## Parameters
-abilCode `integer`
+`integer abilCode`{!language=jass}
 : 
 
-extendedTooltip `string`
+`string extendedTooltip`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 

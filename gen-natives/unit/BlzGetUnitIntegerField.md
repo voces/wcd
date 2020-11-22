@@ -16,8 +16,8 @@ native BlzGetUnitIntegerField takes unit whichUnit, unitintegerfield whichField 
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-whichField `unitintegerfield`
+`unitintegerfield whichField`{!language=jass}
 : 

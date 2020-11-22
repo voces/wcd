@@ -14,8 +14,8 @@ native SetDestructableOccluderHeight takes destructable d, real height returns n
 ```
 
 ## Parameters
-d `destructable`
+`destructable d`{!language=jass}
 : 
 
-height `real`
+`real height`{!language=jass}
 : 

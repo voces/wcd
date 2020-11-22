@@ -14,10 +14,10 @@ native SetImageRender takes image whichImage, boolean flag returns nothing
 ```
 
 ## Parameters
-whichImage `image`
+`image whichImage`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 
 
 ## Bugs 

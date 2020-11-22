@@ -16,5 +16,5 @@ constant native ConvertAllianceType takes integer i returns alliancetype
 ```
 
 ## Parameters
-i `integer`
+`integer i`{!language=jass}
 : The integer representation of the alliancetype

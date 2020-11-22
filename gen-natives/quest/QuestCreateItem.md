@@ -14,5 +14,5 @@ native QuestCreateItem takes quest whichQuest returns questitem
 ```
 
 ## Parameters
-whichQuest `quest`
+`quest whichQuest`{!language=jass}
 : 

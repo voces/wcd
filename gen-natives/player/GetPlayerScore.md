@@ -15,8 +15,8 @@ constant native GetPlayerScore takes player whichPlayer, playerscore whichPlayer
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-whichPlayerScore `playerscore`
+`playerscore whichPlayerScore`{!language=jass}
 : 

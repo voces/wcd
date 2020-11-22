@@ -14,11 +14,11 @@ constant native SetPlayerTechMaxAllowed takes player whichPlayer, integer techid
 ```
 
 ## Parameters
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 
 
-techid `integer`
+`integer techid`{!language=jass}
 : 
 
-maximum `integer`
+`integer maximum`{!language=jass}
 : 

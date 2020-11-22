@@ -15,25 +15,25 @@ native TerrainDeformRandom takes real x, real y, real radius, real minDelta, rea
 ```
 
 ## Parameters
-x `real`
+`real x`{!language=jass}
 : 
 
-y `real`
+`real y`{!language=jass}
 : 
 
-radius `real`
+`real radius`{!language=jass}
 : 
 
-minDelta `real`
+`real minDelta`{!language=jass}
 : 
 
-maxDelta `real`
+`real maxDelta`{!language=jass}
 : 
 
-duration `integer`
+`integer duration`{!language=jass}
 : The duration in milliseconds.
 
-updateInterval `integer`
+`integer updateInterval`{!language=jass}
 : 
 
 ## Notes 

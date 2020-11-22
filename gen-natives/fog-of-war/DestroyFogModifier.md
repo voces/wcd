@@ -13,5 +13,5 @@ native DestroyFogModifier takes fogmodifier whichFogModifier returns nothing
 ```
 
 ## Parameters
-whichFogModifier `fogmodifier`
+`fogmodifier whichFogModifier`{!language=jass}
 : 

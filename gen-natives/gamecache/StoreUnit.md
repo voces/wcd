@@ -16,14 +16,14 @@ native StoreUnit takes gamecache cache, string missionKey, string key, unit whic
 ```
 
 ## Parameters
-cache `gamecache`
+`gamecache cache`{!language=jass}
 : 
 
-missionKey `string`
+`string missionKey`{!language=jass}
 : 
 
-key `string`
+`string key`{!language=jass}
 : 
 
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 

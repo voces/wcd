@@ -14,8 +14,8 @@ native TimerDialogSetRealTimeRemaining takes timerdialog whichDialog, real timeR
 ```
 
 ## Parameters
-whichDialog `timerdialog`
+`timerdialog whichDialog`{!language=jass}
 : 
 
-timeRemaining `real`
+`real timeRemaining`{!language=jass}
 : 

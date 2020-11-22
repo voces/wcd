@@ -17,14 +17,14 @@ native SaveTriggerHandle takes hashtable table, integer parentKey, integer child
 ```
 
 ## Parameters
-table `hashtable`
+`hashtable table`{!language=jass}
 : 
 
-parentKey `integer`
+`integer parentKey`{!language=jass}
 : 
 
-childKey `integer`
+`integer childKey`{!language=jass}
 : 
 
-whichTrigger `trigger`
+`trigger whichTrigger`{!language=jass}
 : 

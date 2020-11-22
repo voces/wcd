@@ -14,8 +14,8 @@ native SetItemInvulnerable takes item whichItem, boolean flag returns nothing
 ```
 
 ## Parameters
-whichItem `item`
+`item whichItem`{!language=jass}
 : 
 
-flag `boolean`
+`boolean flag`{!language=jass}
 : 

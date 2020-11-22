@@ -14,8 +14,8 @@ native LeaderboardSetLabel takes leaderboard lb, string label returns nothing
 ```
 
 ## Parameters
-lb `leaderboard`
+`leaderboard lb`{!language=jass}
 : 
 
-label `string`
+`string label`{!language=jass}
 : 

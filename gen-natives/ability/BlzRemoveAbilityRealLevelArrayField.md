@@ -18,14 +18,14 @@ native BlzRemoveAbilityRealLevelArrayField takes ability whichAbility, abilityre
 ```
 
 ## Parameters
-whichAbility `ability`
+`ability whichAbility`{!language=jass}
 : 
 
-whichField `abilityreallevelarrayfield`
+`abilityreallevelarrayfield whichField`{!language=jass}
 : 
 
-level `integer`
+`integer level`{!language=jass}
 : 
 
-value `real`
+`real value`{!language=jass}
 : 

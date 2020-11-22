@@ -15,8 +15,8 @@ constant native IsLocationVisibleToPlayer takes location whichLocation, player w
 ```
 
 ## Parameters
-whichLocation `location`
+`location whichLocation`{!language=jass}
 : 
 
-whichPlayer `player`
+`player whichPlayer`{!language=jass}
 : 

@@ -15,8 +15,8 @@ native BlzSetSpecialEffectHeight takes effect whichEffect, real height returns n
 ```
 
 ## Parameters
-whichEffect `effect`
+`effect whichEffect`{!language=jass}
 : 
 
-height `real`
+`real height`{!language=jass}
 : 

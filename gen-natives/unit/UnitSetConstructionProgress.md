@@ -14,8 +14,8 @@ native UnitSetConstructionProgress takes unit whichUnit, integer constructionPer
 ```
 
 ## Parameters
-whichUnit `unit`
+`unit whichUnit`{!language=jass}
 : 
 
-constructionPercentage `integer`
+`integer constructionPercentage`{!language=jass}
 : 

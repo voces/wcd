@@ -14,8 +14,8 @@ native MultiboardSetItemValue takes multiboarditem mbi, string val returns nothi
 ```
 
 ## Parameters
-mbi `multiboarditem`
+`multiboarditem mbi`{!language=jass}
 : 
 
-val `string`
+`string val`{!language=jass}
 : 
