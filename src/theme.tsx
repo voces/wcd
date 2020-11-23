@@ -20,7 +20,7 @@ import { MarkdownContentContext } from "./contexts/LinkContext";
 import { deflistPlugin, deflistRenderers } from "./util/deflist";
 import { forceProps } from "./util/forceProps";
 import { partialReload } from "./util/partialReload";
-import { getTocBreadcrumbs, getTocNode, TocContext } from "./util/toc";
+import { getTocNode, TocContext } from "./util/toc";
 
 const markdownBody = document.querySelector("script.markdown")!;
 const initialMarkdownContents = markdownBody.innerHTML.trim();
@@ -43,7 +43,6 @@ const App = () => {
 		return () => window.removeEventListener("popstate", listener);
 	}, []);
 	const pathname = location.pathname;
-	const breadcrumbs = getTocBreadcrumbs(pathname);
 	return (
 		<div className="app">
 			<link rel="stylesheet" href="/wcd/assets/css/theme.css" />
@@ -52,9 +51,7 @@ const App = () => {
 					<SideBar setMarkdownContents={setMarkdownContents} />
 					<div className="main">
 						<SearchBar setMarkdownContents={setMarkdownContents} />
-						{breadcrumbs && (
-							<Breadcrumbs breadcrumbs={breadcrumbs} />
-						)}
+						<Breadcrumbs />
 						<Content>
 							<div className="markdown">
 								<ReactMarkdown
@@ -71,7 +68,7 @@ const App = () => {
 							</div>
 						</Content>
 						<ChildPages />
-						<EditOnGitHub pathname={pathname} />
+						<EditOnGitHub />
 					</div>
 				</TocContext.Provider>
 			</MarkdownContentContext.Provider>

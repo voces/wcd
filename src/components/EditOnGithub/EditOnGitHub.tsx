@@ -1,49 +1,35 @@
 import "./EditOnGitHub.scss";
 
-import React from "react";
+import React, { useContext } from "react";
 
-import { toc, TocNode } from "../../util/toc";
+import { normalizePath, TocContext } from "../../util/toc";
 
-const getTocNode = (path: string) => {
-	const parts = path.replace(/^\//, "").split("/");
-	let cur: TocNode | undefined = toc;
-	for (const part of parts) cur = cur?.children?.[part];
-	return cur;
-};
+const baseUrl = "https://github.com/voces/wcd";
 
-export const EditOnGitHub = ({
-	pathname,
-}: {
-	pathname: string;
-}): JSX.Element => {
-	const file = pathname.slice(4).replace(/\.html?$/, "");
-	const node = getTocNode(file);
+export const EditOnGitHub = (): JSX.Element => {
+	const node = useContext(TocContext);
+	const file = node?.file || normalizePath() || "index";
 
-	return (
-		<div className="edit-on-github">
-			{node ? (
-				node.title ? (
-					<a
-						href={`https://github.com/voces/wcd/edit/main${file}.md`}
-					>
-						Edit this page on GitHub
-					</a>
-				) : (
-					<a
-						href={`https://github.com/voces/wcd/new/main?filename=${file.slice(
-							1,
-						)}/index.md`}
-					>
-						Create this index page on GitHub
-					</a>
-				)
-			) : (
-				<a
-					href={`https://github.com/voces/wcd/new/main?filename=${file}.md`}
-				>
-					Create this page on GitHub
-				</a>
-			)}
-		</div>
-	);
+	let child: JSX.Element;
+
+	if (!node)
+		child = (
+			<a href={`${baseUrl}/new/main?filename=${file}.md`}>
+				Create this page on GitHub
+			</a>
+		);
+	else if (node.missing)
+		child = (
+			<a href={`${baseUrl}/new/main?filename=${file}/index.md`}>
+				Create this index page on GitHub
+			</a>
+		);
+	else
+		child = (
+			<a href={`${baseUrl}/edit/main/${file}.md`}>
+				Edit this page on GitHub
+			</a>
+		);
+
+	return <div className="edit-on-github">{child}</div>;
 };

@@ -41,10 +41,6 @@
     width: 75%;
     padding: 0 16px 0 0; } }
 
-.breadcrumbs {
-  margin-top: 8px;
-  font-size: 12px; }
-
 .child-pages {
   margin-top: 16px;
   border-top: 1px solid #eeebee;
@@ -104,6 +100,10 @@
     line-height: 20px; }
   .search-results .path {
     opacity: 0.75; }
+
+.breadcrumbs {
+  margin-top: 8px;
+  font-size: 12px; }
 
 .side-bar {
   padding: 0 16px;
