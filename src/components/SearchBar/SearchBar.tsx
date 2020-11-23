@@ -19,7 +19,10 @@ const SearchResults = ({
 	const onClick = useCallback(
 		async (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
 			e.preventDefault();
-			await partialReload(e.currentTarget.href, setMarkdownContents);
+			await partialReload(
+				e.currentTarget.getAttribute("href")!,
+				setMarkdownContents,
+			);
 			clearResults();
 		},
 		[],
@@ -28,9 +31,9 @@ const SearchResults = ({
 	return (
 		<ul className="search-results">
 			{items.slice(0, 100).map((item, idx, arr) => (
-				<li key={item.path} className="result">
+				<li key={`${item.path}-${idx}`} className="result">
 					<a
-						href={`/wcd/${item.path}`}
+						href={item.path}
 						className={
 							idx === 0
 								? "first"

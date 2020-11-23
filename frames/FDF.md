@@ -15,12 +15,12 @@ A single FDF can define many frames and/or many StringLists. FDFs can also impor
 ### IncludeFile
 
 #### Syntax:
-```
+```fdf
 IncludeFile "<path_to_file">,
 ```
 
 #### Example:
-```
+```fdf
 IncludeFile "UI\FrameDef\UI\EscMenuTemplates.fdf",
 ```
 
@@ -29,7 +29,7 @@ Paths are not case sensitive.
 ### StringList
 
 #### Syntax:
-```
+```fdf
 StringList {
     <key1> "<value1>",
     <key2> "<value2>",
@@ -37,7 +37,7 @@ StringList {
 ```
 
 #### Example:
-```
+```fdf
 StringList {
     minimap_signal_title "Minimap Signal",
     minimap_signal_description "This option will allow you to send a minimap signal notification to all your allies.
@@ -51,7 +51,7 @@ Alternatively, you can hold down Alt and left-click on the minimap or game world
 ### Frame
 
 #### Syntax:
-```
+```fdf
 Frame "<type>" "<name>" [INHERITS [WITHCHILDREN] "<base_name>"] {
   <action1>, <arg1>,
   Frame "BACKDROP" "FrameNameB" {
@@ -61,7 +61,7 @@ Frame "<type>" "<name>" [INHERITS [WITHCHILDREN] "<base_name>"] {
 ```
 
 #### Example:
-```
+```fdf
 Frame "FRAME" "MyButtonF" {
     Width 0.1,
     Height 0.1,
@@ -76,6 +76,6 @@ Frame "FRAME" "MyButtonF" {
 ```
 
 Frames can be deeply nested, but only the main frame can be created by natives:
-```
+```jass
 call BlzCreateFrame("MyButtonF", BlzGetOriginFrame(ORIGIN_FRAME_GAME_UI, 0), 0, 0)
 ```

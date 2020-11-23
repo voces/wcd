@@ -2,6 +2,7 @@ import "./Nav.scss";
 
 import React, { useCallback, useReducer } from "react";
 
+import { Link } from "../../contexts/LinkContext";
 import { partialReload } from "../../util/partialReload";
 import { toc, TocNode } from "../../util/toc";
 
@@ -28,15 +29,7 @@ const Node = ({
 				const fullpath = `${path}/${key}`;
 				return (
 					<li key={key}>
-						<a
-							href={`/wcd${fullpath}`}
-							onClick={(e) => {
-								e.preventDefault();
-								onNavChange(e.currentTarget.href);
-							}}
-						>
-							{value.title ?? key}
-						</a>
+						<Link tocNode={value}>{value.title ?? key}</Link>
 						{value.children && route.startsWith(fullpath) && (
 							<Node
 								node={value}

@@ -19,30 +19,31 @@ export const EditOnGitHub = ({
 	const file = pathname.slice(4).replace(/\.html?$/, "");
 	const node = getTocNode(file);
 
-	return node ? (
-		node.title ? (
-			<a
-				className="edit-on-github"
-				href={`https://github.com/voces/wcd/edit/main${file}.md`}
-			>
-				Edit this page on GitHub
-			</a>
-		) : (
-			<a
-				className="edit-on-github"
-				href={`https://github.com/voces/wcd/new/main?filename=${file.slice(
-					1,
-				)}/index.md`}
-			>
-				Create this index page on GitHub
-			</a>
-		)
-	) : (
-		<a
-			className="edit-on-github"
-			href={`https://github.com/voces/wcd/new/main?filename=${file}.md`}
-		>
-			Create this page on GitHub
-		</a>
+	return (
+		<div className="edit-on-github">
+			{node ? (
+				node.title ? (
+					<a
+						href={`https://github.com/voces/wcd/edit/main${file}.md`}
+					>
+						Edit this page on GitHub
+					</a>
+				) : (
+					<a
+						href={`https://github.com/voces/wcd/new/main?filename=${file.slice(
+							1,
+						)}/index.md`}
+					>
+						Create this index page on GitHub
+					</a>
+				)
+			) : (
+				<a
+					href={`https://github.com/voces/wcd/new/main?filename=${file}.md`}
+				>
+					Create this page on GitHub
+				</a>
+			)}
+		</div>
 	);
 };

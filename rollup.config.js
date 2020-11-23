@@ -28,33 +28,13 @@ export default {
 			extensions,
 			exclude: /node_modules/,
 			babelrc: false,
-			// babelHelpers: "bundled",
 			babelHelpers: "runtime",
 			presets: [
 				"@babel/preset-env",
 				"@babel/preset-react",
 				"@babel/preset-typescript",
 			],
-			plugins: [
-				// "react-require",
-				// "@babel/plugin-syntax-dynamic-import",
-				// "@babel/plugin-proposal-class-properties",
-				// [
-				// 	"@babel/plugin-proposal-object-rest-spread",
-				// 	{
-				// 		useBuiltIns: true,
-				// 	},
-				// ],
-				[
-					"@babel/plugin-transform-runtime",
-					// {
-					// 	corejs: 3,
-					// 	helpers: true,
-					// 	regenerator: true,
-					// 	useESModules: false,
-					// },
-				],
-			],
+			plugins: ["@babel/plugin-transform-runtime"],
 		}),
 		scss({ output: "assets/css/theme.css" }),
 		isProd && terser(),

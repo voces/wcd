@@ -1,6 +1,7 @@
 .side-bar {
     padding: 0 16px;
     margin-left: auto;
+    display: none;
 
     header {
         margin-left: auto;
@@ -12,5 +13,11 @@
 
     & > ul {
         padding: 12px 0;
+    }
+}
+
+@media (min-width: 576px) {
+    .side-bar {
+        display: block;
     }
 }

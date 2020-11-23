@@ -1,8 +1,8 @@
 .search-bar {
-    // height: 60px;
     border-bottom: 1px solid #eeebee;
     display: flex;
     align-items: center;
+    position: relative;
 
     label {
         padding: 21px 0 21px 16px;
@@ -30,6 +30,7 @@
     max-height: calc(90vh - 61px);
     overflow-y: scroll;
     width: 600px;
+    max-width: 100%;
     top: 61px;
     background-color: white;
     box-shadow: -5px 5px 5px rgba(0,0,0,0.3), 5px 5px 5px rgba(0,0,0,0.3);

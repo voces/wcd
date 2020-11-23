@@ -1,0 +1,10 @@
+.child-pages {
+    margin-top: 16px;
+    border-top: 1px solid #eeebee;
+    padding-top: 16px;
+
+    ul {
+        margin-left: 16px;
+        &.long { column-width: 250px; }
+    }
+}

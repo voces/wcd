@@ -7,6 +7,8 @@ import ReactDOM from "react-dom";
 import ReactMarkdown from "react-markdown/react-markdown.min.js";
 import gfm from "remark-gfm";
 
+import { Breadcrumbs } from "./components/Breadcrumbs/Breadcrumbs";
+import { ChildPages } from "./components/ChildPages/ChildPages";
 import { EditOnGitHub } from "./components/EditOnGithub/EditOnGitHub";
 import { SearchBar } from "./components/SearchBar/SearchBar";
 import { SideBar } from "./components/SideBar/SideBar";
@@ -14,8 +16,10 @@ import {
 	InlineSyntaxHighlighter,
 	SyntaxHighlighter,
 } from "./components/SyntaxHighlighter";
+import { MarkdownContentContext } from "./contexts/LinkContext";
 import { deflistPlugin, deflistRenderers } from "./util/deflist";
 import { forceProps } from "./util/forceProps";
+import { getTocBreadcrumbs, getTocNode, TocContext } from "./util/toc";
 
 const markdownBody = document.querySelector("div.markdown")!;
 const initialMarkdownContents = markdownBody.innerHTML.trim();
@@ -30,29 +34,38 @@ const App = () => {
 		initialMarkdownContents,
 	);
 	const pathname = location.pathname;
+	const breadcrumbs = getTocBreadcrumbs(pathname);
 	return (
-		<div className="flex">
+		<div className="app">
 			<link rel="stylesheet" href="/wcd/assets/css/theme.css" />
-			<SideBar setMarkdownContents={setMarkdownContents} />
-			<div className="main">
-				<SearchBar setMarkdownContents={setMarkdownContents} />
-				<Content>
-					<div className="markdown">
-						<ReactMarkdown
-							plugins={[forceProps, deflistPlugin, gfm]}
-							allowDangerousHtml
-							renderers={{
-								...deflistRenderers,
-								code: SyntaxHighlighter,
-								inlineCode: InlineSyntaxHighlighter,
-							}}
-						>
-							{markdownContents}
-						</ReactMarkdown>
+			<MarkdownContentContext.Provider value={setMarkdownContents}>
+				<TocContext.Provider value={getTocNode(pathname)}>
+					<SideBar setMarkdownContents={setMarkdownContents} />
+					<div className="main">
+						<SearchBar setMarkdownContents={setMarkdownContents} />
+						{breadcrumbs && (
+							<Breadcrumbs breadcrumbs={breadcrumbs} />
+						)}
+						<Content>
+							<div className="markdown">
+								<ReactMarkdown
+									plugins={[forceProps, deflistPlugin, gfm]}
+									allowDangerousHtml
+									renderers={{
+										...deflistRenderers,
+										code: SyntaxHighlighter,
+										inlineCode: InlineSyntaxHighlighter,
+									}}
+								>
+									{markdownContents}
+								</ReactMarkdown>
+							</div>
+						</Content>
+						<ChildPages />
+						<EditOnGitHub pathname={pathname} />
 					</div>
-				</Content>
-				<EditOnGitHub pathname={pathname} />
-			</div>
+				</TocContext.Provider>
+			</MarkdownContentContext.Provider>
 		</div>
 	);
 };
