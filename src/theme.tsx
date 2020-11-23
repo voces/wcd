@@ -26,14 +26,18 @@ const markdownBody = document.querySelector("script.markdown")!;
 const initialMarkdownContents = markdownBody.innerHTML.trim();
 markdownBody.remove();
 
-const Content = ({ children }: { children: React.ReactNode }): JSX.Element => (
-	<div>{children}</div>
-);
+const MarkdownContainer = ({
+	children,
+}: {
+	children: React.ReactNode;
+}): JSX.Element => <div className="markdown">{children}</div>;
 
 const App = () => {
 	const [markdownContents, setMarkdownContents] = useState(
 		initialMarkdownContents,
 	);
+
+	// Partial loading on back
 	useEffect(() => {
 		const listener = () => {
 			const node = getTocNode(window.location.pathname);
@@ -42,31 +46,29 @@ const App = () => {
 		window.addEventListener("popstate", listener);
 		return () => window.removeEventListener("popstate", listener);
 	}, []);
-	const pathname = location.pathname;
+
 	return (
 		<div className="app">
 			<link rel="stylesheet" href="/wcd/assets/css/theme.css" />
 			<MarkdownContentContext.Provider value={setMarkdownContents}>
-				<TocContext.Provider value={getTocNode(pathname)}>
+				<TocContext.Provider value={getTocNode(location.pathname)}>
 					<SideBar setMarkdownContents={setMarkdownContents} />
 					<div className="main">
 						<SearchBar setMarkdownContents={setMarkdownContents} />
 						<Breadcrumbs />
-						<Content>
-							<div className="markdown">
-								<ReactMarkdown
-									plugins={[forceProps, deflistPlugin, gfm]}
-									allowDangerousHtml
-									renderers={{
-										...deflistRenderers,
-										code: SyntaxHighlighter,
-										inlineCode: InlineSyntaxHighlighter,
-									}}
-								>
-									{markdownContents}
-								</ReactMarkdown>
-							</div>
-						</Content>
+						<MarkdownContainer>
+							<ReactMarkdown
+								plugins={[forceProps, deflistPlugin, gfm]}
+								allowDangerousHtml
+								renderers={{
+									...deflistRenderers,
+									code: SyntaxHighlighter,
+									inlineCode: InlineSyntaxHighlighter,
+								}}
+							>
+								{markdownContents}
+							</ReactMarkdown>
+						</MarkdownContainer>
 						<ChildPages />
 						<EditOnGitHub />
 					</div>

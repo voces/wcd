@@ -41,6 +41,10 @@
     width: 75%;
     padding: 0 16px 0 0; } }
 
+.breadcrumbs {
+  margin-top: 8px;
+  font-size: 12px; }
+
 .child-pages {
   margin-top: 16px;
   border-top: 1px solid #eeebee;
@@ -50,13 +54,22 @@
     .child-pages ul.long {
       column-width: 250px; }
 
-.edit-on-github {
-  display: block;
-  margin-top: 16px;
-  border-top: 1px solid #eeebee;
-  padding-top: 16px; }
-  .edit-on-github a {
-    font-size: 12px; }
+.side-bar {
+  padding: 0 16px;
+  margin-left: auto;
+  display: none; }
+  .side-bar header {
+    margin-left: auto;
+    padding: 16px 0;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eeebee; }
+  .side-bar > ul {
+    padding: 12px 0; }
+
+@media (min-width: 576px) {
+  .side-bar {
+    display: block; } }
 
 .search-bar {
   border-bottom: 1px solid #eeebee;
@@ -101,26 +114,13 @@
   .search-results .path {
     opacity: 0.75; }
 
-.breadcrumbs {
-  margin-top: 8px;
-  font-size: 12px; }
-
-.side-bar {
-  padding: 0 16px;
-  margin-left: auto;
-  display: none; }
-  .side-bar header {
-    margin-left: auto;
-    padding: 16px 0;
-    display: flex;
-    align-items: center;
-    border-bottom: 1px solid #eeebee; }
-  .side-bar > ul {
-    padding: 12px 0; }
-
-@media (min-width: 576px) {
-  .side-bar {
-    display: block; } }
+.edit-on-github {
+  display: block;
+  margin-top: 16px;
+  border-top: 1px solid #eeebee;
+  padding-top: 16px; }
+  .edit-on-github a {
+    font-size: 12px; }
 
 .nav {
   max-height: calc(100vh - 61px);
