@@ -54,6 +54,14 @@
     .child-pages ul.long {
       column-width: 250px; }
 
+.edit-on-github {
+  display: block;
+  margin-top: 16px;
+  border-top: 1px solid #eeebee;
+  padding-top: 16px; }
+  .edit-on-github a {
+    font-size: 12px; }
+
 .search-bar {
   border-bottom: 1px solid #eeebee;
   display: flex;
@@ -96,14 +104,6 @@
     line-height: 20px; }
   .search-results .path {
     opacity: 0.75; }
-
-.edit-on-github {
-  display: block;
-  margin-top: 16px;
-  border-top: 1px solid #eeebee;
-  padding-top: 16px; }
-  .edit-on-github a {
-    font-size: 12px; }
 
 .side-bar {
   padding: 0 16px;

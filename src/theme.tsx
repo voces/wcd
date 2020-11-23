@@ -1,6 +1,6 @@
 import "./theme.scss";
 
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import ReactDOM from "react-dom";
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore: Naked imports break rollup
@@ -19,9 +19,10 @@ import {
 import { MarkdownContentContext } from "./contexts/LinkContext";
 import { deflistPlugin, deflistRenderers } from "./util/deflist";
 import { forceProps } from "./util/forceProps";
+import { partialReload } from "./util/partialReload";
 import { getTocBreadcrumbs, getTocNode, TocContext } from "./util/toc";
 
-const markdownBody = document.querySelector("div.markdown")!;
+const markdownBody = document.querySelector("script.markdown")!;
 const initialMarkdownContents = markdownBody.innerHTML.trim();
 markdownBody.remove();
 
@@ -33,6 +34,14 @@ const App = () => {
 	const [markdownContents, setMarkdownContents] = useState(
 		initialMarkdownContents,
 	);
+	useEffect(() => {
+		const listener = () => {
+			const node = getTocNode(window.location.pathname);
+			if (node) partialReload(node, setMarkdownContents);
+		};
+		window.addEventListener("popstate", listener);
+		return () => window.removeEventListener("popstate", listener);
+	}, []);
 	const pathname = location.pathname;
 	const breadcrumbs = getTocBreadcrumbs(pathname);
 	return (
